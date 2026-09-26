@@ -96,11 +96,22 @@ jobs:
       - name: tvbox接口解密更新
         run: python python/tvbox_get_api.py
 
-      # ========== 9. 提交变更到当前仓库 ==========
+      # ========== 9. 提交变更到当前仓库（排除 python、data 目录）==========
       - name: 提交变更 🚀
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "更新接口数据 [skip ci]" || echo "没有变更可提交"
-          git push
+
+          # 先把所有变更加入暂存区
+          git add -A
+
+          # 再把 python、data 目录从暂存区移除（不提交它们）
+          git reset -- python data
+
+          # 如果还有其他变更则提交，否则提示无变更
+          if git diff --cached --quiet; then
+            echo "没有变更可提交（除 python、data 外）"
+          else
+            git commit -m "更新接口数据 [skip ci]"
+            git push
+          fi
