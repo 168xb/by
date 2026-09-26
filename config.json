@@ -270,7 +270,7 @@
     }
   },
   "bookSource": {
-    "title": "📚 书源收集",
+    "title": "📚 书源",
     "description": "共 7 组书源。使用方法：阅读3.0（Legado）→ 我的 → 书源管理 → 右上角菜单 → 网络导入 → 粘贴地址 → 确定。",
     "items": [
       { "name": "【新手必备】2159个综合书源", "tag": "导入", "url": "https://gcore.jsdelivr.net/gh/yuedu520/yuedu/250422.json", "badge": "2159 个源", "note": "强烈推荐首次使用" },
@@ -283,7 +283,7 @@
     ]
   },
   "comicSource": {
-    "title": "📖 漫画源收集",
+    "title": "📖 漫画源",
     "description": "漫画书源已在书源列表中包含（第6项），如需单独管理可在此扩展。",
     "items": [
       { "name": "【漫画党福音】83个精品漫画书源", "tag": "导入", "url": "https://gcore.jsdelivr.net/gh/yuedu520/yuedu/250424.json", "badge": "83 个源", "note": "" }
