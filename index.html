@@ -739,9 +739,9 @@ async function loadConfig() {
       if (SITE_CONFIG.site.subtitle || SITE_CONFIG.site.qqGroup) {
         let sub = SITE_CONFIG.site.subtitle || '备用数据源，防屏不迷路';
         if (SITE_CONFIG.site.qqGroup) {
-          sub += '<br>QQ交流群：' + SITE_CONFIG.site.qqGroup;
+          sub += '<br>口号：' + SITE_CONFIG.site.qqGroup;
         } else {
-          sub += '<br>QQ交流群：1067685939';
+          sub += '<br>口号：再不用担心数据丢失';
         }
         headerSubtitle.innerHTML = sub;
       }
