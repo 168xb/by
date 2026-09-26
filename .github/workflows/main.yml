@@ -40,13 +40,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests urllib3
 
-      # ========== 4. 从私库复制 data、python 目录 ==========
-      - name: 从私库复制指定目录 📦
+      # ========== 4. 从私库复制 data、python vip目录及 config.json、data.json ==========
+      - name: 从私库复制指定目录和文件 📦
         run: |
           set -e
 
           # ✅ 需要从私库复制的目录列表
-          COPY_DIRS="data python"
+          COPY_DIRS="data python vip"
+
+          # ✅ 需要从私库复制的文件列表
+          COPY_FILES="config.json data.json"
 
           echo "开始克隆私有仓库 ${PRIVATE_REPO} (branch: ${PRIVATE_BRANCH}) ..."
           git clone --depth 1 --branch "${PRIVATE_BRANCH}" \
@@ -61,6 +64,14 @@ jobs:
             fi
           done
 
+          # 校验目标文件是否存在
+          for f in $COPY_FILES; do
+            if [ ! -f "/tmp/private-repo/$f" ]; then
+              echo "错误: 私库中不存在 $f 文件"
+              exit 1
+            fi
+          done
+
           # 逐个复制目录内的全部文件到工作目录
           for d in $COPY_DIRS; do
             echo "复制 $d -> ${{ github.workspace }}/$d"
@@ -68,7 +79,13 @@ jobs:
             cp -r /tmp/private-repo/$d/. "${{ github.workspace }}/$d/"
           done
 
-          echo "指定目录全部脚本已复制到工作目录"
+          # 逐个复制文件到工作目录
+          for f in $COPY_FILES; do
+            echo "复制 $f -> ${{ github.workspace }}/$f"
+            cp -f "/tmp/private-repo/$f" "${{ github.workspace }}/$f"
+          done
+
+          echo "指定目录和文件已全部复制到工作目录"
           rm -rf /tmp/private-repo
 
       # ========== 5. 创建必要目录 ==========
