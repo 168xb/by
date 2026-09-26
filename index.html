@@ -634,17 +634,9 @@ const navTabs = document.getElementById('navTabs');
 const headerLogo = document.getElementById('header-logo');
 const headerSubtitle = document.getElementById('header-subtitle');
 
-const API_DOMAINS = [
-  {tag:"备份一线", base:"https://0.12yue.de5.net/tvbox/"},
-  {tag:"备份二线", base:"https://0.cdz.qzz.io/tvbox/"},
-  {tag:"备份三线", base:"https://0.wdzb.eu.cc/tvbox/"}
-];
-
-const LIVE_DOMAINS = [
-  {tag:"备份一线", base:"https://0.12yue.de5.net/tvbox/live/"},
-  {tag:"备份二线", base:"https://0.cdz.qzz.io/tvbox/live/"},
-  {tag:"备份三线", base:"https://0.wdzb.eu.cc/tvbox/live/"}
-];
+/* ---------- 修复点：domains 改为从 config 动态获取，不再硬编码 ---------- */
+let API_DOMAINS = [];
+let LIVE_DOMAINS = [];
 
 const API_WEIGHTS = {
   "轮替占位.json":1,"神马都没有.json":2,"饭太硬.json":4,"肥猫已死.json":5,
@@ -720,6 +712,15 @@ async function loadConfig() {
     if(!res.ok) throw new Error('HTTP '+res.status);
     SITE_CONFIG = await res.json();
     configData = SITE_CONFIG; // 同步给 k.html 的更多面板用
+
+    /* ---------- 修复点：从 config 读取 api.domains / live.domains ---------- */
+    if (Array.isArray(SITE_CONFIG.api && SITE_CONFIG.api.domains)) {
+      API_DOMAINS = SITE_CONFIG.api.domains;
+    }
+    if (Array.isArray(SITE_CONFIG.live && SITE_CONFIG.live.domains)) {
+      LIVE_DOMAINS = SITE_CONFIG.live.domains;
+    }
+
     DOWNLOAD_SOURCES = Array.isArray(SITE_CONFIG.downloadSources) ? SITE_CONFIG.downloadSources : [];
     renderContributors(SITE_CONFIG.about && SITE_CONFIG.about.contributors);
 
@@ -1015,8 +1016,9 @@ function parseItems(text) {
     return {file:p[0],name:p[0].replace(/\.json$/i,''),date:p[1]||'',size:p[2]||'',origUrl:p[3]||'',weight:API_WEIGHTS.hasOwnProperty(p[0])?API_WEIGHTS[p[0]]:999};
   }).filter(Boolean);
 }
-function renderApi() {
+async function renderApi() {
   const container = document.getElementById('listContainer');
+  try { await loadConfig(); } catch(_) {}
   fetchListText().then(text=>{
     const tip=document.getElementById('apiLoading'); if(tip) tip.style.display='none';
     let items=parseItems(text);
@@ -1028,6 +1030,7 @@ function renderApi() {
     items.forEach(it=>{
       const isNew=isRecent(it.date); let lines='';
       if(it.origUrl) lines+=`<div class="url-line"><span class="url-tag">原始线路</span><span class="url-text">${it.origUrl}</span><button class="copy-btn" data-url="${it.origUrl}">复制</button></div>`;
+      /* ---------- 修复点：使用 config 中的 API_DOMAINS ---------- */
       API_DOMAINS.forEach(d=>{const u=d.base+it.name+'.json';lines+=`<div class="url-line"><span class="url-tag">${d.tag}</span><span class="url-text">${u}</span><button class="copy-btn" data-url="${u}">复制</button></div>`;});
       html+=`<div class="api-item" data-name="${it.name.toLowerCase()}"><div class="api-item-header"><div class="api-item-name" title="${it.name}">${it.name}</div><div class="api-item-meta"><span class="${isNew?'badge-new':'badge-old'}">备份时间 ${formatDateToChinese(it.date)}</span>${it.size?'&nbsp;&nbsp;'+it.size:''}</div></div><div class="api-item-urls">${lines}</div></div>`;
     });
@@ -1052,8 +1055,9 @@ function parseLiveItems(text) {
     return {name:p[0]||'',displayName:p[0].replace(/\.[^.]+$/,'') ,date:p[1]||'',size:p[2]||'',origUrl:p[3]||'',source:p[4]||'',ua:p[5]||''};
   }).filter(Boolean);
 }
-function renderLiveList() {
+async function renderLiveList() {
   const container=document.getElementById('liveListContainer'); const loading=document.getElementById('liveLoading');
+  try { await loadConfig(); } catch(_) {}
   fetchLiveText().then(text=>{
     if(loading) loading.style.display='none';
     const items=parseLiveItems(text);
@@ -1062,6 +1066,7 @@ function renderLiveList() {
     items.forEach(it=>{
       const isNew=isRecent(it.date); let urls='';
       if(it.origUrl) urls+=`<div class="live-url-line"><div class="live-info-inline"><span>来源：${it.source||'未知'}</span>${it.ua?'<span class="sep">|</span><span>UA：'+it.ua+'</span>':''}</div><div class="live-url-body"><span class="live-url-tag">原始线路</span><span class="live-url-text">${it.origUrl}</span><button class="copy-btn" data-url="${it.origUrl}">复制</button></div></div>`;
+      /* ---------- 修复点：使用 config 中的 LIVE_DOMAINS ---------- */
       LIVE_DOMAINS.forEach(d=>{const u=d.base+it.name;urls+=`<div class="live-url-line"><div class="live-url-body"><span class="live-url-tag">${d.tag}</span><span class="live-url-text">${u}</span><button class="copy-btn" data-url="${u}">复制</button></div></div>`;});
       html+=`<div class="live-item" data-name="${it.displayName.toLowerCase()}"><div class="live-item-header"><div class="live-item-name" title="${it.displayName}">${it.displayName}</div><div class="live-item-meta"><span class="${isNew?'live-badge-new':'live-badge-old'}">备份时间 ${formatDateToChinese(it.date)}</span>${it.size?'&nbsp;&nbsp;'+it.size:''}</div></div><div class="live-item-urls">${urls}</div></div>`;
     });
