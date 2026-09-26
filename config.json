@@ -215,7 +215,7 @@
     "description": "共 20 个音源（已去重，原为 21 个），点击「复制」后打开洛雪音乐 → 设置 → 自定义音源 → 粘贴地址导入并启用。",
     "items": [
       { "name": "FreeListen 1.1.2(原小熊猫)", "tag": "音源", "url": "https://tvbox.moliys.icu/yinyuan/FreeListen 1.1.2(原小熊猫).js", "badge": "18.2 KB", "note": "" },
-      { "name": "FreeListen", "tag": "音源", "url": "https://tvbox.moliys.icu/yinyuan/FreeListen.js", "badge": "18.2 KB", "note": "" },
+      { "name": "裤佬音源", "tag": "音源", "url": "https://seep.eu.org/https://dogpan.com/f/KOyDi4/裤佬SVIP音源.js", "badge": "18.2 KB", "note": "" },
       { "name": "IKUN音源", "tag": "音源", "url": "https://tvbox.moliys.icu/yinyuan/IKUN音源.js", "badge": "4.5 KB", "note": "" },
       { "name": "[独家音源] v4.0", "tag": "音源", "url": "https://tvbox.moliys.icu/yinyuan/[独家音源] v4.0.js", "badge": "112.1 KB", "note": "" },
       { "name": "filenamefish-music音源", "tag": "音源", "url": "https://tvbox.moliys.icu/yinyuan/filenamefish-music音源.js", "badge": "9.8 KB", "note": "" },
