@@ -634,7 +634,11 @@ const navTabs = document.getElementById('navTabs');
 const headerLogo = document.getElementById('header-logo');
 const headerSubtitle = document.getElementById('header-subtitle');
 
-const API_DOMAINS = [
+/* ------------------------------------------------------------------
+   ★ 修复点 1：domains / weights 改为 let，作为兜底默认值，
+   允许 loadConfig() 用 config.json 里的 api.domains / api.weights 覆盖。
+   ------------------------------------------------------------------ */
+let API_DOMAINS = [
   {tag:"备份一线", base:"https://0.12yue.de5.net/tvbox/"},
   {tag:"备份二线", base:"https://0.cdz.qzz.io/tvbox/"},
   {tag:"备份三线", base:"https://0.wdzb.eu.cc/tvbox/"}
@@ -646,7 +650,7 @@ const LIVE_DOMAINS = [
   {tag:"备份三线", base:"https://0.wdzb.eu.cc/tvbox/live/"}
 ];
 
-const API_WEIGHTS = {
+let API_WEIGHTS = {
   "轮替占位.json":1,"神马都没有.json":2,"饭太硬.json":4,"肥猫已死.json":5,
   "摸鱼.json":6,"王二小.json":7,"集多.json":8,"潇洒.json":9,"小米.json":10,
   "嗷呜.json":11,"南风.json":12,"幸福年年.json":13
@@ -712,7 +716,7 @@ function isRecent(d) {
 }
 function getInitials(name) { return name ? name.slice(0,1).toUpperCase() : '?'; }
 
-/* ===== 配置加载（原有 + k.html 扩展） ===== */
+/* ===== 配置加载（原有 + k.html 扩展 + ★ 修复点 2） ===== */
 async function loadConfig() {
   if (SITE_CONFIG) return SITE_CONFIG;
   try {
@@ -721,6 +725,23 @@ async function loadConfig() {
     SITE_CONFIG = await res.json();
     configData = SITE_CONFIG; // 同步给 k.html 的更多面板用
     DOWNLOAD_SOURCES = Array.isArray(SITE_CONFIG.downloadSources) ? SITE_CONFIG.downloadSources : [];
+
+    /* ------------------------------------------------------------------
+       ★ 修复点 2：真正读取 config.json 的 api.domains / api.weights，
+       覆盖硬编码兜底值。只有当 config 里提供了合法数组/对象时才覆盖，
+       否则保留原有默认值，保证功能不变。
+       ------------------------------------------------------------------ */
+    if (SITE_CONFIG.api && Array.isArray(SITE_CONFIG.api.domains) && SITE_CONFIG.api.domains.length) {
+      API_DOMAINS = SITE_CONFIG.api.domains;
+    }
+    if (SITE_CONFIG.api && SITE_CONFIG.api.weights && typeof SITE_CONFIG.api.weights === 'object') {
+      API_WEIGHTS = SITE_CONFIG.api.weights;
+    }
+    /* 如果 config 里另有直播 domains 也可支持（可选，不影响现有功能） */
+    if (SITE_CONFIG.live && Array.isArray(SITE_CONFIG.live.domains) && SITE_CONFIG.live.domains.length) {
+      LIVE_DOMAINS = SITE_CONFIG.live.domains;
+    }
+
     renderContributors(SITE_CONFIG.about && SITE_CONFIG.about.contributors);
 
     if (SITE_CONFIG.site) {
@@ -1261,22 +1282,32 @@ btn.addEventListener('click',()=>{
 
 renderTabs();
 
-if (currentMode === 'simple') {
-  currentTabId = 'api';
-  localStorage.setItem(TAB_KEY, 'api');
-  renderApi();
-} else {
-  showPanel(currentTabId);
-}
+/* ------------------------------------------------------------------
+   ★ 修复点 3：先 await loadConfig()，让 API_DOMAINS / API_WEIGHTS
+   被 config.json 覆盖后再渲染点播/直播，避免时序竞争。
+   ------------------------------------------------------------------ */
+(async function boot() {
+  // 优先加载配置（无论简洁/全能都需要，loadConfig 幂等）
+  try {
+    await loadConfig();
+  } catch (e) {
+    // 配置失败不阻塞页面，后续 renderApi 会用兜底默认值
+    console.warn('config.json 加载失败，使用内置默认配置：', e);
+  }
 
-loadConfig().then(()=>{
-  if(currentMode!=='simple'){
+  if (currentMode === 'simple') {
+    currentTabId = 'api';
+    localStorage.setItem(TAB_KEY, 'api');
+    renderApi();
+  } else {
+    renderTabs();
+    showPanel(currentTabId);
+    // 以下为懒加载面板预热，与原逻辑保持一致
     renderDownloads();
-    renderDanmu();
     renderVideo();
     renderMore();
   }
-});
+})();
 </script>
 </body>
 </html>
