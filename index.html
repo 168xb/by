@@ -959,12 +959,15 @@ async function renderMore() {
     </button>`
   ).join('\n');
 
-  // 自动映射：优先独立字段，兜底 sourceGroups
+  // 自动映射：优先独立字段，其次 kebab→camel 归一化，最后兜底 sourceGroups
+  const toCamel = s => s.replace(/-([a-z])/g, (_, c) => c.toUpperCase());
   const panelMap = {};
   tabs.forEach(t => {
-    panelMap[t.id] = cfg[t.id] !== undefined
-      ? cfg[t.id]
-      : (cfg.sourceGroups && cfg.sourceGroups[t.id] !== undefined)
+    const camel = toCamel(t.id);
+    panelMap[t.id] =
+      cfg[t.id]  !== undefined ? cfg[t.id]  :
+      cfg[camel] !== undefined ? cfg[camel] :
+      (cfg.sourceGroups && cfg.sourceGroups[t.id] !== undefined)
         ? cfg.sourceGroups[t.id]
         : null;
   });
