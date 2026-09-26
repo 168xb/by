@@ -48,7 +48,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # ========== 4. 从私库复制全部文件 ==========
+      # ========== 4. 从私库复制全部文件（排除 .git）==========
       - name: 从私库复制全部文件 📦
         run: |
           set -e
@@ -60,14 +60,30 @@ jobs:
           echo "私库根目录内容:"
           ls -la /tmp/private-repo
 
-          # 复制私库全部文件到工作目录（覆盖同名文件）
-          cp -r /tmp/private-repo/. ${{ github.workspace }}/
+          # 复制私库全部文件到工作目录（覆盖同名文件），但排除 .git
+          # 使用 rsync 精确排除 .git，避免污染当前仓库
+          rsync -a --exclude='.git' /tmp/private-repo/ ${{ github.workspace }}/
 
-          # 清理私库克隆残留的 .git，避免污染当前仓库
-          rm -rf ${{ github.workspace }}/.git/modules 2>/dev/null || true
+          # 清理私库克隆
           rm -rf /tmp/private-repo
 
-          echo "私库全部文件已复制到工作目录"
+          echo "私库全部文件已复制到工作目录（已排除 .git）"
+
+      # ========== 4.1 校验当前仓库 .git 完好 ==========
+      - name: 校验当前仓库 .git 未被污染 ✅
+        run: |
+          set -e
+          echo "当前 remote:"
+          git remote -v
+
+          CURRENT_REMOTE="$(git remote get-url origin)"
+          echo "origin url = ${CURRENT_REMOTE}"
+
+          if echo "${CURRENT_REMOTE}" | grep -q "${PRIVATE_REPO}"; then
+            echo "错误: 当前仓库的 origin 被私库污染了！"
+            exit 1
+          fi
+          echo "校验通过: origin 仍指向当前仓库"
 
       # ========== 5. 确保目录结构存在 ==========
       - name: 确保目录结构存在 🗂️
