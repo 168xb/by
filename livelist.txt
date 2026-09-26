@@ -4,6 +4,7 @@
 很少.txt|20260926|2.2K|https://mpimg.cn/down.php/fa04b02ffac54ac877f5250d3d70e494.txt|哈吉米|null|
 yuan.txt|20260926|133.7K|http://wangziduoqing.com/yuan/zb.txt|哈吉米|null|
 应该能看.txt|20260926|194.4K|https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt|哈吉米|null|
+尘墨.php|20260926|11.7K|https://52xiaobai.cn/ceshi/zb.php|哈吉米|null|
 电信.m3u|20260926|21.4K|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|周J|okhttp/3.15|
 Kimentanm.m3u|20260926|21.4K|https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬3线|null|
 综合直播.php|20260926|41.9K|http://193.123.86.190:14888/TV/iptv.php|饭太硬3线|bingcha/1.1 (mianfeifenxiang)|
@@ -24,7 +25,7 @@ B站直播.m3u|20260926|173.2K|https://sub.ottiptv.cc/bililive.m3u|嗷呜3线|ok
 suxuang.m3u|20260926|262.3K|https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u|clun|null|
 Guovin1线.m3u|20260926|387.1K|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u|clun|null|
 mlzlzj.m3u|20260926|504.3K|https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u|clun|null|
-gambiarras.m3u|20260926|171.4K|https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u|clun|null|
+gambiarras.m3u|20260926|159.8K|https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u|clun|null|
 Kimentanm2线.m3u|20260926|21.4K|https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|东篱|null|
 日后.nzk|20260926|116.6K|http://rihou.cc:555/gggg.nzk|东篱|okhttp/3|
 develop202.txt|20260926|469B|https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|东篱|null|
@@ -37,5 +38,9 @@ Kimentanm3线.m3u|20260926|21.4K|https://ghfast.top/https://raw.githubuserconten
 综合直播2线.txt|20260926|469B|https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|王二小3线|bingcha/1.1 (mianfeifenxiang)|
 Yoursmile.txt|20260926|114.3K|https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt|南风|okhttp/3.15|
 线路.nzk|20260926|116.6K|http://rihou.cc:567/gggg.nzk|星微Vip|okhttp/3|
+线路.txt|20260926|469B|https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|星微Vip|okHttp/Mod-1.1.0|
+FMMIPV6.txt|20260926|14.9K|https://m3u.ibert.me/txt/fmml_ipv6.txt|高天流云_XYQ|null|
+电信.m3u|20260926|21.4K|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|周J|okhttp/3.15|
+范明明需开启V6网络.m3u|20260926|12.5K|https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u|饭太硬3线|null|
 线路.txt|20260926|469B|https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|星微Vip|okHttp/Mod-1.1.0|
 FMMIPV6.txt|20260926|14.9K|https://m3u.ibert.me/txt/fmml_ipv6.txt|高天流云_XYQ|null|
