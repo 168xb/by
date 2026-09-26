@@ -14,8 +14,8 @@ permissions:
 
 jobs:
   update-interfaces:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
 
     env:
       PRIVATE_REPO: '168xb/jkby'
@@ -23,7 +23,7 @@ jobs:
 
     steps:
       # ========== 1. 检出当前仓库 ==========
-      - name: 检出当前仓库 📥
+      - name: 检出代码 📥
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -33,6 +33,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       # ========== 3. 安装依赖 ==========
       - name: 安装依赖 📦
@@ -40,51 +41,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests urllib3
 
-      # ========== 4. 从私库复制全部文件（排除 .git）==========
-      - name: 从私库复制全部文件 📦
+      # ========== 4. 从私库复制 data、python 目录 ==========
+      - name: 从私库复制指定目录 📦
         run: |
           set -e
+
+          # ✅ 需要从私库复制的目录列表
+          COPY_DIRS="data python"
+
           echo "开始克隆私有仓库 ${PRIVATE_REPO} (branch: ${PRIVATE_BRANCH}) ..."
           git clone --depth 1 --branch "${PRIVATE_BRANCH}" \
             "https://x-access-token:${{ secrets.PRIVATE_REPO_TOKEN }}@github.com/${PRIVATE_REPO}.git" \
             /tmp/private-repo
 
-          echo "私库根目录内容:"
-          ls -la /tmp/private-repo
+          # 校验目标目录是否存在
+          for d in $COPY_DIRS; do
+            if [ ! -d "/tmp/private-repo/$d" ]; then
+              echo "错误: 私库中不存在 $d 目录"
+              exit 1
+            fi
+          done
 
-          # 复制私库全部文件到工作目录（覆盖同名文件），但排除 .git
-          # 使用 rsync 精确排除 .git，避免污染当前仓库
-          rsync -a --exclude='.git' /tmp/private-repo/ ${{ github.workspace }}/
+          # 逐个复制目录内的全部文件到工作目录
+          for d in $COPY_DIRS; do
+            echo "复制 $d -> ${{ github.workspace }}/$d"
+            mkdir -p "${{ github.workspace }}/$d"
+            cp -r /tmp/private-repo/$d/. "${{ github.workspace }}/$d/"
+          done
 
-          # 清理私库克隆
+          echo "指定目录全部脚本已复制到工作目录"
           rm -rf /tmp/private-repo
 
-          echo "私库全部文件已复制到工作目录（已排除 .git）"
-
-      # ========== 4.1 校验当前仓库 .git 完好 ==========
-      - name: 校验当前仓库 .git 未被污染 ✅
-        run: |
-          set -e
-          # 确认当前仓库的 remote 仍指向本仓库，而不是私库
-          echo "当前 remote:"
-          git remote -v
-
-          CURRENT_REMOTE="$(git remote get-url origin)"
-          echo "origin url = ${CURRENT_REMOTE}"
-
-          if echo "${CURRENT_REMOTE}" | grep -q "${PRIVATE_REPO}"; then
-            echo "错误: 当前仓库的 origin 被私库污染了！"
-            exit 1
-          fi
-          echo "校验通过: origin 仍指向当前仓库"
-
-      # ========== 5. 创建必要目录并清空 ry ==========
+      # ========== 5. 创建必要目录 ==========
       - name: 创建必要目录 🗂️
         run: |
           mkdir -p ry
           echo "必要目录已创建"
 
-      - name: 清空ry目录 🧹
+      # ========== 6. 清空 ry 目录 ==========
+      - name: 清空ry目录 🗑️
         run: |
           if [ -d "ry" ]; then
             rm -rf ry/*
@@ -93,41 +88,20 @@ jobs:
             echo "ry目录不存在，跳过清空"
           fi
 
-      # ========== 6. 执行脚本 ==========
+      # ========== 7. 每日解析在线本地包 ==========
       - name: 每日解析在线本地包
         continue-on-error: true
         run: python python/ry下载器.py
 
+      # ========== 8. tvbox 接口解密更新 ==========
       - name: tvbox接口解密更新
         run: python python/tvbox_get_api.py
 
-      # ========== 7. 提交回当前仓库（排除 data 和 python 目录）==========
+      # ========== 9. 提交变更到当前仓库 ==========
       - name: 提交变更 🚀
         run: |
-          set -e
-
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-
-          # 排除 data 和 python 目录，不提交到当前仓库
           git add .
-          git reset -- data/ python/ || true
-
-          if git diff --cached --quiet; then
-            echo "没有变更可提交"
-            exit 0
-          fi
-
-          git commit -m "更新接口数据 [skip ci]"
-
-          if ! git pull --rebase origin "${GITHUB_REF_NAME}"; then
-            echo "错误: git pull --rebase 失败，可能有冲突，终止推送"
-            exit 1
-          fi
-
-          if ! git push origin "HEAD:${GITHUB_REF_NAME}"; then
-            echo "错误: git push 失败"
-            exit 1
-          fi
-
-          echo "已成功提交到当前仓库"
+          git commit -m "更新接口数据 [skip ci]" || echo "没有变更可提交"
+          git push

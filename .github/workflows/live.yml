@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   scan:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
 
     # 如果是被上游 workflow_run 触发的，只有上游成功时才运行；手动触发不受影响
@@ -41,6 +41,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       # ========== 3. 安装依赖 ==========
       - name: 安装依赖 📦
@@ -48,10 +49,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # ========== 4. 从私库复制全部文件（排除 .git）==========
-      - name: 从私库复制全部文件 📦
+      # ========== 4. 从私库复制指定目录（data、python）==========
+      - name: 从私库复制指定目录 📦
         run: |
           set -e
+
+          # ✅ 需要从私库复制的目录列表
+          COPY_DIRS="data python"
+
           echo "开始克隆私有仓库 ${PRIVATE_REPO} (branch: ${PRIVATE_BRANCH}) ..."
           git clone --depth 1 --branch "${PRIVATE_BRANCH}" \
             "https://x-access-token:${{ secrets.PRIVATE_REPO_TOKEN }}@github.com/${PRIVATE_REPO}.git" \
@@ -60,14 +65,25 @@ jobs:
           echo "私库根目录内容:"
           ls -la /tmp/private-repo
 
-          # 复制私库全部文件到工作目录（覆盖同名文件），但排除 .git
-          # 使用 rsync 精确排除 .git，避免污染当前仓库
-          rsync -a --exclude='.git' /tmp/private-repo/ ${{ github.workspace }}/
+          # 校验目标目录是否存在于私库
+          for d in $COPY_DIRS; do
+            if [ ! -d "/tmp/private-repo/$d" ]; then
+              echo "错误: 私库中不存在 $d 目录"
+              exit 1
+            fi
+          done
+
+          # 逐个复制目录内的全部文件到工作目录（覆盖同名文件）
+          for d in $COPY_DIRS; do
+            echo "复制 $d -> ${{ github.workspace }}/$d"
+            mkdir -p "${{ github.workspace }}/$d"
+            cp -r /tmp/private-repo/$d/. "${{ github.workspace }}/$d/"
+          done
 
           # 清理私库克隆
           rm -rf /tmp/private-repo
 
-          echo "私库全部文件已复制到工作目录（已排除 .git）"
+          echo "指定目录（${COPY_DIRS}）已复制到工作目录"
 
       # ========== 4.1 校验当前仓库 .git 完好 ==========
       - name: 校验当前仓库 .git 未被污染 ✅
