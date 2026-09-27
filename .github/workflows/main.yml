@@ -109,13 +109,13 @@ jobs:
         continue-on-error: true
         run: python python/ry下载器.py
 
-      # ========== 8. 配置接口地址更新 ==========
-      - name: 配置接口地址更新
-        run: python gitdl/gitdl.py
-
-      # ========== 9. tvbox 接口解密更新 ==========
+      # ========== 8. tvbox 接口解密更新 ==========
       - name: tvbox接口解密更新
         run: python python/tvbox_get_api.py
+
+      # ========== 9. tvbox目录接口地址更新 ==========
+      - name: tvbox目录接口地址更新
+        run: python gitdl/gitdl.py
 
       # ========== 10. 提交变更到当前仓库（排除 python、data 目录）==========
       - name: 提交变更 🚀
