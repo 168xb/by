@@ -25,8 +25,8 @@
   ],
   "api": {
     "domains": [
-      { "tag": "备份一线", "base": "https://tv.168x.dpdns.org/by/tvbox/live/" },
-      { "tag": "备份二线", "base": "https://tv.wxwb.dpdns.org/by/tvbox/live/" }
+      { "tag": "备份一线", "base": "https://tv.168x.dpdns.org/by/tvbox/" },
+      { "tag": "备份二线", "base": "https://tv.wxwb.dpdns.org/by/tvbox/" }
     ],
     "weights": {
       "菠菜园.json": 1,
