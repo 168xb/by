@@ -40,7 +40,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests urllib3
 
-      # ========== 4. 从私库复制 data、python vip gitdl目录及 config.json、data.json ==========
+      # ========== 4. 从私库复制 data、python vip gitdl目录及 config 、data.json ==========
       - name: 从私库复制指定目录和文件 📦
         run: |
           set -e
@@ -49,7 +49,7 @@ jobs:
           COPY_DIRS="data python vip gitdl"
 
           # ✅ 需要从私库复制的文件列表
-          COPY_FILES="config.json data.json"
+          COPY_FILES="config data.json"
 
           echo "开始克隆私有仓库 ${PRIVATE_REPO} (branch: ${PRIVATE_BRANCH}) ..."
           git clone --depth 1 --branch "${PRIVATE_BRANCH}" \
