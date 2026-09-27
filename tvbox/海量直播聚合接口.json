@@ -79,6 +79,12 @@
       "source": "周J"
     },
     {
+      "name": "Ray",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "ua": "",
+      "source": "采集"
+    },
+    {
       "name": "南风直播源",
       "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
@@ -92,6 +98,144 @@
     },
     {
       "name": "live",
+      "url": "http://mzrjk.top/唱戏/lib/live.txt",
+      "ua": "",
+      "source": "戏曲"
+    },
+    {
+      "name": "澜露TV",
+      "url": "http://zoto.3d.tc/i/i/hulanlu.txt",
+      "ua": "",
+      "source": "澜露"
+    },
+    {
+      "name": "冰茶",
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "develop202",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "范明明（需开启V6网络）",
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "ua": "",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "虎牙一起看",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "斗鱼一起看",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "B站直播",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "YY轮播",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "V4聚合（卡顿请按左┃右键换线）",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "ua": "",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "V6",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "牛播一",
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "ua": "",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "平台直播",
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "source": "余生的客栈"
+    },
+    {
+      "name": "虎牙一起看1线",
+      "url": "https://file.icve.com.cn/file_doc/946/41/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "斗鱼一起看1线",
+      "url": "https://file.icve.com.cn/file_doc/254/346/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "B站直播1线",
+      "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "YY轮播1线",
+      "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "默认列表",
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "咪咕列表",
+      "url": "https://git.yylx.win/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "小飞列表",
+      "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "裤佬列表",
+      "url": "https://git.yylx.win/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "猫总列表",
+      "url": "http://jiekou.dpdns.org/xiang/hotel.php",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "猫猫列表",
+      "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "live1线",
       "url": "http://xhztv.top/xhz/live.txt",
       "ua": "okhttp/3.15",
       "source": "聚玩"
@@ -100,30 +244,6 @@
       "name": "综合直播",
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
-      "source": "饭太硬"
-    },
-    {
-      "name": "范明明（需开启V6网络）",
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "ua": "",
-      "source": "饭太硬"
-    },
-    {
-      "name": "虎牙一起看",
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "饭太硬"
-    },
-    {
-      "name": "斗鱼一起看",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "饭太硬"
-    },
-    {
-      "name": "YY轮播",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
       "source": "饭太硬"
     },
     {
@@ -181,21 +301,333 @@
       "source": "小马"
     },
     {
-      "name": "Ray",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "name": "👖裤佬IPTV直播",
+      "url": "https://iptv.445569.xyz/live.m3u",
       "ua": "",
-      "source": "高天流云js"
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬体育直播[主]",
+      "url": "https://jsnzkpg.de5.net/all.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬体育直播[备]",
+      "url": "https://stymei.pages.dev/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬抖音直播",
+      "url": "https://douyin.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬快手直播",
+      "url": "https://kuaishou.445569.xyz/list.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬虎牙直播",
+      "url": "https://huya.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬斗鱼直播",
+      "url": "https://douyu.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬酷狗直播",
+      "url": "https://kugou.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬YY直播",
+      "url": "https://yy.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬Twitch直播",
+      "url": "https://twitch.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬TikTok直播",
+      "url": "https://tiktok.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬GTA游戏直播",
+      "url": "https://stymei1.pages.dev/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿潇雨TV直播",
+      "url": "https://0701.tv1288.xyz/m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿日后TV直播",
+      "url": "https://jsnzkpg4.pages.dev/http://rihou.cc:555/gggg.nzk",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿涛涛TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿华视TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿乌拉TV直播",
+      "url": "https://ilook.epg.one/5CM5SY98BF24PL/2",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🍿全球TV直播",
+      "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "⚠️神秘彩蛋直播",
+      "url": "https://caonimama.pages.dev/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "🤒电视直播",
+      "url": "https://www.9kds.com/tool/txt/files/tao/wailive.txt",
+      "ua": "okhttp/3",
+      "source": "豆半"
+    },
+    {
+      "name": "🌿港澳直播",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "ua": "okhttp/3",
+      "source": "豆半"
+    },
+    {
+      "name": "🌿弯弯直播",
+      "url": "http://4gtv.158.qzz.io/4gtv.m3u",
+      "ua": "okhttp/3",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉宝藏TV直播",
+      "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉宸龙TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉一线TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉三线TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉香雨TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "🐉易发TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "ua": "",
+      "source": "豆半"
+    },
+    {
+      "name": "直播一线（能不能看，看缘分）",
+      "url": "https://ds65.tv1288.xyz",
+      "ua": "",
+      "source": "枫斗"
+    },
+    {
+      "name": "直播本地包线（不定时跟新，看缘分）",
+      "url": "http://xn--oev29b.top/files/txt/700.txt",
+      "ua": "",
+      "source": "枫斗"
+    },
+    {
+      "name": "直播二线（能不能看，看缘分）",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+      "ua": "",
+      "source": "枫斗"
+    },
+    {
+      "name": "直播一线（能不能看，看缘分）1线",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "宜优精选"
+    },
+    {
+      "name": "电S家",
+      "url": "https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "migu",
+      "url": "https://migu.heropx.dpdns.org/",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "iptv(简)",
+      "url": "https://im5k.fun/vip.m3u",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "migu720",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "iTV",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "ZBDS",
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "D佬直播",
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "范明明(IPV6)",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "简单TV",
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "平安视界",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
+      "ua": "okhttp/3.15",
+      "source": "平安"
+    },
+    {
+      "name": "内置特区",
+      "url": "http://rihou.cc:555/ggg.nzk",
+      "ua": "okhttp/3.8.1",
+      "source": "平安"
+    },
+    {
+      "name": "内测斯特",
+      "url": "https://live.catvod.com/tv.m3u",
+      "ua": "Goiptv/8.8.8",
+      "source": "平安"
+    },
+    {
+      "name": "内测冰茶",
+      "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian",
+      "ua": "Goiptv/8.8.8",
+      "source": "平安"
+    },
+    {
+      "name": "内测4Gtv",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
+      "ua": "Goiptv/8.8.8",
+      "source": "平安"
+    },
+    {
+      "name": "内测HKtv",
+      "url": "http://txt.gt.tc/users/HKTV.txt",
+      "ua": "Goiptv/8.8.8",
+      "source": "平安"
+    },
+    {
+      "name": "外置综合",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.8.1",
+      "source": "平安"
+    },
+    {
+      "name": "外置综直",
+      "url": "https://m.iill.top/Live.m3u",
+      "ua": "okhttp/3.8.1",
+      "source": "平安"
+    },
+    {
+      "name": "外置特直",
+      "url": "https://tv.iill.top/m3u/MyTV",
+      "ua": "okhttp/3.8.1",
+      "source": "平安"
+    },
+    {
+      "name": "外置体直",
+      "url": "https://tv.iill.top/m3u/Sport",
+      "ua": "okhttp/3.8.1",
+      "source": "平安"
+    },
+    {
+      "name": "外置特合",
+      "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+      "ua": "judy/5.2.1",
+      "source": "平安"
+    },
+    {
+      "name": "咪咕体育",
+      "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+      "ua": "judy/5.2.1",
+      "source": "平安"
+    },
+    {
+      "name": "平安视界1线",
+      "url": "https://cnb.cool/cnlv/tv/-/git/raw/main/IPV4.txt",
+      "ua": "okhttp/3.15",
+      "source": "平安"
     },
     {
       "name": "歌手直播",
       "url": "https://mgtv.ottiptv.cc/mglist.m3u",
       "ua": "okhttp/3.15",
-      "source": "clun"
-    },
-    {
-      "name": "B站直播",
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "ua": "",
       "source": "clun"
     },
     {
@@ -207,12 +639,6 @@
     {
       "name": "YanG",
       "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-      "ua": "",
-      "source": "clun"
-    },
-    {
-      "name": "suxuang",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "ua": "",
       "source": "clun"
     },
@@ -247,6 +673,36 @@
       "source": "clun"
     },
     {
+      "name": "电视家丰彩-三方-会员过期直播将不稳定",
+      "url": "http://47.94.35.147:8899/m3u",
+      "ua": "",
+      "source": "聚合"
+    },
+    {
+      "name": "易发三方-或付费赞助得会员",
+      "url": "https://gh-proxy.org/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+      "ua": "",
+      "source": "聚合"
+    },
+    {
+      "name": "电视家潇雨-会员或已过期请兑换后重启软件",
+      "url": "http://45.192.97.170:5211/698335",
+      "ua": "",
+      "source": "聚合"
+    },
+    {
+      "name": "萌萌中心",
+      "url": "https://xymm.1000s.dpdns.org/txt",
+      "ua": "",
+      "source": "聚合"
+    },
+    {
+      "name": "live2线",
+      "url": "http://23.224.143.163:2202/vip/ku9.txt",
+      "ua": "",
+      "source": "非凡晓晓"
+    },
+    {
       "name": "政治时事",
       "url": "http://zhangqun66.com/141.php",
       "ua": "",
@@ -259,26 +715,8 @@
       "source": "东篱"
     },
     {
-      "name": "综合直播1线",
-      "url": "https://ds65.tv1288.xyz",
-      "ua": "bingcha/1.1 (mianfeifenxiang) ",
-      "source": "东篱"
-    },
-    {
-      "name": "日后",
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "ua": "okhttp/3",
-      "source": "东篱"
-    },
-    {
       "name": "宫殿",
       "url": "https://gongdian.top/tv/iptv",
-      "ua": "",
-      "source": "东篱"
-    },
-    {
-      "name": "develop202",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
       "source": "东篱"
     },
@@ -319,10 +757,112 @@
       "source": "摸鱼"
     },
     {
-      "name": "Kimentanm",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "ua": "",
-      "source": "嗷呜"
+      "name": "最强国内直播(合并版)",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "最强国内直播",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "FeiYang牧场",
+      "url": "http://sub.ottiptv.cc/iptv.m3u",
+      "ua": "okHttp/Mod-1.3.0.0",
+      "source": "PG"
+    },
+    {
+      "name": "BJYD",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "PandaGo投屏直播接收记录",
+      "url": "http://127.0.0.1:10079/dlnam3u/tv.m3u",
+      "ua": "okhttp/3.15.",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊TX赛事直播",
+      "url": "http://127.0.0.1:10079/c/60/null/http://127.0.0.1:35456/txevent.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊QY赛事直播",
+      "url": "http://127.0.0.1:10079/c/60/null/http://127.0.0.1:35456/iqyevent.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊B站直播1线",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊B站直播.音质增强",
+      "url": "http://127.0.0.1:10079/mp4/3600/null/http://127.0.0.1:35456/bililive.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊虎牙一起看1线",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊虎牙一起看.音质增强",
+      "url": "http://127.0.0.1:10079/mp4/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊斗鱼一起看1线",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊斗鱼一起看.音质增强",
+      "url": "http://127.0.0.1:10079/mp4/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "肥羊YY轮播1线",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "AKTV.电视直播",
+      "url": "http://aktv.top/live.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "Gather.网络直播",
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "FMM.txt",
+      "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "zouming.ipv6",
+      "url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+      "ua": "okhttp/3.15",
+      "source": "PG"
     },
     {
       "name": "心魔",
@@ -331,16 +871,208 @@
       "source": "心魔"
     },
     {
+      "name": "极客IPTV直播",
+      "url": "https://jikefuye.cn/iptv.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "极客体育直播",
+      "url": "https://jikefuye.cn/tiyuzhibo.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "极客抖音直播",
+      "url": "https://stymei2.pages.dev/live.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "🍿虎牙TV直播",
+      "url": "http://nn.7x9d.cn/xz/虎牙.php",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "🍿斗鱼TV直播",
+      "url": "http://nn.7x9d.cn/xz/斗鱼.php",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "🍿歪歪TV直播",
+      "url": "http://nn.7x9d.cn/xz/yy.php",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "🍿台湾4GTV直播",
+      "url": "http://4gtv.cnlive.club/4gtv.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "美加墨世界杯",
+      "url": "http://82.156.243.185:33389/fwc.m3u",
+      "ua": "",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "咖啡体育",
+      "url": "https://iptv.catvod.com/kf/catvod.m3u",
+      "ua": "",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "📺4K歌手2026，乘风破浪2026直播+回放",
+      "url": "https://mgtv.ottiptv.cc/mglist.m3u?url=https://mgtv.ottiptv.cc",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "📺IPTV直播",
+      "url": "http://1.94.31.214/live/live9/dgtv2026.php",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "📺体育赛事直播",
+      "url": "http://47.100.99.38:28989/list.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "📺咪咕直播+体育回看",
+      "url": "http://101.6.130.52:1234/txt",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "闪电音乐"
+    },
+    {
+      "name": "☀轮播直播",
+      "url": "http://hucongrong.tttttttttt.top/dsj.txt",
+      "ua": "",
+      "source": "源力forever"
+    },
+    {
+      "name": "💖2500部恐怖片",
+      "url": "https://d.kstore.dev/download/6651/%E7%94%B5%E5%BD%B1.txt",
+      "ua": "",
+      "source": "源力forever"
+    },
+    {
+      "name": "🐟斗鱼一起看",
+      "url": "https://d.kstore.dev/download/6651/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "源力forever"
+    },
+    {
+      "name": "🅱️B站直播",
+      "url": "https://d.kstore.dev/download/6651/bililive.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "源力forever"
+    },
+    {
+      "name": "🍊短剧直播",
+      "url": "http://hucongrong.tttttttttt.top/dj.txt",
+      "ua": "",
+      "source": "源力forever"
+    },
+    {
+      "name": "💖天微③",
+      "url": "https://d.kstore.dev/download/6651/kjtwzb.txt",
+      "ua": "okhttp/3",
+      "source": "源力forever"
+    },
+    {
+      "name": "📺欧歌直播",
+      "url": "https://xn--1221-mb1gy821b.v.nxog.top/m/tv/?ou=2d3",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺咪咕720P",
+      "url": "https://15487.kstore.space/%E5%92%AA%E5%92%95720P.txt",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺涛涛TV直播",
+      "url": "http://38.75.136.137:88/api/tvlist.php",
+      "ua": "",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺裤佬TV直播",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "ua": "",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺小米TV直播",
+      "url": "http://47.120.41.246:8899/xinzb.txt",
+      "ua": "",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺中港TV直播",
+      "url": "https://t.freetv.fun/m3u/playlist.txt",
+      "ua": "okhttp",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺壹米TV直播",
+      "url": "https://gitee.com/yimi321/ymys/raw/master/lib/tv.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺日本TV直播{翻}",
+      "url": "https://web.utako.moe/jp.m3u",
+      "ua": "okhttp/5.3.2",
+      "source": "七星在线"
+    },
+    {
+      "name": "📺海外TV直播{翻}",
+      "url": "https://down.nigx.cn/iptv-org.github.io/iptv/index.m3u",
+      "ua": "",
+      "source": "七星在线"
+    },
+    {
       "name": "线路①",
       "url": "http://rihou.cc:567/gggg.nzk",
       "ua": "okhttp/3",
       "source": "星微Vip"
     },
     {
-      "name": "体育③",
-      "url": "http://82.156.243.185:33389/fwc.m3u",
+      "name": "☁直播线路主☁",
+      "url": "https://8492.kstore.space/梦幻电玩在线仓库/直播线路/LIVEZB",
       "ua": "",
-      "source": "星微Vip"
+      "source": "超玩家"
+    },
+    {
+      "name": "☁直播线路副☁",
+      "url": "https://d.kstore.dev/download/8492/梦幻电玩在线仓库/直播线路/LIVEZB",
+      "ua": "",
+      "source": "超玩家"
+    },
+    {
+      "name": "☁直播线路备☁",
+      "url": "http://billy5208.ddns.ge/梦幻电玩在线仓库/直播线路/LIVEZB",
+      "ua": "",
+      "source": "超玩家"
+    },
+    {
+      "name": "☁直播线路江苏☁",
+      "url": "http://d.kstore.dev/download/8492/梦幻电玩在线仓库/直播线路/LIVEZB",
+      "ua": "",
+      "source": "超玩家"
+    },
+    {
+      "name": "develop2021线",
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "小脑斧"
     },
     {
       "name": "本地live文件",
@@ -353,6 +1085,18 @@
       "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
       "ua": "",
       "source": "高天流云_XYQ"
+    },
+    {
+      "name": "live3线",
+      "url": "https://pan.shangui.cc/f/xamXtZ/%E5%87%AF%E5%BC%9F.txt",
+      "ua": "",
+      "source": "机缘巧盒"
+    },
+    {
+      "name": "☁️风云直播☁️",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "ua": "",
+      "source": "TVbox精品"
     }
   ]
 }

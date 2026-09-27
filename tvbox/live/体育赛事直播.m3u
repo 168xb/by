@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="📺体育赛事直播",📺体育赛事直播
+#EXTM3U
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
+#EXTINF:-1 tvg-name="巴西乙 克里丘马 vs 阿瓦伊" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="足球",巴西乙 克里丘马 vs 阿瓦伊
+http://47.100.99.38:28989/football/8321472
+#EXTINF:-1 tvg-name="瑞典甲 耶夫勒 vs 维萨隆德" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ac9dcfa729f447a6a5dfd46154d45da4.png" group-title="足球",瑞典甲 耶夫勒 vs 维萨隆德
+http://47.100.99.38:28989/football/8296011
+#EXTINF:-1 tvg-name="西乙 马略卡 vs 阿尔梅里亚" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e8d38514cbb040848b373ab571a0f11c.png" group-title="足球",西乙 马略卡 vs 阿尔梅里亚
+http://47.100.99.38:28989/football/8411746
+#EXTINF:-1 tvg-name="俄乙B 切列波韦茨 vs 沃洛格达迪纳摩" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6d69860d9e4e8140fce94361b7729b10.png" group-title="足球",俄乙B 切列波韦茨 vs 沃洛格达迪纳摩
+http://47.100.99.38:28989/football/8355058
+#EXTINF:-1 tvg-name="苏女超 哈茨女足 vs 格拉斯哥城女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/a9a136a3048c4381bcac10403f942008.png" group-title="足球",苏女超 哈茨女足 vs 格拉斯哥城女足
+http://47.100.99.38:28989/football/8414522
+#EXTINF:-1 tvg-name="英女超 切尔西女足 vs 阿森纳女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/d62b0f397bfc18b2bb5b20de0812433c.png" group-title="足球",英女超 切尔西女足 vs 阿森纳女足
+http://47.100.99.38:28989/football/8450789
+#EXTINF:-1 tvg-name="意丙 卡尔皮 vs 阿尔齐尼亚诺" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ed94e6389456957de772c629b5338ac9.png" group-title="足球",意丙 卡尔皮 vs 阿尔齐尼亚诺
+http://47.100.99.38:28989/football/8451398
+#EXTINF:-1 tvg-name="意丙 AC雷纳特 vs 特雷维索" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ed94e6389456957de772c629b5338ac9.png" group-title="足球",意丙 AC雷纳特 vs 特雷维索
+http://47.100.99.38:28989/football/8451405
+#EXTINF:-1 tvg-name="意丙 佩鲁贾 vs 雷吉亚纳" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ed94e6389456957de772c629b5338ac9.png" group-title="足球",意丙 佩鲁贾 vs 雷吉亚纳
+http://47.100.99.38:28989/football/8451746
+#EXTINF:-1 tvg-name="意丙 佩萨罗 vs 圭多尼亚" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ed94e6389456957de772c629b5338ac9.png" group-title="足球",意丙 佩萨罗 vs 圭多尼亚
+http://47.100.99.38:28989/football/8451752
+#EXTINF:-1 tvg-name="意丙 斯卡法塔森 vs 阿尔塔穆拉" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ed94e6389456957de772c629b5338ac9.png" group-title="足球",意丙 斯卡法塔森 vs 阿尔塔穆拉
+http://47.100.99.38:28989/football/8452043
+#EXTINF:-1 tvg-name="海湾杯 也门 vs 卡塔尔" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/a17302e1c0cf4185881974d1c772c342.png" group-title="足球",海湾杯 也门 vs 卡塔尔
+http://47.100.99.38:28989/football/8478469
+#EXTINF:-1 tvg-name="瑞典篮超 斯洛加乌普萨拉 vs 乌普萨拉" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/b47db299db6b55a0232167c417127457.png" group-title="篮球",瑞典篮超 斯洛加乌普萨拉 vs 乌普萨拉
+http://47.100.99.38:28989/basketball/8460081
+#EXTINF:-1 tvg-name="瑞士甲 卢加诺老虎 vs 蒙泰" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/04a0495faa3579cf32c40fbecc49949e.png" group-title="篮球",瑞士甲 卢加诺老虎 vs 蒙泰
+http://47.100.99.38:28989/basketball/8460893
+#EXTINF:-1 tvg-name="法篮甲 南锡 vs 巴黎" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/aba7736771b1a5d411d074bd43d4c4fd.png" group-title="篮球",法篮甲 南锡 vs 巴黎
+http://47.100.99.38:28989/basketball/8510022
+#EXTINF:-1 tvg-name="德篮甲 奥尔登堡 vs 汉堡" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/cc7fd7ae40f6044be7ec16b64773df1b.png" group-title="篮球",德篮甲 奥尔登堡 vs 汉堡
+http://47.100.99.38:28989/basketball/8483942
+#EXTINF:-1 tvg-name="德篮甲 开姆尼茨 vs 哈根" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/cc7fd7ae40f6044be7ec16b64773df1b.png" group-title="篮球",德篮甲 开姆尼茨 vs 哈根
+http://47.100.99.38:28989/basketball/8484027
+#EXTINF:-1 tvg-name="瑞士女联 尼昂女篮 vs 日内瓦女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e809e73393b03c2de859ee158db9b767.png" group-title="篮球",瑞士女联 尼昂女篮 vs 日内瓦女篮
+http://47.100.99.38:28989/basketball/8460402
+#EXTINF:-1 tvg-name="英篮超 谢菲尔德 vs 喀里多尼亚角斗士" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f9c6b9dc09761efcbbb01ce0756d37bc.png" group-title="篮球",英篮超 谢菲尔德 vs 喀里多尼亚角斗士
+http://47.100.99.38:28989/basketball/8480821
+#EXTINF:-1 tvg-name="英篮超 伦敦雄狮 vs 利物浦" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f9c6b9dc09761efcbbb01ce0756d37bc.png" group-title="篮球",英篮超 伦敦雄狮 vs 利物浦
+http://47.100.99.38:28989/basketball/8480825
+#EXTINF:-1 tvg-name="捷篮甲 BK奥洛穆茨 vs 俄斯特拉法" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/62f79e179e0f60e3e781f1e4321cf40a.png" group-title="篮球",捷篮甲 BK奥洛穆茨 vs 俄斯特拉法
+http://47.100.99.38:28989/basketball/8430973
+#EXTINF:-1 tvg-name="西篮甲 吉罗纳 vs 穆尔西亚" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/77940bac1ad95e6369370c9b6b345d98.png" group-title="篮球",西篮甲 吉罗纳 vs 穆尔西亚
+http://47.100.99.38:28989/basketball/8471645
+#EXTINF:-1 tvg-name="德篮乙 科布伦茨 vs 梅迪拜罗伊特" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/3706b4aafb0eee8c664034e4350c52e6.png" group-title="篮球",德篮乙 科布伦茨 vs 梅迪拜罗伊特
+http://47.100.99.38:28989/basketball/8492046
+#EXTINF:-1 tvg-name="土篮超 巴赫斯塞希尔科勒吉 vs 费内巴切" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/0b7c31e0aed62cb7f4188466e936568c.png" group-title="篮球",土篮超 巴赫斯塞希尔科勒吉 vs 费内巴切
+http://47.100.99.38:28989/basketball/8462451
+#EXTINF:-1 tvg-name="意篮甲 托尔托纳 vs 维罗纳" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/52e20aeb97b86fba4285a70611ff6ce5.png" group-title="篮球",意篮甲 托尔托纳 vs 维罗纳
+http://47.100.99.38:28989/basketball/8489204
+#EXTINF:-1 tvg-name="瑞士女联 赫利俄斯女篮 vs 普利女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e809e73393b03c2de859ee158db9b767.png" group-title="篮球",瑞士女联 赫利俄斯女篮 vs 普利女篮
+http://47.100.99.38:28989/basketball/8459829
+#EXTINF:-1 tvg-name="奥篮超 葛姆登天鹅 vs 上瓦特枪手" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/2b58ed103825fefd46e36229509a4fad.png" group-title="篮球",奥篮超 葛姆登天鹅 vs 上瓦特枪手
+http://47.100.99.38:28989/basketball/8460816
+#EXTINF:-1 tvg-name="西篮杯 洛格罗尼奥 vs 克拉维约" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f7981ab186f21ba045d1550eacbed8a8.png" group-title="篮球",西篮杯 洛格罗尼奥 vs 克拉维约
+http://47.100.99.38:28989/basketball/8512369
+#EXTINF:-1 tvg-name="以联杯 艾罗尼埃拉特 vs 阿什杜德" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/c5b59a2c956005ebf5e36824a2dad933.png" group-title="篮球",以联杯 艾罗尼埃拉特 vs 阿什杜德
+http://47.100.99.38:28989/basketball/8512913
+#EXTINF:-1 tvg-name="捷篮甲 比尔森 vs 索科尔皮塞克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/62f79e179e0f60e3e781f1e4321cf40a.png" group-title="篮球",捷篮甲 比尔森 vs 索科尔皮塞克
+http://47.100.99.38:28989/basketball/8431179
+#EXTINF:-1 tvg-name="德篮甲 乌尔姆兰蒂奥帕姆 vs 维尔茨堡奥利弗" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/cc7fd7ae40f6044be7ec16b64773df1b.png" group-title="篮球",德篮甲 乌尔姆兰蒂奥帕姆 vs 维尔茨堡奥利弗
+http://47.100.99.38:28989/basketball/8483970
+#EXTINF:-1 tvg-name="意篮甲 乌迪内 vs 斯卡法蒂" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/52e20aeb97b86fba4285a70611ff6ce5.png" group-title="篮球",意篮甲 乌迪内 vs 斯卡法蒂
+http://47.100.99.38:28989/basketball/8489273
+#EXTINF:-1 tvg-name="斯泰克排位赛 Eternal Fire vs K27" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Frs4cLk6bLu5n0exWH1G90njyWcg" group-title="电竞",斯泰克排位赛 Eternal Fire vs K27
+http://47.100.99.38:28989/esport/25425
+#EXTINF:-1 tvg-name="Tipsport公开杯 Metizport vs IC.A" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fp_5XMuaJjVFjcptQ-u17CpQYgat" group-title="电竞",Tipsport公开杯 Metizport vs IC.A
+http://47.100.99.38:28989/esport/25452
+#EXTINF:-1 tvg-name="Hotspawn对决赛 G2 Ares vs Famalicão" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FmBTyLL_PJmrs10QP5u_84_Z2KmI" group-title="电竞",Hotspawn对决赛 G2 Ares vs Famalicão
+http://47.100.99.38:28989/esport/25423
+#EXTINF:-1 tvg-name="私人俱乐部 NIP vs magic" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fu1If2-s3pAL017a78AdlMgYp6Xj" group-title="电竞",私人俱乐部 NIP vs magic
+http://47.100.99.38:28989/esport/25426
