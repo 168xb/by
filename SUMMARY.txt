@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20260927_104552
+TVBox 接口抓取报告  20260927_112619
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -144,12 +144,12 @@ TVBox 接口抓取报告  20260927_104552
 [南风] okhttp/3.15
   状态: JSON
   文件: tvbox/南风.json
-  成功URL: https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+  成功URL: https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 
 [南风2线] okhttp/3.15
   状态: JSON
   文件: tvbox/南风2线.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+  成功URL: https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 
 [潇洒] okhttp/3.15
   状态: JSON
@@ -204,7 +204,7 @@ TVBox 接口抓取报告  20260927_104552
 [周J] okhttp/3.15
   状态: JSON
   文件: tvbox/周J.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box
+  成功URL: https://raw.githubusercontent.com/zhoujck/config/main/box
 
 [小米] 
   状态: FAILED
@@ -219,7 +219,7 @@ TVBox 接口抓取报告  20260927_104552
 [心魔] okhttp/3.15
   状态: JSON
   文件: tvbox/心魔.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json
+  成功URL: https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json
 
 [分享者] okhttp/3.15
   状态: TEXT
@@ -304,7 +304,7 @@ TVBox 接口抓取报告  20260927_104552
 [天神] okhttp/3.15
   状态: JSON
   文件: tvbox/天神.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png
+  成功URL: https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png
 
 [星微Vip] okhttp/3.15
   状态: JSON
@@ -319,7 +319,7 @@ TVBox 接口抓取报告  20260927_104552
 [FongMI线路] okhttp/3.15
   状态: JSON
   文件: tvbox/FongMI线路.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json
+  成功URL: https://raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json
 
 [巧计线路] 
   状态: FAILED
@@ -334,12 +334,12 @@ TVBox 接口抓取报告  20260927_104552
 [高天流云js] okhttp/3.15
   状态: JSON
   文件: tvbox/高天流云js.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+  成功URL: https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
 
 [高天流云 XYQ] okhttp/3.15
   状态: JSON
   文件: tvbox/高天流云_XYQ.json
-  成功URL: https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+  成功URL: https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
 
 [影探线路] 
   状态: FAILED
