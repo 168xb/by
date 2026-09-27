@@ -64,6 +64,7 @@ suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/v
 率率|影视 | 率率[直连]|type: 1|api: https://suoniapi.com/api.php/provide/vod/?ac=list
 暴風|影视 | 暴風[直连]|type: 1|api: https://bfzyapi.com/api.php/provide/vod/?ac=list
 闪电资源|闪电资源(切)|type: 1|api: http://sdzyapi.com/api.php/provide/vod/
+aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
 haiwaikan|海外看|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 快帆|快帆|type: 1|api: https://api.kuaifan.tv/api.php/provide/vod
 pt|移动｜星源|type: 1|api: https://xy.183933.xyz/php/pt.php/provide/vod/
