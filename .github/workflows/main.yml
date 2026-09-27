@@ -113,11 +113,11 @@ jobs:
       - name: 配置接口地址更新
         run: python gitdl/gitdl.py
 
-      # ========== 8. tvbox 接口解密更新 ==========
+      # ========== 9. tvbox 接口解密更新 ==========
       - name: tvbox接口解密更新
         run: python python/tvbox_get_api.py
 
-      # ========== 9. 提交变更到当前仓库（排除 python、data 目录）==========
+      # ========== 10. 提交变更到当前仓库（排除 python、data 目录）==========
       - name: 提交变更 🚀
         run: |
           git config --global user.name "GitHub Actions"
