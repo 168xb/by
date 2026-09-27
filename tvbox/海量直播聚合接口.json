@@ -74,7 +74,7 @@
     },
     {
       "name": "🍬电信🍬",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
@@ -110,7 +110,7 @@
     },
     {
       "name": "南风直播源",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "source": "健康家用"
     },
@@ -194,7 +194,7 @@
     },
     {
       "name": "Ray",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "ua": "",
       "source": "高天流云js"
     },
@@ -212,31 +212,31 @@
     },
     {
       "name": "YanG",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "suxuang",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "Guovin1线",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "mlzlzj",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "gambiarras",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
       "ua": "",
       "source": "clun"
     },
@@ -266,7 +266,7 @@
     },
     {
       "name": "裤佬",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
       "ua": "",
       "source": "东篱"
     },
@@ -290,13 +290,13 @@
     },
     {
       "name": "develop202",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
       "source": "东篱"
     },
     {
       "name": "EPG直播",
-      "url": "https://fastgit.cc/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
       "ua": "",
       "source": "东篱"
     },
