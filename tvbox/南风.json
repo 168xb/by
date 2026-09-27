@@ -23,7 +23,7 @@
       "name": "Ⓜ️嗷呜弹幕设置",
       "type": 3,
       "api": "csp_AAConfigAmns",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "key": "ConfigCenter",
@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "key": "天天",
@@ -95,7 +95,7 @@
       "filterable": 1,
       "ext": {
         "appName": "橘汁",
-        "publicKey": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "publicKey": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
         "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.mxj.wylcjbxyx",
@@ -115,7 +115,7 @@
       "filterable": 1,
       "ext": {
         "appName": "华谊",
-        "publicKey": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "publicKey": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
         "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.muyue.tool",
@@ -135,7 +135,7 @@
       "filterable": 1,
       "ext": {
         "appName": "小苹果",
-        "publicKey": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "publicKey": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
         "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
@@ -170,7 +170,7 @@
       "filterable": 1,
       "ext": {
         "appName": "电影天堂",
-        "publicKey": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "publicKey": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
         "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
@@ -202,7 +202,7 @@
       "api": "csp_App99",
       "ext": {
         "host": "http://111.180.139.119:19987/app/bn",
-        "LoginPath": "https://ghproxy.monkeyray.net/app/log",
+        "LoginPath": "https://raw.githubusercontent.com/app/log",
         "appkey": "f66f65db127e48449f073c2c6eb0f993",
         "versionName": "6.4.9",
         "name": "双子星动漫",
@@ -249,22 +249,6 @@
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
     },
     {
-      "key": "永乐",
-      "name": "🍰永乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-        "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      }
-    },
-    {
       "key": "面包",
       "name": "🎁面包",
       "type": 3,
@@ -289,7 +273,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "简介": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
+        "简介": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
         "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
       }
@@ -341,7 +325,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🍊柚子",
@@ -352,7 +336,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Xyz",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏃‍♂️‍➡️追剧",
@@ -363,7 +347,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Zjdr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🍌小黄人",
@@ -374,7 +358,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Xhr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "📦咸鱼",
@@ -385,7 +369,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Xy",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "📦零零七",
@@ -396,7 +380,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Llq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🐶特狗",
@@ -407,7 +391,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV6Tg",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏭厂长",
@@ -418,7 +402,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": "Czzy",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🐱牛来动漫",
@@ -428,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🐱番薯动漫",
@@ -438,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🐱青云动漫",
@@ -448,7 +432,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🐱魔都动漫",
@@ -458,7 +442,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "⭐韩剧",
@@ -468,7 +452,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🔥短剧推荐",
@@ -480,7 +464,7 @@
       "changeable": 0,
       "genre": "shortdrama",
       "ext": "Hgdh",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬短剧",
@@ -492,7 +476,7 @@
       "changeable": 0,
       "ext": "DjHggg",
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬豪堪短剧",
@@ -503,7 +487,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬盒马短剧",
@@ -514,7 +498,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬拜拜短剧",
@@ -525,7 +509,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬围观短剧",
@@ -536,7 +520,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬喵喵短剧",
@@ -547,7 +531,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎬星星短剧",
@@ -558,7 +542,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏆瓜子体育",
@@ -569,7 +553,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "GuaziLive",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏆飞球体育",
@@ -579,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏆88体育",
@@ -590,7 +574,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "BbkqLive",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🏆咖啡体育",
@@ -600,7 +584,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "📖富强听书",
@@ -610,7 +594,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "📖文明听书",
@@ -620,7 +604,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "📖嗷嗚听书",
@@ -630,7 +614,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎸酷听音乐",
@@ -641,7 +625,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🎸蜻蜓电台",
@@ -652,7 +636,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "key": "SeedHub",
@@ -715,6 +699,23 @@
       }
     },
     {
+      "key": "木偶",
+      "name": "🧸木偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "siteUrl": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site"
+        ],
+        "filter": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+      }
+    },
+    {
       "key": "虎斑",
       "name": "🐯虎斑",
       "type": 3,
@@ -740,24 +741,6 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "http://38.76.197.172:12521/"
-        ],
-        "filter": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-      }
-    },
-    {
-      "key": "木偶",
-      "name": "🧸木偶",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "siteUrl": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
         ],
         "filter": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
@@ -969,20 +952,20 @@
         "主页url": "https://m.ahadj.com",
         "首页": "200",
         "起始页": "1",
-        "分类url": "https://ghproxy.monkeyray.net/music/id-{cateId}-{catePg}.html;;mrcRAD",
+        "分类url": "https://raw.githubusercontent.com/music/id-{cateId}-{catePg}.html;;mrcRAD",
         "分类": "劲爆舞蹈视频$112#车载发烧视频$125#音乐派对视频$90#中文抒情视频$20#国外夜店视频$21#高清车展视频$58#粤语舞曲视频$114#英文抒情视频$46#日韩歌曲视频$50#串烧舞曲视频$62#钢管舞曲视频$64#国外舞曲视频$65#模特DJ视频$161#DJ打碟视频$163#中文夜店视频$180#华语超清MV$31#国外超清MV$44#车载音乐$85#中文DJ单曲$22#粤语DJ舞曲$29#草原DJ舞曲$35#经典粤语歌曲$54#中文DJ串烧$63#优美纯音乐$120#欧美单曲$13#国外串烧$6#蓝调爵士$117#club 舞曲$110#说唱歌曲$53#印度舞曲$47#Vocal House$43#Pure House$42#Club Dance$40#FunkyHouse$39#Mash Up$38#ElectroHouse$37#DutchHouse$36#英文歌曲$30#Club House$41#纯DJ音乐$121#Crooklyn$140#Dubstep$141#Tits Exclu$143#Chartbusters$144#Bounce EDM$146#Beezo BeeHive$147#Tech House$148#Headliner$149#Nothing$150#Rock$151#Techno$152#Transition$153#原味越鼓$184#Ibiza 舞曲$135#BigRoom$134#MyMP3Pool$133#Trap 舞曲$132#BarBangerz$131#Club Killers$130#House Dance$129#HouseFuture$128#Deep House$127#Deep 舞曲$126#Exclusive$124#Hip Hop$119#雷鬼音乐$118#无损中文舞曲$16#无损英文舞曲$17#无损中文歌曲$18#无损英文歌曲$19#无损串烧舞曲$33#车载3D音乐$116#外文3D舞曲$92#中文3D舞曲$93#8倍音质草原歌$137#8倍音质国外曲$138#8倍音质歌曲$164#中文抖音歌曲$168#英文抖音音乐$169#并四$67#自由步$82#广场舞曲$81#三步踩$80#拉丁$79#桑巴$78#摇并$77#吉特巴$76#探戈$75#恰恰$74#伦巴$73#慢三$72#中三$71#快三$70#慢四$69#快四$68#中四$66#华尔兹$139#中文的士高$166#国外的士高$167#DJ伴奏$165#",
         "分类二次截取": "<div class=\"sort\">&&<div class=\"s_com",
-        "分类数组": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/<a&&/a>",
+        "分类数组": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/<a&&/a>",
         "分类标题": ">&&<",
-        "分类ID": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/href=\"/music/id-&&-1.html",
+        "分类ID": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/href=\"/music/id-&&-1.html",
         "二次截取": "yinyue_list&&page_box",
-        "数组": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/<li&&</li",
+        "数组": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/<li&&</li",
         "图片": "https://www.ahadj.com/res/home/images/music_37.png",
         "链接": "href=\"&&\"",
         "简介": "-+Description\" content=\"&&\"",
         "跳转播放链接": "<video controls=\"true*src=\"&&\"",
-        "标题": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/<h*>&&</h",
-        "副标题": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/icon-huo\">&&</span"
+        "标题": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/<h*>&&</h",
+        "副标题": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/icon-huo\">&&</span"
       }
     },
     {
