@@ -74,31 +74,31 @@
     },
     {
       "name": "🍬移动🍬",
-      "url": "https://raw.githubusercontent.com/zhoujck/config/main/ext/移动",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/ext/移动",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
     {
       "name": "🍬联通🍬",
-      "url": "https://raw.githubusercontent.com/zhoujck/config/main/ext/联通",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/ext/联通",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
     {
       "name": "🍬电信🍬",
-      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
     {
       "name": "🍬优选🍬",
-      "url": "https://raw.githubusercontent.com/zhoujck/config/main/ext/live.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/ext/live.txt",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
     {
       "name": "Kimentanm",
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
       "source": "饭太硬3线"
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "南风直播源",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "source": "健康家用"
     },
@@ -224,13 +224,13 @@
     },
     {
       "name": "初秋语",
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
       "ua": "",
       "source": "高天流云js"
     },
     {
       "name": "Ray",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "ua": "",
       "source": "高天流云js"
     },
@@ -260,31 +260,31 @@
     },
     {
       "name": "YanG",
-      "url": "https://https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "suxuang",
-      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "Guovin1线",
-      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "mlzlzj",
-      "url": "https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "gambiarras",
-      "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
       "ua": "",
       "source": "clun"
     },
@@ -332,13 +332,13 @@
     },
     {
       "name": "裤佬",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
       "ua": "",
       "source": "东篱"
     },
     {
       "name": "Kimentanm3线",
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
       "source": "东篱"
     },
@@ -362,13 +362,13 @@
     },
     {
       "name": "develop2021线",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
       "source": "东篱"
     },
     {
       "name": "EPG直播",
-      "url": "http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
       "ua": "",
       "source": "东篱"
     },
@@ -392,13 +392,13 @@
     },
     {
       "name": "YanG1线",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "ua": "",
       "source": "东篱"
     },
     {
       "name": "suxuang1线",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "ua": "",
       "source": "东篱"
     },
@@ -470,19 +470,19 @@
     },
     {
       "name": "Kimentanm5线",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
       "source": "王二小3线"
     },
     {
       "name": "综合直播2线",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) ",
       "source": "王二小3线"
     },
     {
       "name": "Yoursmile",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "source": "南风"
     },
@@ -500,7 +500,7 @@
     },
     {
       "name": "线路②",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "okHttp/Mod-1.1.0",
       "source": "星微Vip"
     },
