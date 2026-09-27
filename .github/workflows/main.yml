@@ -40,13 +40,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests urllib3
 
-      # ========== 4. 从私库复制 data、python vip目录及 config.json、data.json ==========
+      # ========== 4. 从私库复制 data、python vip gitdl目录及 config.json、data.json ==========
       - name: 从私库复制指定目录和文件 📦
         run: |
           set -e
 
           # ✅ 需要从私库复制的目录列表
-          COPY_DIRS="data python vip"
+          COPY_DIRS="data python vip gitdl"
 
           # ✅ 需要从私库复制的文件列表
           COPY_FILES="config.json data.json"
@@ -109,6 +109,10 @@ jobs:
         continue-on-error: true
         run: python python/ry下载器.py
 
+      # ========== 8. 配置接口地址更新 ==========
+      - name: 配置接口地址更新
+        run: python gitdl/gitdl.py
+
       # ========== 8. tvbox 接口解密更新 ==========
       - name: tvbox接口解密更新
         run: python python/tvbox_get_api.py
@@ -122,8 +126,8 @@ jobs:
           # 先把所有变更加入暂存区
           git add -A
 
-          # 再把 python、data 目录从暂存区移除（不提交它们）
-          git reset -- python data
+          # 再把 python、data gitdl 目录从暂存区移除（不提交它们）
+          git reset -- python data gitdl
 
           # 如果还有其他变更则提交，否则提示无变更
           if git diff --cached --quiet; then
