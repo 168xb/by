@@ -1,0 +1,127 @@
+name: 测试
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: tvbox-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-interfaces:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+
+    env:
+      PRIVATE_REPO: '168xb/jkby'
+      PRIVATE_BRANCH: 'main'
+
+    steps:
+      # ========== 1. 检出当前仓库 ==========
+      - name: 检出代码 📥
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ========== 2. 设置 Python 环境（已去掉 cache: 'pip'）==========
+      - name: 设置Python环境 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ========== 3. 安装依赖 ==========
+      - name: 安装依赖 📦
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests urllib3
+
+      # ========== 4. 从私库复制 data、python vip gitdl目录及 config.json、data.json ==========
+      - name: 从私库复制指定目录和文件 📦
+        run: |
+          set -e
+
+          # ✅ 需要从私库复制的目录列表
+          COPY_DIRS="data python vip gitdl"
+
+          # ✅ 需要从私库复制的文件列表
+          COPY_FILES="config.json data.json"
+
+          echo "开始克隆私有仓库 ${PRIVATE_REPO} (branch: ${PRIVATE_BRANCH}) ..."
+          git clone --depth 1 --branch "${PRIVATE_BRANCH}" \
+            "https://x-access-token:${{ secrets.PRIVATE_REPO_TOKEN }}@github.com/${PRIVATE_REPO}.git" \
+            /tmp/private-repo
+
+          # 校验目标目录是否存在
+          for d in $COPY_DIRS; do
+            if [ ! -d "/tmp/private-repo/$d" ]; then
+              echo "错误: 私库中不存在 $d 目录"
+              exit 1
+            fi
+          done
+
+          # 校验目标文件是否存在
+          for f in $COPY_FILES; do
+            if [ ! -f "/tmp/private-repo/$f" ]; then
+              echo "错误: 私库中不存在 $f 文件"
+              exit 1
+            fi
+          done
+
+          # 逐个复制目录内的全部文件到工作目录
+          for d in $COPY_DIRS; do
+            echo "复制 $d -> ${{ github.workspace }}/$d"
+            mkdir -p "${{ github.workspace }}/$d"
+            cp -r /tmp/private-repo/$d/. "${{ github.workspace }}/$d/"
+          done
+
+          # 逐个复制文件到工作目录
+          for f in $COPY_FILES; do
+            echo "复制 $f -> ${{ github.workspace }}/$f"
+            cp -f "/tmp/private-repo/$f" "${{ github.workspace }}/$f"
+          done
+
+          echo "指定目录和文件已全部复制到工作目录"
+          rm -rf /tmp/private-repo
+
+      # ========== 5. 创建必要目录 ==========
+      - name: 创建必要目录 🗂️
+        run: |
+          mkdir -p ry
+          echo "必要目录已创建"
+
+      # ========== 6. 清空 ry 目录 ==========
+      - name: 清空ry目录 🗑️
+        run: |
+          if [ -d "ry" ]; then
+            rm -rf ry/*
+            echo "ry目录已清空"
+          else
+            echo "ry目录不存在，跳过清空"
+          fi
+
+      # ========== 8. 配置接口地址更新 ==========
+      - name: 配置接口地址更新
+        run: python gitdl/gitdl.py
+
+      # ========== 10. 提交变更到当前仓库（排除 python、data 目录）==========
+      - name: 提交变更 🚀
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # 先把所有变更加入暂存区
+          git add -A
+
+          # 再把 python gitdl 目录从暂存区移除（不提交它们）
+          git reset -- python gitdl
+
+          # 如果还有其他变更则提交，否则提示无变更
+          if git diff --cached --quiet; then
+            echo "没有变更可提交（除 python、data 外）"
+          else
+            git commit -m "更新接口数据 [skip ci]"
+            git push
+          fi
