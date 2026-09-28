@@ -6,7 +6,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
@@ -586,7 +586,7 @@
       "key": "儿童",
       "name": "儿童📚启蒙",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "https://gh.198962.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -594,7 +594,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+      "ext": "https://gh.198962.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
     {
       "key": "csp_少儿",
