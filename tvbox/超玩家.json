@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "超玩家影视⛅9月24🏜️修复部分线路📡删除部分失效线路🛰️",
+      "name": "超玩家影视⛅9月28🏜️修复部分线路📡删除部分失效线路🛰️",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -41,17 +41,6 @@
       }
     },
     {
-      "key": "移动",
-      "name": "🚴‍♂️移动┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "csp_Yidong4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
       "key": "王子",
       "name": "🤴王子┃影视",
       "type": 3,
@@ -66,33 +55,11 @@
       }
     },
     {
-      "key": "毒舌影视",
-      "name": "👅毒舌┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
-    },
-    {
-      "key": "永乐",
-      "name": "🌽永乐┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"
-    },
-    {
       "key": "独播库",
       "name": "📢播库┃影视",
       "type": 3,
       "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
-    },
-    {
-      "key": "戒",
-      "name": "👁️视界┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/界.py",
-      "changeable": 1
     },
     {
       "key": "华数",
@@ -101,20 +68,6 @@
       "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
       "changeable": 1
-    },
-    {
-      "key": "小镇",
-      "name": "🏘️小镇┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "梦幻影视专属",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html"
-      }
     },
     {
       "key": "py_咖啡直播",
@@ -128,37 +81,6 @@
       "quickSearch": 0,
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "山楂影视",
-      "name": "🌰山楂┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "csp_PianKu8"
-    },
-    {
-      "key": "飞娱影视",
-      "name": "🛫飞娱┃影视",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "csp_Feiyu"
-    },
-    {
-      "key": "马猴影视",
-      "name": "🦙马猴┃APP",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://45.150.167.18:8000",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
-      }
     },
     {
       "key": "剧圈99",
@@ -182,30 +104,6 @@
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
       "api": "csp_Duboku"
-    },
-    {
-      "key": "魔方",
-      "name": "💠魔方┃秒播",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://www.douy32mf.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      }
-    },
-    {
-      "key": "爱看机器人",
-      "name": "👁️‍🗨️爱看┃秒播",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "葫芦",
@@ -240,24 +138,6 @@
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us"
-    },
-    {
-      "key": "一起",
-      "name": "👀一起看┃影视",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "csp_AppYQK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "永乐影视",
-      "name": "🎡永乐┃影视",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "csp_XBPQ",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
     },
     {
       "key": "七猫短剧",
@@ -309,17 +189,6 @@
       "api": "csp_AppRJ",
       "timeout": 12,
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "AiKan_Spider",
-      "name": "👀爱看┃剧场",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iQrKM46ga5ah&pwd=bggt",
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "csp_Wwys",

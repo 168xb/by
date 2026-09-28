@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20260927_230918
+TVBox 接口抓取报告  20260928_132003
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -326,11 +326,6 @@ TVBox 接口抓取报告  20260927_230918
   文件: tvbox/盒子迷.json
   成功URL: https://盒子迷.top/禁止贩卖
 
-[兔小贝①] okhttp/3.15
-  状态: TEXT
-  文件: tvbox/兔小贝①.json
-  成功URL: https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
-
 [聚合] okhttp/3.15
   状态: JSON
   文件: tvbox/聚合.json
@@ -461,10 +456,10 @@ TVBox 接口抓取报告  20260927_230918
   文件: None
   成功URL: 
 
-[Easy] okhttp/3.15
-  状态: TEXT
-  文件: tvbox/Easy.json
-  成功URL: http://ko.zoho.to/ii/76171.txt
+[Easy] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [戏曲] okhttp/3.15
   状态: JSON
@@ -566,9 +561,9 @@ TVBox 接口抓取报告  20260927_230918
   文件: tvbox/源力forever.json
   成功URL: https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json
 
-[兔小贝②] okhttp/3.15
+[兔小贝] okhttp/3.15
   状态: JSON
-  文件: tvbox/兔小贝②.json
+  文件: tvbox/兔小贝.json
   成功URL: https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b1.json
 
 [网盘扫码4K] okhttp/3.15
