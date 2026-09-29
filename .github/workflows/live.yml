@@ -30,6 +30,21 @@ jobs:
       PRIVATE_BRANCH: 'main'
 
     steps:
+      # ========== 0. 上游触发时，等待 10 分钟 ==========
+      - name: 等待 10 分钟（仅上游触发）⏳
+        if: ${{ github.event_name == 'workflow_run' }}
+        run: |
+          echo "上游「接口搬运备份」已完成，开始等待 10 分钟再执行聚合 ..."
+          TOTAL=600
+          INTERVAL=60
+          ELAPSED=0
+          while [ "$ELAPSED" -lt "$TOTAL" ]; do
+            sleep "$INTERVAL"
+            ELAPSED=$((ELAPSED + INTERVAL))
+            echo "已等待 ${ELAPSED}s / ${TOTAL}s"
+          done
+          echo "等待结束，开始执行聚合流程。"
+
       # ========== 1. 检出当前仓库 ==========
       - name: 检出当前仓库 📥
         uses: actions/checkout@v4
