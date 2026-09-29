@@ -145,7 +145,7 @@ jobs:
 
       # ========== 8. 整理直播源地址 ==========
       - name: 整理直播源
-        run: python gitdl/zbzl.py
+        run: python python/zbzl.py
 
       # ========== 9. 汇总输出产物 ==========
       - name: 汇总输出产物 📊
