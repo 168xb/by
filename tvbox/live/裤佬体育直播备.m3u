@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="👖裤佬体育直播[备]",👖裤佬体育直播[备]
+#EXTM3U
+# 大米直播 - 实时全线路源
+# 北京时间: 2026/9/29 23:08:18
+# 当前直播场次: 8 场
+
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
+https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清K)",[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清K)
+https://hello.ooo0ooo.top/live/4650717.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清B)",[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4650717.m3u8?txSecret=a55df58c58c136a7f884055b9b824270&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清J)",[22:35] 阿尔富伊拉 VS 贾兹拉哈姆拉 (高清J)
+https://live1.dyrur1.com/live/14513905_9d807e0db9c0cfaffe174c333c7d90ed_1080p.m3u8?auth_key=1790707760-0-0-330d94e02baa1825e85be0f11341f014
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清K)",[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清K)
+https://hello.ooo0ooo.top/live/4650718.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清B)",[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4650718.m3u8?txSecret=68a6a0cfb9e9c159f43e2b0f45ed0be1&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿联杯" tvg-name="[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清J)",[22:40] 棕榈城 VS 迪巴阿尔胡桑 (高清J)
+https://live.dyrur1.com/live/75065804_a2aac8cd4dd0496fd897b027e67e9516_1080p.m3u8?auth_key=1790707759-0-0-3224277f580465d1fd3fb4266d55f5b1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="不丹超" tvg-name="[20:00] 竹巴FC VS 运输联 (高清K)",[20:00] 竹巴FC VS 运输联 (高清K)
+https://hello.ooo0ooo.top/live/4628645.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="非洲杯" tvg-name="[22:00] 马达加斯加 VS 坦桑尼亚 (高清K)",[22:00] 马达加斯加 VS 坦桑尼亚 (高清K)
+https://hello.ooo0ooo.top/live/4642707.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="非洲杯" tvg-name="[22:00] 马达加斯加 VS 坦桑尼亚 (高清B)",[22:00] 马达加斯加 VS 坦桑尼亚 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4642707.m3u8?txSecret=c59ff4af351e1276ed37efd18a898f8b&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="非洲杯" tvg-name="[22:00] 马达加斯加 VS 坦桑尼亚 (高清J)",[22:00] 马达加斯加 VS 坦桑尼亚 (高清J)
+https://live.dyrur1.com/live/74372558_9682278249643c9ec34a4ad28d00466a_1080p.m3u8?auth_key=1790705561-0-0-69dd4adebe1164e60133e7b45301d9f1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[22:00] 英格兰U19 VS 挪威U19 (高清K)",[22:00] 英格兰U19 VS 挪威U19 (高清K)
+https://hello.ooo0ooo.top/live/4650054.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清K)",[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清K)
+https://hello.ooo0ooo.top/live/4336611.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清B)",[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4336611.m3u8?txSecret=0f803eeda754eabf54fb3227482e0aea&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清J)",[22:00] 斯洛文尼亚U21 VS 以色列U21 (高清J)
+https://live.dyrur1.com/live/58209137_0a0c5f81798f49546af3c40d73b70bfb_1080p.m3u8?auth_key=1790708648-0-0-80e01d0a8582a16672d5d261705fff64
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[23:00] 冰岛U21 VS 瑞士U21 (高清K)",[23:00] 冰岛U21 VS 瑞士U21 (高清K)
+https://hello.ooo0ooo.top/live/4336501.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[23:00] 冰岛U21 VS 瑞士U21 (高清B)",[23:00] 冰岛U21 VS 瑞士U21 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4336501.m3u8?txSecret=faa2eee49966728deafe89e8629da053&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧青U21外" tvg-name="[23:00] 冰岛U21 VS 瑞士U21 (高清J)",[23:00] 冰岛U21 VS 瑞士U21 (高清J)
+https://live.dyrur1.com/live/58208627_8dbb414b4b8b42944b6018bdd4f93e28_1080p.m3u8?auth_key=1790708649-0-0-224fa21dca89dfcf6a086646d46639cd
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="西亚锦" tvg-name="[22:45] 阿拉比 VS 戈尔甘城市 (高清K)",[22:45] 阿拉比 VS 戈尔甘城市 (高清K)
+https://hello.ooo0ooo.top/live/3943541.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="西亚锦" tvg-name="[22:45] 阿拉比 VS 戈尔甘城市 (高清B)",[22:45] 阿拉比 VS 戈尔甘城市 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3943541.m3u8?txSecret=bd592105e824d6adb0978d340c2f5835&txTime=6ABD25D0
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="西亚锦" tvg-name="[22:45] 阿拉比 VS 戈尔甘城市 (高清J)",[22:45] 阿拉比 VS 戈尔甘城市 (高清J)
+https://live.dyrur1.com/live/14513909_3ca8917d3b264dc83f7518d062351fb1_1080p.m3u8?auth_key=1790707759-0-0-420226b00a7409e1eefa8e0b784e716c
