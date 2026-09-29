@@ -134,6 +134,15 @@ jobs:
             echo "tvbox/live目录不存在，跳过清空"
           fi
 
+      # ========== 7. 执行脚本 ==========
+      - name: 运行直播源下载工具 ▶️
+        run: |
+          cd python
+          python "live直播源下载.py" --force
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUNBUFFERED: "1"
+
       # ========== 8. 整理直播源地址 ==========
       - name: 整理直播源
         run: python python/zbzl.py
