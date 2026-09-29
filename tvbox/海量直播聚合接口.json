@@ -74,19 +74,19 @@
     },
     {
       "name": "🍬电信🍬",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "okhttp/3.15",
       "source": "周J"
     },
     {
       "name": "Ray",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "ua": "",
       "source": "采集"
     },
     {
       "name": "南风直播源",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "source": "健康家用"
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "develop202",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
       "source": "余生的客栈"
     },
@@ -152,13 +152,13 @@
     },
     {
       "name": "V4聚合（卡顿请按左┃右键换线）",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
       "ua": "",
       "source": "余生的客栈"
     },
     {
       "name": "V6",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "ua": "",
       "source": "余生的客栈"
     },
@@ -386,13 +386,13 @@
     },
     {
       "name": "🍿涛涛TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png",
       "ua": "",
       "source": "裤佬"
     },
     {
       "name": "🍿华视TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv",
       "ua": "",
       "source": "裤佬"
     },
@@ -440,31 +440,31 @@
     },
     {
       "name": "🐉宸龙TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png",
       "ua": "",
       "source": "豆半"
     },
     {
       "name": "🐉一线TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "ua": "",
       "source": "豆半"
     },
     {
       "name": "🐉三线TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
       "ua": "",
       "source": "豆半"
     },
     {
       "name": "🐉香雨TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt",
       "ua": "",
       "source": "豆半"
     },
     {
       "name": "🐉易发TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "ua": "",
       "source": "豆半"
     },
@@ -512,13 +512,13 @@
     },
     {
       "name": "migu720",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
       "ua": "",
       "source": "盒子迷"
     },
     {
       "name": "iTV",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
       "ua": "",
       "source": "盒子迷"
     },
@@ -548,7 +548,7 @@
     },
     {
       "name": "平安视界",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
       "ua": "okhttp/3.15",
       "source": "平安"
     },
@@ -572,7 +572,7 @@
     },
     {
       "name": "内测4Gtv",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
       "ua": "Goiptv/8.8.8",
       "source": "平安"
     },
@@ -638,25 +638,25 @@
     },
     {
       "name": "YanG",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "Guovin1线",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "mlzlzj",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
       "ua": "",
       "source": "clun"
     },
     {
       "name": "gambiarras",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
       "ua": "",
       "source": "clun"
     },
@@ -710,7 +710,7 @@
     },
     {
       "name": "裤佬",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
       "ua": "",
       "source": "东篱"
     },
@@ -722,7 +722,7 @@
     },
     {
       "name": "EPG直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
       "ua": "",
       "source": "东篱"
     },
@@ -1004,7 +1004,7 @@
     },
     {
       "name": "📺裤佬TV直播",
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
       "ua": "",
       "source": "七星在线"
     },

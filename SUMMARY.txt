@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20260928_132003
+TVBox 接口抓取报告  20260929_173226
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -36,20 +36,15 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/嗷呜.json
   成功URL: http://www.英格里希嗷呜.top/tv
 
-[肥猫] okhttp/3.15
-  状态: JSON
-  文件: tvbox/肥猫.json
-  成功URL: http://肥猫.net/tv
+[肥猫] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [王二小] okhttp/3.15
   状态: JSON
   文件: tvbox/王二小.json
   成功URL: https://9280.kstore.vip/aiwex.json
-
-[集多] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [摸鱼] okhttp/3.15
   状态: JSON
@@ -66,16 +61,6 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/嗨哥魔改.json
   成功URL: https://api.hgyx.vip/hgyx.json
 
-[讴歌] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[香雅情] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [老张] okhttp/3.15
   状态: JSON
   文件: tvbox/老张.json
@@ -90,11 +75,6 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/小马.json
   成功URL: https://szyyds.cn/tv/x.json
-
-[驸马] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [菜妮丝] okhttp/3.15
   状态: JSON
@@ -146,35 +126,15 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/聚玩.json
   成功URL: http://xhztv.top/xhz
 
-[道长] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[小苹果] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [哈吉米] okhttp/3.15
   状态: JSON
   文件: tvbox/哈吉米.json
   成功URL: https://17264.kstore.space/哈基米.png
 
-[真六] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [动漫] okhttp/3.15
   状态: JSON
   文件: tvbox/动漫.json
   成功URL: https://www.yingm.cc/dm/dm.json
-
-[短剧] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [小虎斑] okhttp/3.15
   状态: TEXT
@@ -190,26 +150,6 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/健康家用.json
   成功URL: https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
-
-[巧计线路] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[欧歌4K] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[影探线路] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[无意线路] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [凯弟] okhttp/3.15
   状态: JSON
@@ -250,11 +190,6 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/机缘巧盒.json
   成功URL: https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json
-
-[TG合集] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [豆包] okhttp/3.15
   状态: JSON
@@ -301,20 +236,10 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/茄子.json
   成功URL: https://700sjro44343.vicp.fun/eggp/qiezi/tv.php
 
-[丰之玲] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [宝盒] okhttp/3.15
   状态: JSON
   文件: tvbox/宝盒.json
   成功URL: http://xn--6orr3pi6g9uu.top
-
-[宫殿] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [余生的客栈] okhttp/3.15
   状态: JSON
@@ -361,85 +286,25 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/资源站.json
   成功URL: https://gitee.com/lu3589/776/raw/main/0/x4c.json
 
-[澜露] okhttp/3.15
-  状态: JSON
-  文件: tvbox/澜露.json
-  成功URL: https://gitee.com/hulanlu/04/raw/master/lanlu.json
+[澜露] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [HG] okhttp/3.15
   状态: TEXT
   文件: tvbox/HG.json
   成功URL: https://api.hgyx.vip/hgyx.json
 
-[多多] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [天微] okhttp/3.15
   状态: JSON
   文件: tvbox/天微.json
   成功URL: https://15487.kstore.space/%E5%A4%A9%E5%BE%AE.txt
 
-[欧歌0905] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[欧歌①] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[欧歌②] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [超玩家] okhttp/3.15
   状态: JSON
   文件: tvbox/超玩家.json
   成功URL: https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj
-
-[巧记] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[新肥猫] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[摸鱼新] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[摸鱼4K] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[凯速摸鱼] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[凯速潇洒] okhttp/3.15
-  状态: JSON
-  文件: tvbox/凯速潇洒.json
-  成功URL: https://9877.kstore.space/sun.json
-
-[无意云①] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[无意云②] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [二月红] okhttp/3.15
   状态: TEXT
@@ -451,25 +316,10 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/卡卡.json
   成功URL: https://jikefuye.cn/tvbox.json
 
-[日后] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
-[Easy] 
-  状态: FAILED
-  文件: None
-  成功URL: 
-
 [戏曲] okhttp/3.15
   状态: JSON
   文件: tvbox/戏曲.json
   成功URL: http://mzrjk.top/唱戏
-
-[公子短剧] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [盒子短剧] okhttp/3.15
   状态: JSON
@@ -506,6 +356,11 @@ TVBox 接口抓取报告  20260928_132003
   文件: tvbox/酷喵③.json
   成功URL: https://15487.kstore.space/%E9%85%B73.txt
 
+[蜀山] okhttp/3.15
+  状态: JSON
+  文件: tvbox/蜀山.json
+  成功URL: https://raw.githubusercontent.com/tianjitop/xiaosa/main/sun.json
+
 [南风] okhttp/3.15
   状态: JSON
   文件: tvbox/南风.json
@@ -515,11 +370,6 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/周J.json
   成功URL: https://raw.githubusercontent.com/zhoujck/config/main/box
-
-[小米] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [心魔] okhttp/3.15
   状态: JSON
@@ -545,11 +395,6 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/高天流云_XYQ.json
   成功URL: https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
-
-[蜀山] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [裤佬] okhttp/3.15
   状态: JSON
@@ -595,9 +440,4 @@ TVBox 接口抓取报告  20260928_132003
   状态: JSON
   文件: tvbox/非凡晓晓.json
   成功URL: https://raw.githubusercontent.com/jigedos/1024/master/jsm.json
-
-[欧歌] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
