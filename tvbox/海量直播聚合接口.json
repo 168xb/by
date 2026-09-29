@@ -397,6 +397,12 @@
       "source": "裤佬"
     },
     {
+      "name": "🍿易发TV直播",
+      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
       "name": "🍿乌拉TV直播",
       "url": "https://ilook.epg.one/5CM5SY98BF24PL/2",
       "ua": "",
@@ -409,7 +415,13 @@
       "source": "裤佬"
     },
     {
-      "name": "⚠️神秘彩蛋直播",
+      "name": "🏆PPV赛事直播",
+      "url": "https://www.korice.eu.org/ppv_m3u.php",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "⚠️神秘彩蛋[实时直播]",
       "url": "https://caonimama.pages.dev/live.m3u",
       "ua": "",
       "source": "裤佬"
@@ -459,12 +471,6 @@
     {
       "name": "🐉香雨TV直播",
       "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt",
-      "ua": "",
-      "source": "豆半"
-    },
-    {
-      "name": "🐉易发TV直播",
-      "url": "https://gh.198962.xyz/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "ua": "",
       "source": "豆半"
     },
@@ -1039,9 +1045,15 @@
       "source": "七星在线"
     },
     {
-      "name": "线路①",
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "ua": "okhttp/3",
+      "name": "线路②",
+      "url": "http://124.77.202.8:49155",
+      "ua": "",
+      "source": "星微Vip"
+    },
+    {
+      "name": "线路③",
+      "url": "https://live.445569.xyz/live.m3u",
+      "ua": "",
       "source": "星微Vip"
     },
     {
