@@ -1045,14 +1045,8 @@
       "source": "七星在线"
     },
     {
-      "name": "线路②",
-      "url": "http://124.77.202.8:49155",
-      "ua": "",
-      "source": "星微Vip"
-    },
-    {
-      "name": "线路③",
-      "url": "https://live.445569.xyz/live.m3u",
+      "name": "线路⑤",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
       "ua": "",
       "source": "星微Vip"
     },
@@ -1103,12 +1097,6 @@
       "url": "https://pan.shangui.cc/f/xamXtZ/%E5%87%AF%E5%BC%9F.txt",
       "ua": "",
       "source": "机缘巧盒"
-    },
-    {
-      "name": "☁️风云直播☁️",
-      "url": "http://iptv.4666888.xyz/FYTV.m3u",
-      "ua": "",
-      "source": "TVbox精品"
     }
   ]
 }

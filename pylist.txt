@@ -96,7 +96,7 @@ nmvm|📺央视直播|type: 3|api: http://xn--oev29b.top/files/py/央视网.py
 多多0影视|💕 多多影视.py(缝合)|type: 3|api: https://lytvs.top/py/duoduoyingshi.py
 戒|🐌┃视界┃秒播|type: 3|api: https://盒子迷.top/py/界.py
 山有木兮|🌳┃木兮┃秒播|type: 3|api: http://mytv6688.xyz/pyplugin/木兮.py
-py_文才|聚合🥇三方🥇文才🥇影视 [0.4s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py
+py_文才|聚合🥇三方🥇文才🥇影视 [0.3s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py
 苹果py|🌟┃苹果┃短剧|type: 3|api: https://盒子迷.top/py/hgdj.py
 瓜子影视|酷喵🐱瓜子|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py
 bilibili|B站｜星源|type: 3|api: https://11405.kstore.space/xiaye/js/哔哩合集.py
@@ -140,7 +140,7 @@ py_4KAV|4KAV[py]|type: 3|api: https://clun.top/py/4KAV.py
 py_YYMP3|YYMP3[py]|type: 3|api: https://clun.top/py/yymp3.py
 MiFun|MiFun｜动漫|type: 3|api: https://clun.top/py/MiFunP.py
 CliCli|CliCli｜动漫|type: 3|api: https://clun.top/py/CliCli动漫.py
-看剧影视|聚合三方🥇看剧🥇影视 [0.5s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
+看剧影视|聚合三方🥇看剧🥇影视 [0.2s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
 猎手|聚合三方🥇猎手🥇聚合资源，部分有广 [0.3s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py
 央视|聚合三方央视🥇影视 [0.4s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py
 山楂影视|💥｜山楂 | 影视|type: 3|api: https://chigua.eu.org/py/山楂影视.py
@@ -196,13 +196,6 @@ jieys|界影视|type: 3|api: https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/re
 河马短剧|河马短剧|type: 3|api: https://gh.198962.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py
 央库云|🥇央视🔹大全|type: 3|api: https://7337.kstore.vip/xw/py/央库云.py
 央视影视|🥇央视🔹栏目|type: 3|api: https://7337.kstore.vip/xw/py/央视影视.py
-py_金牌|☀金牌🔹天微|type: 3|api: https://7337.kstore.vip/xw/py/金牌影视.py
-py_可可|☀呵呵🔹影院|type: 3|api: https://7337.kstore.vip/xw/py/可可.py
-py_独播库|☀独播🔹影库|type: 3|api: https://7337.kstore.vip/xw/py/独播库.py
-py_瓜子|☀呱子🔹影拭|type: 3|api: https://7337.kstore.vip/xw/py/瓜娃子.py
-py_瓜瓜子|☀呱子🔹备用|type: 3|api: https://7337.kstore.vip/xw/py/瓜子.py
-py_西瓜网|☀西瓜🔹影拭|type: 3|api: https://7337.kstore.vip/xw/py/西瓜影视.py
-py_枫叶|☀枫叶🔹4K线|type: 3|api: https://7337.kstore.vip/xw/py/枫叶影院.py
 py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
 py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
 py_华数|☀华数🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/华数.py
@@ -213,5 +206,12 @@ kwms|🎶裤硪丨音乐合集|type: 3|api: https://wget.la/raw.githubuserconten
 裤佬爱剧PY|酷喵🐱皮皮虾|type: 3|api: https://gh.198962.xyz/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py
 smdj|酷喵🐱星芽短剧②|type: 3|api: https://gh.198962.xyz/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星芽短剧.py
 hmjc|酷喵🐱河马剧场②|type: 3|api: https://gh.198962.xyz/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py
+py_金牌|☀金牌🔹天微|type: 3|api: https://7337.kstore.vip/xw/py/金牌影视.py
+py_可可|☀呵呵🔹影院|type: 3|api: https://7337.kstore.vip/xw/py/可可.py
+py_独播库|☀独播🔹影库|type: 3|api: https://7337.kstore.vip/xw/py/独播库.py
+py_瓜子|☀呱子🔹影拭|type: 3|api: https://7337.kstore.vip/xw/py/瓜娃子.py
+py_瓜瓜子|☀呱子🔹备用|type: 3|api: https://7337.kstore.vip/xw/py/瓜子.py
+py_西瓜网|☀西瓜🔹影拭|type: 3|api: https://7337.kstore.vip/xw/py/西瓜影视.py
+py_枫叶|☀枫叶🔹4K线|type: 3|api: https://7337.kstore.vip/xw/py/枫叶影院.py
 py_蛋挞|蛋挞影视[py]|type: 3|api: https://clun.top/py/dantatv.py
 csp_AppXY|🎦星雅🔹短剧|type: 3|api: https://7337.kstore.vip/xw/lib/XYDJ.py
