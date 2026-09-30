@@ -1,17 +1,15 @@
-TVBox 抓取失败接口报告  20260929_173226
+TVBox 抓取失败接口报告  20260930_172415
 ==============================================================
 失败接口数: 2 / 总数: 88
 ==============================================================
 
-[1] 肥猫
-    状态: FAILED
-    尝试过的源 (3 个):
-      - http://肥猫.net/tv
-      - http://jk.catvod.site
-      - https://jk.catvod.site
-
-[2] 澜露
+[1] 澜露
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitee.com/hulanlu/04/raw/master/lanlu.json
+
+[2] 源力forever
+    状态: FAILED
+    尝试过的源 (1 个):
+      - https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json
 

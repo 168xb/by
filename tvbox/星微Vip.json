@@ -3,15 +3,16 @@
   "logo": "https://7337.kstore.vip/xw/dong.gif",
   "sites": [
     {
-      "key": "csp_Douban",
-      "name": "星微汇｜仅限测试试用，禁止传播贩卖(0901)",
+      "name": "星微汇｜仅限测试试用，禁止传播贩卖(1001)",
+      "key": "Douban",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "timeout": 60,
+      "api": "csp_DoubanAmns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
       "indexs": 1,
-      "ext": "https://7337.kstore.vip/xw/js/douban.json"
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "Douban"
     },
     {
       "key": "配置中心",
@@ -118,17 +119,49 @@
       }
     },
     {
-      "key": "py_金牌",
       "name": "☀金牌🔹天微",
+      "key": "JinPai",
       "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/金牌影视.py",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
-      }
+      "api": "csp_JinPaiAmns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "☀金牌🔹备用",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+    {
+      "name": "☀呱子🔹影拭",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Guazi"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "☀呱子🔹备用",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
+      "name": "☀小柚🔹秒播",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xyz"
     },
     {
       "key": "Cat_荐片",
@@ -146,6 +179,43 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "name": "☀牛马🔹秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "key": "好好看",
+      "name": "☀好看🔹秒播",
+      "type": 3,
+      "api": "https://7337.kstore.vip/xw/js/pack.js",
+      "ext": {
+        "appid": "hkan",
+        "channelid": "c300000",
+        "versionName": "3.3.9",
+        "host": "https://vcache.shkjbd.com",
+        "package": "com.hkanC300000V250930.T120445",
+        "sort": "dujia1,dujia",
+        "lineCount": 1
+      }
+    },
+    {
+      "name": "☀自建🔹秒播",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Mtq"
     },
     {
       "key": "电影天堂",
@@ -187,85 +257,15 @@
       ]
     },
     {
-      "key": "半日99",
-      "name": "☀半日🔹蓝光",
+      "name": "☀华人🔹秒播",
+      "key": "AppV7Xhr",
       "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
-      "key": "剧圈99",
-      "name": "☀剧圈🔹秒播",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "橘汁",
-      "name": "☀橘子🔹秒播",
-      "type": 3,
-      "api": "csp_AppDrama",
+      "api": "csp_AppV7Amns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
-        "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.3",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "py_可可",
-      "name": "☀呵呵🔹影院",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/可可.py",
-      "searchable": 1,
       "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "华谊",
-      "name": "☀华亿🔹蓝光",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "华谊",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
-        "decrypt": "1"
-      }
+      "ext": "AppV7Xhr"
     },
     {
       "key": "cat_旺旺网",
@@ -279,15 +279,15 @@
       "changeable": 1
     },
     {
-      "key": "py_独播库",
       "name": "☀独播🔹影库",
+      "key": "Dubk",
       "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/独播库.py",
+      "api": "csp_DubkAmns",
+      "jar": "https://7337.kstore.vip/xw/js/aw.png",
       "searchable": 1,
-      "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "changeable": 1,
+      "ext": "Dubk"
     },
     {
       "key": "cat_优夏网",
@@ -301,28 +301,6 @@
       "changeable": 1
     },
     {
-      "key": "py_瓜子",
-      "name": "☀呱子🔹影拭",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/瓜娃子.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "py_瓜瓜子",
-      "name": "☀呱子🔹备用",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/瓜子.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "农民影视",
       "name": "☀农民🔹影拭",
       "type": 3,
@@ -331,28 +309,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://7337.kstore.vip/xw/lib/农民影视.json"
-    },
-    {
-      "key": "py_西瓜网",
-      "name": "☀西瓜🔹影拭",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/西瓜影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "py_枫叶",
-      "name": "☀枫叶🔹4K线",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/枫叶影院.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
     },
     {
       "key": "cat_非凡网",
@@ -493,6 +449,41 @@
         "ratio": 1
       },
       "changeable": 1
+    },
+    {
+      "key": "半日99",
+      "name": "☀半日🔹蓝光",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "华谊",
+      "name": "☀华亿🔹蓝光",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      }
     },
     {
       "key": "360zy",
@@ -835,20 +826,12 @@
     {
       "name": "线路②",
       "type": 0,
-      "url": "http://124.77.202.8:49155"
+      "playerType": 2,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
       "name": "线路③",
-      "type": 0,
-      "url": "https://live.445569.xyz/live.m3u"
-    },
-    {
-      "name": "线路④",
-      "type": 1,
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
-    },
-    {
-      "name": "线路⑤",
       "type": 0,
       "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "timeout": 10,
@@ -856,6 +839,23 @@
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,http://epg.51zmt.top:8000/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0"
+    },
+    {
+      "name": "线路④",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+    },
+    {
+      "name": "线路⑤",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "header": {
+        "User-Agent": "okhttp/5.1.0"
+      }
+    },
+    {
+      "name": "线路⑥",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
     }
   ],
   "parses": [
