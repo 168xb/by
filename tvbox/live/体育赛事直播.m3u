@@ -3,33 +3,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="蒙古超 克布多 vs 乌兰巴托FC" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/455b85f583d273127160e78383f25211.png" group-title="足球",蒙古超 克布多 vs 乌兰巴托FC
-http://47.100.99.38:28989/football/8505058
-#EXTINF:-1 tvg-name="印班超 马德拉斯工兵 vs 科达古" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 马德拉斯工兵 vs 科达古
-http://47.100.99.38:28989/football/8517456
-#EXTINF:-1 tvg-name="中冠 广州志诚 vs 重庆瀚达" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/2dab9bf127c0542fd6937a781ae85624.png" group-title="足球",中冠 广州志诚 vs 重庆瀚达
-http://47.100.99.38:28989/football/8448225
-#EXTINF:-1 tvg-name="国际友谊 韩国U18 vs 英格兰U18" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="足球",国际友谊 韩国U18 vs 英格兰U18
-http://47.100.99.38:28989/football/8514193
-#EXTINF:-1 tvg-name="国际友谊 哥伦比亚U18 vs 埃及U18" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="足球",国际友谊 哥伦比亚U18 vs 埃及U18
-http://47.100.99.38:28989/football/8514195
-#EXTINF:-1 tvg-name="国际友谊 苏格兰U19 vs 乌克兰U19" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="足球",国际友谊 苏格兰U19 vs 乌克兰U19
-http://47.100.99.38:28989/football/8516896
-#EXTINF:-1 tvg-name="缅甸U20 治尼兰德U20 vs 仰光联U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 治尼兰德U20 vs 仰光联U20
-http://47.100.99.38:28989/football/8517362
-#EXTINF:-1 tvg-name="缅甸U20 仰光城U20 vs 伊洛瓦底U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 仰光城U20 vs 伊洛瓦底U20
-http://47.100.99.38:28989/football/8517367
-#EXTINF:-1 tvg-name="东盟杯 东帝汶 vs 柬埔寨" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/75b6ce8a3018d34793e1aa86ec375795.png" group-title="足球",东盟杯 东帝汶 vs 柬埔寨
-http://47.100.99.38:28989/football/8499576
-#EXTINF:-1 tvg-name="菲MPBL 帕西格市 vs 奎松城首都" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/a07e13b5b4e03beb0e060907570dd569.png" group-title="篮球",菲MPBL 帕西格市 vs 奎松城首都
-http://47.100.99.38:28989/basketball/8516646
-#EXTINF:-1 tvg-name="EPL东南亚 Direborn vs InterActive" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/FoNI29yRScLYYB3jKIGGF9RbtQ_O" group-title="电竞",EPL东南亚 Direborn vs InterActive
-http://47.100.99.38:28989/esport/25300
-#EXTINF:-1 tvg-name="欧洲职业联赛 Leo vs mellren" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrC0cjS3u0k88RgCLfbIeurC7yCA" group-title="电竞",欧洲职业联赛 Leo vs mellren
-http://47.100.99.38:28989/esport/25523
-#EXTINF:-1 tvg-name="ESN 秋季 5star vs Bronuud" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FuL6k8dX6Bpn5SPmXcBmtLj1LtWZ" group-title="电竞",ESN 秋季 5star vs Bronuud
-http://47.100.99.38:28989/esport/25543
-#EXTINF:-1 tvg-name="1xBet FRAG 第十八 ARCRED vs BW" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FovIsuz2qhtQQC6WXh_pwKeL3jlm" group-title="电竞",1xBet FRAG 第十八 ARCRED vs BW
-http://47.100.99.38:28989/esport/25544
-#EXTINF:-1 tvg-name="WSCI邀请赛 T1.EA vs Galions" tvg-logo="https://esports-cdn.namitiyu.com/lol/tournament/Fo6aKqQmJlFU9b70Odm_EKgc20is" group-title="电竞",WSCI邀请赛 T1.EA vs Galions
-http://47.100.99.38:28989/esport/24663
+#EXTINF:-1 tvg-name="柬杯 贡布 vs 西哈努克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/7463400dbf76d06cba424f4365bacd81.png" group-title="足球",柬杯 贡布 vs 西哈努克
+http://47.100.99.38:28989/football/8518104
+#EXTINF:-1 tvg-name="柬杯 高岗 vs 白马" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/7463400dbf76d06cba424f4365bacd81.png" group-title="足球",柬杯 高岗 vs 白马
+http://47.100.99.38:28989/football/8518105
+#EXTINF:-1 tvg-name="缅甸U20 银河U20 vs 汉达瓦底联U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 银河U20 vs 汉达瓦底联U20
+http://47.100.99.38:28989/football/8518103
+#EXTINF:-1 tvg-name="菲NCAA CSB开拓者 vs UPHSD阿尔塔斯" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA CSB开拓者 vs UPHSD阿尔塔斯
+http://47.100.99.38:28989/basketball/8517790
+#EXTINF:-1 tvg-name="NBL 塔斯马尼亚跳伞蚁 vs 墨尔本联" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/75ea0c3c22789700eeaf2c8047450d82.png" group-title="篮球",NBL 塔斯马尼亚跳伞蚁 vs 墨尔本联
+http://47.100.99.38:28989/basketball/8447830
+#EXTINF:-1 tvg-name="CCT 2026 欧洲 MASONIC vs Lavked" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 MASONIC vs Lavked
+http://47.100.99.38:28989/esport/25599
+#EXTINF:-1 tvg-name="EPL东南亚 Xipto Esports vs Direborn" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/FoNI29yRScLYYB3jKIGGF9RbtQ_O" group-title="电竞",EPL东南亚 Xipto Esports vs Direborn
+http://47.100.99.38:28989/esport/25309
+#EXTINF:-1 tvg-name="福克斯传承 第一季 Navi Junior vs ABT" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FuDWtTG2t-CAAArn3R8TWshcTMFk" group-title="电竞",福克斯传承 第一季 Navi Junior vs ABT
+http://47.100.99.38:28989/esport/25552
+#EXTINF:-1 tvg-name="福克斯传承 第一季 aimclub vs Falcons Force" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FuDWtTG2t-CAAArn3R8TWshcTMFk" group-title="电竞",福克斯传承 第一季 aimclub vs Falcons Force
+http://47.100.99.38:28989/esport/25553
+#EXTINF:-1 tvg-name="斯泰克排位赛 B8 vs Luminosity" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Frs4cLk6bLu5n0exWH1G90njyWcg" group-title="电竞",斯泰克排位赛 B8 vs Luminosity
+http://47.100.99.38:28989/esport/24059
+#EXTINF:-1 tvg-name="ESN 秋季 Bronuud vs 1337" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FuL6k8dX6Bpn5SPmXcBmtLj1LtWZ" group-title="电竞",ESN 秋季 Bronuud vs 1337
+http://47.100.99.38:28989/esport/25616
+#EXTINF:-1 tvg-name="独联体LAN锦标赛 UPGRADE vs Krytiepacani" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FoI9XSTuLpijf8vO21YW7-sVE4UJ" group-title="电竞",独联体LAN锦标赛 UPGRADE vs Krytiepacani
+http://47.100.99.38:28989/esport/25619
