@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20260930_172415
+TVBox 接口抓取报告  20261001_175057
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -114,7 +114,7 @@ TVBox 接口抓取报告  20260930_172415
 [时光] okhttp/3.15
   状态: TEXT
   文件: tvbox/时光.json
-  成功URL: https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json
+  成功URL: https://jiekou.netlify.app/svip.json
 
 [东篱] okhttp/3.15
   状态: JSON
