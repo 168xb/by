@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="📺体育赛事直播",📺体育赛事直播
+#EXTM3U
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
+#EXTINF:-1 tvg-name="印班超 班加罗尔B队 vs 班加罗尔城" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 班加罗尔B队 vs 班加罗尔城
+http://47.100.99.38:28989/football/8517799
+#EXTINF:-1 tvg-name="球会友谊 扎布热矿工 vs 奥波莱" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/2440249cd19586c39de8e05d55cc6b0d.png" group-title="足球",球会友谊 扎布热矿工 vs 奥波莱
+http://47.100.99.38:28989/football/8516795
+#EXTINF:-1 tvg-name="球会友谊 兹林 vs 普罗斯捷约夫" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/2440249cd19586c39de8e05d55cc6b0d.png" group-title="足球",球会友谊 兹林 vs 普罗斯捷约夫
+http://47.100.99.38:28989/football/8517409
+#EXTINF:-1 tvg-name="球会友谊 鲁容贝罗克 vs 奥帕瓦" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/2440249cd19586c39de8e05d55cc6b0d.png" group-title="足球",球会友谊 鲁容贝罗克 vs 奥帕瓦
+http://47.100.99.38:28989/football/8518091
+#EXTINF:-1 tvg-name="缅甸U20 蒂察尔阿尔曼U20 vs 达根星U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 蒂察尔阿尔曼U20 vs 达根星U20
+http://47.100.99.38:28989/football/8518110
+#EXTINF:-1 tvg-name="缅甸U20 亚大那保U20 vs 伊斯佩U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 亚大那保U20 vs 伊斯佩U20
+http://47.100.99.38:28989/football/8518112
+#EXTINF:-1 tvg-name="孟加拉超 乔塔格拉姆城 vs 孟加拉国警察" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ae8b9e6b5113b70d23df8f7769eb31ed.png" group-title="足球",孟加拉超 乔塔格拉姆城 vs 孟加拉国警察
+http://47.100.99.38:28989/football/8508804
+#EXTINF:-1 tvg-name="孟加拉超 法基拉普尔年轻人 vs 穆罕默德SC" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ae8b9e6b5113b70d23df8f7769eb31ed.png" group-title="足球",孟加拉超 法基拉普尔年轻人 vs 穆罕默德SC
+http://47.100.99.38:28989/football/8508805
+#EXTINF:-1 tvg-name="孟加拉超 PWD体育 vs 兄弟联盟" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/ae8b9e6b5113b70d23df8f7769eb31ed.png" group-title="足球",孟加拉超 PWD体育 vs 兄弟联盟
+http://47.100.99.38:28989/football/8508809
+#EXTINF:-1 tvg-name="东盟杯 越南 vs 巴基斯坦" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/75b6ce8a3018d34793e1aa86ec375795.png" group-title="足球",东盟杯 越南 vs 巴基斯坦
+http://47.100.99.38:28989/football/8499582
+#EXTINF:-1 tvg-name="菲MPBL 里扎尔金色冷却器 vs 玄山勇士" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/a07e13b5b4e03beb0e060907570dd569.png" group-title="篮球",菲MPBL 里扎尔金色冷却器 vs 玄山勇士
+http://47.100.99.38:28989/basketball/8517535
+#EXTINF:-1 tvg-name="NBL 伊拉瓦拉老鹰 vs 阿德莱德36人" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/75ea0c3c22789700eeaf2c8047450d82.png" group-title="篮球",NBL 伊拉瓦拉老鹰 vs 阿德莱德36人
+http://47.100.99.38:28989/basketball/8447829
+#EXTINF:-1 tvg-name="菲NCAA 圣贝达红狮 vs 圣塞巴斯提安金雄鹿" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA 圣贝达红狮 vs 圣塞巴斯提安金雄鹿
+http://47.100.99.38:28989/basketball/8518301
+#EXTINF:-1 tvg-name="WSCI邀请赛 SLY vs T1.EA" tvg-logo="https://esports-cdn.namitiyu.com/lol/tournament/Fo6aKqQmJlFU9b70Odm_EKgc20is" group-title="电竞",WSCI邀请赛 SLY vs T1.EA
+http://47.100.99.38:28989/esport/24664
+#EXTINF:-1 tvg-name="KPL年度总决赛 KSG vs 济南RW侠" tvg-logo="https://esports-cdn.namitiyu.com/kog/tournament/FvLrEesnNjNeLefxnjJ0rNn7e0z7" group-title="电竞",KPL年度总决赛 KSG vs 济南RW侠
+http://47.100.99.38:28989/esport/25720
+#EXTINF:-1 tvg-name="ESN 秋季 1337 vs Nexvoid" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FuL6k8dX6Bpn5SPmXcBmtLj1LtWZ" group-title="电竞",ESN 秋季 1337 vs Nexvoid
+http://47.100.99.38:28989/esport/25715
+#EXTINF:-1 tvg-name="EPL东南亚 Cloud Dawning vs Ivory" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/FoNI29yRScLYYB3jKIGGF9RbtQ_O" group-title="电竞",EPL东南亚 Cloud Dawning vs Ivory
+http://47.100.99.38:28989/esport/25312
