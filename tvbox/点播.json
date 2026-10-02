@@ -1,0 +1,189 @@
+    {
+      "spider": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "logo": "http://fmys.top/images/logo.png",
+      "wallpaper": "http://fmys.top/img.php",
+      "warningText": "接口XPB免费整理维护，如果在其他地方被盗用请勿付费购买",
+      "lives": [
+        {
+          "name": "XPB源",
+          "type": 0,
+          "url": "https://xpb.mhfs.eu.org/HZ.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "速度源",
+          "type": 0,
+          "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "日更",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "网友3",
+          "type": 0,
+          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "全世界",
+          "type": 0,
+          "url": "https://freetv.fun/test_channels_original.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "网友1",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/zhuxinfu88/tvlist/main/iptv.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "XPB源5",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/xingpeibin/xiongjian83-TvBox/main/live.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "XPB源6",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/xingpeibin/CCSH-IPTV/main/live.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "MYIPTV 4",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "MYIPTV 6",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "zbds-V4",
+          "type": 0,
+          "url": "https://live.zbds.top/tv/iptv4.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "ssili源",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ssili126/ds/main/tvlist.txt",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+          "name": "IPV6源",
+          "type": 0,
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/big-mouth-cn/m3u8-checker/main/iptv-ok.m3u",
+          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+      ],
+      "sites": [
+        {
+          "key": "豆瓣",
+          "name": "🏀XPB豆瓣🏀",
+          "type": 3,
+          "api": "csp_Douban",
+          "searchable": 0,
+          "changeable": 1
+        },
+        {
+          "key": "采集之王",
+          "name": "💽采集｜合集💽",
+          "type": 3,
+          "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
+          "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+        },
+        {
+          "key": "本地",
+          "name": "🌻本地播放🌻",
+          "type": 3,
+          "api": "csp_LocalFile"
+        },
+        {
+          "key": "csp_Wwys",
+          "name": "🌻壹米蓝光🌻",
+          "type": 3,
+          "api": "csp_Wwys",
+          "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+          "ext": "https://vip.wwgz.cn:5200"
+        },
+        {
+          "key": "热播",
+          "name": "🌻热播🌻",
+          "type": 3,
+          "api": "csp_AppRJ",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "ext": {
+            "url": "http://v.rbotv.cn"
+          }
+        },
+        {
+          "key": "浪酷",
+          "name": "🌻浪酷🌻",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/py/%E6%B5%AA%E9%85%B7.py",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "ext": "http://43.248.117.123:4680"
+        },
+        {
+          "key": "金牌",
+          "name": "🌻金牌🌻",
+          "type": 3,
+          "api": "csp_Jpys",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+        {
+          "key": "瓜子",
+          "name": "🌻瓜子🌻",
+          "type": 3,
+          "api": "csp_Gz360",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "猎手",
+          "name": "🌻火狐🌻",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/py/%E7%8C%8E%E6%89%8B.py",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "searchable": 1,
+          "changeable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "playerType": 2
+        },
+        {
+          "key": "农民",
+          "name": "🌻农民🌻",
+          "type": 3,
+          "api": "csp_XYQHiker",
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/spider.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://ghfast.top/https://raw.githubusercontent.com/xuge188/TVBOX/main/XBPQ/%E5%86%9C%E6%B0%91.json"
+        },
+        {
+          "key": "iqiyizyapi.com",
+          "name": "🌻爱奇艺🌻",
+          "type": 1,
+          "api": "https://iqiyizyapi.com/api.php/provide/vod/?ac=list",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "original_api": "https://iqiyizyapi.com/api.php/provide/vod",
+          "header": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+            "Accept": "application/json, *
