@@ -592,16 +592,6 @@
       "filterable": 1
     },
     {
-      "key": "非凡",
-      "name": "聚合非凡┃影视 [0.8s]",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "push_agent",
       "name": "聚合推送┃链接",
       "type": 3,
@@ -667,7 +657,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "聚合三方🥇瓜子🥇影视 [0.3s]",
+      "name": "聚合三方🥇瓜子🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1,
@@ -698,7 +688,7 @@
     },
     {
       "key": "华数",
-      "name": "聚合三方华数🥇影视 [0.3s]",
+      "name": "聚合三方华数🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
       "changeable": 1,
@@ -720,7 +710,7 @@
     },
     {
       "key": "猎手",
-      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.2s]",
+      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.4s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py",
       "searchable": 1,
@@ -749,18 +739,6 @@
       "ext": {
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
       },
-      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
-    },
-    {
-      "key": "py_6v",
-      "name": "聚合三方🥇四影🥇影视 [0.2s]",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/4Kvm.js",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
       "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
