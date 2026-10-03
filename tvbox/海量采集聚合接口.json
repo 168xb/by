@@ -617,9 +617,9 @@
     },
     {
       "key": "闪电资源",
-      "name": "闪电资源(切)",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源(🔥)",
+      "type": 0,
+      "api": "https://shandianzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1139,7 +1139,7 @@
     },
     {
       "key": "快龙资源",
-      "name": "酷喵🐱快龙",
+      "name": "快龙资源(🔥)",
       "type": 0,
       "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1151,6 +1151,240 @@
       "name": "酷喵🐱iKun",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fy",
+      "name": "飞鱼",
+      "type": 1,
+      "api": "http://111.170.58.66:2526/api.php/provide/vod/?key=64af2add095411af303c3dc0b146dc3a&ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "猫眼资源",
+      "name": "猫眼资源(🔥)",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "鸭鸭资源",
+      "name": "鸭鸭资源(🔥)",
+      "type": 0,
+      "api": "https://yayazy2.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "无尽资源",
+      "name": "无尽资源(🔥)",
+      "type": 0,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "高清资源",
+      "name": "高清资源(🔥)",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "最大资源",
+      "name": "最大资源(🔥)",
+      "type": 1,
+      "api": "https://zuida.xyz/api.php/provide/vod/from/zuidam3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源(🔥)",
+      "type": 0,
+      "api": "https://www.hongniuzy4.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "优质资源",
+      "name": "优质资源(🔥)",
+      "type": 0,
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "优库资源",
+      "name": "优库资源(🔥)",
+      "type": 0,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/at/xmlsea",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "三八资源",
+      "name": "三八资源(🔥)",
+      "type": 1,
+      "api": "https://vod38.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "新黑木耳",
+      "name": "新黑木耳(🔥)",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "新华为吧",
+      "name": "新华为吧(🔥)",
+      "type": 0,
+      "api": "https://huaweiba.live/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天翼资源",
+      "name": "天翼资源(🔥)",
+      "type": 0,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑墙资源",
+      "name": "黑墙资源(🔥)",
+      "type": 0,
+      "api": "https://blackwallvideo.online/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影图资源",
+      "name": "影图资源(🔥)",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "漫道资源",
+      "name": "漫道资源(🔥)",
+      "type": 1,
+      "api": "http://www.mandao.site/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "无忧资源",
+      "name": "无忧资源(🔥)",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "秒播资源",
+      "name": "秒播资源(🔥)",
+      "type": 1,
+      "api": "https://api.zeqaht.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "JD",
+      "name": "热播4K｜采集",
+      "type": 1,
+      "api": "http://qp.69mini.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "rrss",
+      "name": "人人｜采集",
+      "type": 1,
+      "api": "http://sm.69mzf.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mp4",
+      "name": "极速｜采集",
+      "type": 1,
+      "api": "http://jx.69mini.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "n11b",
+      "name": "金牌｜采集",
+      "type": 1,
+      "api": "http://jp.69mzf.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffy2",
+      "name": "自建｜采集",
+      "type": 1,
+      "api": "http://ld.69mzf.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "789",
+      "name": "789｜采集",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金蝉",
+      "name": "金蝉｜采集",
+      "type": 1,
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "糖豆广场舞",
+      "name": "🎶糖豆丨广场舞",
+      "type": 1,
+      "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

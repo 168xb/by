@@ -1,4 +1,4 @@
-2026-10-02更新,#genre#
+2026-10-03更新,#genre#
 QQ1群258295433,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
 QQ2群138645448,https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
 
@@ -8,439 +8,449 @@ QQ2群138645448,https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
 获取更多实用资源,http://xjj1.716888.xyz/fenlei/4k/4k.php
 
 央视频道,#genre#
-CCTV1,http://1.192.152.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://106.115.25.125:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://1.192.152.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://106.115.25.63:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://106.115.25.141:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://106.115.25.241:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://106.115.25.194:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.72.83.228:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://110.72.77.100:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.72.68.212:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://1.192.152.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://106.115.25.236:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://1.192.152.161:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://1.192.152.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://106.115.25.125:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://113.90.154.189:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://106.115.25.67:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://139.214.182.28:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://106.115.25.63:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://106.115.25.141:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://106.115.25.241:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://106.115.25.67:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://113.90.154.189:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://1.192.152.161:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://110.72.83.228:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.72.77.100:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://1.192.152.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.72.68.212:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://106.115.25.67:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://139.214.182.28:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.115.25.241:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.115.25.63:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://120.70.60.179:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://1.192.152.161:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.115.25.141:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.115.25.67:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://1.192.152.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://106.115.25.63:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://106.115.25.194:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.90.154.189:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.115.25.236:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://106.115.25.67:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://106.115.25.125:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://139.214.182.28:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://120.70.60.179:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://106.115.25.236:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.26.202.52:1299/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://1.192.152.161:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://1.192.152.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://110.72.77.100:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://106.115.25.63:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://113.90.154.189:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://106.115.25.67:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://222.214.208.34:59901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://110.72.83.228:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://106.115.25.141:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://110.72.68.212:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://106.115.25.125:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://110.72.83.228:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://113.90.154.189:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://139.214.182.28:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://120.70.60.179:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://183.239.248.218:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://1.192.152.161:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://1.192.152.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://106.115.25.141:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://106.115.25.125:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://106.115.25.241:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://113.90.154.189:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://106.115.25.63:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://1.192.152.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://106.115.25.194:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://106.115.25.67:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://139.214.182.28:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://222.214.208.34:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://113.90.154.189:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://120.70.60.179:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.90.154.189:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://221.221.137.78:8000/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://153.0.171.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://139.214.182.28:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://119.125.104.194:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV5+,http://221.221.137.78:8000/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://113.90.154.189:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://59.39.89.130:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://222.214.208.34:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://1.192.152.161:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://106.115.25.63:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://106.115.25.236:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://106.115.25.241:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://1.192.152.161:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://106.115.25.194:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://106.115.25.125:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://1.192.152.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://106.115.25.67:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://106.115.25.141:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://139.214.182.28:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://106.115.25.67:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://120.70.60.179:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://113.90.154.189:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://106.115.25.141:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://106.115.25.125:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://119.125.104.194:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV7,http://1.192.152.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://1.192.152.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://106.115.25.63:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://106.115.25.125:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://106.115.25.194:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://110.72.83.228:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://106.115.25.67:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://110.72.77.100:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://110.72.68.212:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://113.90.154.189:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://106.115.25.67:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://110.72.83.228:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://119.125.104.194:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV7,http://120.70.60.179:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://1.192.152.161:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://106.115.25.63:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://1.192.152.58:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://106.115.25.241:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://106.115.25.236:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://106.115.25.141:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://106.115.25.125:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://1.192.152.161:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://106.115.25.67:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://106.115.25.125:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://106.115.25.194:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://139.214.182.28:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://113.90.154.189:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://1.192.152.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://1.192.152.161:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://106.115.25.141:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://106.115.25.63:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://106.115.25.236:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://59.39.89.130:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://106.115.25.125:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://113.90.154.189:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://106.115.25.241:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://106.115.25.194:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://1.192.152.161:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://1.192.152.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://106.115.25.63:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://139.214.182.28:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://106.115.25.241:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://106.115.25.141:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://106.115.25.63:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://106.115.25.67:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://120.70.60.179:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://221.221.137.78:9000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://221.221.137.78:8000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://1.192.152.161:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://106.115.25.194:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://113.90.154.189:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://222.214.208.34:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://106.115.25.67:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://106.115.25.236:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://106.115.25.63:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://106.115.25.125:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://139.214.182.28:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://120.70.60.179:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://119.125.104.194:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV10,http://1.192.152.58:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://106.115.25.67:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://1.192.152.161:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://1.192.152.58:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://106.115.25.125:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://106.115.25.63:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://106.115.25.141:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://1.192.152.161:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://106.115.25.194:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://113.90.154.189:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://106.115.25.241:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://139.214.182.28:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://106.115.25.63:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://106.115.25.67:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://1.192.152.161:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://106.115.25.141:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://139.214.182.28:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://106.115.25.63:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://113.90.154.189:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://106.115.25.236:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://1.192.152.161:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://106.115.25.125:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://106.115.25.241:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://106.115.25.67:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://1.192.152.58:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://106.115.25.194:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://113.90.154.189:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://119.125.104.194:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV12,http://139.214.182.28:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://106.115.25.67:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://106.115.25.236:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://1.192.152.58:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://106.115.25.125:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://106.115.25.241:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://1.192.152.161:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://106.115.25.63:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://113.90.154.189:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://106.115.25.125:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://1.192.152.58:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://106.115.25.67:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://106.115.25.194:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://139.214.182.28:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://221.221.137.78:8000/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://119.125.104.194:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV13,http://106.115.25.141:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://1.192.152.58:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://1.192.152.161:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://106.115.25.141:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://1.192.152.58:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://106.115.25.125:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://106.115.25.236:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://106.115.25.63:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://106.115.25.67:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://106.115.25.241:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://119.125.104.194:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV15,http://1.192.152.161:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://106.115.25.141:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://106.115.25.236:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://139.214.182.28:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://183.239.248.218:8181/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://106.115.25.63:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://59.39.89.130:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://106.115.25.67:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://106.115.25.125:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://106.115.25.241:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://106.115.25.67:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://1.192.152.58:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://106.115.25.63:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://1.192.152.161:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://113.90.154.189:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://183.239.248.218:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://106.115.25.67:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://106.115.25.194:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://119.125.104.194:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV15,http://139.214.182.28:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://139.214.182.28:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://218.104.239.114:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://221.221.137.78:8000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://221.232.197.77:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://106.115.25.63:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://106.115.25.241:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://106.115.25.141:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://106.115.25.125:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://106.115.25.236:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://106.115.25.125:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://106.115.25.194:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://106.115.25.67:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://139.214.182.28:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV台球,http://139.214.182.28:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV文化精品,http://139.214.182.28:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 新疆卫视3,http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://183.239.248.218:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://106.115.25.241:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://106.115.25.125:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://106.115.25.236:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://222.214.208.34:59901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://106.115.25.63:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://106.115.25.141:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://106.115.25.194:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://106.115.25.125:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://139.214.182.28:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://106.115.25.67:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://183.239.248.218:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://218.104.239.114:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://1.192.152.161:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.125:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://219.137.203.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.63:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.67:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://1.192.152.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://219.137.203.73:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.241:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.236:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://106.115.25.125:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://106.115.25.63:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://106.115.25.194:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://219.137.203.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://110.72.83.228:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://110.72.77.100:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://106.115.25.141:19901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://1.192.152.58:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://1.192.152.161:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://183.239.248.218:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://222.214.208.34:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://139.214.182.28:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://119.125.104.194:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1
 云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://183.239.248.218:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://120.198.95.220:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1
 兵团卫视,http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+兵团卫视,http://139.214.182.28:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://1.192.152.58:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://106.115.25.236:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://106.115.25.141:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://106.115.25.125:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://106.115.25.241:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://106.115.25.67:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://1.192.152.161:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://106.115.25.63:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://106.115.25.194:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.72.68.212:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.72.77.100:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.72.83.228:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://106.115.25.125:19901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://139.214.182.28:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 南方卫视,http://119.125.104.194:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+南方卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
 吉林卫视,http://106.115.25.125:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://106.115.25.63:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://106.115.25.236:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://106.115.25.241:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://106.115.25.194:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://106.115.25.67:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://106.115.25.141:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://218.13.170.98:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.236:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.63:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://139.214.182.28:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://1.192.152.161:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.141:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.241:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.67:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://110.72.83.228:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.115.25.125:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://1.192.152.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://106.115.25.194:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://106.115.25.125:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://106.115.25.63:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://110.72.68.212:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.115.25.125:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.115.25.241:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.72.77.100:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.72.83.228:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://139.214.182.28:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://106.115.25.67:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://106.115.25.63:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.115.25.236:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://113.15.109.216:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.115.25.141:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.115.25.67:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://106.115.25.125:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://110.72.68.212:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://106.115.25.67:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://110.72.77.100:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://139.214.182.28:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://106.115.25.194:19901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://110.72.83.228:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://113.15.109.216:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.104.239.114:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://1.192.152.161:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://1.192.152.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://139.214.182.28:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://1.192.152.161:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://1.192.152.161:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://106.115.25.63:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://106.115.25.241:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://106.115.25.141:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://106.115.25.67:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://1.192.152.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://106.115.25.236:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://183.239.248.218:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://106.115.25.125:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://113.26.202.52:1299/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://1.192.152.161:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.115.25.141:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.115.25.241:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.115.25.63:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.115.25.236:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.115.25.125:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://1.192.152.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://183.239.248.218:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://139.214.182.28:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://106.115.25.67:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.104.239.114:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://106.115.25.63:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://106.115.25.194:19901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://119.125.104.194:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&down=1
 山东卫视,http://1.192.152.58:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://106.115.25.125:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://110.72.68.212:8181/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.192.152.161:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://106.115.25.194:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://106.115.25.63:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://110.72.83.228:8181/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://110.72.77.100:8181/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://139.214.182.28:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://183.239.248.218:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://1.192.152.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://1.192.152.161:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://106.115.25.141:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://106.115.25.125:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://1.192.152.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://139.214.182.28:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://1.192.152.161:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://113.90.154.189:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://106.115.25.63:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://106.115.25.194:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://1.192.152.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://110.72.68.212:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://106.115.25.241:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://110.72.77.100:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://219.137.203.73:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://106.115.25.125:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://106.115.25.63:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://110.72.83.228:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://219.137.203.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.115.25.141:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.115.25.241:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://219.137.203.73:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.115.25.236:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://1.192.152.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.115.25.125:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.115.25.63:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.90.154.189:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://110.72.77.100:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://1.192.152.161:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://1.192.152.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://106.115.25.125:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://219.137.203.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://106.115.25.63:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://106.115.25.194:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://219.137.203.73:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://1.192.152.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://119.125.104.194:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1
+广西卫视,http://106.115.25.67:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://139.214.182.28:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://1.192.152.161:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://1.192.152.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://139.214.182.28:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://110.72.83.228:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://110.72.77.100:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://110.72.68.212:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://1.192.152.161:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://110.72.77.100:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://221.221.137.78:8000/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://1.192.152.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://106.115.25.63:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://219.137.203.73:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://1.192.152.161:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://219.137.203.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://106.115.25.141:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://106.115.25.236:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://110.72.83.228:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://106.115.25.194:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://106.115.25.67:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://110.72.77.100:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://219.137.203.73:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://106.115.25.63:19901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.72.68.212:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.72.83.228:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://1.192.152.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://106.115.25.141:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://106.115.25.241:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://1.192.152.161:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://106.115.25.125:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://1.192.152.161:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://106.115.25.63:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://106.115.25.67:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://106.115.25.236:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://139.214.182.28:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://106.115.25.194:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.104.239.114:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://183.239.248.218:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://106.115.25.141:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://1.192.152.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://106.115.25.236:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://106.115.25.125:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://106.115.25.63:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://106.115.25.241:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://106.115.25.67:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://222.214.208.34:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://1.192.152.161:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://106.115.25.125:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://221.221.137.78:8000/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://106.115.25.194:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://1.192.152.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://106.115.25.67:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://139.214.182.28:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://218.104.239.114:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://106.115.25.141:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://106.115.25.125:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.13.170.98:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.192.152.161:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://106.115.25.241:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://106.115.25.63:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://106.115.25.194:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.192.152.58:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://106.115.25.125:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://106.115.25.67:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://106.115.25.236:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://119.125.104.194:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&down=1
+河南卫视,http://139.214.182.28:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://183.239.248.218:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.221.137.78:8000/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://106.115.25.63:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://106.115.25.194:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://106.115.25.67:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://106.115.25.241:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://222.214.208.34:59901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://110.72.68.212:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://106.115.25.141:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://110.72.77.100:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://110.72.83.228:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://106.115.25.125:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://110.72.77.100:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://106.115.25.236:19901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://139.214.182.28:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://119.125.104.194:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+浙江卫视,http://183.239.248.218:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://139.214.182.28:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.236:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.141:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.63:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.241:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://218.13.170.98:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://106.115.25.194:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://1.192.152.161:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://1.192.152.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://110.72.83.228:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.125:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://106.115.25.63:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://110.72.77.100:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.115.25.67:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://219.137.203.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://219.137.203.73:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://1.192.152.161:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://106.115.25.125:19901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.72.83.228:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.72.68.212:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://1.192.152.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://139.214.182.28:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.90.154.189:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://1.192.152.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://1.192.152.161:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://219.137.203.73:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://219.137.203.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://110.72.77.100:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://110.72.68.212:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://110.72.83.228:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://139.214.182.28:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://59.39.89.130:60901/tsfile/live/0125_12.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://218.104.239.114:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://218.13.170.98:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://106.115.25.236:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://106.115.25.125:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://1.192.152.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://106.115.25.141:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://106.115.25.241:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://106.115.25.63:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://110.72.68.212:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://1.192.152.161:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://110.72.83.228:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://106.115.25.194:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://106.115.25.125:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.72.68.212:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.72.77.100:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://106.115.25.67:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://1.192.152.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.72.83.228:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://139.214.182.28:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://119.125.104.194:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
+甘肃卫视,http://106.115.25.194:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://106.115.25.125:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://106.115.25.63:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://106.115.25.236:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://106.115.25.141:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://106.115.25.67:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://106.115.25.241:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-福建东南卫视,http://218.13.170.98:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://139.214.182.28:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://1.192.152.161:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://106.115.25.141:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://106.115.25.125:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://106.115.25.241:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://106.115.25.63:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://106.115.25.67:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://106.115.25.236:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://1.192.152.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://106.115.25.63:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://106.115.25.194:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://139.214.182.28:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://119.125.104.194:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1
-贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.115.25.141:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://106.115.25.67:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://218.104.239.114:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://106.115.25.63:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.115.25.241:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.115.25.125:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.115.25.67:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://110.72.68.212:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://106.115.25.194:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://110.72.77.100:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.115.25.236:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://106.115.25.125:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://110.72.83.228:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://106.115.25.67:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://139.214.182.28:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.26.202.52:1299/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://110.72.68.212:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://119.125.104.194:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1
-重庆卫视,http://1.192.152.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://1.192.152.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://1.192.152.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.239.248.218:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://139.214.182.28:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://59.39.89.130:60901/tsfile/live/0125_24.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.13.170.98:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.115.25.63:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.115.25.236:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.115.25.241:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://1.192.152.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://222.71.55.147:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://106.115.25.125:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.115.25.141:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.115.25.67:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://1.192.152.161:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://106.115.25.63:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://106.115.25.241:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://1.192.152.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://106.115.25.194:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://106.115.25.63:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://106.115.25.67:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://222.71.55.147:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://139.214.182.28:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://106.115.25.125:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://139.214.182.28:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://106.115.25.125:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://106.115.25.236:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://1.192.152.161:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://106.115.25.141:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://106.115.25.194:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://106.115.25.63:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://1.192.152.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://106.115.25.67:19901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://59.39.89.130:60901/tsfile/live/0125_14.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://139.214.182.28:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://1.192.152.161:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.26.202.52:1299/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://183.239.248.218:8181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
-麒麟频道2026-10-02更新_2684,#genre#
-4.SAN-324 极品三田樱 完美身材爆操240分钟 人妻沦陷内射,https://2607.dadi2026.com/20260901/DVqiigyH/index.m3u8
-16.HBAD-706 极品人妻笹原由里 巨臀骚浪 主动求操内射,https://2609.lajiao2026.com/20260920/1r6ZRt4o/index.m3u8
-2.[ゲッツ！！ボンボン-妄想族] 家教十日调教：叛逆少女榨干斯文男，沦陷为淫奴下仆,https://2607.dadi2026.com/20260820/YoVhyTKL/index.m3u8
-10.MILF-076 温柔人妻的巨乳沦陷 爆操内射,https://2609.dadi2026.com/20260930/UhJ5Eon1/index.m3u8
-6.AVSA-373 双妻共侍，RIO与KOZUE的淫乱日常，巨乳爆操内射,https://2609.dadi2026.com/20260914/z1BLxKtY/index.m3u8
-【小晗wink】今天就让雷姆来服侍你吧自慰绝美身材,https://vodiak5169mp78.ttxweb.com/upload/douyin/20250929/1972671912482492416/preview.mp4
-【安安老师】cos小红帽狼人的处理方式,https://vodiak5169mp78.ttxweb.com/upload/douyin/20250929/1972671881205567488/preview.mp4
-【Mr.tu】内射调教性奴女仆小二先生,https://vodiak5169mp78.ttxweb.com/upload/douyin/20250929/1972671885496340480/preview.mp4
-木瓜奶女色狼强行骑乘,https://vodiak5169mp78.kanpianapp.icu/2024/12/1734511520-X2Twitter.com_cwyoinsMdsHf3VbB_852p.mp4
-《眼镜学生妹》自慰,https://vodiak5169mp78.ttxweb.com/upload/douyin/20250929/1972672151440379904/preview.mp4
+麒麟频道2026-10-03更新_2684,#genre#
+12.SW-986 巨乳美容师被爆操！内裤镜头后狂干骚穴,https://2609.dadi2026.com/20260902/TRKD5ylC/index.m3u8
+22.IPZZ-656 被老爹囚禁10天！替身肉便器狂射到虚脱，花守夏步沦陷调教,https://2609.sysl2026.com/20260927/sD3vtYqK/index.m3u8
+2.VTMN-015 派对狂灌酒 巨乳人妻柊雪 骑乘爆操中出颜射,https://2607.dadi2026.com/20260901/sz6Hu7vw/index.m3u8
+17.WAAA-501 借钱给主人替身！黑帮爆操肉便器女仆，内射后仍狂干骚穴,https://2609.sysl2026.com/20260901/uv4GxsEb/index.m3u8
+1.OKAX-985 被动男天堂！巨乳骚妻榨精爆操，黏稠内射爽翻天,https://2607.dadi2026.com/20260823/Xt3cPop0/index.m3u8
+昨晚传疯了的视频这有点太肆无忌惮了,https://vodiak5169mp78.ttxweb.com/upload/douyin/20250929/1972672807920259072/preview.mp4
+骚母狗逼掰开让我怼进去,https://vodiak5169mp78.kanpianapp.icu/2024/01/1705306095-dfsf4.mp4
+兔牙蛇蛇骚妻自慰被小鸡鸡男友颜射,https://vodiak5169mp78.kanpianapp.icu/2025/02/1739893705-X2Twitter.com_LlsWUFmEHWLWV0oN_854p.mp4
+兔女郎开档黑丝、跳蛋塞B里按头深喉,https://vodiak5169mp78.kanpianapp.icu/2024/01/1705226523-7a.mp4
+嫩穴在像你召唤,https://vodiak5169mp78.kanpianapp.icu/2024/04/video_2024-04-03_23-43-53.mp4
 
 咪咕频道,#genre#
 CCTV1综合,https://migu.249051.xyz/608807420
@@ -567,167 +577,80 @@ CETV4,https://migu.249051.xyz/923287339
 中华特产,https://migu.249051.xyz/959986618
 环球旅游,https://migu.249051.xyz/958475356
 梨园频道,https://migu.249051.xyz/961930369
-贵州村超全国赛 国际足球赛day2 2026贵州村超国际足球赛第1轮全场回放：巴西银河联队4:1新疆巴楚县胡杨足球队（赛场原声） 08:30,https://migu.249051.xyz/968071436
-贵州村超全国赛 国际足球赛day2 2026贵州村超国际足球赛第1轮全场回放：中兴印尼金光努比亚队6:3黔南民族师范学院留学生队（赛场原声） 08:30,https://migu.249051.xyz/968073061
-贵州村超全国赛 国际足球赛day2 2026贵州村超国际足球赛第1轮全场回放：山东科技大学中邦国际足球队1:3南昌满天星足球队（赛场原声） 08:30,https://migu.249051.xyz/968077083
-贵州村超全国赛 国际足球赛day2 2026贵州村超国际足球赛第1轮全场回放：贵阳红润·林城足球队4:2柬埔寨四季花明星足球队（赛场原声） 08:30,https://migu.249051.xyz/968078360
-贵州村超全国赛 国际足球赛day2 2026贵州村超国际足球赛第1轮全场回放：榕江牛瘪队4:0马来西亚南虎足球队（赛场原声） 08:30,https://migu.249051.xyz/968081342
-WTT 第一日热身区 全场回放（一） 10:00,https://migu.249051.xyz/968078021
-WTT 第一日热身区 全场回放（二） 10:00,https://migu.249051.xyz/968079242
-玄奘之路戈壁挑战赛 戈21体验日 2026玄奘之路戈壁挑战赛体验日全场回放（官方解说）（50帧原画） 11:00,https://migu.249051.xyz/968077168
-玄奘之路戈壁挑战赛 戈21体验日 2026玄奘之路戈壁挑战赛体验日全场回放（赛场原声）（50帧原画）（一） 11:00,https://migu.249051.xyz/968078222
-玄奘之路戈壁挑战赛 戈21体验日 2026玄奘之路戈壁挑战赛体验日全场回放（赛场原声）（50帧原画）（二） 11:00,https://migu.249051.xyz/968080170
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】孙心然1-0利斯（退赛）（张文悦） 17:00,https://migu.249051.xyz/968079496
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】萨菲乌林2-0科博利（赛场原声）（4K） 17:00,https://migu.249051.xyz/968076358
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】兹韦列夫2-0诺里（赛场原声）（4K） 17:00,https://migu.249051.xyz/968077941
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】布勃利克0-2门希克（赛场原声）（4K） 17:00,https://migu.249051.xyz/968082758
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】勒纳・钱1-2胡尔卡奇（赛场原声）（4K） 17:00,https://migu.249051.xyz/968082083
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】德米纳尔2-0纳沃内（赛场原声）（4K） 17:00,https://migu.249051.xyz/968073406
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】郑钦文2-1施晗（赛场原声）（4K） 17:00,https://migu.249051.xyz/968074517
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】帕克斯0-2朱琳（赛场原声）（4K） 17:00,https://migu.249051.xyz/968079324
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男双第1轮】张之臻/周意2-1施奈特尔/沃尔纳（赛场原声） 17:00,https://migu.249051.xyz/968077713
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】巴多萨2-1卡萨金娜（赛场原声） 17:00,https://migu.249051.xyz/968077793
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】孙心然1-0利斯（退赛）（赛场原声）（4K） 17:00,https://migu.249051.xyz/968079671
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】巴多萨2-1卡萨金娜（赛场原声）（4K） 17:00,https://migu.249051.xyz/968077383
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男双第1轮】杜姆比亚/勒布尔（退赛）1-1冈萨雷斯/莫尔泰尼（赛场原声） 17:00,https://migu.249051.xyz/968082888
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】德米纳尔2-0纳沃内（赛场原声） 17:00,https://migu.249051.xyz/968073937
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】商竣程2-1巴埃斯（赛场原声） 17:00,https://migu.249051.xyz/968079693
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】布勃利克0-2门希克（赛场原声） 17:00,https://migu.249051.xyz/968083197
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】兹韦列夫2-0诺里（赛场原声） 17:00,https://migu.249051.xyz/968078871
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】范德尚舒普1-2F·塞伦多洛（赛场原声） 17:00,https://migu.249051.xyz/968077326
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】勒纳・钱1-2胡尔卡奇（赛场原声） 17:00,https://migu.249051.xyz/968082549
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】格里克斯普尔1-2卢布列夫（赛场原声） 17:00,https://migu.249051.xyz/968080788
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】萨菲乌林2-0科博利（赛场原声） 17:00,https://migu.249051.xyz/968076741
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】莫尔坎2-0马哈奇（赛场原声） 17:00,https://migu.249051.xyz/968072915
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男单第1轮】布塞0-2阿里斯（赛场原声） 17:00,https://migu.249051.xyz/968076376
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】邵羽杉0-2扎哈洛娃（赛场原声） 17:00,https://migu.249051.xyz/968077902
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】伊藤葵0-2比勒尔（赛场原声） 17:00,https://migu.249051.xyz/968075440
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】林禹君0-2亨特（赛场原声） 17:00,https://migu.249051.xyz/968083260
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】达特2-1渠依含（赛场原声） 17:00,https://migu.249051.xyz/968081036
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】塔拉鲁德0-2奥索里奥（赛场原声） 17:00,https://migu.249051.xyz/968080995
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】高馨妤2-0乌德瓦尔迪（赛场原声） 17:00,https://migu.249051.xyz/968082505
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】孙心然1-0利斯（退赛）（赛场原声） 17:00,https://migu.249051.xyz/968079980
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】巴索尔斯·里贝拉0-2拉希莫娃（赛场原声） 17:00,https://migu.249051.xyz/968078100
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】肯宁0-2克鲁格（赛场原声） 17:00,https://migu.249051.xyz/968073761
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】斯塔罗杜布采娃1-2查拉耶娃（赛场原声） 17:00,https://migu.249051.xyz/968075451
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】沃雷涅茨2-0蒙哥马利（赛场原声） 17:00,https://migu.249051.xyz/968074408
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】里内特0-2西尼亚科娃（赛场原声） 17:00,https://migu.249051.xyz/968077017
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】郑钦文2-1施晗（赛场原声） 17:00,https://migu.249051.xyz/968075127
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【女单第1轮】卡塔尔2-0拉萨罗·加西亚（赛场原声） 17:00,https://migu.249051.xyz/968074907
-中国网球公开赛 张之臻/周意逆转晋级 德米纳尔挺进次轮 【男双第1轮】R・卡什/埃勒尔2-0鲁兹/马托斯（赛场原声） 17:00,https://migu.249051.xyz/968074278
-WTT 韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫 全场回放（徐晨皓） 11:00,https://migu.249051.xyz/968076338
-WTT 韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫 全场回放（二号桌） 11:00,https://migu.249051.xyz/968077174
-WTT 韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫 全场回放（三号桌） 11:00,https://migu.249051.xyz/968078492
-WTT 韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫 全场回放（四号桌） 11:00,https://migu.249051.xyz/968077319
-中国网球公开赛 郑钦文VS施晗 【女单第一轮】郑钦文2-1施晗（赛场原声） 10:00,https://migu.249051.xyz/968075127
-中国网球公开赛 郑钦文VS施晗 【女单第1轮】郑钦文2-1施晗（赛场原声）（4K） 10:00,https://migu.249051.xyz/968074517
-斯诺克 凯伦·威尔逊2-5霍尔特 塞尔比晋级 26/27赛季斯诺克深圳公开赛资格赛第4轮回放：迈克尔·霍尔特5-2凯伦·威尔逊（赛场原声） 14:00,https://migu.249051.xyz/968077080
-斯诺克 凯伦·威尔逊2-5霍尔特 塞尔比晋级 26/27赛季斯诺克深圳公开赛资格赛第4轮回放：斯科特·唐纳森0-5吉米·罗伯逊（赛场原声） 14:00,https://migu.249051.xyz/968077251
-斯诺克 凯伦·威尔逊2-5霍尔特 塞尔比晋级 26/27赛季斯诺克深圳公开赛资格赛第4轮回放：克里斯·韦克林5-2尼尔·罗伯逊（赛场原声） 14:00,https://migu.249051.xyz/968077336
-斯诺克 凯伦·威尔逊2-5霍尔特 塞尔比晋级 26/27赛季斯诺克深圳公开赛资格赛第4轮回放：马克·塞尔比5-3斯蒂芬·马奎尔（陶哲铭） 14:00,https://migu.249051.xyz/968078146
-斯诺克 凯伦·威尔逊2-5霍尔特 塞尔比晋级 26/27赛季斯诺克深圳公开赛资格赛第4轮回放：马克·塞尔比5-3斯蒂芬·马奎尔（赛场原声） 14:00,https://migu.249051.xyz/968079748
-中国网球公开赛 商竣程VS巴埃斯 【回放】商竣程2-1巴埃斯（蔡凯臣） 5:40,https://migu.249051.xyz/968078623
-中国网球公开赛 商竣程VS巴埃斯 【回放】商竣程2-1巴埃斯（赛场原声） 5:40,https://migu.249051.xyz/968079693
-中国网球公开赛 兹维列夫VS诺里 全场回放（宋光振） 5:45,https://migu.249051.xyz/968077782
-中国网球公开赛 兹维列夫VS诺里 【男单第1轮】兹韦列夫2-0诺里（赛场原声） 5:45,https://migu.249051.xyz/968078871
-中国网球公开赛 邵羽杉VS扎哈洛娃 全场回放（乔迁） 6:10,https://migu.249051.xyz/968077389
-中国网球公开赛 邵羽杉VS扎哈洛娃 【回放】邵羽杉0-2扎哈洛娃（赛场原声） 6:10,https://migu.249051.xyz/968077902
-中国网球公开赛 帕克斯VS朱琳 全场回放（鸿昆） 7:30,https://migu.249051.xyz/968078970
-中国网球公开赛 帕克斯VS朱琳 全场回放 7:30,https://migu.249051.xyz/968079459
-NBA经典赛事 NBA季后赛精彩重播：马刺vs尼克斯 G3 全场回放（杨健、周琦、陈正昊） 18:00,https://migu.249051.xyz/965256415
-WTT 徐瑛彬横扫林兆恒 纵歌曼险胜 全场回放（赵曦、高文清） 18:00,https://migu.249051.xyz/968082632
-WTT 徐瑛彬横扫林兆恒 纵歌曼险胜 全场回放（二号桌） 18:00,https://migu.249051.xyz/968083336
-WTT 徐瑛彬横扫林兆恒 纵歌曼险胜 全场回放（三号桌） 18:00,https://migu.249051.xyz/968082624
-马术新星赛 跃马少年时马术新星赛总决赛Day1 2026跃马少年时·马术新星赛总决赛Day1全场回放（赛场原声） 18:30,https://migu.249051.xyz/968081817
-中国网球公开赛 利斯VS孙心然 全场回放（宋光振） 9:00,https://migu.249051.xyz/968079496
-中国网球公开赛 利斯VS孙心然 【回放】孙心然1-0利斯（退赛）（赛场原声） 9:00,https://migu.249051.xyz/968079980
-斯诺克 吴宜泽5-3里奇·沃顿 袁思俊晋级 【回放】里奇·沃顿3-5吴宜泽（秦正） 19:30,https://migu.249051.xyz/968082990
-斯诺克 吴宜泽5-3里奇·沃顿 袁思俊晋级 【回放】贾德·特鲁姆普5-2斯佳辉（涂子轩） 19:30,https://migu.249051.xyz/968082645
-斯诺克 吴宜泽5-3里奇·沃顿 袁思俊晋级 【回放】肖恩·墨菲5-1埃利奥特·斯莱塞（赛场原声） 19:30,https://migu.249051.xyz/968082847
-斯诺克 吴宜泽5-3里奇·沃顿 袁思俊晋级 26/27赛季斯诺克深圳公开赛1/8决赛回放：贾德·特鲁姆普5-2斯佳辉（赛场原声） 19:30,https://migu.249051.xyz/968083146
-斯诺克 吴宜泽5-3里奇·沃顿 袁思俊晋级 26/27赛季斯诺克深圳公开赛1/8决赛回放：袁思俊5-2扎克·舒尔第（赛场原声） 19:30,https://migu.249051.xyz/968083280
-浙BA 余姚76-73台州 2026浙江省城市篮球联赛全场回放：余姚VS台州（赛场原声） 19:30,https://migu.249051.xyz/968083348
-浙BA 安吉63-86杭州 2026浙江省城市篮球联赛全场回放：安吉VS杭州（赛场原声） 19:30,https://migu.249051.xyz/968082468
-浙BA 江山63-70普陀 2026浙江省城市篮球联赛全场回放：江山VS普陀（赛场原声） 19:30,https://migu.249051.xyz/968082696
-浙BA 舟山79-98永康 2026浙江省城市篮球联赛全场回放：舟山VS永康（赛场原声） 19:30,https://migu.249051.xyz/968082818
-中国网球公开赛 高馨妤VS乌德瓦尔迪 全场回放（刘钟鸣） 0:00,https://migu.249051.xyz/968081800
-中国网球公开赛 高馨妤VS乌德瓦尔迪 【回放】高馨妤2-0乌德瓦尔迪（赛场原声） 0:00,https://migu.249051.xyz/968082505
-东盟杯 印度尼西亚VS孟加拉国 全场回放（鹿中原） 20:20,https://migu.249051.xyz/968084049
-东盟杯 马来西亚VS新加坡 全场回放 20:20,https://migu.249051.xyz/968082439
-东盟杯 马来西亚VS新加坡 全场回放 20:20,https://migu.249051.xyz/968083186
-玄奘之路戈壁挑战赛 戈21竞赛日1 演播室 07:30,https://migu.249051.xyz/968008978
-玄奘之路戈壁挑战赛 戈21竞赛日1 起终点 07:30,https://migu.249051.xyz/968009089
-玄奘之路戈壁挑战赛 戈21竞赛日1 补给站 09:00,https://migu.249051.xyz/968009124
-玄奘之路戈壁挑战赛 戈21竞赛日1 固定翼 07:50,https://migu.249051.xyz/968009141
-玄奘之路戈壁挑战赛 戈21竞赛日1 复旦大学视角 08:00,https://migu.249051.xyz/968009170
-玄奘之路戈壁挑战赛 戈21竞赛日1 长江大学视角 08:00,https://migu.249051.xyz/968009182
-玄奘之路戈壁挑战赛 戈21竞赛日1 厦门大学视角 08:00,https://migu.249051.xyz/968009209
-玄奘之路戈壁挑战赛 戈21竞赛日1 中大管院视角 08:00,https://migu.249051.xyz/968009218
-玄奘之路戈壁挑战赛 戈21竞赛日1 交大高金视角 08:00,https://migu.249051.xyz/968009237
-中国网球公开赛 全力备战！训练场迎来熟悉的身影 训练场1 08:00,https://migu.249051.xyz/967936170
-中国网球公开赛 全力备战！训练场迎来熟悉的身影 训练场2 08:00,https://migu.249051.xyz/967936182
-咪咕体育日报 undefined 咪咕体育日报 第198期 08:00,https://migu.249051.xyz/968047557
-贵州村超全国赛 国际足球赛day3 赛场原声 08:30,https://migu.249051.xyz/968025741
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS西班牙科尔内利亚 清流播出 08:50,https://migu.249051.xyz/968033306
-UFC前瞻与回顾 UFC332赛前新闻发布会 陈瑞阳 09:00,https://migu.249051.xyz/968074123
-马术新星赛 跃马少年时马术新星赛总决赛Day2 清流播出 09:30,https://migu.249051.xyz/968056124
-WTT 第二日热身区 热身区 10:00,https://migu.249051.xyz/968060009
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 钻石球场 11:00,https://migu.249051.xyz/967706070
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 莲花球场 11:00,https://migu.249051.xyz/967706092
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 映月球场 11:00,https://migu.249051.xyz/967706129
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 布拉德球场 11:00,https://migu.249051.xyz/967706146
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 3号球场 11:00,https://migu.249051.xyz/967706175
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 4号球场 11:00,https://migu.249051.xyz/967706194
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 5号球场 11:00,https://migu.249051.xyz/967706210
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 单边采访 11:00,https://migu.249051.xyz/967951698
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 混采 11:00,https://migu.249051.xyz/967951716
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 新闻发布会 11:00,https://migu.249051.xyz/967951726
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 钻石球场4K 11:00,https://migu.249051.xyz/968052861
-中国网球公开赛 袁悦PK安德列娃 小布压场迎战德约 莲花球场4K 11:00,https://migu.249051.xyz/968052869
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 徐晨皓 11:00,https://migu.249051.xyz/968036718
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 热身区 10:00,https://migu.249051.xyz/968060009
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 混采区 11:00,https://migu.249051.xyz/968024539
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 2号桌 11:00,https://migu.249051.xyz/968036640
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 3号桌 11:00,https://migu.249051.xyz/968036652
-WTT 李天阳PK阿鲁纳 袁励岑冲开门红 4号桌 11:00,https://migu.249051.xyz/968036698
-“萨马兰奇杯”国际青少年足球邀请赛 甬库石榴籽VS巴西博塔弗戈 清流播出 10:50,https://migu.249051.xyz/968033316
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS杭州黄龙绿鹰 清流播出 11:50,https://migu.249051.xyz/968033326
-中国自行车运动协会系列赛 UCI BMX竞速世界杯门头沟站 解说 12:55,https://migu.249051.xyz/968073033
-“萨马兰奇杯”国际青少年足球邀请赛 优健俱乐部VS义乌众鑫 清流播出 12:50,https://migu.249051.xyz/968033351
-超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 王冠证 蔡凯臣 12:55,https://migu.249051.xyz/968052476
-斯诺克 特鲁姆普VS塞尔比 1号桌 14:00,https://migu.249051.xyz/967835446
-斯诺克 吉米·罗伯逊VS克里斯·韦克林 2号桌 14:00,https://migu.249051.xyz/967835462
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS甬库石榴籽 清流播出 13:50,https://migu.249051.xyz/968033366
-“萨马兰奇杯”国际青少年足球邀请赛 西班牙科尔内利亚VS巴西博塔弗戈 清流播出 14:50,https://migu.249051.xyz/968033381
-辽超 沈阳队VS葫芦岛队 赛场原声 15:05,https://migu.249051.xyz/967445671
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS优健俱乐部 清流播出 15:50,https://migu.249051.xyz/968033400
-东盟杯 越南VS巴基斯坦 乔迁 16:50,https://migu.249051.xyz/967879901
-东盟杯 越南VS巴基斯坦 赛场原声 16:50,https://migu.249051.xyz/967879893
-东盟杯 泰国VS菲律宾 张昊泽 16:50,https://migu.249051.xyz/967879943
-东盟杯 泰国VS菲律宾 赛场原声 16:50,https://migu.249051.xyz/967879929
-“萨马兰奇杯”国际青少年足球邀请赛 杭州黄龙绿鹰VS义乌众鑫 清流播出 16:50,https://migu.249051.xyz/968033429
-WTT 【抽签仪式】王曼昱、梁靖崑出席 侯英超 程靖淇 周冠达 16:50,https://migu.249051.xyz/968024428
-NBA经典赛事 NBA季后赛精彩重播：马刺vs尼克斯 G4 杨健 周琦 陈正昊 18:00,https://migu.249051.xyz/967702123
-闽超 莆田队VS厦门队 赛场原声 18:00,https://migu.249051.xyz/967833607
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 马特 赵曦 18:00,https://migu.249051.xyz/968036930
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 热身区 10:00,https://migu.249051.xyz/968060009
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 混采区 18:00,https://migu.249051.xyz/968024550
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 2号桌 18:00,https://migu.249051.xyz/968036750
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 3号桌 18:00,https://migu.249051.xyz/968036875
-WTT 朱思冰PK戈尔帕德 徐瑛彬、韩菲儿冲连胜 4号桌 18:00,https://migu.249051.xyz/968036897
-超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 李嘉伟 18:30,https://migu.249051.xyz/968052504
-昆仑决 怀科杯-昆仑决青少赛暨昆仑少年团挑战赛 官方解说 18:55,https://migu.249051.xyz/968053865
-斯诺克 肖恩·墨菲VS吴宜泽 1号桌 19:30,https://migu.249051.xyz/967835471
-斯诺克 迈克尔·霍尔特VS袁思俊 2号桌 19:30,https://migu.249051.xyz/967835486
-浙BA 瑞安VS丽水 赛场原声 19:30,https://migu.249051.xyz/967998560
-浙BA 临安VS临海 赛场原声 19:30,https://migu.249051.xyz/967999188
-浙BA 衢州VS诸暨 赛场原声 19:30,https://migu.249051.xyz/968000234
-浙BA 玉环VS温州 赛场原声 19:30,https://migu.249051.xyz/968000710
-齐鲁超赛 威海文旅集团队VS聊城传奇农商行 赛场原声 19:30,https://migu.249051.xyz/968023110
-2026CFA中国之队·重庆国际足球邀请赛 中国VS巴勒斯坦 李欣 刘越 郭小仙儿 19:00,https://migu.249051.xyz/967838988
-2026CFA中国之队·重庆国际足球邀请赛 中国VS巴勒斯坦 赛场原声 19:20,https://migu.249051.xyz/967838992
-湘超 衡阳队VS湘潭队 赛场原声 19:38,https://migu.249051.xyz/968001328
-湘超 张家界队VS怀化队 赛场原声 19:38,https://migu.249051.xyz/968001352
+玄奘之路戈壁挑战赛 戈21竞赛日1 2026玄奘之路戈壁挑战赛竞赛日Day1全场回放（官方解说） 08:00,https://migu.249051.xyz/968088136
+玄奘之路戈壁挑战赛 戈21竞赛日1 2026玄奘之路戈壁挑战赛竞赛日Day1全场回放（赛场原声）（50帧原画）（一） 08:00,https://migu.249051.xyz/968089255
+玄奘之路戈壁挑战赛 戈21竞赛日1 2026玄奘之路戈壁挑战赛竞赛日Day1全场回放（赛场原声）（50帧原画）（二） 08:00,https://migu.249051.xyz/968092416
+玄奘之路戈壁挑战赛 戈21竞赛日1 2026玄奘之路戈壁挑战赛竞赛日Day1全场回放（赛场原声）（50帧原画）（三） 08:00,https://migu.249051.xyz/968094154
+贵州村超全国赛 国际足球赛day3 2026贵州村超国际足球赛第2轮全场回放：南昌满天星足球队vs柬埔寨四季花明星足球队（赛场原声） 08:30,https://migu.249051.xyz/968086864
+贵州村超全国赛 国际足球赛day3 2026贵州村超国际足球赛第2轮全场回放：贵阳红润·林城足球队0:0山东科技大学中邦国际足球队（赛场原声） 08:30,https://migu.249051.xyz/968088978
+贵州村超全国赛 国际足球赛day3 2026贵州村超国际足球赛第2轮全场回放：马来西亚雪兰莪华人体育会足球队1:1榕江牛瘪队（赛场原声） 08:30,https://migu.249051.xyz/968092630
+贵州村超全国赛 国际足球赛day3 2026贵州村超国际足球赛第2轮全场回放：马来西亚南虎足球队0:5成都国际足球队（赛场原声） 08:30,https://migu.249051.xyz/968094377
+贵州村超全国赛 国际足球赛day3 2026贵州村超国际足球赛第2轮全场回放：香港瑞通体育会足球队0:4广东凝珠时代高要诚峻队（赛场原声） 08:30,https://migu.249051.xyz/968096621
+UFC前瞻与回顾 UFC332赛前新闻发布会 UFC332新闻发布会全场回放（陈瑞阳） 09:00,https://migu.249051.xyz/968086507
+UFC前瞻与回顾 UFC332赛前新闻发布会 UFC332新闻发布会全场回放（赛场原声） 09:00,https://migu.249051.xyz/968086568
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS西班牙科尔内利亚 全场回放（官方解说） 10:00,https://migu.249051.xyz/968087313
+WTT 第二日热身区 全场回放（一） 10:00,https://migu.249051.xyz/968091102
+WTT 第二日热身区 全场回放（二） 10:00,https://migu.249051.xyz/968094536
+中国网球公开赛 德约科维奇赛后发布会 新闻发布会 11:00,https://migu.249051.xyz/967951726
+WTT 李天阳横扫阿鲁纳 袁励岑斩获开门红 全场回放（徐晨皓） 11:00,https://migu.249051.xyz/968090540
+WTT 李天阳横扫阿鲁纳 袁励岑斩获开门红 全场回放（二号桌） 11:00,https://migu.249051.xyz/968091521
+WTT 李天阳横扫阿鲁纳 袁励岑斩获开门红 全场回放（三号桌） 11:00,https://migu.249051.xyz/968091494
+WTT 李天阳横扫阿鲁纳 袁励岑斩获开门红 全场回放（四号桌） 11:00,https://migu.249051.xyz/968090690
+“萨马兰奇杯”国际青少年足球邀请赛 甬库石榴籽VS巴西博塔弗戈 全场回放（官方解说） 10:50,https://migu.249051.xyz/968088467
+中国网球公开赛 袁悦VS米拉·安德列娃 【回放】袁悦1-2米拉·安德列娃（李宁） 11:00,https://migu.249051.xyz/968088853
+中国网球公开赛 袁悦VS米拉·安德列娃 【回放】袁悦1-2米拉·安德列娃（赛场原声） 11:00,https://migu.249051.xyz/968089124
+中国网球公开赛 袁悦VS米拉·安德列娃 全场回放 11:00,https://migu.249051.xyz/968089751
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS杭州黄龙绿鹰 全场回放（官方解说） 11:50,https://migu.249051.xyz/968088862
+中国自行车运动协会系列赛 UCI BMX竞速世界杯门头沟站 2026UCI BMX竞速世界杯门头沟站Day1全场回放（官方解说） 12:55,https://migu.249051.xyz/968093053
+“萨马兰奇杯”国际青少年足球邀请赛 优健俱乐部VS义乌众鑫 全场回放（官方解说） 12:50,https://migu.249051.xyz/968089857
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 全场回放（王冠证、蔡凯臣） 12:55,https://migu.249051.xyz/968092398
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 全场回放（原声） 12:55,https://migu.249051.xyz/968094340
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】上海横沙誉民22:13重庆瀚动 12:55,https://migu.249051.xyz/968088582
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】上海久事21:11广东光正教育 12:55,https://migu.249051.xyz/968088904
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】宁波海曙捷英20:18山东 12:55,https://migu.249051.xyz/968089447
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】南昌凯锆商贸19:21成都和众 12:55,https://migu.249051.xyz/968089864
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】深圳龙华启航22:16福州奇迹 12:55,https://migu.249051.xyz/968090247
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】浙江普徕22:12广东生涯 12:55,https://migu.249051.xyz/968090559
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】北京控股20:12广东悦跑豹猫 12:55,https://migu.249051.xyz/968091061
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】贵州贵阳丝恋20:18无锡文旅惠汕 12:55,https://migu.249051.xyz/968091547
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】重庆瀚动21:17江苏香江猛虎 12:55,https://migu.249051.xyz/968091911
+超三联赛 超三联赛 北京密云争霸赛 小组赛Day1下午场 【回放】广东光正教育21:12湖北江鲟 12:55,https://migu.249051.xyz/968092212
+马术新星赛 跃马少年时马术新星赛总决赛Day2 【全场回放】2026跃马少年时·马术新星赛总决赛Day2（赛场原声） 09:30,https://migu.249051.xyz/968089487
+斯诺克 特鲁姆普VS塞尔比 2026斯诺克深圳公开赛1/4决赛回放：贾德·特鲁姆普5-0马克·塞尔比（陶哲铭） 14:00,https://migu.249051.xyz/968091356
+斯诺克 特鲁姆普VS塞尔比 2026斯诺克深圳公开赛1/4决赛回放：贾德·特鲁姆普5-0马克·塞尔比（赛场原声） 14:00,https://migu.249051.xyz/968091946
+斯诺克 吉米·罗伯逊VS克里斯·韦克林 2026斯诺克深圳公开赛1/4决赛回放：吉米·罗伯逊5-3克里斯·韦克林（杨江源） 14:00,https://migu.249051.xyz/968092531
+斯诺克 吉米·罗伯逊VS克里斯·韦克林 2026斯诺克深圳公开赛1/4决赛回放：吉米·罗伯逊3-5克里斯·韦克林（赛场原声） 14:00,https://migu.249051.xyz/968093106
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS甬库石榴籽 全场回放（官方解说） 13:50,https://migu.249051.xyz/968090732
+“萨马兰奇杯”国际青少年足球邀请赛 西班牙科尔内利亚VS巴西博塔弗戈 全场回放（官方解说） 14:50,https://migu.249051.xyz/968091633
+辽超 沈阳队VS葫芦岛队 全场回放 15:05,https://migu.249051.xyz/968093762
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS优健俱乐部 全场回放（官方解说） 15:50,https://migu.249051.xyz/968092411
+中国网球公开赛 蒂莫菲娃VS大坂直美 全场回放 11:00,https://migu.249051.xyz/968095972
+东盟杯 越南VS巴基斯坦 全场回放（乔迁） 16:50,https://migu.249051.xyz/968094077
+东盟杯 泰国VS菲律宾 全场回放（张昊泽） 16:50,https://migu.249051.xyz/968095130
+东盟杯 泰国VS菲律宾 全场回放 16:50,https://migu.249051.xyz/968095983
+“萨马兰奇杯”国际青少年足球邀请赛 杭州黄龙绿鹰VS义乌众鑫 全场回放 16:50,https://migu.249051.xyz/968093387
+NBA经典赛事 NBA季后赛精彩重播：马刺vs尼克斯 G4 全场回放（杨健、周琦、陈正昊） 18:00,https://migu.249051.xyz/965289156
+WTT 朱思冰速胜戈尔帕德 徐瑛彬再横扫 全场回放（马特、赵曦） 18:00,https://migu.249051.xyz/968097334
+WTT 朱思冰速胜戈尔帕德 徐瑛彬再横扫 全场回放（二号桌） 18:00,https://migu.249051.xyz/968098193
+斯诺克 肖恩·墨菲VS吴宜泽 【回放】肖恩·墨菲4-5吴宜泽（卢正浩、庞卫国、宾汉姆） 19:30,https://migu.249051.xyz/968097544
+斯诺克 肖恩·墨菲VS吴宜泽 【回放】肖恩·墨菲4-5吴宜泽（赛场原声） 19:30,https://migu.249051.xyz/968098213
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 全场回放（李嘉伟） 18:30,https://migu.249051.xyz/968096192
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】上海横沙誉民22:15深圳龙华启航 18:30,https://migu.249051.xyz/968094218
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】上海久事21:15浙江普徕 18:30,https://migu.249051.xyz/968094517
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】宁波海曙捷英21:19北京控股 18:30,https://migu.249051.xyz/968095458
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】南昌凯锆商贸19:21贵州贵阳丝恋 18:30,https://migu.249051.xyz/968095641
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】福州奇迹22:6江苏香江猛虎 18:30,https://migu.249051.xyz/968095885
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 【回放】广东生涯21:15湖北江鲟 18:30,https://migu.249051.xyz/968096113
+超三联赛 超三联赛 北京密云争霸赛 开赛仪式及小组赛Day1晚间场 2026超三联赛北京密云争霸赛开赛仪式及小组赛Day1晚间场全场回放（赛场原声） 18:30,https://migu.249051.xyz/968097441
+昆仑决 怀科杯-昆仑决青少赛暨昆仑少年团挑战赛 怀科杯-昆仑决青少赛暨昆仑少年团挑战赛全场回放（官方解说） 18:55,https://migu.249051.xyz/968097975
+中国网球公开赛 扎拉祖阿VS萨巴伦卡 全场回放（胡力涛） 11:00,https://migu.249051.xyz/968095642
+中国网球公开赛 扎拉祖阿VS萨巴伦卡 全场回放 11:00,https://migu.249051.xyz/968095994
+斯诺克 迈克尔·霍尔特VS袁思俊 【回放】迈克尔·霍尔特2-5袁思俊（杨江浩） 19:30,https://migu.249051.xyz/968097217
+斯诺克 迈克尔·霍尔特VS袁思俊 【回放】迈克尔·霍尔特2-5袁思俊（赛场原声） 19:30,https://migu.249051.xyz/968098211
+2026CFA中国之队·重庆国际足球邀请赛 中国VS巴勒斯坦 全场回放（李欣、刘越、郭小仙儿） 19:20,https://migu.249051.xyz/968096739
+2026CFA中国之队·重庆国际足球邀请赛 中国VS巴勒斯坦 全场回放 19:20,https://migu.249051.xyz/968098196
+湘超 衡阳队VS湘潭队 全场回放 19:38,https://migu.249051.xyz/968097896
+湘超 张家界队VS怀化队 全场回放 19:38,https://migu.249051.xyz/968098147
 ONE冠军赛 ONE周五格斗夜173：博考VS纳卡敏 郝俊 21:25,https://migu.249051.xyz/968074386
 ONE冠军赛 ONE周五格斗夜173：博考VS纳卡敏 英文原声 21:25,https://migu.249051.xyz/968074410
 PFL PFL利雅得站：内达VS埃尔赛迪 汪乐 21:55,https://migu.249051.xyz/968074500
@@ -736,68 +659,99 @@ PFL PFL利雅得站：内达VS埃尔赛迪 英文原声 21:55,https://migu.24905
 玄奘之路戈壁挑战赛 戈21竞赛日2 起终点 07:20,https://migu.249051.xyz/968008608
 玄奘之路戈壁挑战赛 戈21竞赛日2 补给站 09:00,https://migu.249051.xyz/968008754
 玄奘之路戈壁挑战赛 戈21竞赛日2 固定翼 07:50,https://migu.249051.xyz/968008771
-玄奘之路戈壁挑战赛 戈21竞赛日2 跟拍1 08:00,https://migu.249051.xyz/968008807
-玄奘之路戈壁挑战赛 戈21竞赛日2 跟拍2 08:00,https://migu.249051.xyz/968008841
-玄奘之路戈壁挑战赛 戈21竞赛日2 跟拍3 08:00,https://migu.249051.xyz/968008878
-玄奘之路戈壁挑战赛 戈21竞赛日2 跟拍4 08:00,https://migu.249051.xyz/968008907
-玄奘之路戈壁挑战赛 戈21竞赛日2 跟拍5 08:00,https://migu.249051.xyz/968008930
-中国网球公开赛 中国网球公开赛训练 Day9 训练场1 08:00,https://migu.249051.xyz/967936220
-中国网球公开赛 中国网球公开赛训练 Day9 训练场2 08:00,https://migu.249051.xyz/967936261
+玄奘之路戈壁挑战赛 戈21竞赛日2 复旦大学视角 08:00,https://migu.249051.xyz/968008807
+玄奘之路戈壁挑战赛 戈21竞赛日2 长江商学院视角 08:00,https://migu.249051.xyz/968008841
+玄奘之路戈壁挑战赛 戈21竞赛日2 厦门大学视角 08:00,https://migu.249051.xyz/968008878
+玄奘之路戈壁挑战赛 戈21竞赛日2 中大管院视角 08:00,https://migu.249051.xyz/968008907
+玄奘之路戈壁挑战赛 戈21竞赛日2 交大高金视角 08:00,https://migu.249051.xyz/968008930
+中国网球公开赛 全力备战！训练场迎来熟悉的身影 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 全力备战！训练场迎来熟悉的身影 训练场2 08:00,https://migu.249051.xyz/967936261
 咪咕体育日报 undefined 咪咕体育日报 第199期 08:00,https://migu.249051.xyz/968047578
 贵州村超全国赛 国际足球赛day4 赛场原声 08:30,https://migu.249051.xyz/968025750
 ONE冠军赛 ONE巅峰系列赛48：埃尔多安VS艾略特 何鹏 08:55,https://migu.249051.xyz/968074369
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS巴西博塔弗戈 清流播出 08:50,https://migu.249051.xyz/968033454
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U9VS巴西博塔弗戈 官方解说 08:50,https://migu.249051.xyz/968033454
 UFC前瞻与回顾 UFC332称重仪式 陈瑞阳 09:00,https://migu.249051.xyz/968074091
 马术新星赛 跃马少年时马术新星赛总决赛Day3 清流播出 09:30,https://migu.249051.xyz/968056131
-“萨马兰奇杯”国际青少年足球邀请赛 西班牙科尔内利亚VS甬库石榴籽 清流播出 09:50,https://migu.249051.xyz/968033479
+“萨马兰奇杯”国际青少年足球邀请赛 西班牙科尔内利亚VS甬库石榴籽 官方解说 09:50,https://migu.249051.xyz/968033479
 WTT 第三日热身区 热身区 10:00,https://migu.249051.xyz/968060109
 UFC前瞻与回顾 激战前夜：王聪vs席尔瓦特辑 陈瑞阳 10:30,https://migu.249051.xyz/968074074
-中国网球公开赛 男女单打第二轮 钻石球场 11:00,https://migu.249051.xyz/967706249
-中国网球公开赛 男女单打第二轮 莲花球场 11:00,https://migu.249051.xyz/967706266
-中国网球公开赛 男女单打第二轮 映月球场 11:00,https://migu.249051.xyz/967706294
-中国网球公开赛 男女单打第二轮 布拉德球场 11:00,https://migu.249051.xyz/967706317
-中国网球公开赛 男女单打第二轮 3号球场 11:00,https://migu.249051.xyz/967706346
-中国网球公开赛 男女单打第二轮 4号球场 11:00,https://migu.249051.xyz/967706376
-中国网球公开赛 男女单打第二轮 5号球场 11:00,https://migu.249051.xyz/967706394
-中国网球公开赛 男女单打第二轮 单边采访 11:00,https://migu.249051.xyz/967951750
-中国网球公开赛 男女单打第二轮 混采 11:00,https://migu.249051.xyz/967951757
-中国网球公开赛 男女单打第二轮 新闻发布会 11:00,https://migu.249051.xyz/967951762
-中国网球公开赛 男女单打第二轮 钻石球场4K 11:00,https://migu.249051.xyz/968052890
-中国网球公开赛 男女单打第二轮 莲花球场4K 11:00,https://migu.249051.xyz/968052901
-WTT 男女单打资格赛第二轮 徐晨皓 11:00,https://migu.249051.xyz/968037079
-WTT 男女单打资格赛第二轮 热身区 10:00,https://migu.249051.xyz/968060109
-WTT 男女单打资格赛第二轮 混采区 11:00,https://migu.249051.xyz/968024577
-WTT 男女单打资格赛第二轮 2号桌 11:00,https://migu.249051.xyz/968036960
-WTT 男女单打资格赛第二轮 3号桌 11:00,https://migu.249051.xyz/968037001
-WTT 男女单打资格赛第二轮 4号桌 11:00,https://migu.249051.xyz/968037029
-“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS义乌众鑫 清流播出 10:50,https://migu.249051.xyz/968033494
-“萨马兰奇杯”国际青少年足球邀请赛 杭州黄龙绿鹰VS优健俱乐部 清流播出 11:50,https://migu.249051.xyz/968033501
-中国自行车运动协会系列赛 UCI BMX竞速世界杯门头沟站 解说 12:55,https://migu.249051.xyz/968073039
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 钻石球场4K 11:00,https://migu.249051.xyz/968052890
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 莲花球场4K 11:00,https://migu.249051.xyz/968052901
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 钻石球场 11:00,https://migu.249051.xyz/967706249
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 莲花球场 11:00,https://migu.249051.xyz/967706266
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 映月球场 11:00,https://migu.249051.xyz/967706294
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 布拉德球场 11:00,https://migu.249051.xyz/967706317
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 5号球场 11:00,https://migu.249051.xyz/967706394
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 德米纳尔率先出战 高芙PK奥索里奥 训练场2 08:00,https://migu.249051.xyz/967936261
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 徐晨皓 11:00,https://migu.249051.xyz/968037079
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 热身区 10:00,https://migu.249051.xyz/968060109
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 混采区 11:00,https://migu.249051.xyz/968024577
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 2号桌 11:00,https://migu.249051.xyz/968036960
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 3号桌 11:00,https://migu.249051.xyz/968037001
+WTT 袁励岑冲正赛 李天阳vs牛冠凯 4号桌 11:00,https://migu.249051.xyz/968037029
+“萨马兰奇杯”国际青少年足球邀请赛 宁波之星U10VS义乌众鑫 官方解说 10:50,https://migu.249051.xyz/968033494
+中国网球公开赛 维基奇VS朱琳 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 维基奇VS朱琳 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 维基奇VS朱琳 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 维基奇VS朱琳 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 维基奇VS朱琳 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 维基奇VS朱琳 映月球场 11:00,https://migu.249051.xyz/967706294
+中国自行车运动协会系列赛 UCI BMX竞速世界杯门头沟站 解说 11:17,https://migu.249051.xyz/968073039
+“萨马兰奇杯”国际青少年足球邀请赛 杭州黄龙绿鹰VS优健俱乐部 官方解说 11:50,https://migu.249051.xyz/968033501
 超三联赛 超三联赛 北京密云争霸赛 小组赛Day2下午场 张俊卿 字诚 12:55,https://migu.249051.xyz/968052520
-斯诺克 斯诺克深圳公开赛半决赛下午场 1号桌 14:00,https://migu.249051.xyz/967835496
+中国网球公开赛 高馨妤VS斯瓦泰克 训练场1 08:00,https://migu.249051.xyz/967936220
+斯诺克 袁思俊VS吉米·罗伯逊 1号桌 14:00,https://migu.249051.xyz/967835496
+斯诺克 袁思俊VS吉米·罗伯逊 秦正 14:00,https://migu.249051.xyz/968086036
+中国网球公开赛 郑钦文VS卡林斯卡娅 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 郑钦文VS卡林斯卡娅 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 郑钦文VS卡林斯卡娅 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 郑钦文VS卡林斯卡娅 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 郑钦文VS卡林斯卡娅 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 郑钦文VS卡林斯卡娅 钻石球场4K 11:00,https://migu.249051.xyz/968052890
+中国网球公开赛 孙心然VS布克沙 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 孙心然VS布克沙 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 孙心然VS布克沙 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 孙心然VS布克沙 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 孙心然VS布克沙 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 孙心然VS布克沙 映月球场 11:00,https://migu.249051.xyz/967706294
 东亚超级联赛 澳门昊骏VS台北富邦勇士 季孟年 15:50,https://migu.249051.xyz/968074562
 东亚超级联赛 澳门昊骏VS台北富邦勇士 英文解说 15:50,https://migu.249051.xyz/968074544
 东亚超级联赛 澳门昊骏VS台北富邦勇士 赛场原声 15:50,https://migu.249051.xyz/968074525
 NBA经典赛事 NBA季后赛精彩重播：尼克斯vs马刺 G5 杨健 周琦 陈正昊 18:00,https://migu.249051.xyz/967702129
 闽超 龙岩队VS福州队 赛场原声 18:00,https://migu.249051.xyz/967833611
-WTT 男女单打资格赛第三轮 孙闻 18:00,https://migu.249051.xyz/968037213
-WTT 男女单打资格赛第三轮 热身区 10:00,https://migu.249051.xyz/968060109
-WTT 男女单打资格赛第三轮 混采区 18:00,https://migu.249051.xyz/968024605
-WTT 男女单打资格赛第三轮 2号桌 18:00,https://migu.249051.xyz/968037141
-WTT 男女单打资格赛第三轮 3号桌 18:00,https://migu.249051.xyz/968037161
-WTT 男女单打资格赛第三轮 4号桌 18:00,https://migu.249051.xyz/968037186
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 孙闻 18:00,https://migu.249051.xyz/968037213
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 热身区 10:00,https://migu.249051.xyz/968060109
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 混采区 18:00,https://migu.249051.xyz/968024605
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 2号桌 18:00,https://migu.249051.xyz/968037141
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 3号桌 18:00,https://migu.249051.xyz/968037161
+WTT 再迎姐妹战！韩菲儿PK范姝涵 徐瑛彬冲正赛 4号桌 18:00,https://migu.249051.xyz/968037186
 UFC前瞻与回顾 聚焦八角笼：UFC332特辑 王琰博 郝俊 18:30,https://migu.249051.xyz/968074053
 超三联赛 超三联赛 北京密云争霸赛 小组赛Day2晚间场 周钰波 18:55,https://migu.249051.xyz/968052660
 东亚超级联赛 阿布拉织匠VS香港东方 连睿 18:50,https://migu.249051.xyz/968074661
 东亚超级联赛 阿布拉织匠VS香港东方 英文解说 18:50,https://migu.249051.xyz/968074646
 东亚超级联赛 阿布拉织匠VS香港东方 赛场原声 18:50,https://migu.249051.xyz/968074614
+中国网球公开赛 卡塔尔VS王欣瑜 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 卡塔尔VS王欣瑜 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 卡塔尔VS王欣瑜 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 卡塔尔VS王欣瑜 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 卡塔尔VS王欣瑜 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 卡塔尔VS王欣瑜 莲花球场4K 11:00,https://migu.249051.xyz/968052901
+中国网球公开赛 兹维列夫VS商竣程 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 兹维列夫VS商竣程 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 兹维列夫VS商竣程 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 兹维列夫VS商竣程 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 兹维列夫VS商竣程 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 兹维列夫VS商竣程 钻石球场4K 11:00,https://migu.249051.xyz/968052890
 WTT 侯英超、程靖淇、周冠达前瞻国乒 侯英超 程靖淇 周冠达 19:00,https://migu.249051.xyz/968024442
-斯诺克 斯诺克深圳公开赛半决赛晚场 1号桌 19:30,https://migu.249051.xyz/967835508
+斯诺克 特鲁姆普VS吴宜泽 1号桌 19:30,https://migu.249051.xyz/967835508
+斯诺克 特鲁姆普VS吴宜泽 乔迁 19:30,https://migu.249051.xyz/968086040
 浙BA 海宁VS宁海 赛场原声 19:30,https://migu.249051.xyz/967998554
 浙BA 湖州VS苍南 赛场原声 19:30,https://migu.249051.xyz/967998995
 浙BA 宁波VS富阳 赛场原声 19:30,https://migu.249051.xyz/968000129
 浙BA 义乌VS云和 赛场原声 19:30,https://migu.249051.xyz/968000843
 粤超 深圳VS广州 普通话 19:30,https://migu.249051.xyz/968001186
+粤超 深圳VS广州 粤语 19:30,https://migu.249051.xyz/968086087
 徽青赛 合肥VS淮北 赛场原声 19:30,https://migu.249051.xyz/968002174
 徽青赛 蚌埠VS芜湖 赛场原声 19:30,https://migu.249051.xyz/968002185
 徽青赛 淮南VS池州 赛场原声 19:30,https://migu.249051.xyz/968002189
@@ -809,6 +763,97 @@ WTT 侯英超、程靖淇、周冠达前瞻国乒 侯英超 程靖淇 周冠达 
 苏超 徐州队VS无锡队 解说 19:10,https://migu.249051.xyz/968003366
 苏超 泰州队VS南通队 解说 19:10,https://migu.249051.xyz/968003370
 粤超 东莞VS梅州 普通话 20:00,https://migu.249051.xyz/968001191
+粤超 东莞VS梅州 客家话 20:00,https://migu.249051.xyz/968086070
+粤超 东莞VS梅州 粤语 20:00,https://migu.249051.xyz/968086074
 英女超 曼联女足VS利物浦足球俱乐部 兰子非 20:15,https://migu.249051.xyz/967840291
 英女超 曼联女足VS利物浦足球俱乐部 赛场原声 20:15,https://migu.249051.xyz/967840161
+中国网球公开赛 莱巴金娜VS查拉耶娃 训练场1 08:00,https://migu.249051.xyz/967936220
+中国网球公开赛 莱巴金娜VS查拉耶娃 训练场2 08:00,https://migu.249051.xyz/967936261
+中国网球公开赛 莱巴金娜VS查拉耶娃 单边采访 11:00,https://migu.249051.xyz/967951750
+中国网球公开赛 莱巴金娜VS查拉耶娃 混采 11:00,https://migu.249051.xyz/967951757
+中国网球公开赛 莱巴金娜VS查拉耶娃 新闻发布会 11:00,https://migu.249051.xyz/967951762
+中国网球公开赛 莱巴金娜VS查拉耶娃 钻石球场4K 11:00,https://migu.249051.xyz/968052890
+UFC数字赛 UFC第332期：王聪VS席尔瓦 冲击中国第二条金腰带 陈瑞阳 郑文祺 汪乐 03:50,https://migu.249051.xyz/968074160
+UFC数字赛 UFC第332期：王聪VS席尔瓦 冲击中国第二条金腰带 王琰博 李景亮 张名扬 03:50,https://migu.249051.xyz/968074154
+UFC数字赛 UFC第332期：王聪VS席尔瓦 冲击中国第二条金腰带 英文原声 03:50,https://migu.249051.xyz/968074152
+UFC数字赛 UFC第332期：王聪VS席尔瓦 冲击中国第二条金腰带 智能字幕 03:50,https://migu.249051.xyz/968086284
+玄奘之路戈壁挑战赛 戈21竞赛日3 演播室 05:30,https://migu.249051.xyz/968009109
+玄奘之路戈壁挑战赛 戈21竞赛日3 起终点 05:30,https://migu.249051.xyz/968009167
+玄奘之路戈壁挑战赛 戈21竞赛日3 补给站 06:50,https://migu.249051.xyz/968009192
+玄奘之路戈壁挑战赛 戈21竞赛日3 固定翼 05:50,https://migu.249051.xyz/968009270
+玄奘之路戈壁挑战赛 戈21竞赛日3 复旦大学视角 07:00,https://migu.249051.xyz/968009291
+玄奘之路戈壁挑战赛 戈21竞赛日3 长江商学院视角 07:00,https://migu.249051.xyz/968009326
+玄奘之路戈壁挑战赛 戈21竞赛日3 厦门大学视角 07:00,https://migu.249051.xyz/968009623
+玄奘之路戈壁挑战赛 戈21竞赛日3 中大管院视角 07:00,https://migu.249051.xyz/968009625
+玄奘之路戈壁挑战赛 戈21竞赛日3 交大高金视角 07:00,https://migu.249051.xyz/968009419
+NBA 猛龙VS热火 王冠证 06:55,https://migu.249051.xyz/968074705
+NBA 猛龙VS热火 英文原声 06:55,https://migu.249051.xyz/968074712
+NBA 猛龙VS热火 智能字幕 06:55,https://migu.249051.xyz/968086274
+中国网球公开赛 中国网球公开赛训练 Day10 训练场1 08:00,https://migu.249051.xyz/967936322
+中国网球公开赛 中国网球公开赛训练 Day10 训练场2 08:00,https://migu.249051.xyz/967936377
+咪咕体育日报 undefined 咪咕体育日报 第200期 08:00,https://migu.249051.xyz/968047588
+“萨马兰奇杯”国际青少年足球邀请赛 U9小组第1名 vs U9小组第4名 官方解说 08:50,https://migu.249051.xyz/968033515
+“萨马兰奇杯”国际青少年足球邀请赛 U9小组第2名 vs U9小组第3名 官方解说 09:50,https://migu.249051.xyz/968033522
+WTT 第四日热身区 热身区 10:00,https://migu.249051.xyz/968037478
+中国网球公开赛 女单第三轮、男单1/4决赛 钻石球场 11:00,https://migu.249051.xyz/967706420
+中国网球公开赛 女单第三轮、男单1/4决赛 莲花球场 11:00,https://migu.249051.xyz/967706445
+中国网球公开赛 女单第三轮、男单1/4决赛 映月球场 11:00,https://migu.249051.xyz/967706494
+中国网球公开赛 女单第三轮、男单1/4决赛 布拉德球场 11:00,https://migu.249051.xyz/967706516
+中国网球公开赛 女单第三轮、男单1/4决赛 3号球场 11:00,https://migu.249051.xyz/967706544
+中国网球公开赛 女单第三轮、男单1/4决赛 4号球场 11:00,https://migu.249051.xyz/967706582
+中国网球公开赛 女单第三轮、男单1/4决赛 5号球场 11:00,https://migu.249051.xyz/967706605
+中国网球公开赛 女单第三轮、男单1/4决赛 单边采访 11:00,https://migu.249051.xyz/967951775
+中国网球公开赛 女单第三轮、男单1/4决赛 混采 11:00,https://migu.249051.xyz/967951781
+中国网球公开赛 女单第三轮、男单1/4决赛 新闻发布会 11:00,https://migu.249051.xyz/967951788
+中国网球公开赛 女单第三轮、男单1/4决赛 钻石球场4K 11:00,https://migu.249051.xyz/968052906
+中国网球公开赛 女单第三轮、男单1/4决赛 莲花球场4K 11:00,https://migu.249051.xyz/968052929
+WTT 男女单打1/32决赛、混双1/16决赛 周冠达 侯英超 周雨 10:00,https://migu.249051.xyz/968037358
+WTT 男女单打1/32决赛、混双1/16决赛 热身区 10:00,https://migu.249051.xyz/968037478
+WTT 男女单打1/32决赛、混双1/16决赛 混采区 11:00,https://migu.249051.xyz/968024627
+WTT 男女单打1/32决赛、混双1/16决赛 候场区 10:40,https://migu.249051.xyz/968037503
+WTT 男女单打1/32决赛、混双1/16决赛 高文清 11:00,https://migu.249051.xyz/968037455
+WTT 男女单打1/32决赛、混双1/16决赛 赵曦 18:00,https://migu.249051.xyz/968037543
+WTT 男女单打1/32决赛、混双1/16决赛 1号桌 11:00,https://migu.249051.xyz/968037252
+WTT 男女单打1/32决赛、混双1/16决赛 2号桌 11:00,https://migu.249051.xyz/968037280
+WTT 男女单打1/32决赛、混双1/16决赛 3号桌 11:00,https://migu.249051.xyz/968037299
+WTT 男女单打1/32决赛、混双1/16决赛 4号桌 11:00,https://migu.249051.xyz/968037317
+WTT 男女单打1/32决赛、混双1/16决赛 智能字幕 11:00,https://migu.249051.xyz/968054292
+WTT 男女单打1/32决赛、混双1/16决赛 解说陪看 11:00,https://migu.249051.xyz/968037335
+“萨马兰奇杯”国际青少年足球邀请赛 U10小组第1名 vs U10小组第4名 官方解说 10:50,https://migu.249051.xyz/968033525
+“萨马兰奇杯”国际青少年足球邀请赛 U10小组第2名 vs U10小组第3名 官方解说 11:50,https://migu.249051.xyz/968033546
+斯诺克 斯诺克深圳公开赛决赛下午场 1号桌 14:00,https://migu.249051.xyz/967835517
+斯诺克 斯诺克深圳公开赛决赛下午场 秦正 14:00,https://migu.249051.xyz/968086044
+超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 李嘉伟 13:55,https://migu.249051.xyz/968052695
+贵州村超全国赛 国际足球赛day5 赛场原声 14:30,https://migu.249051.xyz/968025752
+BTF综合格斗赛 BTF002：提力哈布力VS阿里舍尔 解说 15:00,https://migu.249051.xyz/968074585
+徽青赛 宿州VS亳州 赛场原声 15:30,https://migu.249051.xyz/968002212
+徽青赛 马鞍山VS铜陵 赛场原声 15:30,https://migu.249051.xyz/968002214
+徽青赛 宣城VS安庆 赛场原声 15:30,https://migu.249051.xyz/968002233
+徽青赛 六安VS黄山 赛场原声 15:30,https://migu.249051.xyz/968002252
+“萨马兰奇杯”国际青少年足球邀请赛 U9半决赛负者1 vs U9半决赛负者2 官方解说 15:20,https://migu.249051.xyz/968033551
+“萨马兰奇杯”国际青少年足球邀请赛 U10半决赛负者1 vs U10半决赛负者2 官方解说 16:20,https://migu.249051.xyz/968033562
+闽超 平潭队VS宁德队 赛场原声 18:00,https://migu.249051.xyz/967833615
+“萨马兰奇杯”国际青少年足球邀请赛 U9半决赛胜者1 vs U9半决赛胜者2 官方解说 18:50,https://migu.249051.xyz/968033591
+超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 王冠证 18:55,https://migu.249051.xyz/968052722
+斯诺克 斯诺克深圳公开赛决赛晚场 1号桌 19:30,https://migu.249051.xyz/967835527
+浙BA 杭州VS江山 赛场原声 19:30,https://migu.249051.xyz/967998533
+浙BA 台州VS安吉 赛场原声 19:30,https://migu.249051.xyz/967999088
+浙BA 桐乡VS余姚 赛场原声 19:30,https://migu.249051.xyz/967999960
+湘超 岳阳队VS株洲队 赛场原声 19:38,https://migu.249051.xyz/968001488
+湘超 永州队VS娄底队 赛场原声 19:38,https://migu.249051.xyz/968001500
+苏超 盐城队VS宿迁队 解说 19:10,https://migu.249051.xyz/968003384
+苏超 苏州队VS常州队 解说 19:10,https://migu.249051.xyz/968003401
+“萨马兰奇杯”国际青少年足球邀请赛 U10半决赛胜者1 vs U10半决赛胜者2 官方解说 19:50,https://migu.249051.xyz/968033595
+英女超 西汉姆联女足VS切尔西女足 涂远 20:45,https://migu.249051.xyz/967840767
+英女超 西汉姆联女足VS切尔西女足 赛场原声 20:45,https://migu.249051.xyz/967840753
+英女超 埃弗顿女足VS伯明翰女足 魏欣怡 20:45,https://migu.249051.xyz/967840734
+英女超 埃弗顿女足VS伯明翰女足 赛场原声 20:45,https://migu.249051.xyz/967840708
+英女超 布莱顿女足VS查尔顿女足 沈云怡 20:45,https://migu.249051.xyz/967840694
+英女超 布莱顿女足VS查尔顿女足 赛场原声 20:45,https://migu.249051.xyz/967840688
+英女超 阿斯顿维拉女足VS水晶宫女足 刘焕 20:45,https://migu.249051.xyz/967840681
+英女超 阿斯顿维拉女足VS水晶宫女足 赛场原声 20:45,https://migu.249051.xyz/967840641
+英女超 托特纳姆热刺女足VS伦敦城雌狮女足 胡小凡 20:45,https://migu.249051.xyz/967840554
+英女超 托特纳姆热刺女足VS伦敦城雌狮女足 赛场原声 20:45,https://migu.249051.xyz/967840444
+英女超 曼城女足VS阿森纳女足 沈云怡 23:15,https://migu.249051.xyz/967840795
+英女超 曼城女足VS阿森纳女足 赛场原声 23:15,https://migu.249051.xyz/967840790
 
