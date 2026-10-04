@@ -1,6 +1,6 @@
 {
-  "spider": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/yl6.jar",
-  "logo": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/1.gif",
+  "spider": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/yl6.jar",
+  "logo": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/1.gif",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -12,7 +12,7 @@
       "changeable": 1,
       "timeout": 60,
       "indexs": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/douban.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/douban.json"
     },
     {
       "key": "配置中心",
@@ -29,7 +29,7 @@
     {
       "key": "瓜子优质 PY",
       "name": "👌瓜子优质丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子优质.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子优质.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -40,12 +40,12 @@
       "name": "👌瓜子影视|[1080P]",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/yl6.jar"
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/yl6.jar"
     },
     {
       "key": "泥视频PY",
       "name": "👌泥视频-优质丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/泥视频.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/泥视频.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -62,7 +62,7 @@
     {
       "key": "瓜子app",
       "name": "瓜子app | [1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子APP.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子APP.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -73,11 +73,11 @@
       "name": "👌🏻荐片┃[1080P]",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "filters": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/jianpian.json",
+        "filters": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/jianpian.json",
         "imgUrl": "https://img.zgbkz.com",
         "sites": "https://api.ztcgi.com"
       }
@@ -96,7 +96,7 @@
     {
       "key": "1905 PY",
       "name": "1905电影网丨[720p]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/1905.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/1905.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -105,7 +105,7 @@
     {
       "key": "ai看剧 PY",
       "name": "ai看剧丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ai看剧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ai看剧.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -114,7 +114,7 @@
     {
       "key": "秒看 PY",
       "name": "秒看丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/秒看.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/秒看.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -123,7 +123,7 @@
     {
       "key": "懂片帝 PY",
       "name": "懂片帝丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/懂片帝.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/懂片帝.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -132,7 +132,7 @@
     {
       "key": "韩剧狗 PY",
       "name": "韩剧狗丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧狗.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧狗.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -141,7 +141,7 @@
     {
       "key": "葵花影视网 PY",
       "name": "葵花影视网丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影视网.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影视网.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -150,7 +150,7 @@
     {
       "key": "水月影视 PY",
       "name": "水月影视丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/水月影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/水月影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -159,7 +159,7 @@
     {
       "key": "葵花影院 PY",
       "name": "葵花影院丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影院.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影院.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -168,7 +168,7 @@
     {
       "key": "琪琪影视 PY",
       "name": "琪琪影视丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/琪琪影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/琪琪影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -177,7 +177,7 @@
     {
       "key": "绮梦短剧 PY",
       "name": "绮梦短剧丨[短剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/绮梦短剧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/绮梦短剧.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -186,7 +186,7 @@
     {
       "key": "影视天堂 PY",
       "name": "影视天堂丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/影视天堂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/影视天堂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -195,7 +195,7 @@
     {
       "key": "臻彩4k PY",
       "name": "臻彩4k丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/臻彩4K.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/臻彩4K.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -205,7 +205,7 @@
       "key": "py_星辰4k",
       "name": "🦅星辰4k|[1080p]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰4k.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰4k.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -215,7 +215,7 @@
     {
       "key": "真狼 PY",
       "name": "真狼丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/真狼.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/真狼.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -224,7 +224,7 @@
     {
       "key": "aeete影视 PY",
       "name": "aeete影视|[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/aeete影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/aeete影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -233,7 +233,7 @@
     {
       "key": "weishi PY",
       "name": "weishi丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/weishi.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/weishi.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -242,7 +242,7 @@
     {
       "key": "乌云影视 PY",
       "name": "乌云影视丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/乌云影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/乌云影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -251,7 +251,7 @@
     {
       "key": "蝉鸣影视 PY",
       "name": "蝉鸣影视丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/蝉鸣影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/蝉鸣影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -260,7 +260,7 @@
     {
       "key": "大米星球 PY",
       "name": "大米星球丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/大米星球.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/大米星球.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -269,7 +269,7 @@
     {
       "key": "电影侠 PY",
       "name": "电影侠丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -278,7 +278,7 @@
     {
       "key": "影视工厂PY",
       "name": "👌影视工厂丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/影视工厂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/影视工厂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -288,16 +288,16 @@
       "key": "奇乐影视",
       "name": "奇乐|[1080P]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/svip.txt",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/svip.txt",
       "api": "csp_XBPQ",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/奇乐.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/奇乐.json"
     },
     {
       "key": "新闪雷js",
       "name": "👌🏻新闪雷|[1080P]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/闪雷.js"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/闪雷.js"
     },
     {
       "key": "猎手PY",
@@ -320,7 +320,7 @@
     {
       "key": "袋鼠PY",
       "name": "👌袋鼠丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/袋鼠.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/袋鼠.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -329,7 +329,7 @@
     {
       "key": "王者PY",
       "name": "👌王者丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/王者TV.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/王者TV.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -338,7 +338,7 @@
     {
       "key": "布布PY",
       "name": "👌布布丨[4k影视]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/布布.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/布布.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -347,7 +347,7 @@
     {
       "key": "libvioPY",
       "name": "👌libvio丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/libvio.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/libvio.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -356,7 +356,7 @@
     {
       "key": "novip PY",
       "name": "👌novip丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/novip.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/novip.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -365,7 +365,7 @@
     {
       "key": "哔嘀 PY",
       "name": "哔嘀电影丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/哔嘀电影.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/哔嘀电影.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -374,7 +374,7 @@
     {
       "key": "cnflixPY",
       "name": "👌cnflix丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/cnflix.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/cnflix.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -383,7 +383,7 @@
     {
       "key": "开心影院PY",
       "name": "👌开心影院丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/开心影院.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/开心影院.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -392,7 +392,7 @@
     {
       "key": "lsys PY",
       "name": "👌绿色影视丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/lsys.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/lsys.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -401,7 +401,7 @@
     {
       "key": "韩剧TV PY",
       "name": "👌韩剧TV丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧TV.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧TV.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -410,7 +410,7 @@
     {
       "key": "枫叶影院 PY",
       "name": "👌枫叶影院丨[4k影视]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -419,7 +419,7 @@
     {
       "key": "蝴蝶影视4k PY",
       "name": "👌蝴蝶影视4k丨[4k影视]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -428,7 +428,7 @@
     {
       "key": "电影侠4k PY",
       "name": "👌电影侠4k丨[4k影视]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
       "quickSearch": 1,
       "searchable": 1,
       "type": 3
@@ -436,7 +436,7 @@
     {
       "key": "星耀 PY",
       "name": "星耀丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星耀.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/星耀.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -445,7 +445,7 @@
     {
       "key": "4k-av PY",
       "name": "4k-av丨[4k影视-需梯子]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/4k-av.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/4k-av.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -454,7 +454,7 @@
     {
       "key": "pomo666 PY",
       "name": "👌pomo666丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/pomo666.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/pomo666.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -480,7 +480,7 @@
       "key": "好好看App",
       "name": "好好看App[1080P]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/hhk.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/hhk.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -494,8 +494,8 @@
       "name": "可可影视[1080P]",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/1118.jar",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/kkys.json"
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/1118.jar",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/kkys.json"
     },
     {
       "key": "iysdq",
@@ -505,13 +505,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/xyqxbpq新.jar",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/iysdq.json"
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/xyqxbpq新.jar",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/iysdq.json"
     },
     {
       "key": "可可影视 PY",
       "name": "可可影视py丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/可可影视.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/可可影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -520,7 +520,7 @@
     {
       "key": "网飞猫影视 PY",
       "name": "网飞猫影视py丨[1080P]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/网飞猫.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/网飞猫.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -532,8 +532,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "timeout": 60,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/奈飞工厂.txt",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/0816.jar",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/奈飞工厂.txt",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/0816.jar",
       "类型": "电影"
     },
     {
@@ -542,14 +542,14 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/柠檬.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/柠檬.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "name": "👌橘汁|影视[1080P]",
       "key": "Juzhi",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/Juzhi_spider.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/Juzhi_spider.jar",
       "api": "csp_Juzhi",
       "searchable": 1,
       "filterable": 1,
@@ -557,7 +557,7 @@
       "changeable": 1,
       "ext": {
         "host": "",
-        "site": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/az5.txt",
+        "site": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/az5.txt",
         "version": "3.0.1.9"
       }
     },
@@ -565,20 +565,20 @@
       "key": "星辰影院js",
       "name": "星辰影院js",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰影院.js"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰影院.js"
     },
     {
       "key": "金牌影院js",
       "name": "金牌影院js",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/金牌影院.js"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/金牌影院.js"
     },
     {
       "key": "橘子2",
       "name": "橘子2|影视[1080P]",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/橘子.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/橘子.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -589,7 +589,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.lxf.snzlcgtzxyx",
         "host": "",
-        "site": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/app.txt",
+        "site": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/app.txt",
         "version": "3.0.2.1",
         "decrypt": "1"
       }
@@ -598,7 +598,7 @@
       "key": "csp_SaoHuo",
       "name": "👌骚火|影视[1080P]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/骚火🔥.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/骚火🔥.jar",
       "api": "csp_SaoHuo"
     },
     {
@@ -609,26 +609,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/狐狸磁力.json"
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/狐狸磁力.json"
     },
     {
       "key": "hipy_js_6V新版[磁]",
       "name": "New6V｜js磁力[1080P]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/js/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/js/6V新版[磁].js"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/js/6V新版[磁].js"
     },
     {
       "key": "美剧迷",
       "name": "🦅美剧迷｜磁力[1080P]",
       "type": 3,
       "api": "csp_MeijuMi",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -637,7 +637,7 @@
       "key": "csp_Kan90",
       "name": "😃最全┃短剧[短剧]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/源力.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/源力.jar",
       "api": "csp_Kan90",
       "timeout": 60,
       "searchable": 1,
@@ -649,13 +649,13 @@
       "key": "全能短剧",
       "name": "😒短剧┃AI¹[短剧]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/源力.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/源力.jar",
       "api": "csp_DuanJuCen",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "classes": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/duanjucen.json"
+        "classes": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/duanjucen.json"
       },
       "类型": "短剧"
     },
@@ -663,17 +663,17 @@
       "key": "七味短剧",
       "name": "😄极速┃[短剧]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/svip.jar",
       "api": "csp_XBPQ",
       "timeout": 60,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/七味短剧.json",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/七味短剧.json",
       "类型": "短剧"
     },
     {
       "key": "星芽短剧",
       "name": "😄星芽｜[短剧]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星芽短剧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/星芽短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -683,7 +683,7 @@
     {
       "key": "红果短剧最终版PY",
       "name": "👌红果短剧最终版丨全",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/红果短剧最终版.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/红果短剧最终版.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -704,7 +704,7 @@
       "key": "zb",
       "name": "CCTV",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/cctv.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/cctv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -721,7 +721,7 @@
       "key": "LYY",
       "name": "烈羽云-4k",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
       "ext": {
         "api": "http://bb4kcmslieyuyun.qijiyun.vip/api.php/app",
         "ua": "Dart/2.14 (dart:io)"
@@ -732,14 +732,14 @@
       "name": "首播app",
       "type": 3,
       "changeable": 0,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
       "ext": "http://36.138.188.242:6003//api.php/app/"
     },
     {
       "key": "荐片",
       "name": "荐片.py",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/荐片.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/荐片.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -752,7 +752,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.5.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.5.py",
       "ext": {
         "host": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/appto.txt",
         "datakey": "685bf108bc47b67d"
@@ -762,7 +762,7 @@
       "key": "喜马拉雅",
       "name": "喜马拉雅.py",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/喜马拉雅.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/喜马拉雅.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -771,7 +771,7 @@
       "name": "2影视┃app",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.1.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.1.py",
       "ext": {
         "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
         "datakey": "dksvndkaAjekakcE",
@@ -781,7 +781,7 @@
     {
       "key": "美剧窝PY",
       "name": "👌美剧窝丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧窝.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧窝.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -790,7 +790,7 @@
     {
       "key": "美剧天堂PY",
       "name": "👌美剧天堂丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧天堂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧天堂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -799,7 +799,7 @@
     {
       "key": "美剧迷PY",
       "name": "👌美剧迷丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧迷.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧迷.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -808,7 +808,7 @@
     {
       "key": "美剧屋PY",
       "name": "👌美剧屋丨PY",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -817,7 +817,7 @@
     {
       "key": "美剧屋PY",
       "name": "👌美剧屋丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -826,7 +826,7 @@
     {
       "key": "爱美剧PY",
       "name": "👌爱美剧丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/爱美剧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/爱美剧.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -835,7 +835,7 @@
     {
       "key": "滴滴美剧PY",
       "name": "👌滴滴美剧丨[美剧]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/滴滴美剧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/滴滴美剧.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -856,7 +856,7 @@
       "ext": {
         "sites": "https://www.91panta.cn",
         "proxy": "noproxy",
-        "classes": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/panta.json"
+        "classes": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/panta.json"
       }
     },
     {
@@ -2881,14 +2881,14 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "filters": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/douban.json",
+        "filters": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/douban.json",
         "channel": "tgsearchers3,yunpan139,ydypzyfx,sbsbsnsqq,Q_dongman,yoyokuakeduanju,TG654TG,yeqingjie_GJG666,PanjClub,guoman4K,alyp_1,kuake_yppan,yunpanuc,BaiduCloudDisk,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,yunpan189,tianyirigeng,tyypzhpd,shareAliyun,zaihuayun,ali_yppan"
       }
     },
     {
       "key": "央视大全py",
       "name": "📺央视大全",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/央视大全.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/央视大全.py",
       "filterable": 1,
       "timeout": 60,
       "quickSearch": 1,
@@ -2898,7 +2898,7 @@
     {
       "key": "wangluozb.py",
       "name": "🐅wlzbpy",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/wlzb.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/wlzb.py",
       "filterable": 1,
       "timeout": 60,
       "quickSearch": 1,
@@ -2909,7 +2909,7 @@
       "key": "游戏直播",
       "name": "🎮游戏丨直播",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;a857d2c26e967488b422d536d145fe1f",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;a857d2c26e967488b422d536d145fe1f",
       "api": "csp_KuaiShou",
       "changeable": 0,
       "filterable": 1,
@@ -2924,30 +2924,30 @@
       "name": "🐰兔小贝|少儿",
       "type": 3,
       "timeout": 60,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/兔小贝.js"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/兔小贝.js"
     },
     {
       "key": "贝乐虎",
       "name": "🐯贝乐虎|少儿",
       "type": 3,
       "timeout": 60,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/贝乐虎.js"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/贝乐虎.js"
     },
     {
       "key": "戏曲大全",
       "name": "🎭戏曲┃大全",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/戏曲大全.js"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/戏曲大全.js"
     },
     {
       "key": "🙈华数",
       "name": "🙈桦树|少儿",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/桦树.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/桦树.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2958,7 +2958,7 @@
     {
       "key": "azz音乐py",
       "name": "🎶azz音乐|py[音乐]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/azz音乐网.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/azz音乐网.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -2967,7 +2967,7 @@
     {
       "key": "千千音乐py",
       "name": "🎶千千音乐|py[音乐]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/千千音乐.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/千千音乐.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -2976,7 +2976,7 @@
     {
       "key": "DJ音乐网 PY",
       "name": "👌DJ音乐网丨[音乐]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/DJ音乐网.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/DJ音乐网.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -2985,7 +2985,7 @@
     {
       "key": "py_yymp3",
       "name": "🎶yymp3|音乐[音乐]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/YYMP3音乐网.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/YYMP3音乐网.py",
       "filterable": 1,
       "timeout": 60,
       "quickSearch": 1,
@@ -3005,7 +3005,7 @@
     {
       "key": "👧幼小衔接",
       "name": "🎶幼小衔接|py [教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/幼小衔接.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/幼小衔接.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3014,7 +3014,7 @@
     {
       "key": "美食bili",
       "name": "🎶美食|[美食]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美食.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/美食.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3023,7 +3023,7 @@
     {
       "key": "李子柒bili",
       "name": "🎶李子柒|[美食]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/李子柒.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/李子柒.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3033,7 +3033,7 @@
       "key": "yirisc",
       "name": "一日三餐┃[美食]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/一日三餐.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/一日三餐.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3042,7 +3042,7 @@
       "key": "yuzhou",
       "name": "宇宙太空┃[课外博学]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/宇宙太空.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/宇宙太空.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3051,7 +3051,7 @@
       "key": "国学bili",
       "name": "国学┃[课外博学]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/国学.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/国学.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3060,7 +3060,7 @@
       "key": "书法bili",
       "name": "书法┃[课外博学]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/书法.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/书法.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3069,7 +3069,7 @@
       "key": "中医bili",
       "name": "中医┃[课外博学]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/中医.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/中医.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3078,7 +3078,7 @@
       "key": "天文地理bili",
       "name": "天文地理┃[课外博学]",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/天文地理.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/天文地理.py",
       "searchable": 1,
       "filterable": 0,
       "ext": ""
@@ -3086,7 +3086,7 @@
     {
       "key": "跑步游戏 PY",
       "name": "跑步游戏丨[游戏运动]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/跑步游戏.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/跑步游戏.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3097,10 +3097,10 @@
       "name": "🅱️哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "playerType": 2,
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/bili.json",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/bili.json",
         "cookie": ""
       },
       "style": {
@@ -3112,11 +3112,11 @@
       "key": "csp_Biliyy",
       "name": "🅱️哔哩┃音乐",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "api": "csp_Bili",
       "playerType": 2,
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/biliyy.json",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/biliyy.json",
         "cookie": ""
       },
       "style": {
@@ -3129,10 +3129,10 @@
       "name": "🅱️MV┃音乐",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "playerType": 2,
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/mtv.json",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/mtv.json",
         "cookie": ""
       },
       "style": {
@@ -3143,7 +3143,7 @@
     {
       "key": "少儿教育PY",
       "name": "👌少儿教育丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/少儿教育.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/少儿教育.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3152,7 +3152,7 @@
     {
       "key": "儿童编程PY",
       "name": "👌儿童编程丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童编程.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童编程.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3161,7 +3161,7 @@
     {
       "key": "儿童识字PY",
       "name": "👌儿童识字丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童识字.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童识字.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3170,7 +3170,7 @@
     {
       "key": "儿童拼音.PY",
       "name": "👌儿童拼音.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童拼音.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童拼音.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3179,7 +3179,7 @@
     {
       "key": "儿童硬笔.PY",
       "name": "👌儿童硬笔.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童硬笔.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童硬笔.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3188,7 +3188,7 @@
     {
       "key": "儿童口才.PY",
       "name": "👌儿童口才.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童口才.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童口才.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3197,7 +3197,7 @@
     {
       "key": "儿童武术.PY",
       "name": "👌儿童武术.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童武术.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童武术.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3206,7 +3206,7 @@
     {
       "key": "儿童绘画.PY",
       "name": "👌儿童绘画.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童绘画.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童绘画.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3215,7 +3215,7 @@
     {
       "key": "儿童百科.PY",
       "name": "👌儿童百科.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童百科.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童百科.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3224,7 +3224,7 @@
     {
       "key": "儿童思维.PY",
       "name": "👌儿童思维.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童思维.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童思维.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3233,7 +3233,7 @@
     {
       "key": "小学教育.PY",
       "name": "👌小学教育.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小学课堂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小学课堂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3242,7 +3242,7 @@
     {
       "key": "初中教育.PY",
       "name": "👌初中教育.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/初中课堂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/初中课堂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3251,7 +3251,7 @@
     {
       "key": "高中教育.PY",
       "name": "👌高中教育.丨[教育学习]",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/高中课堂.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/高中课堂.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -3261,67 +3261,67 @@
       "key": "外语课堂",
       "name": "教育 | 外语课堂[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/外语课堂.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/外语课堂.json"
     },
     {
       "key": "小灯塔百科",
       "name": "教育 | 小灯塔百科[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔百科.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔百科.json"
     },
     {
       "key": "小灯塔科学",
       "name": "教育 | 小灯塔科学[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔科学.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔科学.json"
     },
     {
       "key": "小灯塔地理",
       "name": "教育 | 小灯塔地理[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔地理.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔地理.json"
     },
     {
       "key": "小灯塔国学",
       "name": "教育 | 小灯塔国学[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔国学.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔国学.json"
     },
     {
       "key": "小灯塔人文",
       "name": "教育 | 小灯塔人文[教育学习]",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/sx.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔人文.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/小灯塔人文.json"
     },
     {
       "key": "csp_bilims",
@@ -3330,7 +3330,7 @@
       "api": "csp_Bili",
       "playerType": 2,
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/bilims.json",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/bilims.json",
         "cookie": ""
       },
       "style": {
@@ -3342,7 +3342,7 @@
       "key": "csp_Jzb",
       "name": "⚽看球┃体育",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "api": "csp_Jzb",
       "searchable": 0,
       "changeable": 0,
@@ -3354,7 +3354,7 @@
       "key": "csp_ShuaiJiao",
       "name": "🤺摔跤┃体育",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/energy65/yl-zy/main/ylnew.jar",
       "api": "csp_ShuaiJiao",
       "searchable": 0,
       "changeable": 0,
@@ -3616,7 +3616,7 @@
     {
       "name": "🌈凤凰MoMo",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -3692,7 +3692,7 @@
     {
       "name": "易发1",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": "okhttp/3",
@@ -3722,7 +3722,7 @@
     {
       "name": "🛰️全球电视直播",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -3785,7 +3785,7 @@
     {
       "name": "🛒河南组播",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -3794,7 +3794,7 @@
     {
       "name": "☀️develop202",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -3812,7 +3812,7 @@
     {
       "name": "🔥火麒麟interface",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -3938,7 +3938,7 @@
     {
       "name": "🍋橙子电视2",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -4055,7 +4055,7 @@
     {
       "name": "💳卡卡西线路",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -4091,7 +4091,7 @@
     {
       "name": "📺港澳极速秒播",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -4217,7 +4217,7 @@
     {
       "name": "🪼直播线路-CXS",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -4244,7 +4244,7 @@
     {
       "name": "🧐直播线路-咕咕",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,
@@ -4262,7 +4262,7 @@
     {
       "name": "🛰️港澳专线",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/refs/heads/main/网络收集.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/refs/heads/main/网络收集.txt",
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gongdian.top/tv/taibiao/{name}.png",
       "playerType": 2,

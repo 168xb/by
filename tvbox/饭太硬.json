@@ -1,5 +1,5 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/df6450a1cc03f3139b659338e9f15278.jpg;md5;f782cdee81118405176fd260be9ca5cd",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
+      "name": "🚀荐影┃预告片",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
@@ -51,7 +51,7 @@
     },
     {
       "key": "MTV1",
-      "name": "🎙️易听音乐┃带歌词",
+      "name": "🎙️易听┃音乐",
       "type": 3,
       "api": "csp_MusicGuard",
       "style": {
@@ -239,6 +239,21 @@
       "ext": "https://www.xb6v.com/"
     },
     {
+      "key": "AiDj",
+      "name": "❤️AI┃短漫剧",
+      "type": 3,
+      "api": "csp_AiDjGuard",
+      "ext": {
+        "type": "video",
+        "name": "短剧",
+        "DanMu": false
+      },
+      "indexs": 0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "咕咕",
       "name": "🦉咕咕┃动漫",
       "type": 3,
@@ -357,8 +372,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -373,8 +388,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -443,7 +458,7 @@
     },
     {
       "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "name": "🌶️抠抠┃搜搜",
       "type": 3,
       "api": "csp_KkSsGuard",
       "searchable": 1,
@@ -501,8 +516,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -616,7 +631,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
