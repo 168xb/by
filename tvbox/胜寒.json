@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar",
+  "spider": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar",
   "lives": [
     {
       "name": "live",
@@ -211,15 +211,15 @@
       "key": "drpy_js_金牌1",
       "name": "金牌影视",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视.js"
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视.js"
     },
     {
       "key": "drpy_js_金牌",
       "name": "金牌秒播",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视2.js"
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视2.js"
     },
     {
       "key": "Wwys",
@@ -341,7 +341,7 @@
       "key": "甜圈短剧",
       "name": "甜圈短剧",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -352,7 +352,7 @@
       "key": "河马短剧",
       "name": "河马短剧",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,

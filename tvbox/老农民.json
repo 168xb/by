@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh.1k.ink/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/spider.jar;md5;bfb998eda0e8130053dff264dbcea38f",
+  "spider": "https://cdn.akaere.online/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/spider.jar;md5;bfb998eda0e8130053dff264dbcea38f",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
@@ -76,7 +76,7 @@
       "key": "茶杯狐🦊",
       "name": "茶杯狐🦊",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
