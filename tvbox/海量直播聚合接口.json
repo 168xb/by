@@ -1483,6 +1483,24 @@
       "source": "超玩家"
     },
     {
+      "name": "📡咪咕直播",
+      "url": "http://139.224.44.53:1234",
+      "ua": "",
+      "source": "集多"
+    },
+    {
+      "name": "📡咪咕直播2",
+      "url": "http://psp1000.asuscomm.com:1234",
+      "ua": "",
+      "source": "集多"
+    },
+    {
+      "name": "📡咪咕直播3",
+      "url": "http://117.72.81.53:3000",
+      "ua": "",
+      "source": "集多"
+    },
+    {
       "name": "本地live文件",
       "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
       "ua": "",
