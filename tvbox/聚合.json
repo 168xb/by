@@ -507,6 +507,16 @@
       "filterable": 1
     },
     {
+      "key": "非凡",
+      "name": "聚合非凡┃影视 [0.6s]",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "push_agent",
       "name": "聚合推送┃链接",
       "type": 3,
@@ -572,7 +582,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "聚合三方🥇瓜子🥇影视 [0.3s]",
+      "name": "聚合三方🥇瓜子🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1,
@@ -593,7 +603,7 @@
     },
     {
       "key": "独播库",
-      "name": "聚合三方🥇播库🥇影视 [0.2s]",
+      "name": "聚合三方🥇播库🥇影视 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js",
       "searchable": 1,
@@ -603,7 +613,7 @@
     },
     {
       "key": "华数",
-      "name": "聚合三方华数🥇影视 [0.3s]",
+      "name": "聚合三方华数🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
       "changeable": 1,
@@ -614,7 +624,7 @@
     },
     {
       "key": "看剧影视",
-      "name": "聚合三方🥇看剧🥇影视 [0.2s]",
+      "name": "聚合三方🥇看剧🥇影视 [0.4s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
       "ext": "http://43.248.117.123:4680",
@@ -625,7 +635,7 @@
     },
     {
       "key": "猎手",
-      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.2s]",
+      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py",
       "searchable": 1,
@@ -644,8 +654,21 @@
       "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
+      "key": "py_文才",
+      "name": "聚合🥇三方🥇文才🥇影视 [0.2s]",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
+    },
+    {
       "key": "py_6v",
-      "name": "聚合三方🥇四影🥇影视 [0.1s]",
+      "name": "聚合三方🥇四影🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/4Kvm.js",
       "searchable": 1,
@@ -657,7 +680,7 @@
     },
     {
       "key": "cat_剧迷网",
-      "name": "聚合三方🥇剧迷🥇影视 [0.2s]",
+      "name": "聚合三方🥇剧迷🥇影视 [0.4s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/高清剧迷.js",
       "style": {

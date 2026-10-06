@@ -1,8 +1,8 @@
 {
   "spider": "https://gh-proxy.org/https:/raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm1225.png",
   "wallpaper": "https://api.mtyqx.cn/api/random.php",
-  "logo": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
-  "homeLogo": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
+  "logo": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
+  "homeLogo": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -64,7 +64,7 @@
       "key": "潮流",
       "name": "🏜潮流｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
     },
@@ -72,7 +72,7 @@
       "key": "一碗",
       "name": "🥣一碗｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
@@ -85,7 +85,7 @@
       "key": "永永",
       "name": "♾️永永｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://www.guangyingmi.com",
@@ -98,7 +98,7 @@
       "key": "csp_Netfixtv",
       "name": "💌至臻｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -121,7 +121,7 @@
       "key": "猫抓",
       "name": "🐱猫抓｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "http://172.247.189.145:8989",
@@ -134,14 +134,14 @@
       "key": "csp_Qiyou",
       "name": "🥝奇优｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_Qiyou"
     },
     {
       "key": "csp_Gz3601",
       "name": "🍉西瓜｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_Gz360",
       "playerType": 2
     },
@@ -149,7 +149,7 @@
       "key": "csp_LiteApple1",
       "name": "🍎水果｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
@@ -159,7 +159,7 @@
       "key": "肥猫",
       "name": "🐼肥猫｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://mac.555618.xyz",
@@ -181,7 +181,7 @@
       "key": "csp_FeiMaoUC",
       "name": "⚡闪电｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/fm.png",
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -909,7 +909,7 @@
       "name": "🐂达人｜平安™",
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "ext": "http://fox.tvmao.top"
     },
     {
@@ -917,7 +917,7 @@
       "name": "🚤快快｜平安™",
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "ext": "https://www.kuaiying.xyz"
     },
     {
@@ -927,7 +927,7 @@
       "api": "csp_AppQi",
       "changeable": "1",
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "filterable": 1,
       "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juziapp.txt|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
     },
@@ -937,7 +937,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_AppRJ",
       "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
     },
@@ -948,7 +948,7 @@
       "api": "csp_AppQi",
       "changeable": "1",
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "filterable": 1,
       "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|okhttp/3.10.0"
     },
@@ -959,7 +959,7 @@
       "api": "csp_AppQi",
       "changeable": "1",
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "filterable": 1,
       "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|okhttp/3.10.0"
     },
@@ -967,7 +967,7 @@
       "key": "鲸鱼",
       "name": "🐋鲸鱼｜平安™",
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
@@ -977,7 +977,7 @@
       "key": "仓鼠2",
       "name": "🐨仓鼠｜平安™",
       "quickSearch": 1,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
@@ -988,7 +988,7 @@
       "name": "🚗聚搜｜平安™",
       "type": 3,
       "api": "https://13826.kstore.vip/AppToV5.py",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "ext": "http://101.35.85.16:5555"
     },
     {
@@ -997,7 +997,7 @@
       "type": 3,
       "changeable": 0,
       "api": "https://13826.kstore.vip/AppV2.py",
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "ext": {
         "api": "http://yjer.jumianfei.com/api.php/v1.vod",
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
@@ -1008,7 +1008,7 @@
       "key": "布蕾",
       "name": "💯布蕾｜平安™",
       "quickSearch": 1,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
@@ -1018,7 +1018,7 @@
       "key": "荐片",
       "name": "➖荐片｜平安™",
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "changeable": "0",
       "searchable": 1,
       "type": 3,
@@ -1034,7 +1034,7 @@
       "name": "💯天天｜平安™",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "searchable": 1,
       "api": "csp_AppRJ",
       "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
@@ -1044,7 +1044,7 @@
       "name": "👌️Frek｜平安™",
       "type": 3,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_FreeOk"
     },
     {
@@ -1053,7 +1053,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_AppQi",
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0"
     },
@@ -1063,7 +1063,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_AppQi",
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|okhttp/3.10.0"
     },
@@ -1072,7 +1072,7 @@
       "name": "☺开心｜平安™",
       "type": 3,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "searchable": 1,
       "api": "csp_AppQi",
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0"
@@ -1103,14 +1103,14 @@
       "key": "csp_SaoHuo",
       "name": "🔥火火｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_SaoHuo"
     },
     {
       "key": "csp_Qiyou",
       "name": "🥝奇奇｜平安™",
       "type": 3,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_Qiyou"
     },
     {
@@ -1119,7 +1119,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_DuanJu",
       "ext": ""
     },
@@ -1129,7 +1129,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_LiteApple"
     },
     {
@@ -1138,7 +1138,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_Gz360"
     },
     {
@@ -1147,7 +1147,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/1226.png",
       "api": "csp_Jpys"
     },
     {
@@ -1337,8 +1337,8 @@
       "key": "虎牙",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1727,7 +1727,7 @@
     {
       "name": "平安视界",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -1813,7 +1813,7 @@
       "name": "内测4Gtv",
       "boot": true,
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
       "playerType": 1,
       "ua": "Goiptv/8.8.8",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
