@@ -2,38 +2,80 @@
 #EXTINF:-1 tvg-name="👖裤佬体育直播[备]",👖裤佬体育直播[备]
 #EXTM3U
 # 大米直播 - 实时全线路源
-# 北京时间: 2026/10/5 18:22:22
-# 当前直播场次: 8 场
+# 北京时间: 2026/10/6 18:05:57
+# 当前直播场次: 15 场
 
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="东盟杯" tvg-name="[17:00] 马来西亚 VS 越南 (高清K)",[17:00] 马来西亚 VS 越南 (高清K)
-https://hello.ooo0ooo.top/live/4652618.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="东盟杯" tvg-name="[17:00] 马来西亚 VS 越南 (高清J)",[17:00] 马来西亚 VS 越南 (高清J)
-https://live.dyrur1.com/live/75234980_2a3518d9fe98a9e3d48ae38b19910c5b_1080p.m3u8?auth_key=1791209887-0-0-ef95f50c022695739657fdbb672974ec
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="东盟杯" tvg-name="[17:00] 马来西亚 VS 越南 (高清B)",[17:00] 马来西亚 VS 越南 (高清B)
-https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=a5bf51444694c0908c359418ded6576e&txTime=6AC4CB50
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[15:00] 圣塞巴斯提安金雄鹿 VS CSB开拓者 (高清K)",[15:00] 圣塞巴斯提安金雄鹿 VS CSB开拓者 (高清K)
-https://hello.ooo0ooo.top/live/3945437.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] 圣贝达红狮 VS CSJL骑士 (高清K)",[17:00] 圣贝达红狮 VS CSJL骑士 (高清K)
-https://hello.ooo0ooo.top/live/3945438.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] 圣贝达红狮 VS CSJL骑士 (高清J)",[17:00] 圣贝达红狮 VS CSJL骑士 (高清J)
-https://live.dyrur1.com/live/74250376_d8a75f0624882b8bab3cfcb43e4bd048_1080p.m3u8?auth_key=1791208495-0-0-dd2265a27b1ba108081718fd7feda7aa
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] 圣贝达红狮 VS CSJL骑士 (高清B)",[17:00] 圣贝达红狮 VS CSJL骑士 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3945438.m3u8?txSecret=476436b72449dd2d546e85c8e328196f&txTime=6AC4CB50
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[18:00] 威尔士U19 VS 北爱尔兰U19 (高清K)",[18:00] 威尔士U19 VS 北爱尔兰U19 (高清K)
-https://hello.ooo0ooo.top/live/4650108.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="女亚杯U17" tvg-name="[17:30] 缅甸女足U17 VS 关岛女足U17 (高清K)",[17:30] 缅甸女足U17 VS 关岛女足U17 (高清K)
-https://hello.ooo0ooo.top/live/4652543.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="麒麟杯" tvg-name="[18:30] 日本 VS 新西兰 (高清K)",[18:30] 日本 VS 新西兰 (高清K)
-https://hello.ooo0ooo.top/live/4652322.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="麒麟杯" tvg-name="[18:30] 日本 VS 新西兰 (高清B)",[18:30] 日本 VS 新西兰 (高清B)
-https://pul-tenm.gkykp.com/live/hd-en-1-4652322.m3u8?txSecret=2c7ee8ba7e5545a7273bc038109a301f&txTime=6AC4CB50
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="印班超" tvg-name="[18:30] 科达古 VS 特克尼克 (高清K)",[18:30] 科达古 VS 特克尼克 (高清K)
-https://hello.ooo0ooo.top/live/4653326.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="印班超" tvg-name="[18:30] 科达古 VS 特克尼克 (高清B)",[18:30] 科达古 VS 特克尼克 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=3110abd6509f0fa3c7b36098b0c64dd0&txTime=6AC4CB50
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="U18女亚洲杯" tvg-name="[16:30] 中国台北女篮U18 VS 中国女篮U18 (高清K)",[16:30] 中国台北女篮U18 VS 中国女篮U18 (高清K)
-https://hello.ooo0ooo.top/live/3924438.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="U18女亚洲杯" tvg-name="[16:30] 中国台北女篮U18 VS 中国女篮U18 (高清J)",[16:30] 中国台北女篮U18 VS 中国女篮U18 (高清J)
-https://live1.dyrur1.com/live/14408492_3e751b8293ed1d3a843f471d22fc0e5b_1080p.m3u8?auth_key=1791209887-0-0-1d28d773d0cfa33a3c9499d9e55a4bd4
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] EAC将军 VS 玛布亚红雀 (高清K)",[17:00] EAC将军 VS 玛布亚红雀 (高清K)
+https://hello.ooo0ooo.top/live/3945792.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] EAC将军 VS 玛布亚红雀 (高清J)",[17:00] EAC将军 VS 玛布亚红雀 (高清J)
+https://live.dyrur1.com/live/ndkzysnwj1mux73_8b3b0394095b8b8fd3afd1b93aa21381_1080p.m3u8?auth_key=1791295134-0-0-450cc0213b3a927d54063849d37173d5
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[17:00] EAC将军 VS 玛布亚红雀 (高清B)",[17:00] EAC将军 VS 玛布亚红雀 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3945792.m3u8?txSecret=44564ea09c48a8bd1ddc2af2bf1b3bcc&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[17:25] 沙特U20 VS 亚美尼亚U20 (高清K)",[17:25] 沙特U20 VS 亚美尼亚U20 (高清K)
+https://hello.ooo0ooo.top/live/4654887.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[17:25] 沙特U20 VS 亚美尼亚U20 (高清J)",[17:25] 沙特U20 VS 亚美尼亚U20 (高清J)
+https://live.dyrur1.com/live/14528460_17e62de7a9b38fce602b047a25bbb963_1080p.m3u8?auth_key=1791295136-0-0-9a1bfab5eb416a5550abf842f5a73030
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[17:25] 沙特U20 VS 亚美尼亚U20 (高清B)",[17:25] 沙特U20 VS 亚美尼亚U20 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4654887.m3u8?txSecret=e9e6885240f25b66dc9e18ae576b4b24&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩大学联" tvg-name="[15:00] 成均馆大学 VS 高丽大学 (高清K)",[15:00] 成均馆大学 VS 高丽大学 (高清K)
+https://hello.ooo0ooo.top/live/3945586.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩篮甲" tvg-name="[18:00] 水原KT音速弹 VS 昌原LG猎隼 (高清K)",[18:00] 水原KT音速弹 VS 昌原LG猎隼 (高清K)
+https://hello.ooo0ooo.top/live/3933453.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩篮甲" tvg-name="[18:00] 水原KT音速弹 VS 昌原LG猎隼 (高清B)",[18:00] 水原KT音速弹 VS 昌原LG猎隼 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3933453.m3u8?txSecret=404683ca14f0ff051644af4bd04e2379&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩女夏联杯" tvg-name="[15:30] 清州KB之星女篮 VS 龙仁三星女篮 (高清K)",[15:30] 清州KB之星女篮 VS 龙仁三星女篮 (高清K)
+https://hello.ooo0ooo.top/live/3944675.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩女夏联杯" tvg-name="[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清K)",[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清K)
+https://hello.ooo0ooo.top/live/3944668.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩女夏联杯" tvg-name="[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清J)",[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清J)
+https://live2.dyrur1.com/live/75292618_5507f5f1fb2edeeff064d9c1e60d8b12_1080p.m3u8?auth_key=1791295135-0-0-1c6829343e9c108e32f3dc9155e6edcd
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩女夏联杯" tvg-name="[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清B)",[18:00] 新韩银行大鸟女篮 VS 富川KEB女篮 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3944668.m3u8?txSecret=a4ff6dc605df9df32ceefe0cd1988d21&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="俱乐部友谊赛" tvg-name="[17:00] 西宁U20 VS 芹苴U20 (高清K)",[17:00] 西宁U20 VS 芹苴U20 (高清K)
+https://hello.ooo0ooo.top/live/3945775.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清K)",[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清K)
+https://hello.ooo0ooo.top/live/4651484.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清J)",[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清J)
+https://live1.dyrur1.com/live/34kgmigv11lueko_7ef17bdd902da704fc3cc74d5d1e1d7b_1080p.m3u8?auth_key=1791292981-0-0-d28606815b1aee3555b44e1cc70d664b
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清B)",[17:00] 达卡流浪者 VS 巴斯顺达拉国王 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4651484.m3u8?txSecret=7455f4d41fb12193d9e103087dff4d22&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 孟加拉国警察 VS MSPCC城市 (高清K)",[17:00] 孟加拉国警察 VS MSPCC城市 (高清K)
+https://hello.ooo0ooo.top/live/4651485.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 孟加拉国警察 VS MSPCC城市 (高清J)",[17:00] 孟加拉国警察 VS MSPCC城市 (高清J)
+https://live.dyrur1.com/live/69759irwnnmbgk2_5cddbeed5708b89b01a9709fe5dc0452_1080p.m3u8?auth_key=1791294324-0-0-028e077e9e828f2944192291ff950343
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 孟加拉国警察 VS MSPCC城市 (高清B)",[17:00] 孟加拉国警察 VS MSPCC城市 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4651485.m3u8?txSecret=1884cd5abcdeaf9f14d0c593e515c5c8&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 穆罕默德SC VS 阿安姆巴格 (高清K)",[17:00] 穆罕默德SC VS 阿安姆巴格 (高清K)
+https://hello.ooo0ooo.top/live/4651486.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 穆罕默德SC VS 阿安姆巴格 (高清J)",[17:00] 穆罕默德SC VS 阿安姆巴格 (高清J)
+https://live2.dyrur1.com/live/8lk2di3066jaz73_affcae9516e0da27ce25527b7e524933_1080p.m3u8?auth_key=1791294324-0-0-e738adeb70c52455d6193ca18504d123
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="孟加拉杯" tvg-name="[17:00] 穆罕默德SC VS 阿安姆巴格 (高清B)",[17:00] 穆罕默德SC VS 阿安姆巴格 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4651486.m3u8?txSecret=0e5aeb8792aa05e82ee923f23047824d&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="葡U23" tvg-name="[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清K)",[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清K)
+https://hello.ooo0ooo.top/live/4609461.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="葡U23" tvg-name="[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清J)",[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清J)
+https://live3.dyrur1.com/live/72962178_bd9a69d99a81e853c35acac8480a9478_1080p.m3u8?auth_key=1791295135-0-0-502311061b146c44a8eec81a51e8db74
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="葡U23" tvg-name="[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清B)",[18:00] 莱里亚U23 VS 辛达卡拉U23 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4609461.m3u8?txSecret=c7b0034f0449bead861ee0e184436ed3&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌克兰杯" tvg-name="[16:40] 托尔斯蒂安 VS 切尔尼夫 (高清K)",[16:40] 托尔斯蒂安 VS 切尔尼夫 (高清K)
+https://hello.ooo0ooo.top/live/4639039.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="越南杯" tvg-name="[16:30] 林同 VS 乂安蓝江 (高清K)",[16:30] 林同 VS 乂安蓝江 (高清K)
+https://hello.ooo0ooo.top/live/4632011.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="越南杯" tvg-name="[16:30] 林同 VS 乂安蓝江 (高清J)",[16:30] 林同 VS 乂安蓝江 (高清J)
+https://live.dyrur1.com/live/73550060_6de97093bb108cb4cc421ed36a846f6c_1080p.m3u8?auth_key=1791295136-0-0-6e7b528bec8d56d4483d08aa4da836c1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="越南杯" tvg-name="[16:30] 林同 VS 乂安蓝江 (高清B)",[16:30] 林同 VS 乂安蓝江 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4632011.m3u8?txSecret=7217cc762ad32b0821bf7e6c43f2c93f&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="中乙" tvg-name="[17:00] 湖北青年星 VS 兰州陇原竞技 (高清K)",[17:00] 湖北青年星 VS 兰州陇原竞技 (高清K)
+https://hello.ooo0ooo.top/live/4640202.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="中乙" tvg-name="[17:00] 湖北青年星 VS 兰州陇原竞技 (高清J)",[17:00] 湖北青年星 VS 兰州陇原竞技 (高清J)
+https://live.dyrur1.com/live/74455060_5dcdbd8d7e3d3a6b0becb2c6246a5cb8_1080p.m3u8?auth_key=1791295136-0-0-1403c41a876e14226cd9909d1c6f7bf3
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="中乙" tvg-name="[17:00] 湖北青年星 VS 兰州陇原竞技 (高清B)",[17:00] 湖北青年星 VS 兰州陇原竞技 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4640202.m3u8?txSecret=cdaa0ccd9d5e194f41309097b96ec0ab&txTime=6AC61910
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="U18女亚洲杯" tvg-name="[16:30] 中国女篮U18 VS 日本女篮U18 (高清K)",[16:30] 中国女篮U18 VS 日本女篮U18 (高清K)
+https://hello.ooo0ooo.top/live/3924433.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="U18女亚洲杯" tvg-name="[16:30] 中国女篮U18 VS 日本女篮U18 (高清J)",[16:30] 中国女篮U18 VS 日本女篮U18 (高清J)
+https://live1.dyrur1.com/live/6975lsn9m83igk2_28b42491f84592d2ba5e264cb4252e88_1080p.m3u8?auth_key=1791295136-0-0-a02088ccb75d07a5dfa6493bfd2a13b1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="U18女亚洲杯" tvg-name="[16:30] 中国女篮U18 VS 日本女篮U18 (高清B)",[16:30] 中国女篮U18 VS 日本女篮U18 (高清B)
+https://pul-tenm.gkykp.com/live/hd-en-2-3924433.m3u8?txSecret=8165dc56f09c1bcc31edd048c55ef647&txTime=6AC61910

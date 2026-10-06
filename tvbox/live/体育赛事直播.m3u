@@ -3,21 +3,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="东盟杯 马来西亚 vs 越南" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/75b6ce8a3018d34793e1aa86ec375795.png" group-title="足球",东盟杯 马来西亚 vs 越南
-http://47.100.99.38:28989/football/8518523
-#EXTINF:-1 tvg-name="菲NCAA 圣贝达红狮 vs CSJL骑士" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA 圣贝达红狮 vs CSJL骑士
-http://47.100.99.38:28989/basketball/8520550
-#EXTINF:-1 tvg-name="菲MPBL 伊萨贝拉考博伊斯 vs 坎卡洛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/a07e13b5b4e03beb0e060907570dd569.png" group-title="篮球",菲MPBL 伊萨贝拉考博伊斯 vs 坎卡洛
-http://47.100.99.38:28989/basketball/8517536
-#EXTINF:-1 tvg-name="韩女夏联杯 卡尔顿大学女篮 vs BNK釜山萨姆女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f288bdfc660b77cd25892c22f1a54888.png" group-title="篮球",韩女夏联杯 卡尔顿大学女篮 vs BNK釜山萨姆女篮
-http://47.100.99.38:28989/basketball/8517321
-#EXTINF:-1 tvg-name="ESL职业联赛 PARIVISION vs Furia" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FlV7UqET0kUOB81HCHhAhEWuF3cw" group-title="电竞",ESL职业联赛 PARIVISION vs Furia
-http://47.100.99.38:28989/esport/25947
-#EXTINF:-1 tvg-name="ESL职业联赛 ShindeN vs G2" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FlV7UqET0kUOB81HCHhAhEWuF3cw" group-title="电竞",ESL职业联赛 ShindeN vs G2
-http://47.100.99.38:28989/esport/25948
-#EXTINF:-1 tvg-name="德玛西亚杯 NAVI vs FLY" tvg-logo="https://esports-cdn.namitiyu.com/lol/tournament/FmLzPfoVuPCn0TxfOahk9KfP-2yw" group-title="电竞",德玛西亚杯 NAVI vs FLY
-http://47.100.99.38:28989/esport/24491
-#EXTINF:-1 tvg-name="KPL年度总决赛 北京JDG vs 杭州LGD.NBW" tvg-logo="https://esports-cdn.namitiyu.com/kog/tournament/FvLrEesnNjNeLefxnjJ0rNn7e0z7" group-title="电竞",KPL年度总决赛 北京JDG vs 杭州LGD.NBW
-http://47.100.99.38:28989/esport/25740
-#EXTINF:-1 tvg-name="EPL东南亚 ЯЧЁ123 vs Team Kinetix" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/FoNI29yRScLYYB3jKIGGF9RbtQ_O" group-title="电竞",EPL东南亚 ЯЧЁ123 vs Team Kinetix
-http://47.100.99.38:28989/esport/25220
+#EXTINF:-1 tvg-name="越南杯 林同 vs 乂安蓝江" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/66f314c41d4ac724515a03da0e70847e.png" group-title="足球",越南杯 林同 vs 乂安蓝江
+http://47.100.99.38:28989/football/8490285
+#EXTINF:-1 tvg-name="中乙 湖北青年星 vs 兰州陇原竞技" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b6025970c665a7640122d6b3d156b0b8.png" group-title="足球",中乙 湖北青年星 vs 兰州陇原竞技
+http://47.100.99.38:28989/football/8500103
+#EXTINF:-1 tvg-name="缅甸U20 治尼兰德U20 vs 伊洛瓦底U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 治尼兰德U20 vs 伊洛瓦底U20
+http://47.100.99.38:28989/football/8521708
+#EXTINF:-1 tvg-name="缅甸U20 仰光联U20 vs 亚大那保U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 仰光联U20 vs 亚大那保U20
+http://47.100.99.38:28989/football/8521773
+#EXTINF:-1 tvg-name="孟加拉杯 达卡流浪者 vs 巴斯顺达拉国王" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="足球",孟加拉杯 达卡流浪者 vs 巴斯顺达拉国王
+http://47.100.99.38:28989/football/8516852
+#EXTINF:-1 tvg-name="孟加拉杯 孟加拉国警察 vs MSPCC城市" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="足球",孟加拉杯 孟加拉国警察 vs MSPCC城市
+http://47.100.99.38:28989/football/8516853
+#EXTINF:-1 tvg-name="孟加拉杯 穆罕默德SC vs 阿安姆巴格" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="足球",孟加拉杯 穆罕默德SC vs 阿安姆巴格
+http://47.100.99.38:28989/football/8516854
+#EXTINF:-1 tvg-name="国际友谊 沙特U20 vs 亚美尼亚U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="足球",国际友谊 沙特U20 vs 亚美尼亚U20
+http://47.100.99.38:28989/football/8521446
+#EXTINF:-1 tvg-name="葡U23 莱里亚U23 vs 辛达卡拉U23" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="足球",葡U23 莱里亚U23 vs 辛达卡拉U23
+http://47.100.99.38:28989/football/8457067
+#EXTINF:-1 tvg-name="U18女亚洲杯 中国女篮U18 vs 日本女篮U18" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/0594e743d2e04dbfac1d59b6755c9a26.png" group-title="篮球",U18女亚洲杯 中国女篮U18 vs 日本女篮U18
+http://47.100.99.38:28989/basketball/8430467
+#EXTINF:-1 tvg-name="菲NCAA EAC将军 vs 玛布亚红雀" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA EAC将军 vs 玛布亚红雀
+http://47.100.99.38:28989/basketball/8521810
+#EXTINF:-1 tvg-name="韩女夏联杯 新韩银行大鸟女篮 vs 富川KEB女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f288bdfc660b77cd25892c22f1a54888.png" group-title="篮球",韩女夏联杯 新韩银行大鸟女篮 vs 富川KEB女篮
+http://47.100.99.38:28989/basketball/8517328
+#EXTINF:-1 tvg-name="韩篮甲 水原KT音速弹 vs 昌原LG猎隼" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="篮球",韩篮甲 水原KT音速弹 vs 昌原LG猎隼
+http://47.100.99.38:28989/basketball/8477612
+#EXTINF:-1 tvg-name="PARI宇宙 HULIGANI vs CH" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Ft2GHXAg535MhKqkmqFGQb2aFKMf" group-title="电竞",PARI宇宙 HULIGANI vs CH
+http://47.100.99.38:28989/esport/25819
+#EXTINF:-1 tvg-name="KPL年度总决赛 北京JDG vs 南通Hero久竞" tvg-logo="https://esports-cdn.namitiyu.com/kog/tournament/FvLrEesnNjNeLefxnjJ0rNn7e0z7" group-title="电竞",KPL年度总决赛 北京JDG vs 南通Hero久竞
+http://47.100.99.38:28989/esport/25743
+#EXTINF:-1 tvg-name="EPL东南亚 YG vs Cloud Dawning" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/FoNI29yRScLYYB3jKIGGF9RbtQ_O" group-title="电竞",EPL东南亚 YG vs Cloud Dawning
+http://47.100.99.38:28989/esport/25340
+#EXTINF:-1 tvg-name="德玛西亚杯 VIT vs RED" tvg-logo="https://esports-cdn.namitiyu.com/lol/tournament/FmLzPfoVuPCn0TxfOahk9KfP-2yw" group-title="电竞",德玛西亚杯 VIT vs RED
+http://47.100.99.38:28989/esport/24496
