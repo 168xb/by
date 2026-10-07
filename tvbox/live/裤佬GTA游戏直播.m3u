@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="👖裤佬GTA游戏直播",👖裤佬GTA游戏直播
 #EXTM3U
 
-# 分类: 🔥GTA直播 (1个在线)
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_ukarai_-320x180.jpg" group-title="🔥GTA直播",ukarai_ - Grand Theft Auto V 👀8人
-https://stymei1.pages.dev/ukarai_.m3u8
+# 分类: 🔥GTA直播 (2个在线)
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_kiwo-320x180.jpg" group-title="🔥GTA直播",Kiwo - Grand Theft Auto V 👀1416人
+https://stymei1.pages.dev/kiwo.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_pupconor-320x180.jpg" group-title="🔥GTA直播",pupconor - Grand Theft Auto V 👀7人
+https://stymei1.pages.dev/pupconor.m3u8

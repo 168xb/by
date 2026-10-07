@@ -1256,7 +1256,7 @@
     },
     {
       "key": "看剧影视",
-      "name": "聚合三方🥇看剧🥇影视 [0.4s]",
+      "name": "聚合三方🥇看剧🥇影视 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
       "searchable": 1,
@@ -1265,7 +1265,7 @@
     },
     {
       "key": "猎手",
-      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.3s]",
+      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.4s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py",
       "searchable": 1,
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "央视",
-      "name": "聚合三方央视🥇影视 [0.2s]",
+      "name": "聚合三方央视🥇影视 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py",
       "searchable": 1,
@@ -2402,6 +2402,15 @@
       "name": "欧乐影院[py]",
       "type": 3,
       "api": "https://clun.top/py/oule.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影",
+      "name": "影",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
