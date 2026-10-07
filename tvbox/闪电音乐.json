@@ -1,7 +1,7 @@
 {
   "spider": "https://15487.kstore.space/spider.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
-  "logo": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/logo.png",
+  "logo": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/logo.png",
   "lives": [
     {
       "name": "美加墨世界杯",
@@ -72,8 +72,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "cookie": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩演唱会.png"
+        "cookie": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩演唱会.png"
       },
       "style": {
         "type": "rect",
@@ -117,8 +117,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
-        "cookie": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
+        "cookie": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
       }
     },
     {
@@ -375,8 +375,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "cookie": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩戏曲.png"
+        "cookie": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩戏曲.png"
       },
       "style": {
         "type": "rect",
@@ -417,7 +417,7 @@
       "key": "哔哩",
       "name": "🎤闪电｜影视4K",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
     },
     {
@@ -430,8 +430,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "cookie": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩相声.png"
+        "cookie": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩相声.png"
       },
       "style": {
         "type": "rect",
@@ -448,8 +448,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "cookie": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩小品.png"
+        "cookie": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
+        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩小品.png"
       },
       "style": {
         "type": "rect",

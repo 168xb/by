@@ -1,6 +1,6 @@
 {
   "spider": "https://www.lnjubao.cn/minio-jbpt/upload/20260902/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330",
-  "logo": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/ext/app_icon.png",
+  "logo": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/ext/app_icon.png",
   "lives": [
     {
       "name": "🍬移动🍬",
@@ -21,7 +21,7 @@
     {
       "name": "🍬电信🍬",
       "type": 0,
-      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}"
@@ -40,7 +40,7 @@
       "key": "豆瓣",
       "name": "🍬糖果影视🍬",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/js/豆瓣.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/js/豆瓣.js",
       "searchable": 0,
       "changeable": 1
     },
@@ -61,7 +61,7 @@
       "key": "哔站记录片",
       "name": "🍬🅱哔站影视",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/js/哔哩纪录片.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/js/哔哩纪录片.js",
       "searchable": 1,
       "ext": ""
     },
@@ -69,7 +69,7 @@
       "key": "哔站教育",
       "name": "🍬🅱哔站教育",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/js/哔站教育.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/js/哔站教育.js",
       "searchable": 0,
       "changeable": 0,
       "ext": "",
@@ -326,8 +326,8 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/jar/FM.jar",
-      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/zhoujck/config/main/ext/market.json"
+      "jar": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/jar/FM.jar",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/zhoujck/config/main/ext/market.json"
     }
   ],
   "parses": [

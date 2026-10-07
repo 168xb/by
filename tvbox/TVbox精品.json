@@ -419,37 +419,6 @@
       }
     },
     {
-      "key": "猴影视",
-      "name": "🐵猴哥丨蓝光秒播",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://45.150.167.18:8000",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
-      }
-    },
-    {
-      "key": "怀桑",
-      "name": "🐦金蝉丨蓝光秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "天堂",
       "name": "🏵️天堂｜蓝光秒播",
       "type": 3,
@@ -507,21 +476,6 @@
         "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
         "version": "1.0.0.4",
         "decrypt": "1"
-      }
-    },
-    {
-      "key": "蓝鹰",
-      "name": "🧿蓝鹰｜蓝光秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "init": "initV120",
-        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -633,46 +587,6 @@
       }
     },
     {
-      "key": "次元动漫",
-      "name": "🎀次元丨动漫追番",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
-      }
-    },
-    {
-      "key": "双子星",
-      "name": "✨双子星丨动漫秒播",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "曼波动漫",
-      "name": "🎀omofun｜动漫追番",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.omofun1.top",
-        "dataKey": "66dc309cbeeca454",
-        "dataIv": "66dc309cbeeca454"
-      }
-    },
-    {
       "key": "红果短剧",
       "name": "🍎红果丨短剧爽看",
       "type": 3,
@@ -715,13 +629,6 @@
       "genre": "shortdrama"
     },
     {
-      "key": "py聚合短剧",
-      "name": "🍑短剧丨聚合短剧",
-      "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/短剧聚合2.py",
-      "changeable": 1
-    },
-    {
       "key": "荐片",
       "name": "🧲荐片｜磁力资源",
       "api": "csp_JianPian",
@@ -749,13 +656,27 @@
       }
     },
     {
-      "key": "球通体育",
-      "name": "⚽球通｜体育直播",
+      "key": "飞球体育",
+      "name": "⚽飞球丨体育直播",
       "type": 3,
-      "api": "csp_SportsQiutong",
+      "api": "csp_SportsFeiqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1.0009
+        "type": "list"
+      }
+    },
+    {
+      "key": "瓜子体育",
+      "name": "⚽瓜子丨体育直播",
+      "type": 3,
+      "api": "csp_SportsGuazi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
