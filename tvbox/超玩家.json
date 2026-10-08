@@ -110,9 +110,9 @@
       "name": "🍡葫芦┃影视",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
       "ext": {
-        "host": "https://gh.1k.ink/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "host": "https://gh.llkk.cc/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
         "key": "8R33VQSxzmCaHpEX",
         "init": "V122",
         "api": 2,
@@ -977,8 +977,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -993,8 +993,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1121,8 +1121,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1230,7 +1230,7 @@
     {
       "name": "☁V4线路☁",
       "type": 0,
-      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 1
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "name": "☁易发TV☁",
       "type": 0,
-      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "playerType": 1
     },
     {
