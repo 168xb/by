@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/spider2.jar",
+  "spider": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/spider2.jar",
   "lives": [
     {
       "name": "live",
@@ -23,8 +23,8 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -40,14 +40,14 @@
       "key": "PushShare",
       "name": "💻我的资源",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_PushShare",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -57,14 +57,14 @@
       "key": "AliShare",
       "name": "💾阿里┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_AliShare",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -74,14 +74,14 @@
       "key": "AliShareEBook",
       "name": "💾阿里┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_AliShare",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -91,14 +91,14 @@
       "key": "QuarkShare",
       "name": "💾夸克┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_QuarkShare",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/quarkshare.txt",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/quarkshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -108,14 +108,14 @@
       "key": "115Share",
       "name": "💾115┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_P115Share",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -125,14 +125,14 @@
       "key": "UCShare",
       "name": "💾UC┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_UCShare",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -142,14 +142,14 @@
       "key": "ThunderShare",
       "name": "💾迅雷┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_ThunderShare",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/thundershare.txt",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/thundershare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -159,14 +159,14 @@
       "key": "PikPakShare",
       "name": "💾PikPak┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_PikPakShare",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -176,50 +176,50 @@
       "key": "SambaShare",
       "name": "💾Samba┃云盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_SambaShare",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/sambashare.txt"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/sambashare.txt"
     },
     {
       "key": "Wogg",
       "name": "💾玩偶┃网盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_Wogg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔网盘",
       "name": "💾蜡笔┃网盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
     },
     {
       "key": "Mogg",
       "name": "💾木偶┃网盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$http:/mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$http:/mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
     },
     {
       "key": "小米网盘",
@@ -227,32 +227,32 @@
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "Ppxzy",
       "name": "💾皮皮虾┃网盘",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_Ppxzy",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/ppxzy.ink$$$proxy$$$1"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$https:/ppxzy.ink$$$proxy$$$1"
     },
     {
       "key": "UP云搜",
       "name": "🔍阿里┃UP搜",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -263,8 +263,8 @@
       "name": "📺111电视┃直播",
       "type": 3,
       "searchable": 0,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/live2vod.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/feimaolive.json"
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/live2vod.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/feimaolive.json"
     },
     {
       "key": "腐剧视频",
@@ -587,13 +587,13 @@
       "key": "4KHDR",
       "name": "🧲4KHDR┃磁力",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_FourKHDR",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json$$$./lib/4khdr.txt$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -603,7 +603,7 @@
       "key": "BLSGod",
       "name": "🧲BLSGod┃磁力",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_BLSGod",
       "changeable": 1,
       "timeout": 60
@@ -629,7 +629,7 @@
       "key": "酷狗",
       "name": "🎤酷狗┃音乐",
       "type": 3,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
+      "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/pg.jar",
       "api": "csp_Kugou",
       "searchable": 1,
       "changeable": 0
@@ -641,7 +641,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json"
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/jigedos/1024/master/lib/tokenm.json"
     }
   ],
   "rules": [

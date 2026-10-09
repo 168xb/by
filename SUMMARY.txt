@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261008_180921
+TVBox 接口抓取报告  20261009_181038
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -71,10 +71,10 @@ TVBox 接口抓取报告  20261008_180921
   文件: None
   成功URL: 
 
-[真六] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[真六] okhttp/3.15
+  状态: JSON
+  文件: tvbox/真六.json
+  成功URL: https://cccimg.com/down.php/7d1f30263b3f2bf3deda2d7faeef4844.zhen6
 
 [短剧] 
   状态: FAILED
@@ -106,10 +106,10 @@ TVBox 接口抓取报告  20261008_180921
   文件: None
   成功URL: 
 
-[凯弟1线] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[凯弟1线] okhttp/3.15
+  状态: JSON
+  文件: tvbox/凯弟1线.json
+  成功URL: https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json
 
 [王二小] okhttp/3.15
   状态: JSON
@@ -176,10 +176,10 @@ TVBox 接口抓取报告  20261008_180921
   文件: tvbox/夏夏影视.json
   成功URL: https://11405.kstore.space/xiaye/qk4k.json
 
-[小凯] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[小凯] okhttp/3.15
+  状态: JSON
+  文件: tvbox/小凯.json
+  成功URL: https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json
 
 [时光] okhttp/3.15
   状态: TEXT
@@ -221,10 +221,10 @@ TVBox 接口抓取报告  20261008_180921
   文件: tvbox/健康家用.json
   成功URL: https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
 
-[凯弟] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[凯弟] okhttp/3.15
+  状态: JSON
+  文件: tvbox/凯弟.json
+  成功URL: https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json
 
 [七星在线] okhttp/3.15
   状态: JSON
@@ -256,10 +256,10 @@ TVBox 接口抓取报告  20261008_180921
   文件: tvbox/豆半.json
   成功URL: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/fxapi.json
 
-[机缘巧盒] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[机缘巧盒] okhttp/3.15
+  状态: JSON
+  文件: tvbox/机缘巧盒.json
+  成功URL: https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json
 
 [豆包] okhttp/3.15
   状态: JSON

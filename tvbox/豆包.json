@@ -169,12 +169,6 @@
       "filterable": 1
     },
     {
-      "key": "还行",
-      "name": "还行",
-      "type": 3,
-      "api": "https://pan.29o.cn/down.php/58019eaac174bc33efa304e43e2898fb.py"
-    },
-    {
       "key": "云播",
       "name": "云播",
       "type": 3,
@@ -188,72 +182,16 @@
       "api": "https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py"
     },
     {
-      "key": "光影",
-      "name": "光影",
-      "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "星河",
-      "name": "星河",
-      "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
-      "ext": {
-        "host": "http://110.42.67.130:1226",
-        "key": "kj37zs29q22jk96t",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "一个影视",
       "name": "一个影视",
       "type": 3,
       "api": "https://pan.szfx.top/down.php/a248e40581382b39bd1429fe3edfc19a.js"
     },
     {
-      "key": "雪落",
-      "name": "雪落",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/f729b5a1d215a4cbaa147d67f85a410e.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "4k-av",
       "name": "4k-av",
       "type": 3,
       "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"
-    },
-    {
-      "key": "极影",
-      "name": "极影",
-      "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-    {
-      "key": "山楂",
-      "name": "山楂",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/393b1f31b4e5525ff2b9a73878a646ee.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
     },
     {
       "key": "Acfun",
@@ -310,49 +248,49 @@
       "key": "藤1藤",
       "name": "天神别腾讯",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫1茫",
       "name": "天神别芒果",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "腾讯备",
       "name": "🦐腾讯",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
     },
     {
       "key": "芒果备",
       "name": "🦐芒果",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
     },
     {
       "key": "哔哩",
       "name": "🦐哔哩",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
     },
     {
       "key": "爱奇幕",
       "name": "🦐奇异",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
     },
     {
       "key": "优幕",
       "name": "🦐优酷",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/9Y0jHb/%E4%BC%98%E9%85%B7.js"
     },
     {
@@ -376,8 +314,8 @@
       "key": "路漫漫",
       "name": "路漫漫",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
     },
     {
       "key": "动漫堂",
@@ -1026,7 +964,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
       "category": "综合",
       "searchable": 1
     },

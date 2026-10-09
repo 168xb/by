@@ -583,7 +583,7 @@
     },
     {
       "key": "永1乐",
-      "name": "聚合🥇三方永乐🥇影视 [0.3s]",
+      "name": "聚合🥇三方永乐🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js",
       "searchable": 1,
@@ -593,7 +593,7 @@
     },
     {
       "key": "独播库",
-      "name": "聚合三方🥇播库🥇影视 [0.3s]",
+      "name": "聚合三方🥇播库🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js",
       "searchable": 1,
@@ -603,7 +603,7 @@
     },
     {
       "key": "华数",
-      "name": "聚合三方华数🥇影视 [0.1s]",
+      "name": "聚合三方华数🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
       "changeable": 1,
@@ -625,7 +625,7 @@
     },
     {
       "key": "猎手",
-      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.2s]",
+      "name": "聚合三方🥇猎手🥇聚合资源，部分有广 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py",
       "searchable": 1,
@@ -635,7 +635,7 @@
     },
     {
       "key": "央视",
-      "name": "聚合三方央视🥇影视 [0.1s]",
+      "name": "聚合三方央视🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py",
       "searchable": 1,
@@ -645,7 +645,7 @@
     },
     {
       "key": "py_文才",
-      "name": "聚合🥇三方🥇文才🥇影视 [0.3s]",
+      "name": "聚合🥇三方🥇文才🥇影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
       "searchable": 1,
@@ -658,7 +658,7 @@
     },
     {
       "key": "py_6v",
-      "name": "聚合三方🥇四影🥇影视 [0.3s]",
+      "name": "聚合三方🥇四影🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/4Kvm.js",
       "searchable": 1,
@@ -670,7 +670,7 @@
     },
     {
       "key": "cat_剧迷网",
-      "name": "聚合三方🥇剧迷🥇影视 [0.2s]",
+      "name": "聚合三方🥇剧迷🥇影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/高清剧迷.js",
       "style": {
