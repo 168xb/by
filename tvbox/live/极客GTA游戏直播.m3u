@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
+#EXTM3U name="88看球(动态联赛分组)"
+#EXTINF:-1 tvg-id="129363_0" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
+https://stymei1.pages.dev/live/129363/0
+#EXTINF:-1 tvg-id="129363_1" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q2)
+https://stymei1.pages.dev/live/129363/1
+#EXTINF:-1 tvg-id="129363_2" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
+https://stymei1.pages.dev/live/129363/2
+#EXTINF:-1 tvg-id="129363_3" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
+https://stymei1.pages.dev/live/129363/3
+#EXTINF:-1 tvg-id="129361_0" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q2)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q2)
+https://stymei1.pages.dev/live/129361/0
+#EXTINF:-1 tvg-id="129361_1" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
+https://stymei1.pages.dev/live/129361/1
+#EXTINF:-1 tvg-id="129361_2" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
+https://stymei1.pages.dev/live/129361/2
+#EXTINF:-1 tvg-id="129361_3" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
+https://stymei1.pages.dev/live/129361/3
+#EXTINF:-1 tvg-id="129362_0" tvg-name="17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q2)
+https://stymei1.pages.dev/live/129362/0
+#EXTINF:-1 tvg-id="129362_1" tvg-name="17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q1)
+https://stymei1.pages.dev/live/129362/1
+#EXTINF:-1 tvg-id="129359_0" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑤)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑤)
+https://stymei1.pages.dev/live/129359/0
+#EXTINF:-1 tvg-id="129359_1" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑥)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑥)
+https://stymei1.pages.dev/live/129359/1
+#EXTINF:-1 tvg-id="129359_2" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A1)
+https://stymei1.pages.dev/live/129359/2
+#EXTINF:-1 tvg-id="129359_3" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q2)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q2)
+https://stymei1.pages.dev/live/129359/3
+#EXTINF:-1 tvg-id="129359_4" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A3)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A3)
+https://stymei1.pages.dev/live/129359/4
+#EXTINF:-1 tvg-id="129359_5" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q1)
+https://stymei1.pages.dev/live/129359/5
+#EXTINF:-1 tvg-id="129360_0" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路④)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路④)
+https://stymei1.pages.dev/live/129360/0
+#EXTINF:-1 tvg-id="129360_1" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路⑤)
+https://stymei1.pages.dev/live/129360/1
+#EXTINF:-1 tvg-id="129360_2" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路A1)
+https://stymei1.pages.dev/live/129360/2
+#EXTINF:-1 tvg-id="129360_3" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q2)
+https://stymei1.pages.dev/live/129360/3
+#EXTINF:-1 tvg-id="129360_4" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路A3)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路A3)
+https://stymei1.pages.dev/live/129360/4
+#EXTINF:-1 tvg-id="129360_5" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q1)
+https://stymei1.pages.dev/live/129360/5

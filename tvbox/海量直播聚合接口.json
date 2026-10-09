@@ -361,14 +361,8 @@
       "source": "裤佬"
     },
     {
-      "name": "👖裤佬GTA游戏直播",
-      "url": "https://stymei1.pages.dev/live.m3u",
-      "ua": "",
-      "source": "裤佬"
-    },
-    {
       "name": "🍿潇雨TV直播",
-      "url": "https://0701.tv1288.xyz/m3u",
+      "url": "https://123.tv1288.xyz/sm2.txt",
       "ua": "",
       "source": "裤佬"
     },
@@ -697,6 +691,48 @@
       "source": "聚合"
     },
     {
+      "name": "肥羊直播",
+      "url": "https://9877.kstore.space/Live/live.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "AI直播",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "ua": "",
+      "source": "真六"
+    },
+    {
+      "name": "虎牙一起看2线",
+      "url": "https://9877.kstore.space/Live/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "斗鱼一起看2线",
+      "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "YY轮播2线",
+      "url": "https://9877.kstore.space/Live/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "网络Live",
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "",
+      "source": "真六"
+    },
+    {
+      "name": "APTV",
+      "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "真六"
+    },
+    {
       "name": "live3线",
       "url": "http://23.224.143.163:2202/vip/ku9.txt",
       "ua": "",
@@ -847,12 +883,6 @@
       "source": "PG"
     },
     {
-      "name": "Gather.网络直播",
-      "url": "https://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "source": "PG"
-    },
-    {
       "name": "FMM.txt",
       "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "ua": "okhttp/3.15",
@@ -885,6 +915,12 @@
     {
       "name": "极客抖音直播",
       "url": "https://stymei2.pages.dev/live.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "极客GTA游戏直播",
+      "url": "https://stymei1.pages.dev/live.m3u",
       "ua": "",
       "source": "卡卡"
     },
