@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ff60325e7754bfa9a9f5034322d79ef7-thumbnail.jpg" group-title="American Football",Edmonton Elks at Hamilton Tiger-Cats (07:00 ~ 10:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/cfl/2026-10-09/edm-ham
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3c6ec2313dab94bbe22b40cce2040369-thumbnail.jpg" group-title="American Football",Ottawa RedBlacks at BC Lions (10:00 ~ 13:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/cfl/2026-10-09/ott-bc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78d9ec39b3df471d9be962f6c65ad3df-thumbnail.jpg" group-title="American Football",Iowa State Cyclones at BYU Cougars (10:15 ~ 14:15)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/cfb/2026-10-09/isu-byu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7648eae34d435a3a1775dd7fdfbf9ed-thumbnail.jpg" group-title="American Football",Indiana Hoosiers at Nebraska Cornhuskers (00:00 ~ 04:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/cfb/2026-10-10/iu-neb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8787926b178d3f48c3da42b2bb8221e9-thumbnail.jpg" group-title="American Football",Texas A&M Aggies at Missouri Tigers (00:00 ~ 04:00)
@@ -73,16 +67,8 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nfl/202
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nfl/2026-10-12/buf-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b5a9c5413a377012dd1d3fd3351df7cd-thumbnail.jpg" group-title="Basketball",Illawarra Hawks vs. Tasmania JackJumpers (16:30 ~ 19:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nbl/2026-10-09/hwk-tas
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/253a571d26edf4e2239b3094d6455fa8-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Dallas Mavericks (20:00 ~ 23:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-09/hou-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a0d12656df03f9fc6e6bf90ace073238-thumbnail.jpg" group-title="Basketball",Atlanta Dream vs. New York Liberty (07:30 ~ 10:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/wnba/2026-10-09/atl-ny
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fff7d6c909d4fc58c833b0dfe3b71523-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Chicago Bulls (08:00 ~ 11:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-09/mem-chi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/39ff103e117dccfeca641469b93c6e16-thumbnail.jpg" group-title="Basketball",Golden State Valkyries vs. Las Vegas Aces (09:30 ~ 12:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/wnba/2026-10-09/gs-lv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Cleveland Guardians (08:00 ~ 11:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/mlb/2026-10-10/chw-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6578e333472f8a999dfc82823c248552-thumbnail.jpg" group-title="Basketball",South East Melbourne Phoenix vs. Melbourne United (16:30 ~ 19:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nbl/2026-10-10/pnx-mel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67187891e6ccef3a9fca614bc3c90f9a-thumbnail.jpg" group-title="Basketball",Perth Wildcats vs. New Zealand Breakers (18:30 ~ 21:30)
@@ -101,28 +87,22 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/202
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-10/sac-gs
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7129d1f77f25fbabbeaffcd8059110ec-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Phoenix Suns (10:30 ~ 13:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-10/sa-phx
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21b6e2cfde26dedd49352f3604adbb7a-thumbnail.jpg" group-title="Combat Sports",ONE The Inner Circle 34 (19:30 ~ 21:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/one-the-inner-circle-34-30140
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/02cfe8e04a74553754dfa8df40e290b9-thumbnail.jpg" group-title="Basketball",Sydney Kings vs. Adelaide 36ers (12:00 ~ 15:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nbl/2026-10-11/syd-adl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268e6f536327b4e614ae56d331fc6b76-thumbnail.jpg" group-title="Basketball",Illawarra Hawks vs. Cairns Taipans (14:00 ~ 17:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nbl/2026-10-11/hwk-cns
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Houston Rockets (18:00 ~ 21:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-11/dal-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de28f3905bf7a384f6bf5e346887335c-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Cleveland Cavaliers (06:30 ~ 09:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-11/orl-cle
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b9bf316038fec66b5797402cf4d737e3-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Charlotte Hornets (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-11/mil-cha
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/09d6dd6415330519011c0ab4293cf763-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Denver Nuggets (09:00 ~ 12:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nba/2026-10-11/chi-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",Willow
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg" group-title="Football",IFK Göteborg vs. Västerås SK (01:00 ~ 03:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/allsvenskan/2026-10-09/got-vas
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01e59834f34ca17e06d5baba19055e3f-thumbnail.jpg" group-title="Football",PSV Eindhoven vs. Heerenveen (02:00 ~ 04:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/eredivisie/2026-10-09/psv-hee
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/72f0ccf6374d9d2415c4e31dbe535a18-thumbnail.jpg" group-title="Football",FC Volendam vs. Vitesse (02:00 ~ 04:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/keuken-kampioen-divisie/2026-10-09/vol-vit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/002e7bcebed0953ceb98c8adf583ed2c-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Werder Bremen (02:30 ~ 05:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/bundesliga/2026-10-09/dor-svw
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3eca37338a426d12f038b65f2d28a699-thumbnail.jpg" group-title="Football",Lens vs. Lyon (02:45 ~ 05:15)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/2026-10-09/rcl-lyon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ad4f07cdf10a5e62ee85cdc8f5a23b7-thumbnail.jpg" group-title="Football",Málaga vs. Espanyol (03:00 ~ 05:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-09/mcf-esp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf0b14881cedcf659af6e969d41db1b-thumbnail.jpg" group-title="Football",Puebla vs. León (09:00 ~ 11:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/liga-mx/2026-10-09/pue-leo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ab1019807580e43c58048d2d8826347-thumbnail.jpg" group-title="Football",Tigres UANL vs. Toluca (11:00 ~ 13:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/liga-mx/2026-10-09/uanl-tol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61c7aef5f23d6490275784c0cce59477-thumbnail.jpg" group-title="Football",Arsenal vs. Leeds United (19:30 ~ 22:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/pl/2026-10-10/ars-lee
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/706cd155ee2f69bd8a03d328de0460e2-thumbnail.jpg" group-title="Football",West Bromwich Albion vs. Birmingham City (19:30 ~ 22:00)
@@ -153,8 +133,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/pl/2026
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/pl/2026-10-10/ips-ful
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9070d12c29aa0a75e7b103525ccd7ef-thumbnail.jpg" group-title="Football",Sunderland vs. Brighton & Hove Albion (22:00 ~ 00:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/pl/2026-10-10/sun-bha
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6bf90cc11a755a6fc1b4206fa12b13f4-thumbnail.jpg" group-title="Football",Cercle Brugge KSV vs. Anderlecht (22:00 ~ 00:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-10/cbk-and
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c21b158b92668b99fdcf544d19284b30-thumbnail.jpg" group-title="Football",Derby County vs. Wrexham (22:00 ~ 00:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/efl-championship/2026-10-10/der-wxm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01a89fd0e8bcd2c2ccebcb8b2cb65c79-thumbnail.jpg" group-title="Football",Alavés vs. Atlético Madrid (22:15 ~ 00:45)
@@ -167,8 +145,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/allsvenskan/2026-10-10/mja-deg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/49a3132c6dbfc90af4cee2650e7839de-thumbnail.jpg" group-title="Football",Inter Milan vs. Parma (00:00 ~ 02:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/seriea/2026-10-10/int-par
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f0d20718037e3c93a1f6ce24cc2109d4-thumbnail.jpg" group-title="Football",RAAL La Louvière vs. Club Brugge (00:15 ~ 02:45)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-10/rll-bru
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7df01bb1f47867369ae204bb8fad26d0-thumbnail.jpg" group-title="Football",Barcelona vs. Getafe (00:30 ~ 03:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-10/bar-get
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd4edbd25dcd0fe40ed6b5dbeeec36f1-thumbnail.jpg" group-title="Football",RB Leipzig vs. Eintracht Frankfurt (00:30 ~ 03:00)
@@ -193,10 +169,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/2026-10-10/lor-par
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/883a923c9e9a732e6d8d7ac0dba6f52d-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Le Mans (02:45 ~ 05:15)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/2026-10-10/psg-mns
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd9ef9828c9335e0e999d29b60268207-thumbnail.jpg" group-title="Football",Racing Genk vs. KV Kortrijk (02:45 ~ 05:15)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-10/genk-kvk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc0a277a1760d8dc006f4d455c495ac5-thumbnail.jpg" group-title="Football",Zulte-Waregem vs. KAA Gent (02:45 ~ 05:15)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-10/zul-gent
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4e8519fa1b3895fbafa6ada3c89f198-thumbnail.jpg" group-title="Football",Real Madrid vs. Villarreal (03:00 ~ 05:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-10/rma-vil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/875a7fe1c98c9f1f387d14dfdfd79e20-thumbnail.jpg" group-title="Football",Ajax Amsterdam vs. NEC Nijmegen (03:00 ~ 05:30)
@@ -237,8 +209,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/liga-mx
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/eredivisie/2026-10-11/utr-wil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6fde60cae67edad975e298a03cf02642-thumbnail.jpg" group-title="Football",Como vs. AS Roma (18:30 ~ 21:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/seriea/2026-10-11/como-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/721387063096250d15557bc7a5c439d3-thumbnail.jpg" group-title="Football",Standard Liege vs. Royal Charleroi SC (19:30 ~ 22:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-11/stl-cha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42fd2c1884fb3b05206162d2d1a7238d-thumbnail.jpg" group-title="Football",Elche vs. Celta Vigo (20:00 ~ 22:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-11/elc-cel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95cc64c0948a74b20ae77fcfd1b95ed7-thumbnail.jpg" group-title="Football",Hammarby IF vs. Djurgården (20:00 ~ 22:30)
@@ -259,8 +229,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/seriea/
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/ligue1/2026-10-11/nice-str
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8735864cf4fc8f32a214e22c6b0cd228-thumbnail.jpg" group-title="Football",FC Cologne vs. Borussia Mönchengladbach (21:30 ~ 00:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/bundesliga/2026-10-11/koe-bmg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7736e9eb7eb5feaf026438e580143273-thumbnail.jpg" group-title="Football",Union St.-Gilloise vs. OH Leuven (22:00 ~ 00:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-11/usg-ohl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d170843dda5209ea67193f1643c7e068-thumbnail.jpg" group-title="Football",Real Sociedad vs. Deportivo (22:15 ~ 00:45)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-11/rso-dep
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e8e7ebec0221cbc0e26b9e868635afb-thumbnail.jpg" group-title="Football",BK Häcken vs. Örgryte IS (22:30 ~ 01:00)
@@ -277,10 +245,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/pl/2026
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/seriea/2026-10-11/sas-mil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/09b2c2a5529f745b6cf93f9202dd98ac-thumbnail.jpg" group-title="Football",Real Betis vs. Osasuna (00:30 ~ 03:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/laliga/2026-10-11/bet-osa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b9dec155ed84b6a885d5857022cafd6-thumbnail.jpg" group-title="Football",KVC Westerlo vs. Antwerp (00:30 ~ 03:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-11/kvcw-ant
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cdb4b10b0051c260cdca95ef81d5c0e-thumbnail.jpg" group-title="Football",KV Mechelen vs. Sint-Truidense (01:15 ~ 03:45)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/belgian-pro-league/2026-10-11/kvm-stvv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/903f1fe96fc7e599696d74af2bbc5dc0-thumbnail.jpg" group-title="Football",Cagliari vs. Juventus (02:45 ~ 05:15)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/seriea/2026-10-11/cag-juv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b59146a79727d153f604f68358f60c92-thumbnail.jpg" group-title="Football",Troyes vs. Marseille (02:45 ~ 05:15)
@@ -313,19 +277,35 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/efl-cha
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77dbfecc13139ce1a7aa77bd7b23fdb6-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Detroit Red Wings (07:00 ~ 10:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-09/sea-det
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/174b000723be0e4cbd0a31d51cdb8658-thumbnail.jpg" group-title="Ice Hockey",New York Rangers vs. Washington Capitals (07:00 ~ 10:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-09/nyr-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b17785667367b7ede8dae0ae67c6ebb0-thumbnail.jpg" group-title="Ice Hockey",Pittsburgh Penguins vs. Columbus Blue Jackets (07:00 ~ 10:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-09/pit-cbj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7da9c052ecf3a1c095bde875f491bc24-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Winnipeg Jets (08:00 ~ 11:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-09/ana-wpg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3689e895694c9f12d3b85a95a32e7a00-thumbnail.jpg" group-title="Motorsports",Singapore Grand Prix - Practice 1 (16:30 ~ 18:30)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026/singapore/fp1
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/084b03e74f5db10e842d9b74f027a0db-thumbnail.jpg" group-title="Motorsports",Singapore Grand Prix - Sprint Qualifying (20:30 ~ 22:14)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026/singapore/sprint-q
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74077fd9d858adcb923e5f0e75bceebe-thumbnail.jpg" group-title="Motorsports",Singapore Grand Prix - Sprint (17:00 ~ 19:00)
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f028211506561a0110de3805c435781-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Boston Bruins (01:00 ~ 04:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/phi-bos
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73cf8e6b8972a9592788524585160727-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. New Jersey Devils (03:30 ~ 06:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/van-nj
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f2554ca2da52c5b12310673b23a998e-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. San Jose Sharks (04:00 ~ 07:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/edm-sj
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/922d60a11f7827e5df980161c583a180-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Florida Panthers (06:00 ~ 09:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/min-fla
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d100754b195a0920837e250587c2a591-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Buffalo Sabres (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/uta-buf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb24b5af5b3dd64fd1879a1d545ea299-thumbnail.jpg" group-title="Ice Hockey",Detroit Red Wings vs. Montreal Canadiens (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/det-mtl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4832ee8e788ef9812c0d7746176fb207-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Ottawa Senators (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/nsh-ott
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/731991b49c3218345c2a6f20e485764d-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. Pittsburgh Penguins (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/dal-pit
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/304fd92e922345e227c4e59cff4379d6-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Chicago Blackhawks (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/car-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/66a8d79c8faed1d3fce7b2f176c0ef5f-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. St. Louis Blues (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/cbj-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/13b45d8adfbb6e469992c69a17428932-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. Colorado Avalanche (07:00 ~ 10:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/tor-col
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7df19e972533528032c7d66117451b7c-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. New York Islanders (07:30 ~ 10:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/tb-nyi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/800a73f87d9a1b6609f1f39640e33978-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Calgary Flames (10:00 ~ 13:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/ana-cgy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6104ba9bb1094816fdcfe8bcf7203cbb-thumbnail.jpg" group-title="Ice Hockey",Los Angeles Kings vs. Vegas Golden Knights (10:00 ~ 13:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/nhl/2026-10-10/la-vgk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74077fd9d858adcb923e5f0e75bceebe-thumbnail.jpg" group-title="Motorsports",Singapore Grand Prix - Sprint (17:00 ~ 21:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026/singapore/sprint
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/05a60ffe419dbfbb9462705a164895ee-thumbnail.jpg" group-title="Motorsports",Singapore Grand Prix - Qualifying (21:00 ~ 23:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026/singapore/qualifying
@@ -333,8 +313,6 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/f1/2026/singapore/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",Fox League
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE Friday Night Smackdown (08:00 ~ 11:00)
-https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/wwe/2026-10-09
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW Grand Slam: Collision (08:00 ~ 11:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=https://taifood-blog.asia/embed/aew/2026-10-10
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park

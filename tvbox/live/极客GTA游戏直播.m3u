@@ -1,47 +1,197 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
 #EXTM3U name="88看球(动态联赛分组)"
-#EXTINF:-1 tvg-id="129363_0" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
-https://stymei1.pages.dev/live/129363/0
-#EXTINF:-1 tvg-id="129363_1" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q2)
-https://stymei1.pages.dev/live/129363/1
-#EXTINF:-1 tvg-id="129363_2" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
-https://stymei1.pages.dev/live/129363/2
-#EXTINF:-1 tvg-id="129363_3" tvg-name="16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:30 U18女亚洲杯 日本U18 vs 韩国U18 (线路Q1)
-https://stymei1.pages.dev/live/129363/3
-#EXTINF:-1 tvg-id="129361_0" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q2)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q2)
-https://stymei1.pages.dev/live/129361/0
-#EXTINF:-1 tvg-id="129361_1" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
-https://stymei1.pages.dev/live/129361/1
-#EXTINF:-1 tvg-id="129361_2" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
-https://stymei1.pages.dev/live/129361/2
-#EXTINF:-1 tvg-id="129361_3" tvg-name="17:00 马足总 柔佛DT vs 槟城 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/254/26/2305/149889509.png" group-title="马足总",17:00 马足总 柔佛DT vs 槟城 (线路Q1)
-https://stymei1.pages.dev/live/129361/3
-#EXTINF:-1 tvg-id="129362_0" tvg-name="17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q2)
-https://stymei1.pages.dev/live/129362/0
-#EXTINF:-1 tvg-id="129362_1" tvg-name="17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",17:00 俱乐部友谊赛 宝岛梦想家 vs 台北台新战神 (线路Q1)
-https://stymei1.pages.dev/live/129362/1
-#EXTINF:-1 tvg-id="129359_0" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑤)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑤)
-https://stymei1.pages.dev/live/129359/0
-#EXTINF:-1 tvg-id="129359_1" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑥)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (国内线路⑥)
-https://stymei1.pages.dev/live/129359/1
-#EXTINF:-1 tvg-id="129359_2" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A1)
-https://stymei1.pages.dev/live/129359/2
-#EXTINF:-1 tvg-id="129359_3" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q2)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q2)
-https://stymei1.pages.dev/live/129359/3
-#EXTINF:-1 tvg-id="129359_4" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A3)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路A3)
-https://stymei1.pages.dev/live/129359/4
-#EXTINF:-1 tvg-id="129359_5" tvg-name="18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",18:00 日职联 鹿岛鹿角 vs 大阪钢巴 (线路Q1)
-https://stymei1.pages.dev/live/129359/5
-#EXTINF:-1 tvg-id="129360_0" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路④)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路④)
-https://stymei1.pages.dev/live/129360/0
-#EXTINF:-1 tvg-id="129360_1" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (国内线路⑤)
-https://stymei1.pages.dev/live/129360/1
-#EXTINF:-1 tvg-id="129360_2" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路A1)
-https://stymei1.pages.dev/live/129360/2
-#EXTINF:-1 tvg-id="129360_3" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q2)
-https://stymei1.pages.dev/live/129360/3
-#EXTINF:-1 tvg-id="129360_4" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路A3)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路A3)
-https://stymei1.pages.dev/live/129360/4
-#EXTINF:-1 tvg-id="129360_5" tvg-name="18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",18:00 日职联 柏太阳神 vs 神户胜利船 (线路Q1)
-https://stymei1.pages.dev/live/129360/5
+#EXTINF:-1 tvg-id="127936_0" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路A1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路A1)
+https://stymei1.pages.dev/live/127936/0
+#EXTINF:-1 tvg-id="127936_1" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (国内线路 M④)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (国内线路 M④)
+https://stymei1.pages.dev/live/127936/1
+#EXTINF:-1 tvg-id="127936_2" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (国内线路⑤)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (国内线路⑤)
+https://stymei1.pages.dev/live/127936/2
+#EXTINF:-1 tvg-id="127936_3" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (国内线路⑥)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (国内线路⑥)
+https://stymei1.pages.dev/live/127936/3
+#EXTINF:-1 tvg-id="127936_4" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路Q2)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路Q2)
+https://stymei1.pages.dev/live/127936/4
+#EXTINF:-1 tvg-id="127936_5" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路C4)
+https://stymei1.pages.dev/live/127936/5
+#EXTINF:-1 tvg-id="127936_6" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路C5)
+https://stymei1.pages.dev/live/127936/6
+#EXTINF:-1 tvg-id="127936_7" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路Q1)
+https://stymei1.pages.dev/live/127936/7
+#EXTINF:-1 tvg-id="127936_8" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路C4)
+https://stymei1.pages.dev/live/127936/8
+#EXTINF:-1 tvg-id="127936_9" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路C5)
+https://stymei1.pages.dev/live/127936/9
+#EXTINF:-1 tvg-id="127936_10" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路A3)
+https://stymei1.pages.dev/live/127936/10
+#EXTINF:-1 tvg-id="127936_11" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路Q1)
+https://stymei1.pages.dev/live/127936/11
+#EXTINF:-1 tvg-id="127936_12" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路Q1)
+https://stymei1.pages.dev/live/127936/12
+#EXTINF:-1 tvg-id="127936_13" tvg-name="15:00 CBA 山东高速 vs 天津先行者 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shandong.png" group-title="CBA",15:00 CBA 山东高速 vs 天津先行者 (线路Q1)
+https://stymei1.pages.dev/live/127936/13
+#EXTINF:-1 tvg-id="127937_0" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路A1)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路A1)
+https://stymei1.pages.dev/live/127937/0
+#EXTINF:-1 tvg-id="127937_1" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路 M③)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路 M③)
+https://stymei1.pages.dev/live/127937/1
+#EXTINF:-1 tvg-id="127937_2" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路④)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路④)
+https://stymei1.pages.dev/live/127937/2
+#EXTINF:-1 tvg-id="127937_3" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路⑤)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (国内线路⑤)
+https://stymei1.pages.dev/live/127937/3
+#EXTINF:-1 tvg-id="127937_4" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q2)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q2)
+https://stymei1.pages.dev/live/127937/4
+#EXTINF:-1 tvg-id="127937_5" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C4)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C4)
+https://stymei1.pages.dev/live/127937/5
+#EXTINF:-1 tvg-id="127937_6" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C5)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C5)
+https://stymei1.pages.dev/live/127937/6
+#EXTINF:-1 tvg-id="127937_7" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)
+https://stymei1.pages.dev/live/127937/7
+#EXTINF:-1 tvg-id="127937_8" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C4)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C4)
+https://stymei1.pages.dev/live/127937/8
+#EXTINF:-1 tvg-id="127937_9" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C5)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路C5)
+https://stymei1.pages.dev/live/127937/9
+#EXTINF:-1 tvg-id="127937_10" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路A3)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路A3)
+https://stymei1.pages.dev/live/127937/10
+#EXTINF:-1 tvg-id="127937_11" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)
+https://stymei1.pages.dev/live/127937/11
+#EXTINF:-1 tvg-id="127937_12" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)
+https://stymei1.pages.dev/live/127937/12
+#EXTINF:-1 tvg-id="127937_13" tvg-name="15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)" tvg-logo="https://image.cbaleague.com/cbaleague/teamlogo/300x300/100074683_300.png" group-title="CBA",15:00 CBA 宁波町渥 vs 江苏肯帝亚 (线路Q1)
+https://stymei1.pages.dev/live/127937/13
+#EXTINF:-1 tvg-id="127938_0" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A1)
+https://stymei1.pages.dev/live/127938/0
+#EXTINF:-1 tvg-id="127938_1" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路 M③)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路 M③)
+https://stymei1.pages.dev/live/127938/1
+#EXTINF:-1 tvg-id="127938_2" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路④)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路④)
+https://stymei1.pages.dev/live/127938/2
+#EXTINF:-1 tvg-id="127938_3" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路⑤)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (国内线路⑤)
+https://stymei1.pages.dev/live/127938/3
+#EXTINF:-1 tvg-id="127938_4" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q2)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q2)
+https://stymei1.pages.dev/live/127938/4
+#EXTINF:-1 tvg-id="127938_5" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C4)
+https://stymei1.pages.dev/live/127938/5
+#EXTINF:-1 tvg-id="127938_6" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C4)
+https://stymei1.pages.dev/live/127938/6
+#EXTINF:-1 tvg-id="127938_7" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C5)
+https://stymei1.pages.dev/live/127938/7
+#EXTINF:-1 tvg-id="127938_8" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A3)
+https://stymei1.pages.dev/live/127938/8
+#EXTINF:-1 tvg-id="127938_9" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)
+https://stymei1.pages.dev/live/127938/9
+#EXTINF:-1 tvg-id="127938_10" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路C5)
+https://stymei1.pages.dev/live/127938/10
+#EXTINF:-1 tvg-id="127938_11" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路A3)
+https://stymei1.pages.dev/live/127938/11
+#EXTINF:-1 tvg-id="127938_12" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)
+https://stymei1.pages.dev/live/127938/12
+#EXTINF:-1 tvg-id="127938_13" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)
+https://stymei1.pages.dev/live/127938/13
+#EXTINF:-1 tvg-id="127938_14" tvg-name="15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/shanxi18.png" group-title="CBA",15:00 CBA 山西汾酒 vs 南京头排苏酒 (线路Q1)
+https://stymei1.pages.dev/live/127938/14
+#EXTINF:-1 tvg-id="127939_0" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路A1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路A1)
+https://stymei1.pages.dev/live/127939/0
+#EXTINF:-1 tvg-id="127939_1" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路 M③)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路 M③)
+https://stymei1.pages.dev/live/127939/1
+#EXTINF:-1 tvg-id="127939_2" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路④)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路④)
+https://stymei1.pages.dev/live/127939/2
+#EXTINF:-1 tvg-id="127939_3" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路⑤)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (国内线路⑤)
+https://stymei1.pages.dev/live/127939/3
+#EXTINF:-1 tvg-id="127939_4" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q2)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q2)
+https://stymei1.pages.dev/live/127939/4
+#EXTINF:-1 tvg-id="127939_5" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路C4)
+https://stymei1.pages.dev/live/127939/5
+#EXTINF:-1 tvg-id="127939_6" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路C4)
+https://stymei1.pages.dev/live/127939/6
+#EXTINF:-1 tvg-id="127939_7" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路C5)
+https://stymei1.pages.dev/live/127939/7
+#EXTINF:-1 tvg-id="127939_8" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)
+https://stymei1.pages.dev/live/127939/8
+#EXTINF:-1 tvg-id="127939_9" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路C5)
+https://stymei1.pages.dev/live/127939/9
+#EXTINF:-1 tvg-id="127939_10" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路A3)
+https://stymei1.pages.dev/live/127939/10
+#EXTINF:-1 tvg-id="127939_11" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)
+https://stymei1.pages.dev/live/127939/11
+#EXTINF:-1 tvg-id="127939_12" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)
+https://stymei1.pages.dev/live/127939/12
+#EXTINF:-1 tvg-id="127939_13" tvg-name="15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/qingdao.png" group-title="CBA",15:00 CBA 青岛国信 vs 新疆伊力特 (线路Q1)
+https://stymei1.pages.dev/live/127939/13
+#EXTINF:-1 tvg-id="127940_0" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路A1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路A1)
+https://stymei1.pages.dev/live/127940/0
+#EXTINF:-1 tvg-id="127940_1" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路 M②)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路 M②)
+https://stymei1.pages.dev/live/127940/1
+#EXTINF:-1 tvg-id="127940_2" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路③)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路③)
+https://stymei1.pages.dev/live/127940/2
+#EXTINF:-1 tvg-id="127940_3" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路④)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (国内线路④)
+https://stymei1.pages.dev/live/127940/3
+#EXTINF:-1 tvg-id="127940_4" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q2)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q2)
+https://stymei1.pages.dev/live/127940/4
+#EXTINF:-1 tvg-id="127940_5" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)
+https://stymei1.pages.dev/live/127940/5
+#EXTINF:-1 tvg-id="127940_6" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)
+https://stymei1.pages.dev/live/127940/6
+#EXTINF:-1 tvg-id="127940_7" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)
+https://stymei1.pages.dev/live/127940/7
+#EXTINF:-1 tvg-id="127940_8" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)
+https://stymei1.pages.dev/live/127940/8
+#EXTINF:-1 tvg-id="127940_9" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路A3)
+https://stymei1.pages.dev/live/127940/9
+#EXTINF:-1 tvg-id="127940_10" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)
+https://stymei1.pages.dev/live/127940/10
+#EXTINF:-1 tvg-id="127940_11" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C4)
+https://stymei1.pages.dev/live/127940/11
+#EXTINF:-1 tvg-id="127940_12" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路C5)
+https://stymei1.pages.dev/live/127940/12
+#EXTINF:-1 tvg-id="127940_13" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路A3)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路A3)
+https://stymei1.pages.dev/live/127940/13
+#EXTINF:-1 tvg-id="127940_14" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)
+https://stymei1.pages.dev/live/127940/14
+#EXTINF:-1 tvg-id="127940_15" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)
+https://stymei1.pages.dev/live/127940/15
+#EXTINF:-1 tvg-id="127940_16" tvg-name="15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)" tvg-logo="https://mat1.gtimg.com/sports/CBAlogo/liaoning.png" group-title="CBA",15:00 CBA 辽宁本钢 vs 福建晋江 (线路Q1)
+https://stymei1.pages.dev/live/127940/16
+#EXTINF:-1 tvg-id="129381_0" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5_plus官网)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5_plus官网)
+https://stymei1.pages.dev/live/129381/0
+#EXTINF:-1 tvg-id="129381_1" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5+)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5+)
+https://stymei1.pages.dev/live/129381/1
+#EXTINF:-1 tvg-id="129381_2" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (央视频)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (央视频)
+https://stymei1.pages.dev/live/129381/2
+#EXTINF:-1 tvg-id="129381_3" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5官网)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5官网)
+https://stymei1.pages.dev/live/129381/3
+#EXTINF:-1 tvg-id="129381_4" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (CCTV5)
+https://stymei1.pages.dev/live/129381/4
+#EXTINF:-1 tvg-id="129381_5" tvg-name="15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (央视频)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="网球中网女单半决赛",15:00 网球中网女单半决赛 安德列娃 vs 巴尔通科娃 (央视频)
+https://stymei1.pages.dev/live/129381/5
+#EXTINF:-1 tvg-id="129382_0" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (国内线路④)
+https://stymei1.pages.dev/live/129382/0
+#EXTINF:-1 tvg-id="129382_1" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (国内线路⑤)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (国内线路⑤)
+https://stymei1.pages.dev/live/129382/1
+#EXTINF:-1 tvg-id="129382_2" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (线路A1)
+https://stymei1.pages.dev/live/129382/2
+#EXTINF:-1 tvg-id="129382_3" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (线路Q1)
+https://stymei1.pages.dev/live/129382/3
+#EXTINF:-1 tvg-id="129382_4" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (线路C4)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (线路C4)
+https://stymei1.pages.dev/live/129382/4
+#EXTINF:-1 tvg-id="129382_5" tvg-name="15:30 韩K联 尚州尚武 vs 安养FC (线路C4)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MKAf3Z-AAAf0u0Hr5I839.png" group-title="韩K联",15:30 韩K联 尚州尚武 vs 安养FC (线路C4)
+https://stymei1.pages.dev/live/129382/5
+#EXTINF:-1 tvg-id="129387_0" tvg-name="16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q2)
+https://stymei1.pages.dev/live/129387/0
+#EXTINF:-1 tvg-id="129387_1" tvg-name="16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)
+https://stymei1.pages.dev/live/129387/1
+#EXTINF:-1 tvg-id="129387_2" tvg-name="16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)
+https://stymei1.pages.dev/live/129387/2
+#EXTINF:-1 tvg-id="129387_3" tvg-name="16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",16:00 俱乐部友谊赛 友利银行 vs 清州KB之星 (线路Q1)
+https://stymei1.pages.dev/live/129387/3
+#EXTINF:-1 tvg-id="129389_0" tvg-name="16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q1)
+https://stymei1.pages.dev/live/129389/0
+#EXTINF:-1 tvg-id="129389_1" tvg-name="16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q2)
+https://stymei1.pages.dev/live/129389/1
+#EXTINF:-1 tvg-id="129389_2" tvg-name="16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="U18女亚洲杯",16:00 U18女亚洲杯 中国U18 vs 韩国U18 (线路Q1)
+https://stymei1.pages.dev/live/129389/2
+#EXTINF:-1 tvg-id="129383_0" tvg-name="16:35 澳足总 南墨尔本 vs 墨尔本胜利 (国内线路③)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳足总",16:35 澳足总 南墨尔本 vs 墨尔本胜利 (国内线路③)
+https://stymei1.pages.dev/live/129383/0
+#EXTINF:-1 tvg-id="129383_1" tvg-name="16:35 澳足总 南墨尔本 vs 墨尔本胜利 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳足总",16:35 澳足总 南墨尔本 vs 墨尔本胜利 (线路A1)
+https://stymei1.pages.dev/live/129383/1
+#EXTINF:-1 tvg-id="129383_2" tvg-name="16:35 澳足总 南墨尔本 vs 墨尔本胜利 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳足总",16:35 澳足总 南墨尔本 vs 墨尔本胜利 (线路Q1)
+https://stymei1.pages.dev/live/129383/2
+#EXTINF:-1 tvg-id="129390_0" tvg-name="17:00 俱乐部友谊赛 新北中信特攻 vs 宝岛梦想家 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="俱乐部友谊赛",17:00 俱乐部友谊赛 新北中信特攻 vs 宝岛梦想家 (线路Q1)
+https://stymei1.pages.dev/live/129390/0

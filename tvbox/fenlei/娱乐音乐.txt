@@ -1,7 +1,7 @@
 娱乐音乐,#genre#
 (!!)(箱)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
-（收徒）寄往音乐会,https://hw-origin.pull.yximgs.com/gifshow/NyE-RSViyOg_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=73132db0006b59bd3a6794b5a57ffacb&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-（收徒）心坦音乐会,https://hw-origin.pull.yximgs.com/gifshow/WB8JSYMhLoI_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=bef8b1d72d0204655743883a1c885ac8&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+（收徒）寄往音乐会,https://hw-origin.pull.yximgs.com/gifshow/op4ub4UhbyQ_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=e861c5b08444368c3e4b8a706051c7d9&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+（收徒）心坦音乐会,https://hw-origin.pull.yximgs.com/gifshow/maQhpBklrKY_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=324f5c0f982938034e572947cad19146&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
 (更)(箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 15+ Music (1080p),https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 1519音乐,http://cdntv.online/high/ynemik5cl9/1519.mpeg
@@ -37,9 +37,9 @@ ANDY WILLIAMS-music to watch girls by,http://em.21dtv.com/songs/60003947.mkv
 AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
 Astro MTV,https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
-Astro MTV,https://tv123.cc.cd/live.php?ch=585&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=11118b332d8876a158dc75e4f3de311ce6c19eaae6c9dca235af1800275c25b3
+Astro MTV,https://tv123.cc.cd/live.php?ch=585&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=054051a83004e905a5bc6a68b6a0ad2bd621a1542b09054b23e424060270bd78
 Astro Sunmusic,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
-Astro Sunmusic,https://tv123.cc.cd/live.php?ch=632&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=8c03e54c24ee8c7577892dc3a862b4f534e571f3a3ee5b6bf9ee348044ec832c
+Astro Sunmusic,https://tv123.cc.cd/live.php?ch=631&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=ce37b0a77cc0cc3cef5c6797c033bc67e8b1f772fc1baf1a0567b2e83926f6ea
 ATN Music (360p),https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 B4U Music (1080p),https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 Best of MTV,https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
@@ -64,7 +64,7 @@ CCTV戏曲|飞扬直播,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%88%8F%E6%9B%B2
 CCTV风云音乐,http://1.58.66.11:4000/rtp/229.58.190.190:5000
 CCTV风云音乐,http://106.116.241.206:9999/rtp/239.254.201.221:7259
 CCTV风云音乐,http://106.59.2.196:55555/rtp/239.200.200.86:8008
-CCTV风云音乐,http://110.178.145.77:8188/udp/239.1.1.96:8096
+CCTV风云音乐,http://110.178.145.171:8188/udp/239.1.1.96:8096
 CCTV风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8
@@ -73,10 +73,9 @@ CCTV风云音乐,http://116.2.170.107:4010/rtp/232.0.0.47:1234
 CCTV风云音乐,http://117.12.151.30:4022/rtp/225.1.2.176:5002
 CCTV风云音乐,http://121.19.134.200:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$河北联通酒店
 CCTV风云音乐,http://124.112.188.154:4022/rtp/238.1.79.64:4648
-CCTV风云音乐,http://124.112.241.143:4022/rtp/238.1.79.64:4648
 CCTV风云音乐,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=fyyy&usign=
 CCTV风云音乐,http://180.213.170.24:8188/rtp/239.5.1.128:5000
-CCTV风云音乐,http://218.86.186.38:8188/rtp/238.255.2.24:5999
+CCTV风云音乐,http://218.86.187.65:8188/rtp/238.255.2.24:5999
 CCTV风云音乐,http://220.176.218.17:9000/udp/239.252.219.87:5140
 CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514102.m3u8
 CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
@@ -87,7 +86,6 @@ CCTV风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
 CCTV风云音乐,http://home.111818.xyz:8888/udp/239.76.254.51:9000
-CCTV风云音乐,http://rihou.cc:555/tv/CCTV风云音乐
 CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV风云音乐-,http://60.10.139.113:8801/hls/68/index.m3u8
 CCTV风云音乐|飞扬直播,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -117,16 +115,15 @@ CMusic,https://cdn.qd.je/163189/cmusic
 CMusic,https://cdn12.178.indevs.in/163189/cmusic
 CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 Concert Channel (720p),https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-Concerto,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=858e5b3a7109fd05777f397609092113;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 Concerto,https://amg01076-amg01076c14-mytvsuper-apac-7914.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-Concerto,https://tv123.cc.cd/live.php?ch=404&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=0df713d907cf9c4556d8404336b613ed874b96096b791f102bb4cb9027173b10
+Concerto,https://tv123.cc.cd/live.php?ch=404&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=1ef13989f036809fce456adda68792410aa6f0dfcf0585be02e418826f5010cb
 CromTV (1080p) [Not 24/7],https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 Deluxe Music (720p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-DELUXEMUSICDE,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31307/index.m3u8
 Dhoom Music (720p),https://cdn.pishow.tv/ott/live/1456/master.m3u8
 Disco Polo Music (1080p),http://185.227.34.179:8080/disco-polo-music/index.m3u8
 DJ-不变的音乐,http://em.21dtv.com/songs/30000642.mkv
+DJ-氪金娱乐-好运爆棚,https://huya.445569.xyz/live/683591
 DJ369-全粤语Electro音乐打造廿四味鬼佬凉茶包房上头串烧,https://mp4.djuu.com/c2/16/2026/9282f410b5437e16.m4a
 DjErwin-全粤语Electro音乐不只爱情粤式情歌劲爆DJ串烧,https://mp4.djuu.com/c2/16/2025/4331430d1d6a6b5e.m4a
 DjMcYummy-全粤语Electro音乐纷花游乐场不只爱情港台串烧,https://mp4.djuu.com/c2/16/2026/2813bff6a8388701.m4a
@@ -160,7 +157,7 @@ fans圈娱乐,https://goodiptv.club/douyu/9630581
 fans圈娱乐,https://live.ottiptv.cc/douyu/9630581
 fans圈娱乐的直播间,http://footyun.top:35455/douyu/9630581
 Fans小琼的直播间音乐,http://epg.112114.xyz/douyu/8666210
-FerretSoftware - Ferret Rescue 💜 !Rescue 💛  !Wiki !Music !Diet !Socials (337 viewers),https://twitch.445569.xyz/ferretsoftware.m3u8
+FerretSoftware - Ferret Rescue 💜 !Rescue 💛  !Wiki !Music !Diet !Socials (332 viewers),https://twitch.445569.xyz/ferretsoftware.m3u8
 FilAmTV Network (1080p),https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 First Music Channel (1080p),http://rtmp.one.by:1300
 First Music Channel Russia (1080p),http://hls127.freeott.top:8080/1muz_HD/video.m3u8
@@ -178,17 +175,18 @@ H!t Music Channel (Romania),http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-moo
 Harmony Gospel Music TV (1080p),https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 Hit Mix Music,http://213.91.179.28:8000/play/a0cl
-HMTV (720p),https://cdn.pishow.tv/ott/live/280/master.m3u8
+HMTV (India) (720p),https://cdn.pishow.tv/ott/live/280/master.m3u8
+HMTV (Nigeria) (720p),https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8
 HOOP圈圈-音乐教室,http://em.21dtv.com/songs/60145898.mkv
 IPTV11戏曲,http://111.193.227.77:23234/rtp/239.3.1.78:4120
 IPTV11戏曲,http://111.196.130.121:20000/rtp/239.3.1.78:4120
 IPTV11戏曲,http://113.251.74.243:8012/rtp/235.254.198.85:1616
-IPTV11戏曲,http://114.254.36.143:8888/rtp/239.3.1.78:4120
+IPTV11戏曲,http://114.254.36.108:8888/rtp/239.3.1.78:4120
 IPTV11戏曲,http://114.254.38.234:8888/rtp/239.3.1.78:4120
-IPTV11戏曲,http://114.254.82.209:4022/rtp/239.3.1.78:4120
+IPTV11戏曲,http://114.254.83.234:4022/rtp/239.3.1.78:4120
 IPTV11戏曲,http://115.171.216.23:4000/rtp/225.1.8.238:4120
 IPTV11戏曲,http://115.171.216.32:4000/rtp/225.1.8.238:4120
-IPTV11戏曲,http://123.120.6.99:4022/rtp/239.3.1.78:4120
+IPTV11戏曲,http://124.65.0.49:20000/rtp/239.3.1.78:4120
 IPTV11戏曲,http://220.176.218.17:9000/rtp/239.252.219.163:5140
 IPTV11戏曲,http://221.220.128.209:8012/rtp/239.3.1.78:4120
 IPTV11戏曲,http://222.86.13.51:9999/rtp/235.254.198.85:1616
@@ -197,16 +195,16 @@ IPTV15音乐,http://220.176.218.17:9000/rtp/239.252.220.87:5140
 IPTV15音乐,http://222.86.13.51:9999/rtp/235.254.198.77:1584
 IPTV15音乐现场,http://111.193.227.77:23234/rtp/239.3.1.70:4120
 IPTV15音乐现场,http://111.196.130.121:20000/rtp/239.3.1.70:4120
-IPTV15音乐现场,http://114.254.36.143:8888/rtp/239.3.1.70:4120
+IPTV15音乐现场,http://114.254.36.108:8888/rtp/239.3.1.70:4120
 IPTV15音乐现场,http://114.254.38.234:8888/rtp/239.3.1.70:4120
-IPTV15音乐现场,http://114.254.82.209:4022/rtp/239.3.1.70:4120
+IPTV15音乐现场,http://114.254.83.234:4022/rtp/239.3.1.70:4120
 IPTV15音乐现场,http://115.171.216.23:4000/rtp/225.1.8.230:4120
 IPTV15音乐现场,http://115.171.216.32:4000/rtp/225.1.8.230:4120
-IPTV15音乐现场,http://123.120.6.99:4022/rtp/239.3.1.70:4120
+IPTV15音乐现场,http://124.65.0.49:20000/rtp/239.3.1.70:4120
 IPTV15音乐现场,http://221.220.128.209:8012/rtp/239.3.1.70:4120
 IPTV3综艺,http://112.109.206.161:9999/rtp/239.255.40.68:8208
 IPTV3综艺,http://113.251.74.243:8012/rtp/235.254.198.13:1328
-IPTV3综艺,http://123.179.60.135:4022/rtp/239.29.1.18:5001
+IPTV3综艺,http://123.179.61.11:4022/rtp/239.29.1.18:5001
 IPTV3综艺,http://211.158.40.175:8888/udp/225.0.4.51:7980
 IPTV3综艺,http://220.176.218.17:9000/rtp/239.252.220.140:5140
 IPTV3综艺,http://222.86.13.51:9999/rtp/235.254.198.13:1328
@@ -219,7 +217,6 @@ IPTV综艺,http://219.156.82.131:4022/rtp/225.1.4.204:1252
 IPTV音乐,http://219.156.82.131:4022/rtp/225.1.4.184:1224
 IPTV音乐现场,http://223.198.241.63:4000/rtp/239.253.64.235:5140
 JapanimTV (1080p),https://foxkidstv.be:3369/stream/play.m3u8
-Jesse - Good Vibes  Music an... [87人],https://pull-flv-l77-tt02.tiktokcdn-eu.com/stage/stream-3867222817830339629_hd.flv?expire=1792751139&sign=63640d119887999e3ab0737ad9bcfd32
 JooMusic (720p),https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KN Music TV,https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
@@ -229,7 +226,6 @@ KTVXG-DanceMusic.02,http://em.21dtv.com/songs/60154845.mkv
 KTVXG-DanceMusic.03,http://em.21dtv.com/songs/60154846.mkv
 Kuriakos Music (1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 Kurikos Music,https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
-Lifetime娱乐频道,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dc3d95a34d84be3aff53192f1e1d58e0;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 Live Music,https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 Live Music Channel HD (1080p),http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 LX娱乐-招主播,https://goodiptv.club/huya/28259384
@@ -254,7 +250,7 @@ MTV,http://31.43.191.125:8080/restream/restream/34607
 MTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693858
 MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
 MTV,https://stream1.freetv.fun/mtv-6.m3u8
-MTV,https://tv123.cc.cd/live.php?ch=1181&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=db19e16291243ab1e96a70086d4397cdd9c9eed503bb77bab5eb799de868d059
+MTV,https://tv123.cc.cd/live.php?ch=1181&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=2322a33b86981377ec409bc9ec343200da7c41d8abda2572628b896619b5e267
 MTV (France),http://99.27.51.147:8080/MTV/index.m3u8
 MTV (Germany),https://ma.anixa.tv/clips/stream/mtv/playlist.php
 MTV (India) (576p),https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
@@ -262,7 +258,7 @@ MTV (India) HD (720p),http://51.75.127.199:3141/mtvhd/index.m3u8
 MTV (Poland) (1080p),http://57.128.231.171:8080/227/index.m3u8
 MTV (United States) (1080p),http://23.237.104.106:8080/USA_MTV/index.m3u8
 MTV 00s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
-MTV2,https://tv123.cc.cd/live.php?ch=1180&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=b9aedb9eb34a6b35259e9492e1d21e665a5799da838ad018b2cd1f7b9ac62f97
+MTV2,https://tv123.cc.cd/live.php?ch=1180&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=97817cf9faaa6add62730575f9b068481ed1c4d71025465b6259778c1054ee04
 MTV2 (720p),http://198.58.104.90:8989/mtv2/index.m3u8
 MTV 80s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
 MTV 90s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
@@ -279,7 +275,7 @@ MTV Catfish (United States) BR (720p),https://jmp2.uk/plu-626c2a3502d84a0007cec8
 MTV Catfish (United States) LatAm (720p),https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 MTV Chontales (720p) [Not 24/7],https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
 MTV Classic,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
-MTV Classic,https://tv123.cc.cd/live.php?ch=1423&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=dcf042714ccd4e09a641a79055d6b963c8f4fcdc36c10d31614ca467d2ed5518
+MTV Classic,https://tv123.cc.cd/live.php?ch=1423&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=47e3a5a2a702204f29beb192031ca1c45d8e44f7f6600ec30ff2dc88ceefe5ef
 MTV Classic BR (720p),https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 MTV Classic CA (720p),https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 MTV Classic East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221172
@@ -318,10 +314,9 @@ MTV Lebanon (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-leban
 MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 MTV Live,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221174
 MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
-MTV Live,https://tv123.cc.cd/live.php?ch=1424&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=62ce09b02c0f0534256d8766602e4478d51e1db73f10af19de3292ea93f26198
+MTV Live,https://tv123.cc.cd/live.php?ch=1424&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=8feb3e6878b98613ecce23e87448e9dd747507a83c0a8ce4597161140be99b25
 MTV Live (720p),http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 MTV Music,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
-MTV news HD,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/chunklist_w225310352.m3u8
 MTV Originals,https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 MTV Pluto TV,https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 MTV Pluto TV BR,https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
@@ -352,13 +347,13 @@ MTV The Hills DK,https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
 MTV The Hills NO,https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 MTV Tr3s East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221176
 MTV Tr3s West,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221177
-mtvU,https://tv123.cc.cd/live.php?ch=1204&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=14c23376fb920dfa41afcbb332343ed4c7c9b6b1472e1b1917671fff1e008e6d
+mtvU,https://tv123.cc.cd/live.php?ch=1204&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=a914826cb784beed46c4fc1d187480f6106cc53228cb4872c2772f9900a20a5f
 MTV Uutiset (720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 MTV Verguenza ajena (720p),https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 MTV Volgograd (720p) [Not 24/7],http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV綜合台,https://tv123.cc.cd/live.php?ch=1688&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=77afce1c9f1fc2d33beab761157f66adf58b848329e546abae5f77a1d12b51eb
+MTV綜合台,https://tv123.cc.cd/live.php?ch=1631&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=cd3fe61f1749645dd18f9892c012636ddb59d10cc74100e79e8e1b821f3c0563
 Music (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 Music Air,https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 Music Box 80s (1080p),http://57.128.231.171:8080/229/index.m3u8
@@ -370,7 +365,7 @@ MusicBox Gold (576p),http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8
 Music Box Hits,http://88.212.15.19/live/mb_hits/index.m3u8
 Music Box Polska Ukraine,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
 Music Box Sexy,http://88.212.15.19/live/mb_sexy/index.m3u8
-Music Channel,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
+Music Channel SD,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
 Music Choice 70s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221108
 Music Choice 80s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221106
 Music Choice 90s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221107
@@ -438,17 +433,6 @@ Music TV Granada (1080p) [Not 24/7],https://cloudvideo.servers10.com:8081/8032/i
 Music郑在看的直播间音乐,http://epg.112114.xyz/douyu/8666143
 MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 MV音乐2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=0aumrs&tk=IaRTZBNZkJti
-MyCamTV,http://live.mycamtv.com/anal.m3u8
-MyCamTV,http://live.mycamtv.com/asian.m3u8
-MyCamTV,http://live.mycamtv.com/bigass.m3u8
-MyCamTV,http://live.mycamtv.com/bigtits.m3u8
-MyCamTV,http://live.mycamtv.com/blonde.m3u8
-MyCamTV,http://live.mycamtv.com/brunette.m3u8
-MyCamTV,http://live.mycamtv.com/ebony.m3u8
-MyCamTV,http://live.mycamtv.com/latina.m3u8
-MyCamTV,http://live.mycamtv.com/skinny.m3u8
-MyCamTV,http://live.mycamtv.com/squirt.m3u8
-MyCamTV,http://live.mycamtv.com/white.m3u8
 NASHE Music (720p),https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 NewTV-超级综艺,http://iptv.0564.org:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 NewTV-金牌综艺,http://iptv.0564.org:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
@@ -472,7 +456,6 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 NewTV金牌综艺[1920*1080],http://39.134.67.148/PLTV/88888888/224/3221225525/1.m3u8
 NewTV金牌综艺[1920*1080],http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225666/.m3u8
 NogoumFMTV (672p) [Not 24/7],https://nogoumtv.nrpstream.com/hls/stream.m3u8
-OceanMan - @OceanMan 🌊 House Music Trips 🌊 (1536 viewers),https://twitch.445569.xyz/oceanman.m3u8
 One Music Television,https://oneapp.b-cdn.net/1080p/index.m3u8
 Oxygen Music (1080p),https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 Peniel Musical (480p),https://s.emisoras.tv:8081/penielmusical/index.m3u8
@@ -482,7 +465,7 @@ Polsat Music (1080p),http://92.114.85.87:8001/play/a00z/index.m3u8
 PTC Music (720p),https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 Public Music (576p),https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 Q-Music (1080p),https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-Qello Concerts by Stingray,https://tv123.cc.cd/live.php?ch=1397&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=e4e2e2c59e58338de5de0910221342efb8e36303f3e7c9477da6fcf1f6b9150b
+Qello Concerts by Stingray,https://tv123.cc.cd/live.php?ch=1397&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=201e1adeb44408d67bae17893f3625cd56f5fc94ff0173daeb75780faef0327f
 Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
 Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 Qmusic (720p),https://stream.qmusic.nl/qmusic/videohls.m3u8
@@ -492,10 +475,9 @@ Retromusica Television (720p),https://vdochile.com:3864/stream/play.m3u8
 Retro Music TV (360p),https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 RIHANNA-dont stop the music,http://em.21dtv.com/songs/60001374.mkv
 RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-RMTV,https://tv123.cc.cd/live.php?ch=48&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=aefb8fdfc80fcc63bb7cdb40ed60770d922b8f2068b24ad5910b3f3057ee2853
+RMTV,https://tv123.cc.cd/live.php?ch=48&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=553825f241c3cbb638c9586294731e26c9c4ee53754a15b344e63a78f01340a3
 RMTV (288p),https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 ROBERTA FLACK+MAXI P-set the night to music,http://em.21dtv.com/songs/60004900.mkv
-ROCK Entertainment摇滚娱乐1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=41f67100ebef6dca9ecf88db2106f57b;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 ROCK综艺,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6DZK8b&tk=IaRTZBNZkJti
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 Rotana Music (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -503,22 +485,21 @@ ROXY MUSIC-more than this,http://em.21dtv.com/songs/60003892.mkv
 Russian MusicBox (576p),http://stream.mcquack.net/319/index.m3u8
 S.STEWART-dance to the music(无原唱),http://em.21dtv.com/songs/60001135.mkv
 Salto Brasa Music (1080p),https://salto-streams.nl/hls/sotv1.m3u8
+SiS伤感音乐,https://hw-origin.pull.yximgs.com/gifshow/9jDBvMA_vgM_ShowAvcHdL0.flv?hwTime=6acb5b1e&hwSecret=0cf540960595126a82926d9626cf1754&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
 SMTV (720p),https://e.siar.us/live/smtv.m3u8
 Sol Musica (720p),https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 Star Maa Music (576p),http://51.75.127.199:3141/starmaamusic/index.m3u8
 Steelbird Music (720p) [Not 24/7],https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 Stingray iConcerts HD (1080p),http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
-Stinoray Cmusic,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=694b6f5f2aa1e2175092049cd9fab459;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 SUMtv English (1080p),https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 SUMtv Latino (1080p),https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
-Sun Music,https://tv123.cc.cd/live.php?ch=975&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=8141a5682880156c759ae75ddebe237bf5b0a68973b3005e2a0296c19e9090e0
-SUPER Music,https://tv123.cc.cd/live.php?ch=369&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=21ad1996d1d1fa882e4507c8e5eb0ea9231a3d57fd541a73600c6bd11dd7ca66
+Sun Music,https://tv123.cc.cd/live.php?ch=975&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=80e79398dee486e38684f1c9b14470dc75e60da3e5832495fb5600581b35d1c0
+SUPER Music,https://tv123.cc.cd/live.php?ch=369&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=bc03b380d3a35c5376cabcdc35dc59b534dcf015bf578cad1121ceeedf9af102
 Supermusica TV (720p),https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 Tarang Music (720p),https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 Tele7music (576i),https://live.tele7music.ro/hls/stream/index.m3u8
 Telehit Musica (1080p),http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
-Tera🎙️ - Music here 🎶🎧🎙️ [268人],https://pull-f5-tt01.fcdn.eu.tiktokcdn.com/stage/stream-3578992335242920880_hd.flv?expire=1792751139&sign=b78418d6778deeb612241d596f0ecaf8
 Totalmusic (1080p),https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 Totalmusic 2000s (720p),https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 Totalmusic 80s (720p),https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
@@ -548,7 +529,7 @@ Vantage Music UK (1080p) [Geo-blocked],https://hls.vantagetv.co.uk/vmusicuk_stre
 Vibee音乐频道,http://de1se01.v2beat.live/chunks.m3u8
 Vintage Music (720p),https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 VOX Music TV (1080p),http://92.114.85.87:8016/play/a00a/index.m3u8
-VR游戏+DJ音乐 - 美女小姐姐，带你体验身临其境的冒险.....,https://pull-hs-f5.flive.douyincdn.com/vrthird2d/stream-120226404822680308_uhd/index.m3u8?expire=1792145794&sign=161f5e8bc3fd2c23001117ee24212a67&volcSecret=161f5e8bc3fd2c23001117ee24212a67&volcTime=1792145794&major_anchor_level=common&t_id=037-20261009181633A1BEBA5E128D0C3020AD-sXU9Ww
+VR游戏+DJ音乐 - 美女小姐姐，带你体验身临其境的冒险.....,https://pull-hs-f5.flive.douyincdn.com/vrthird2d/stream-120232406171779828_uhd/index.m3u8?expire=1792230415&sign=2c85ad6aca689fdcc469c2d37f5a4dd7&volcSecret=2c85ad6aca689fdcc469c2d37f5a4dd7&volcTime=1792230415&major_anchor_level=common&t_id=037-202610101746551ECC40FE6C8918CBDCF6-JShoDE
 XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 Yan Ting-小姐你好(MTV),http://em.21dtv.com/songs/60143097.mkv
 YAQ一再难遇我点唱厅-点唱/音乐/歌厅这个厅只唱歌 点歌看介绍,https://douyu.445569.xyz/live/818
@@ -557,6 +538,7 @@ Yo! MTV (1080p),https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 Yo! MTV CA (1080p),https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 Younha+乐童音乐家-想你了,http://em.21dtv.com/songs/60115647.mkv
 YRF Music (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+YRF Music Nepal,https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 ZB Music (720p),https://server.zillarbarta.com/zbmusic/index.m3u8
 Zona Music TV (1080p),https://acceso.radiosportstv.online:3022/stream/play.m3u8
 Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
@@ -566,17 +548,16 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 【娱乐】坚果仁的奇幻生活,http://footyun.top:35455/douyu/8850453
 【蔡恩雨Priscilla】的音乐世界,http://footyun.top:35455/douyu/9662853
 【音乐快斗】为大家分享好听的音乐,http://epg.112114.xyz/douyu/8324627
-一米阳光🎶经典音乐💞,https://hw-origin.pull.yximgs.com/gifshow/Lz3BCsm27pc_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=51b1a34f051d462661614f3a33f26749&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+一米阳光🎶经典音乐💞,https://hw-origin.pull.yximgs.com/gifshow/DQQsNh8y4Vo_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=fb113f828385233fd85896355d9a53d6&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
 丁维伟-阳光音乐生,http://em.21dtv.com/songs/60087032.mkv
 下饭音乐,http://live.nctv.top/douyu1.php?id=8661966
 东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
 东北戏曲频道,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
 东莞FM104音乐广播[0*0],http://ls.qingting.fm/live/93619.m3u8
-东阿综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=lcdezy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWxjZGV6eXwxNzkxNjI3OTg2fGZlMTVlZGEyOTY2NjFkODMxMzJjN2E4YmY3OWE1YzJmNzFlYjAwMDdlOTI4YjhjMzg3OTAwYTg5N2ZhNTRlNjY
+东阿综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=lcdezy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWxjZGV6eXwxNzkxNzEyMDgxfDE0YjBiMTQ5OWI3N2E5MWNhNWUyZWNhOTZiMjU4MDA3MjhiN2E2ZWQwMzc1OThiMWJjNTg1NTA5MTkxMjA3ZTA
 东阿综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=lcdezy
-东阿综艺信息,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdlcde2&usign=cA1e6NTBFs4-H0T-s3gjpA
+东阿综艺信息,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdlcde2&usign=CFONIjbZYacSC1nbKvqQnQ
 东阿综艺信息|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E9%98%BF%E7%BB%BC%E8%89%BA%E4%BF%A1%E6%81%AF&auth=666858
-中天娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9906b83f3d72734ea8db527527ea841a;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 中天娱乐,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
 中天娱乐[1920x1080],http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
@@ -597,15 +578,15 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 乐童音乐家-RE BYE,http://em.21dtv.com/songs/60122466.mkv
 乐童音乐家-冰块们,http://em.21dtv.com/songs/60107469.mkv
 乐陵综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=dzllcs
-九州沐寒-欣赏纯音乐 .,https://douyu.445569.xyz/live/9882679
-乱斗小蓝（大乱斗陀螺王） - 海克斯乱斗娱乐节目效果拉满，精通我说白了，我白说了,https://pull-x3-q5-hls.douyincdn.com/thirdgame/stream-408458556608086846_uhd/index.m3u8?expire=1792145793&sign=9676982f302b753874179a0426f73b14&volcSecret=9676982f302b753874179a0426f73b14&volcTime=1792145793&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-202610091816333FA1E1158F0990702A25-3qdl6o
+乱斗小蓝（大乱斗陀螺王） - 海克斯乱斗娱乐节目效果拉满，精通我说白了，我白说了,https://pull-x3-q5-hls.douyincdn.com/thirdgame/stream-408463910155584318_uhd/index.m3u8?expire=1792230413&sign=2767f27cfc5fa6d62b787b8de9a26372&volcSecret=2767f27cfc5fa6d62b787b8de9a26372&volcTime=1792230413&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202610101746539E0BA389C716063E22E6-nV2jOd
+二嫂嫂～娱乐麻将,https://hw-origin.pull.yximgs.com/gifshow/hZqIkzbPvK0_ShowAvcHdL0.flv?hwTime=6acb5b1b&hwSecret=dd7c4def859352fc1963f3995e494805&tsc=origin&oidc=watchmen&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
 二珂-带着音乐去旅行,http://em.21dtv.com/songs/60145986.mkv
 二珂直播歌曲剪辑音乐,http://epg.112114.xyz/douyu/6069488
 于源-音乐与酒,http://em.21dtv.com/songs/60167333.mkv
 云丹久美-等着我来爱(MTV),http://em.21dtv.com/songs/60143113.mkv
 云南|云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
-云南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=yntv3&usign=cA1e6NTBFs4-H0T-s3gjpA
-云南娱乐,http://38.75.136.137:82/live1/yntv.m3u8?id=yntv3&usign=cA1e6NTBFs4-H0T-s3gjpA
+云南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=yntv3&usign=CFONIjbZYacSC1nbKvqQnQ
+云南娱乐,http://38.75.136.137:82/live1/yntv.m3u8?id=yntv3&usign=CFONIjbZYacSC1nbKvqQnQ
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$官网线路
 云南娱乐,https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772574002&key=d0cc5703b6c93d32e22db1363a7ef688
 云南娱乐,https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772617854&key=8ece6b836cf43ba8f96bc5144b8e85db
@@ -626,11 +607,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 亚洲音乐,https://lhttp.qingting.fm/live/5022405/64k.mp3
 仙村Dj健仔-全粤语Electro音乐中文流行热播车载DJ慢摇串烧,https://mp4.djuu.com/c2/16/2025/b0cd93e548b83c5f.m4a
 代乐乐-岁月静好(MTV),http://em.21dtv.com/songs/60143120.mkv
-代平～情感音乐🎶,https://hw-origin.pull.yximgs.com/gifshow/uwMQX3FMLRk_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=330845f07031d374a70a272b6f932783&tsc=origin&oidc=watchmen&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
+代平～情感音乐🎶,https://hw-origin.pull.yximgs.com/gifshow/Bt_ZlfMtkY8_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=f36ce8d145133a73035d70bc77823ef3&tsc=origin&oidc=watchmen&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
 任剑辉-帝女花之迎凤(戏曲),http://em.21dtv.com/songs/60092242.mkv
 伊凯+锐思+小旭音乐-奇遇,http://em.21dtv.com/songs/60156969.mkv
 会火-娱乐先知 海量资讯内容等你来看,http://footyun.top:35455/douyu/9442836
-伤感音乐汇🎼,https://hw-origin.pull.yximgs.com/gifshow/xIowUv1iK9Y_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=8ceecb810cef939c67ce50b42d1df47a&tsc=origin&oidc=watchmen&sidc=2959&no_script=1&ss=s23&tfc_buyer=0
+伤感音乐汇🎼,https://hw-origin.pull.yximgs.com/gifshow/mVIRca78Gnk_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=4a630abbefa90e77d2ec23b6fc28488e&tsc=origin&oidc=watchmen&sidc=2959&no_script=1&ss=s23&tfc_buyer=0
 伤雪-九天-车载音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=PsxC3h&tk=IaRTZBNZkJti
 伤雪-九天-车载音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2021/车载视频/2021-10/2021-10-10/[Mp4]伤雪-九天-车载音乐精品美女夜店DJ视频[独].mp4
 何志健-into the music,http://em.21dtv.com/songs/60073440.mkv
@@ -639,6 +620,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 佚名-i believe in music,http://em.21dtv.com/songs/60002421.mkv
 佚名-the music played,http://em.21dtv.com/songs/60005642.mkv
 佚名-the sound of music,http://em.21dtv.com/songs/60005691.mkv
+依依音乐,https://hw-origin.pull.yximgs.com/gifshow/c8CoM3J-M-g_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=000d225fef30dad9a8760dbecc325560&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
 侯晓松-音乐的代价,http://em.21dtv.com/songs/60084401.mkv
 俄罗斯First Music (Opt-3),http://rtmp.one.by:1200
 保定文化娱乐,http://121.19.134.6:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -646,15 +628,14 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 俺们屯的音乐大匠+蔡宗强-不潮不用花钱,http://em.21dtv.com/songs/60144786.mkv
 俺们屯的音乐大匠-火,http://em.21dtv.com/songs/60144785.mkv
 倪惠英-帝女花之庵遇相认(戏曲),http://em.21dtv.com/songs/60092292.mkv
+倾心音乐🎶,https://hw-origin.pull.yximgs.com/gifshow/Bemw-Uj-p8c_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=5438044c42fe162b86662915de0b683f&tsc=origin&oidc=edgeWm&sidc=206577&no_script=1&ss=s23&tfc_buyer=0
 傣语-TAI TAM MUSIC,http://em.21dtv.com/songs/60124777.mkv
 催眠音乐,http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1099531753567-1099531753567-86439614151131136-2199063630590-10057-A-0-1.xs?
 全程舒服车载音乐视频-车载DJ音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=GCA4lN&tk=IaRTZBNZkJti
 全程舒服车载音乐视频-车载DJ音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2019/车载视频/DJ热舞视频/2019-01/2019-01-10/[Avi]亲爱的你别走三点式美女水里劲舞DJ视频MV_车载音乐DJ夜店精选视频.mp4
 全网热门神曲音乐大盘点音乐,http://epg.112114.xyz/douyu/9560563
 八大娱乐,http://45.192.97.170:8880/play/387.m3u8
-八大娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7593e8da22272cb11a2dfde6e1e4ff82;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
-八大综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3831ae147835333a274b639c1fc781f8;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 八大综艺,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv039
 八大综艺,https://test.946985.filegear-sg.me/proxy/98783bd6d30c6172
 八大综艺台,http://t.061899.xyz/tl/js/js.php?id=bdzyt
@@ -662,9 +643,9 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 关青-摇红烛花(佛前灯)(戏曲),http://em.21dtv.com/songs/60092326.mkv
 内蒙古文体娱乐,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225770/1.m3u8?fmt=ts2hls
 内蒙古文体娱乐,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225877/1.m3u8?fmt=ts2hls
-内蒙古文体娱乐,http://123.179.60.135:4022/rtp/239.29.0.211:5000
-内蒙古文体娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=nmwt&usign=cA1e6NTBFs4-H0T-s3gjpA
-内蒙古文体娱乐,http://38.75.136.137:82/live2/nmtv.m3u8?id=nmwt&usign=cA1e6NTBFs4-H0T-s3gjpA
+内蒙古文体娱乐,http://123.179.61.11:4022/rtp/239.29.0.211:5000
+内蒙古文体娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=nmwt&usign=CFONIjbZYacSC1nbKvqQnQ
+内蒙古文体娱乐,http://38.75.136.137:82/live2/nmtv.m3u8?id=nmwt&usign=CFONIjbZYacSC1nbKvqQnQ
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古文体娱乐|枫斗直播,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
@@ -679,10 +660,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 冯乐永+曾小敏-胡不归之别妻(戏曲),http://em.21dtv.com/songs/60092337.mkv
 冯刚毅-情僧之偷祭潇湘(戏曲),http://em.21dtv.com/songs/60092338.mkv
 冯喆-音乐课代表,http://em.21dtv.com/songs/60153164.mkv
-冰悦经典音乐🎧,https://hw-origin.pull.yximgs.com/gifshow/X_zvKGEpH-U_ShowAvcHdL0.flv?hwTime=6aca12a1&hwSecret=875e5032cc15c9a569f31e0ced855df8&tsc=origin&oidc=edgeWm&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
+冰悦经典音乐🎧,https://hw-origin.pull.yximgs.com/gifshow/HFgn7Wi4dcI_ShowAvcHdL0.flv?hwTime=6acb5b1e&hwSecret=b625803c62087c01fd73683db8f83c92&tsc=origin&oidc=edgeWm&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
 况修歌舞时-我的世界1.7科技魔法服开荒!,https://huya.445569.xyz/live/31215508
 冷漠+大哲-文艺青年的城市生活,http://em.21dtv.com/songs/60044391.mkv
 凌东明+粤剧-仙凡会(戏曲),http://em.21dtv.com/songs/60092342.mkv
+凌妹情感音乐直播,https://hw-origin.pull.yximgs.com/gifshow/bbO6K0ufkRo_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=ed2fe15e0eaab60ee3e4a124ec4a5c63&tsc=origin&oidc=edgeWm&sidc=206577&no_script=1&ss=s23&tfc_buyer=0
 凑区画画，今天纯娱乐,https://goodiptv.club/bilibili/1879185760
 刘乐洪-音乐人生,http://em.21dtv.com/songs/60121421.mkv
 刘明峰(音乐铁人)-不喜欢,http://em.21dtv.com/songs/60168407.mkv
@@ -704,12 +686,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 劲爆车载音乐《Me Liga》混音DJ版,https://vd3.bdstatic.com/mda-pcjhhz2na6nnca3a/sc/bd265_cae_visr_v5/1679330663935082640/mda-pcjhhz2na6nnca3a.mp4
 北京IPTV淘娱乐,http://111.193.227.77:23234/rtp/239.3.1.100:8001
 北京IPTV淘娱乐,http://111.196.130.121:20000/rtp/239.3.1.100:8001
-北京IPTV淘娱乐,http://114.254.36.143:8888/rtp/239.3.1.100:8001
+北京IPTV淘娱乐,http://114.254.36.108:8888/rtp/239.3.1.100:8001
 北京IPTV淘娱乐,http://114.254.38.234:8888/rtp/239.3.1.100:8001
-北京IPTV淘娱乐,http://114.254.82.209:4022/rtp/239.3.1.100:8001
+北京IPTV淘娱乐,http://114.254.83.234:4022/rtp/239.3.1.100:8001
 北京IPTV淘娱乐,http://115.171.216.23:4000/rtp/225.1.8.61:8002
 北京IPTV淘娱乐,http://115.171.216.32:4000/rtp/225.1.8.61:8002
-北京IPTV淘娱乐,http://123.120.6.99:4022/rtp/239.3.1.100:8001
+北京IPTV淘娱乐,http://124.65.0.49:20000/rtp/239.3.1.100:8001
 北京IPTV淘娱乐,http://221.220.128.209:8012/rtp/239.3.1.100:8001
 北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
 北京|北京文艺,http://222.128.98.255:4000/rtp/239.3.1.242:8000
@@ -720,8 +702,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 北京文艺,http://111.199.198.198:4022/rtp/239.3.1.242:8000
 北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
 北京文艺,http://123.120.135.58:4022/rtp/239.3.1.242:8000
-北京文艺,http://38.75.136.137:82/live1/btv1.m3u8?id=btv2&usign=cA1e6NTBFs4-H0T-s3gjpA
-北京文艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=btv2&usign=cA1e6NTBFs4-H0T-s3gjpA
+北京文艺,http://38.75.136.137:82/live1/btv1.m3u8?id=btv2&usign=CFONIjbZYacSC1nbKvqQnQ
+北京文艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=btv2&usign=CFONIjbZYacSC1nbKvqQnQ
 北京文艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv2
 北京文艺,http://beifeng.site:4000/rtp/239.3.1.242:8000
 北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
@@ -734,12 +716,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 北京文艺|枫斗直播,http://m.061899.xyz/mg/bjwy
 北京文艺频道,http://111.193.227.77:23234/rtp/239.3.1.242:8000
 北京文艺频道,http://111.196.130.121:20000/rtp/239.3.1.242:8000
-北京文艺频道,http://114.254.36.143:8888/rtp/239.3.1.242:8000
+北京文艺频道,http://114.254.36.108:8888/rtp/239.3.1.242:8000
 北京文艺频道,http://114.254.38.234:8888/rtp/239.3.1.242:8000
-北京文艺频道,http://114.254.82.209:4022/rtp/239.3.1.242:8000
+北京文艺频道,http://114.254.83.234:4022/rtp/239.3.1.242:8000
 北京文艺频道,http://115.171.216.23:4000/udp/225.1.8.22:8002
 北京文艺频道,http://115.171.216.32:4000/udp/225.1.8.22:8002
-北京文艺频道,http://123.120.6.99:4022/rtp/239.3.1.242:8000
+北京文艺频道,http://124.65.0.49:20000/rtp/239.3.1.242:8000
 北京文艺频道,http://221.220.128.209:8012/rtp/239.3.1.242:8000
 北京淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
@@ -814,13 +796,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
 吉林综艺文化,http://192.151.150.154/live/jlfz.m3u8
 吉林综艺文化,http://198.204.228.26/live/jlfz.m3u8
-吉林综艺文化,http://38.75.136.137:82/live1/hoge.m3u8?ip=jltv&id=362&usign=cA1e6NTBFs4-H0T-s3gjpA
-吉林综艺文化,http://38.75.136.137:82/live1/jdtv2.m3u8?id=jlfz&usign=cA1e6NTBFs4-H0T-s3gjpA
-吉林综艺文化,http://38.75.136.137:82/live2/jltv.m3u8?id=jlfz&usign=cA1e6NTBFs4-H0T-s3gjpA
+吉林综艺文化,http://38.75.136.137:82/live1/hoge.m3u8?ip=jltv&id=362&usign=CFONIjbZYacSC1nbKvqQnQ
+吉林综艺文化,http://38.75.136.137:82/live1/jdtv2.m3u8?id=jlfz&usign=CFONIjbZYacSC1nbKvqQnQ
+吉林综艺文化,http://38.75.136.137:82/live2/jltv.m3u8?id=jlfz&usign=CFONIjbZYacSC1nbKvqQnQ
 吉林音乐,https://lhttp.qingting.fm/live/1831/64k.mp3
 吕珊+胡美仪-幽媾(戏曲),http://em.21dtv.com/songs/60092443.mkv
 吕珊+胡美仪-紫钗记之剑合钗圆(戏曲),http://em.21dtv.com/songs/60092444.mkv
-听听音乐🍀,https://hw-origin.pull.yximgs.com/gifshow/hmRe1_OPaFQ_GameAvcFhdL3.flv?hwTime=6aca12a1&hwSecret=b1229c916c52d012c84c23201ed21323&tsc=origin&oidc=edgeWm&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
 启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 吴亦凡-6(MTV),http://em.21dtv.com/songs/60143231.mkv
 吴克群-音乐让我说,http://em.21dtv.com/songs/60054326.mkv
@@ -841,10 +822,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 四川文艺广播 快乐900 FM90.0[0*0],http://ls.qingting.fm/live/4887.m3u8
 四川音乐,https://lhttp.qingting.fm/live/1110/64k.mp3
 困惑你我他-娱乐一下而已 12300064,https://douyu.445569.xyz/live/12300064
-地方戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hndfxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-城市猎人MTVQ22-AV4群交6P盛宴,https://t21.cdn2020.com/video/m3u8/2023/04/24/70b6a068/index.m3u8
-城市猎人MTVQ22-EP2小穴狩猎最后冲刺,https://t21.cdn2020.com/video/m3u8/2023/04/24/009e9b63/index.m3u8
-城市猎人性爱篇MTVQ22-AV3网约金发妹直冲汤屋,https://t21.cdn2020.com/video/m3u8/2023/04/24/f596f437/index.m3u8
+地方戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hndfxq&usign=CFONIjbZYacSC1nbKvqQnQ
 声音乐团-我期待,http://em.21dtv.com/songs/60081144.mkv
 声音乐团-替我珍惜她,http://em.21dtv.com/songs/60086870.mkv
 声音乐团-最长的旅途,http://em.21dtv.com/songs/60147232.mkv
@@ -852,12 +830,13 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 声音乐团-翅膀,http://em.21dtv.com/songs/60147233.mkv
 夜场铺垫热播流行音乐-车载DJ音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=uorRyS&tk=IaRTZBNZkJti
 夜场铺垫热播流行音乐-车载DJ音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2019/车载视频/DJ热舞视频/2019-01/2019-01-10/[Avi]日本夜店现场中文热舞DJ视频歌曲_凉凉_车载音乐DJ夜店精选视频.mp4
-夜色  爱音乐 不定时,https://hw-origin.pull.yximgs.com/gifshow/koQ5M8lnD6M_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=87bd2a03503ce700b4646b939f90511e&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
+夜色  爱音乐 不定时,https://hw-origin.pull.yximgs.com/gifshow/hOb7P4bfUkE_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=7dba90277b9a2f3d9ee1bdf8bf9beb30&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
 夜蝶-孙艺琪-车载音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=0ED4pg&tk=IaRTZBNZkJti
 夜蝶-孙艺琪-车载音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2022/车载视频/2022-01/2022-01-02/[Mp4]夜蝶-孙艺琪-车载音乐精品美女夜店DJ视频[独].mp4
-大宝💃歌舞演绎,https://hw-origin.pull.yximgs.com/gifshow/kR-Mr-2Pj1w_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=ef54027b2ad3de92956dbd074cc1e4c6&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+大丫二丫🔥歌舞团🔥,https://hw-origin.pull.yximgs.com/gifshow/73iq8wZq0hc_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=f6be61db12c44c1c2e6ee0c677d41366&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+大宝💃歌舞演绎,https://hw-origin.pull.yximgs.com/gifshow/7pWYe6vf9xE_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=f33bf4e4a40abc9660ea9aea904508eb&tsc=origin&oidc=edgeWm&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
 大立k歌音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-天佑音乐,https://hw-origin.pull.yximgs.com/gifshow/BrRNZWP-UKQ_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=b04f117bc2ea914d9112463af3ffd8b4&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+天佑音乐,https://hw-origin.pull.yximgs.com/gifshow/0lAjdN5y82U_ShowAvcHdL0.flv?hwTime=6acb5b1e&hwSecret=8e1fade3da26b1228b0c8e6227a0d5c5&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
 天心Dj炜-全粤语Electro音乐打造百听不厌包房必备Hi串,https://mp4.djuu.com/c2/16/2025/994ed34bb17d07db.m4a
 天心Dj炜-全粤语Electro音乐飞花细界经典港风DJ串烧,https://mp4.djuu.com/c2/16/2025/717718324a98d401.m4a
 天津|天津文艺,http://117.14.55.102:18080/hls/39/index.m3u8
@@ -865,8 +844,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 天津文艺,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv2&usign=
 天津文艺,http://192.151.150.154/live/tjtv2.m3u8
 天津文艺,http://218.68.55.111:4022/udp/225.1.1.131:5002$天津联通组播
-天津文艺,http://38.75.136.137:82/live1/jsb.m3u8?id=tjtv2&usign=cA1e6NTBFs4-H0T-s3gjpA
-天津文艺,http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv2&usign=cA1e6NTBFs4-H0T-s3gjpA
+天津文艺,http://38.75.136.137:82/live1/jsb.m3u8?id=tjtv2&usign=CFONIjbZYacSC1nbKvqQnQ
+天津文艺,http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv2&usign=CFONIjbZYacSC1nbKvqQnQ
 天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
 天津文艺,http://60.29.124.66:6080/hls/2/index.m3u8
 天津文艺,http://60.29.124.66:6080/hls/3/index.m3u8$天津联通
@@ -919,6 +898,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 娱乐新闻台[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
 娱乐明星一手消息，理娱打挺疼,http://footyun.top:35455/douyu/2925563
 娱乐现场,https://goodiptv.club/huya/17001286
+娱乐频道,http://120.237.24.142:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 娱音乐扒叔+娱乐扒叔的直播间,http://epg.112114.xyz/douyu/9624581
 子琦-音乐天堂,http://em.21dtv.com/songs/60099191.mkv
 孔令奇-音乐让我说话,http://em.21dtv.com/songs/60054328.mkv
@@ -927,7 +907,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 孟静-一搭搭里(MTV),http://em.21dtv.com/songs/60143332.mkv
 学习工作背景音乐 24/7 自习室,https://goodiptv.club/bilibili/27519423
 学习工作背景音乐 24/7 自习室,https://live.ottiptv.cc/bilibili/27519423
-宁波文化娱乐,http://38.75.136.137:82/live1/zjnbtv.m3u8?id=zjnbtv3&usign=cA1e6NTBFs4-H0T-s3gjpA
+宁波文化娱乐,http://38.75.136.137:82/live1/zjnbtv.m3u8?id=zjnbtv3&usign=CFONIjbZYacSC1nbKvqQnQ
 宁波文化娱乐|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%AE%81%E6%B3%A2%E6%96%87%E5%8C%96%E5%A8%B1%E4%B9%90&auth=666858
 安徽|安徽综艺,http://api2.52tb.xyz/info?id=585&token=20230218htjgzi
 安徽|安徽综艺,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahzyty
@@ -936,11 +916,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺|枫斗直播,http://112.27.235.94:8000/hls/25/index.m3u8
-安静音乐,https://hw-origin.pull.yximgs.com/gifshow/XpMoWV2m6LQ_ShowAvcHdL0.flv?hwTime=6aca129b&hwSecret=43b3c64eca8133eb62c115a3d8b30c5d&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+安静音乐,https://hw-origin.pull.yximgs.com/gifshow/VjH77TuNR5g_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=b5ff4a17da02465976613055fbbb5ea7&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
 宋大娘-老头子给队里来种瓜(戏曲),http://em.21dtv.com/songs/60089812.mkv
-定陶综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzdt2&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6ZHQyfDE3OTE2Mjc5ODZ8MmVkMGEzYmJkYWZiNmQ0NWYzZDVlNzgyYWVjZWQyYmZkNmM1MzA0NzZmYjQzOWIzNDdkNzlmN2NmNzA2NGM2NA
+定陶综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzdt2&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6ZHQyfDE3OTE3MTIwODF8Njg5OWU1M2NiN2RhOTFkYmY2NjcwYzY0ZjZiYjQ0ZmMzNjZlZmNiOWU1ZGIzZTY4NGMyMDQzZGU2Njk1ODcxYg
 定陶综艺|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=hzdt2
-定陶综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzdt2&usign=cA1e6NTBFs4-H0T-s3gjpA
+定陶综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzdt2&usign=CFONIjbZYacSC1nbKvqQnQ
 定陶综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%AE%9A%E9%99%B6%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 客家文艺,http://120.238.85.131:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 宿松戏曲文艺|枫斗直播,http://tv.sohu.blog/d/ahwy.php?id=ss2
@@ -948,7 +928,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 寰宇娱乐,http://61.10.2.145/live_freedirect/freehd209_h.live/chunklist.m3u8
 封丘戏曲频道,http://tvpull.dxhmt.cn:9081/tv/10727-3.m3u8
 小5-音乐自白书,http://em.21dtv.com/songs/60070167.mkv
-小周娱乐麻将,https://hw-origin.pull.yximgs.com/gifshow/PrjcrhhwrQo_ma1500-AuditAvcOriginL3.flv?hwTime=6aca129d&hwSecret=768b8e832fd04f8bf84770b4cc238187&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&srcStrm=PrjcrhhwrQo&ss=s23&tfc_buyer=1
+小伟车载音乐,https://hw-origin.pull.yximgs.com/gifshow/mVhAb3K6qPY_GameAvcFhdL3.flv?hwTime=6acb5b1e&hwSecret=766826bd0d281e304c12477d6195da77&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+小周娱乐麻将,https://hw-origin.pull.yximgs.com/gifshow/tNr1e3vvlmo_ma1500-AuditAvcOriginL3.flv?hwTime=6acb5b19&hwSecret=6478775589f84b1c80b9acc081d9d1fa&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&srcStrm=tNr1e3vvlmo&ss=s23&tfc_buyer=1
 小旭音乐+吾恩+喵☆酱-月照京华,http://em.21dtv.com/songs/60146229.mkv
 小旭音乐+岑先生+柏凝+裂天-不沉默的羔羊,http://em.21dtv.com/songs/60152366.mkv
 小旭音乐+景向谁依-如丝,http://em.21dtv.com/songs/60152367.mkv
@@ -985,12 +966,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 小旭音乐-麻将,http://em.21dtv.com/songs/60158254.mkv
 小旭音乐-黄金爆竹,http://em.21dtv.com/songs/60158255.mkv
 小旭音乐-龙武盛唐,http://em.21dtv.com/songs/60156236.mkv
-小松娱乐 三打一,https://hw-origin.pull.yximgs.com/gifshow/od2xNuR853Y_ma1500-AuditAvcOriginL3.flv?hwTime=6aca129c&hwSecret=56a4d166986dfb248a8bf8e56e8ea328&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=od2xNuR853Y&ss=s23&tfc_buyer=1
+小松娱乐 三打一,https://hw-origin.pull.yximgs.com/gifshow/m7odY17GKg0_ma1500-AuditAvcOriginL3.flv?hwTime=6acb5b18&hwSecret=489d378f1dd4f47dda65147e9a62d3ca&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=m7odY17GKg0&ss=s23&tfc_buyer=1
 小潘潘-只不过(MTV),http://em.21dtv.com/songs/60143347.mkv
 小缘+小旭音乐-MT永不独行,http://em.21dtv.com/songs/60165297.mkv
 小肥-黄昏音乐会,http://em.21dtv.com/songs/60066037.mkv
 小舞点歌台-分享♬好音乐ღ好音质,https://huya.445569.xyz/live/15590571
-小薇爱歌舞,https://hw-origin.pull.yximgs.com/gifshow/EyC4hQuHv90_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=738c2c40a466a7e9aa4000bdb961ae84&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
 小飞飞流行DJ音乐,http://live.nctv.top/douyu1.php?id=10469362
 尹光+李丽仪-要仔也要女(戏曲),http://em.21dtv.com/songs/60092540.mkv
 尹光+胡美仪-宫主刁蛮驸马骄(戏曲),http://em.21dtv.com/songs/60092541.mkv
@@ -1000,15 +980,15 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 尹光-娱乐界(演唱会),http://em.21dtv.com/songs/60055537.mkv
 山东|山东综艺,http://api2.52tb.xyz/info?id=525&token=20230218htjgzi
 山东|山东综艺,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdzy&auth=rinimabi
-山东秀秀🎤娱乐才艺,https://hw-origin.pull.yximgs.com/gifshow/sXdelWDCk9w_ShowAvcHdL0.flv?hwTime=6aca12a1&hwSecret=077b4a05dea818afb624b3c387eef23e&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+山东秀秀🎤娱乐才艺,https://hw-origin.pull.yximgs.com/gifshow/5PVBt5FbpBM_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=509f0bb354a6541d27c55b2aab5ed743&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
 山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东综艺,http://112.235.200.120:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东综艺,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 山东综艺,http://123.129.70.178:9901/tsfile/live/1006_1.m3u8
 山东综艺,http://139.129.231.228:50060/rtp/239.21.1.177:5002
 山东综艺,http://222.173.108.238:352/tsfile/live/1003_1.m3u8
-山东综艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sdzy&usign=cA1e6NTBFs4-H0T-s3gjpA
-山东综艺,http://38.75.136.137:82/live1/sdxw.m3u8?id=sdzy&usign=cA1e6NTBFs4-H0T-s3gjpA
+山东综艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sdzy&usign=CFONIjbZYacSC1nbKvqQnQ
+山东综艺,http://38.75.136.137:82/live1/sdxw.m3u8?id=sdzy&usign=CFONIjbZYacSC1nbKvqQnQ
 山东综艺,http://39.87.249.126:8090/udp/239.253.254.159:8000
 山东综艺,http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 山东综艺,http://58.58.111.222:808/hls/61/index.m3u8?key=txiptv$山东电信
@@ -1020,7 +1000,6 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 山东综艺频道,http://39.77.23.205:4002/rtp/239.253.254.159:8000
 山东音乐广播 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
 山西音乐,https://lhttp.qingting.fm/live/4932/64k.mp3
-岚柏 - 娱乐看号~,https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-120227849218032394_Thirdgame0T010uhd/index.m3u8?expire=1792145792&sign=50c8e1572e0d7d9e373450957847c350&volcSecret=50c8e1572e0d7d9e373450957847c350&volcTime=1792145792&arch_hrchy=w1&exp_hrchy=w1&rtm_expr_tag=empty_device_type&major_anchor_level=common&t_id=037-20261009181631BD1F377CA5D553539D32-Bl909m
 岭南戏曲,http://107.150.60.122/live/gdlnxq.m3u8
 岭南戏曲,http://117.141.162.238:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://120.198.84.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1029,17 +1008,17 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 岭南戏曲,http://14.145.143.181:14022/rtp/239.77.0.122:5146
 岭南戏曲,http://14.157.24.38:2345/rtp/239.77.0.122:5146
 岭南戏曲,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=gdlnxq&usign=
-岭南戏曲,http://183.10.180.112:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://183.10.180.46:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://183.237.95.108:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-岭南戏曲,http://183.30.201.205:10002/rtp/239.77.0.122:5146
+岭南戏曲,http://183.30.201.226:10002/rtp/239.77.0.122:5146
 岭南戏曲,http://192.151.150.154/live/gdlnxq.m3u8
 岭南戏曲,http://198.204.228.26/live/gdlnxq.m3u8
-岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-岭南戏曲,http://38.75.136.137:82/live1/jsb.m3u8?id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-岭南戏曲,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-岭南戏曲,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdlnxq&usign=cA1e6NTBFs4-H0T-s3gjpA
+岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
+岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
+岭南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
+岭南戏曲,http://38.75.136.137:82/live1/jsb.m3u8?id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
+岭南戏曲,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
+岭南戏曲,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdlnxq&usign=CFONIjbZYacSC1nbKvqQnQ
 岭南戏曲,http://907698324.xyz:7088/udp/239.77.0.122:5146
 岭南戏曲,http://gmxw.7766.org:808/hls/16/index.m3u8
 岭南戏曲,http://nn.7x9d.cn/91tv1.php?e=gdlnxq&line=0
@@ -1050,13 +1029,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 岭南戏曲|枫斗直播,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 岭南戏曲高清,http://120.87.19.109:80/PLTV/88888973/224/3221226678/10000100000000060000000002086628_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xUQkHaoWNm+LvsLZFKUiXBwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 左欣怡-我是草原上的小姑娘(MTV),http://em.21dtv.com/songs/60143368.mkv
-巨象娱乐05,https://zo392.cdnedge.live/file/avple-images/hls/62c5a63536c38433078a6950/playlist.m3u8
 布布娱乐,https://goodiptv.club/huya/29882863
 常思思-注定(MTV),http://em.21dtv.com/songs/60143374.mkv
 常石磊-音乐爱我,http://em.21dtv.com/songs/60117702.mkv
 常颖-funky music,http://em.21dtv.com/songs/60081456.mkv
 平潭6机位切换海景 24小时音乐自修直播,https://goodiptv.club/bilibili/29774
-平阳娱乐生活,http://38.75.136.137:82/live1/qklive.m3u8?id=zjwzpy2&usign=cA1e6NTBFs4-H0T-s3gjpA
+平阳娱乐生活,http://38.75.136.137:82/live1/qklive.m3u8?id=zjwzpy2&usign=CFONIjbZYacSC1nbKvqQnQ
 平阳娱乐生活,http://play-sh11.quklive.com/live/1653968365110354.m3u8
 平阳娱乐生活|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E9%98%B3%E5%A8%B1%E4%B9%90%E7%94%9F%E6%B4%BB&auth=666858
 幸福娱乐,http://home.ddx2013.cc:4022/rtp/239.93.4.246:8792
@@ -1066,12 +1044,10 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 广东岭南戏曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdlnxq
 广东戏曲,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LgpHlu&tk=IaRTZBNZkJti
 广东戏曲,http://yuming.dsmynas.com:8888/udp/239.21.0.147:3932
-广东戏曲频道,http://120.238.5.44:1698/hls/91/index.m3u8
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 广东综艺,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzy
 广东综艺4K,http://113.65.7.6:7088/udp/239.77.0.252:5146
 广东综艺4K,http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东综艺4K,http://121.10.7.16:4000/udp/239.77.0.252:5146
 广东综艺4K,http://14.145.143.181:14022/rtp/239.77.0.244:5146
 广东综艺4K,http://14.145.143.181:14022/rtp/239.77.0.245:5146
 广东综艺4K,http://14.145.143.181:14022/rtp/239.77.1.237:5146
@@ -1079,11 +1055,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 广东综艺4K,http://14.157.24.38:2345/rtp/239.77.0.245:5146
 广东综艺4K,http://14.157.24.38:2345/rtp/239.77.1.237:5146
 广东综艺4K,http://183.236.43.98:4013/udp/239.77.0.252:5146
-广东综艺4K,http://183.30.201.205:10002/rtp/239.77.0.244:5146
-广东综艺4K,http://183.30.201.205:10002/rtp/239.77.0.245:5146
-广东综艺4K,http://183.30.201.205:10002/rtp/239.77.1.237:5146
+广东综艺4K,http://183.30.201.226:10002/rtp/239.77.0.244:5146
+广东综艺4K,http://183.30.201.226:10002/rtp/239.77.0.245:5146
+广东综艺4K,http://183.30.201.226:10002/rtp/239.77.1.237:5146
 广东综艺4K,http://183.47.2.156:16883/udp/239.77.0.252:5146
 广东综艺4K,http://59.35.185.47:8188/udp/239.77.0.252:5146
+广东综艺4K,http://61.145.188.90:60033/udp/239.77.0.252:5146
 广东综艺4K,http://chuangye168.gnway.org:56994/g8dyou.php?id=GDZYHD4K_38000
 广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
 广东综艺4K,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?0&accountinfo=%7E%7EV2.0%7EG5fEQeO2yT2LgijcyazKdg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -1107,17 +1084,17 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 广西综艺旅游,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=gxzy&usign=
 广西综艺旅游,http://192.151.150.154/live/gxzy.m3u8
 广西综艺旅游,http://198.204.228.26/live/gxzy.m3u8
-广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gxzy&usign=cA1e6NTBFs4-H0T-s3gjpA
-广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=gxzy&usign=cA1e6NTBFs4-H0T-s3gjpA
-广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=gxzy&usign=cA1e6NTBFs4-H0T-s3gjpA
-广西综艺旅游,http://38.75.136.137:82/live1/jsb.m3u8?id=gxzy&usign=cA1e6NTBFs4-H0T-s3gjpA
-广西综艺旅游,http://38.75.136.137:82/live1/jsb1.m3u8?id=gxzy&usign=cA1e6NTBFs4-H0T-s3gjpA
+广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gxzy&usign=CFONIjbZYacSC1nbKvqQnQ
+广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=gxzy&usign=CFONIjbZYacSC1nbKvqQnQ
+广西综艺旅游,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=gxzy&usign=CFONIjbZYacSC1nbKvqQnQ
+广西综艺旅游,http://38.75.136.137:82/live1/jsb.m3u8?id=gxzy&usign=CFONIjbZYacSC1nbKvqQnQ
+广西综艺旅游,http://38.75.136.137:82/live1/jsb1.m3u8?id=gxzy&usign=CFONIjbZYacSC1nbKvqQnQ
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
 广西综艺旅游,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxzy
 广西音乐,https://lhttp.qingting.fm/live/4875/64k.mp3
 广西音乐台 FM95.0[0*0],http://ls.qingting.fm/live/4875.m3u8
-广饶科教文艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sddygr2&usign=cA1e6NTBFs4-H0T-s3gjpA
-广饶科教文艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=dygrkj&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWR5Z3JranwxNzkxNjI3OTg2fGI2NTZiMzFiZDk0ZWU4YjdiMTM3MjAwYThiOTkwOGYxMjRlN2JkOGVjOGI2NDViNWVkNmJhZWEyZjcxM2JkMDA
+广饶科教文艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sddygr2&usign=CFONIjbZYacSC1nbKvqQnQ
+广饶科教文艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=dygrkj&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWR5Z3JranwxNzkxNzEyMDgxfGJlYzg1M2UwZWIzNzlhZjM1ZTIwMjgyNWZkZWIxYjAwZDczMTdhNTIyNGFkYjNhMWQ2N2M5NWUwNzVjYzVjNDg
 广饶科教文艺|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E9%A5%B6%E7%A7%91%E6%95%99%E6%96%87%E8%89%BA&auth=666858
 庄心妍+萧全-爱音乐,http://em.21dtv.com/songs/60099997.mkv
 店头音乐,http://livestream.1766.today:1781/live2.mp3
@@ -1128,7 +1105,6 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 张磊-文艺少年,http://em.21dtv.com/songs/60151973.mkv
 张磊-音乐梦想,http://em.21dtv.com/songs/60093902.mkv
 张靓颖-我的音乐让我说,http://em.21dtv.com/songs/60087853.mkv
-彩天帝娱乐🌸🌈---小菜 - 这个主播好强,https://pull-hls-l11.douyincdn.com/thirdgame/stream-696688798814962508_or4.m3u8?expire=1792145792&sign=3b672868e8acb12cea1e1bbcd40e207f&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-20261009181631E6FB53588F486F67BC6B-44hhPY
 彭炽权+倪惠英-梁祝之十八相送(戏曲),http://em.21dtv.com/songs/60092658.mkv
 彭炽权+倪惠英-璇宫夜宴(戏曲),http://em.21dtv.com/songs/60092659.mkv
 彭炽权+倪惠英-陈姑追舟(戏曲),http://em.21dtv.com/songs/60092660.mkv
@@ -1170,13 +1146,14 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 彭炽权-鸿雁传书(戏曲),http://em.21dtv.com/songs/60092696.mkv
 彭皮皮丶-娱乐技术主播，各游戏大师！,https://douyu.445569.xyz/live/5743523
 彭羚-音乐盒(演唱会),http://em.21dtv.com/songs/60054319.mkv
+彼岸心属MADEIN伊藤美优-祝贺李相沅担任音乐中心MC,https://douyu.445569.xyz/live/40471
 徐千雅-带上音乐去旅行,http://em.21dtv.com/songs/60069328.mkv
 徐小凤-音乐盒(演唱会),http://em.21dtv.com/songs/60054320.mkv
-微笑音乐,https://hw-origin.pull.yximgs.com/gifshow/R_kaIiPoZVY_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=4927179da694a1296d6e655dde62b91d&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+微笑音乐,https://hw-origin.pull.yximgs.com/gifshow/d4cHusWV7T0_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=9061e248c69adcc14f1b701e4d4f3a72&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
 德国音乐MVzx,http://de1se01.v2beat.live/playlist.m3u8
-心悦dj（车载音乐）,https://hw-origin.pull.yximgs.com/gifshow/dU8nUuDMoqc_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=f88d3d52ad29380f25bc3f57b631addd&tsc=origin&oidc=watchmen&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
+心悦dj（车载音乐）,https://hw-origin.pull.yximgs.com/gifshow/FCqmYMX1yCk_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=7f89266c434c13eaff278c889f8295ca&tsc=origin&oidc=watchmen&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
 心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-念惜音乐,https://hw-origin.pull.yximgs.com/gifshow/vSjZ6cE4fvQ_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=b7ff309f2553cff2ca9017c23f49033b&tsc=origin&oidc=watchmen&sidc=205816&no_script=1&ss=s23&tfc_buyer=0
+念惜音乐,https://hw-origin.pull.yximgs.com/gifshow/5Qx_YYx8yKA_ShowAvcHdL0.flv?hwTime=6acb5b1a&hwSecret=45d6771bee9c87ef947a4e542f3c3c0b&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 总政歌舞团-光荣与梦想,http://em.21dtv.com/songs/60096299.mkv
@@ -1216,25 +1193,26 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 戏曲-非是我嘱咐叮咛把话讲,http://em.21dtv.com/songs/60089308.mkv
 戏曲专区HD,http://182.135.66.163:1888/rtp/239.94.1.38:5140
 戏曲专区HD,http://182.135.66.163:18888/rtp/239.94.1.38:5140
+戏曲友缘。,https://hw-origin.pull.yximgs.com/gifshow/vzpwXyGfJCE_ShowAvcHdL0.flv?hwTime=6acb5b1c&hwSecret=bf735673f5be29d61d4522db1ac18710&tsc=origin&oidc=edgeWm&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
 戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
 戏曲直播,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8386&tk=e503191f8e20
 戏曲精选HD,http://182.135.66.163:1888/rtp/239.94.1.37:5140
 戏曲精选HD,http://182.135.66.163:18888/rtp/239.94.1.37:5140
-戏曲谭云（才艺主播）,https://hw-origin.pull.yximgs.com/gifshow/5HfjS1730cc_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=c20de480db516b3813d06c6deb2e42cf&tsc=origin&oidc=edgeWm&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
-成武综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzcwzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6Y3d6eXwxNzkxNjI3OTg2fGJhYjcxMDEzZWQwNTlkM2Q4YjAyYmNmMmVlM2ZlM2I1OTAxNTU2NTU2OTAwMjE3YjY3N2Y3YjRkZWE5MmJlODY
+戏曲郭艳华,https://hw-origin.pull.yximgs.com/gifshow/Q231XnWhk0s_ShowAvcHdL0.flv?hwTime=6acb5b1b&hwSecret=2907abbe4699cb57a75ac5a18753a2b6&tsc=origin&oidc=edgeWm&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
+成武综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzcwzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6Y3d6eXwxNzkxNzEyMDgxfDUzMzU4NzUxZjg4NDI4MDlkM2IxZGQ3ZDgzMDQ0ZjFmNGE0OTQwOWY2MWY3OWY4NmE3ZjZkZWM3NWUxNzViYTA
 成武综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzcwzy
-成武综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzcw2&usign=cA1e6NTBFs4-H0T-s3gjpA
+成武综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzcw2&usign=CFONIjbZYacSC1nbKvqQnQ
 成武综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%88%90%E6%AD%A6%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 我到底错哪里-崔伟立-车载音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eUxnCW&tk=IaRTZBNZkJti
 我到底错哪里-崔伟立-车载音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2021/车载视频/2021-10/2021-10-10/[Mp4]我到底错哪里-崔伟立-车载音乐精品美女夜店DJ视频[独].mp4
 抖音车载热曲视频-车载DJ音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=IVL9yn&tk=IaRTZBNZkJti
 抖音车载热曲视频-车载DJ音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2013/车载视频/DJ舞曲视频/2015/2015-11/2015-11-04/Mp4_夜店现场美女蹦迪视频【一个耐不住寂寞的人】好听的DJMV舞曲.mp4
-招远综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytzyzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0enl6eXwxNzkxNjI3OTg2fGJkNmY4YjM4ZjM5MTMxMzE2YWEyODYyZjMzMGE4OTUwODA2ZTA1NjdjZjIxNDRiMGU2ZDVjZjVmOGU4NThjMTY
+招远综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytzyzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0enl6eXwxNzkxNzEyMDgxfGQxNmRiNWUwMzQ2NmQ0ODM0Y2Q3OWY4MWQ3MTQ2OGRiZDNmMTExNmEwNjZjYTE0ZWVjZmZmYTA5YTQ2NTZiMjg
 招远综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=ytzyzy
 招远综艺|枫斗直播,http://43.138.196.212/q0l.php?id=ytzyzy
-招远综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdytzy2&usign=cA1e6NTBFs4-H0T-s3gjpA
+招远综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdytzy2&usign=CFONIjbZYacSC1nbKvqQnQ
 招远综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%8B%9B%E8%BF%9C%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
-放松轻音乐,https://live.ottiptv.cc/huya/21241813
+拾光音乐汇🎶（24h听歌）,https://hw-origin.pull.yximgs.com/gifshow/g1jjNqgASn0_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=92fbdf72f2b72d08c3e88b49c0d4b1fb&tsc=origin&oidc=edgeWm&sidc=206577&no_script=1&ss=s23&tfc_buyer=0
 文千岁-可爱的紫荆花(戏曲),http://em.21dtv.com/songs/60092741.mkv
 文千岁-如意吉祥(戏曲),http://em.21dtv.com/songs/60092742.mkv
 文千岁-恭喜你(戏曲),http://em.21dtv.com/songs/60092743.mkv
@@ -1256,7 +1234,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 新疆|新疆哈语综艺,http://livehyw5.chinamcache.com/hyw/zb08.m3u8?txSecret=64144bee74a2860eca3c60e37fb449bb&txTime=95A66658
 新疆|新疆维语综艺,http://livehyw5.chinamcache.com/hyw/zb05.m3u8?txSecret=2b0278beb86ca088d2532a4ac56d3351&txTime=95A66658
 新疆|新疆综艺,http://livehyw5.chinamcache.com/hyw/zb04.m3u8?txSecret=21e884c07f77b8c31849d9ac938ad0bf&txTime=95A66658
-新疆汉语综艺,http://38.75.136.137:82/live1/xjtv.m3u8?id=xjtv4&usign=cA1e6NTBFs4-H0T-s3gjpA
+新疆汉语综艺,http://38.75.136.137:82/live1/xjtv.m3u8?id=xjtv4&usign=CFONIjbZYacSC1nbKvqQnQ
 新疆汉语综艺|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%96%86%E6%B1%89%E8%AF%AD%E7%BB%BC%E8%89%BA&auth=666858
 新疆维吾尔语交通文艺广播 (Opt-2)[0*0],http://ls.qingting.fm/live/78923.m3u8
 方力申-娱乐你朋友,http://em.21dtv.com/songs/60092753.mkv
@@ -1264,18 +1242,17 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 无名原创音乐团队-千秋岁引,http://em.21dtv.com/songs/60170436.mkv
 无处安放的心-楼文建-车载音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=xbtXo5&tk=IaRTZBNZkJti
 无处安放的心-楼文建-车载音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2021/车载视频/2021-10/2021-10-10/[Mp4]无处安放的心-楼文建-车载音乐精品美女夜店DJ视频[独].mp4
-无棣综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=bzwdzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWJ6d2R6eXwxNzkxNjI3OTg2fDY0MDYzZTU0MWRjYjY0MmUwODg2NzkzZDA2MmRlMDU2ODc2OGNhMjM4NjY1ZTFmNmMyZGJmMjU5YjAwM2VhYzg
+无棣综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=bzwdzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWJ6d2R6eXwxNzkxNzEyMDgxfGIwNjgxMGIyNTdiYTIwZGFlZTdlNzU5ZDk0ZjZmOGUyNWVhNDU1ODM2MmRiOTRjMzg0ZWM1OWI4MGVhZWQ0ZDI
 无棣综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=bzwdzy
 无棣综艺|枫斗直播,http://43.138.196.212/q0l.php?id=bzwdzy
-无棣综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdbzwd2&usign=cA1e6NTBFs4-H0T-s3gjpA
+无棣综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdbzwd2&usign=CFONIjbZYacSC1nbKvqQnQ
 无棣综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%97%A0%E6%A3%A3%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线娱乐欣赏,http://rihou.cc:555/tv/[PL]无线娱乐
 无线娱乐频流,http://tl.061833.xyz/tl/null-14
 无线戏曲频流,http://tl.061833.xyz/tl/null-15
-无缺音乐课堂（芯芯老师） - 0基础学唱歌,https://pull-hls-h13.douyincdn.com/third/stream-696688885515944796_uhd.m3u8?expire=1792145795&sign=8193bcf2bb4fe6768149dc94dcdc50d9&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20261009181635CF4E335E67E94BA1A2A6-auv4vg
-无锡娱乐,http://38.75.136.137:82/live1/jswxtv.m3u8?id=jswxtv2&usign=cA1e6NTBFs4-H0T-s3gjpA
+无锡娱乐,http://38.75.136.137:82/live1/jswxtv.m3u8?id=jswxtv2&usign=CFONIjbZYacSC1nbKvqQnQ
 无锡娱乐,http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8$无锡广电
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
@@ -1307,6 +1284,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 晃儿(小旭音乐)-我本侠义在心间,http://em.21dtv.com/songs/60166363.mkv
 晨熙-下一次相遇(MTV),http://em.21dtv.com/songs/60143498.mkv
+智遇音乐,https://hw-origin.pull.yximgs.com/gifshow/fb3zY0zbWVo_ShowAvcHdL0.flv?hwTime=6acb5b1e&hwSecret=a32e1472fb8c6375d421ef2e851446af&tsc=origin&oidc=edgeWm&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
 暖调音乐组合-太湖情歌,http://em.21dtv.com/songs/60122797.mkv
 曲艺大观,http://124.114.103.202:6789/rtp/239.111.205.31:5140
 曹立(小旭音乐)-给我来个小和尚,http://em.21dtv.com/songs/60168556.mkv
@@ -1320,13 +1298,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 最强综艺趴,http://103.236.77.86:29824/629942228
 最强综艺趴,http://106.5.174.241:5678/629942228
 最强综艺趴,http://113.120.243.155:7788/629942228
-最强综艺趴,http://116.236.204.18:1234/629942228
 最强综艺趴,http://119.233.255.62:1234/629942228
-最强综艺趴,http://2280.eu.org:1234/629942228
 最强综艺趴,http://45.192.97.170:8880/play/62.m3u8
+最强综艺趴,http://45.192.97.170:8880/play/65.m3u8
 最强综艺趴,http://82.156.245.233:30008/629942228
 最强综艺趴,http://A/ku9/js/咪咕超简版.js?id=629942228
-最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20261009160302d4502d11d3fb451ba8be239921a7fbd9&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261009160302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261009160302&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fc0008c8025738c3c47f8b82e34cf24c
+最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20261010160302ffb2756ede4a461eb8cad77691a28bfe&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261010160302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261010160302&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b0b1db288884fa85202bd345cb22db19
 最强综艺趴,http://k.061899.xyz/k.php?id=zqzyp
 最强综艺趴,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=5qlvL5&tk=IaRTZBNZkJti
 最强综艺趴,http://my1nas.dpdns.org:1234/629942228
@@ -1339,8 +1316,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 最强综艺趴,https://migu.188766.xyz/?migutoken=8a6b9b872f59b7a1d728544f3b38e33b&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
 最强综艺趴,https://migu.249051.xyz/629942228
 最强综艺趴,https://tv.zhuhongxuan.cn/629942228
-最强综艺趴,https://tv123.cc.cd/live.php?ch=2246&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=05707dd782fe19d23e022919b3206a71d6eff64f7443ed0bda4e522073cb8b70
-朔州生活娱乐,http://38.75.136.137:82/live1/hoge.m3u8?ip=sxsztv&id=17&usign=cA1e6NTBFs4-H0T-s3gjpA
+最强综艺趴,https://tv123.cc.cd/live.php?ch=2196&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=13ee4c04b87265b4148570db162e5ebfd92223775f838b6cd27e455a714456a4
+朔州生活娱乐,http://38.75.136.137:82/live1/hoge.m3u8?ip=sxsztv&id=17&usign=CFONIjbZYacSC1nbKvqQnQ
 朔州生活娱乐,http://live1.shuozhounews.cn/shyl/sd/live.m3u8
 朔州生活娱乐|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%9C%94%E5%B7%9E%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90&auth=666858
 本兮-我想要的音乐到底该是什么风格,http://em.21dtv.com/songs/60080429.mkv
@@ -1376,7 +1353,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 林锦屏-红楼梦之黛玉葬花(戏曲),http://em.21dtv.com/songs/60092884.mkv
 林锦屏-织女思凡(戏曲),http://em.21dtv.com/songs/60092885.mkv
 林颖-相思情结(戏曲),http://em.21dtv.com/songs/60095709.mkv
-柠檬音乐,https://hw-origin.pull.yximgs.com/gifshow/IIWc1nyN3VY_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=b606e0df19724ef773eeba2538e0bbd4&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+柠檬音乐,https://hw-origin.pull.yximgs.com/gifshow/ds14OSB7n4U_ShowAvcHdL0.flv?hwTime=6acb5b1a&hwSecret=58cbc9c12a7960e5d6d00cba8b35c797&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
 格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
 梁玉嵘+何萍-梁祝夜话(戏曲),http://em.21dtv.com/songs/60092907.mkv
@@ -1402,7 +1379,6 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 梁耀安+蒋文端-祝婚歌(戏曲),http://em.21dtv.com/songs/60092927.mkv
 梁耀安-碧海狂僧(戏曲),http://em.21dtv.com/songs/60092928.mkv
 梁龙+潘斌龙-咱村也有文艺人,http://em.21dtv.com/songs/60157480.mkv
-梅姐情感音乐,https://hw-origin.pull.yximgs.com/gifshow/AYiTY6neOE4_GameAvcFhdL3.flv?hwTime=6aca12a0&hwSecret=b2160e2593c198daa25f4d09ad4e848a&tsc=origin&oidc=edgeWm&sidc=206577&no_script=1&ss=s23&tfc_buyer=0
 梅州音乐组合-我们的爱情万万岁,http://em.21dtv.com/songs/60102413.mkv
 梦幻西游❄️周杰伦音乐MV边游戏边听音乐,http://footyun.top:35455/douyu/7537296
 梨园戏曲,http://1.94.31.214/php/hntv.php?id=hnly
@@ -1439,7 +1415,6 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 民视综艺,http://45.192.97.170:8880/play/1321.m3u8
 民视综艺,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-民视综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=04079f48cbe86ce355ebdd255a715460;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 民视综艺,http://t.061899.xyz/tl/js/js.php?id=mszy
 民视综艺,https://test.946985.filegear-sg.me/proxy/942f93dffd0ffc88
 民视综艺台,http://api.mytv666.top/api/hk.php?id=3466353364643062353139316130616161376438323237333565653365343633267469643d77696e74763132332669643d3633
@@ -1459,12 +1434,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 江苏综艺,http://180.103.42.133:8800/rtp/239.49.8.108:8000
 江苏综艺,http://222.92.158.109:9889/rtp/239.49.1.18:6000
 江苏综艺,http://222.92.158.110:9889/rtp/239.49.1.18:6000
-江苏综艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
-江苏综艺,http://38.75.136.137:82/live1/jstv1.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
-江苏综艺,http://38.75.136.137:82/live1/jstv2.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
-江苏综艺,http://38.75.136.137:82/live2/jsqx.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
-江苏综艺,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
-江苏综艺,http://38.75.136.137:82/live2/jstv.m3u8?id=jszy&usign=cA1e6NTBFs4-H0T-s3gjpA
+江苏综艺,http://38.75.136.137:82/live1/jdtv2.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
+江苏综艺,http://38.75.136.137:82/live1/jstv1.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
+江苏综艺,http://38.75.136.137:82/live1/jstv2.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
+江苏综艺,http://38.75.136.137:82/live2/jsqx.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
+江苏综艺,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
+江苏综艺,http://38.75.136.137:82/live2/jstv.m3u8?id=jszy&usign=CFONIjbZYacSC1nbKvqQnQ
 江苏综艺,http://8.138.7.223/tv/jstv.php?id=jszy
 江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
 江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -1482,14 +1457,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 江苏综艺频道,http://103.236.77.86:29824/626065193
 江苏综艺频道,http://106.5.174.241:5678/626065193
 江苏综艺频道,http://113.120.243.155:7788/626065193
-江苏综艺频道,http://116.236.204.18:1234/626065193
 江苏综艺频道,http://119.233.255.62:1234/626065193
 江苏综艺频道,http://121.237.245.243:8888/rtp/239.49.8.108:8000
-江苏综艺频道,http://2280.eu.org:1234/626065193
 江苏综艺频道,http://82.156.245.233:30008/626065193
 江苏综艺频道,http://A/ku9/js/咪咕超简版.js?id=626065193
 江苏综艺频道,http://gytv.iepose.cn/626065193
-江苏综艺频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=202610091803067f7e5f145e3d45838b164ed5d9bf3632&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261009180306&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=171.8.79.254&SecurityKey=20261009180306&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3a8aeab2f4b2f471e4ef9589cdb3342
+江苏综艺频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20261010140306708a1164b84245449cdfab4ebe99bd38&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261010140306&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=171.8.79.254&SecurityKey=20261010140306&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7cbf64537ced5283c77bf27302a6b27
 江苏综艺频道,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dtvlGw&tk=IaRTZBNZkJti
 江苏综艺频道,http://my1nas.dpdns.org:1234/626065193
 江苏综艺频道,http://njdm.i234.me:1234/626065193
@@ -1500,7 +1473,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 江苏综艺频道,https://live.chinacert.cftest5.cn/cnmg/live/626065193
 江苏综艺频道,https://migu.249051.xyz/626065193
 江苏综艺频道,https://tv.zhuhongxuan.cn/626065193
-江苏综艺频道,https://tv123.cc.cd/live.php?ch=2190&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=09d6821f3351a85d789f4356adf58891995f193413623b3908e4d2b032f74453
+江苏综艺频道,https://tv123.cc.cd/live.php?ch=2140&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=e37b54a372c2c39649073a670c121444f4f965eaf9385f4177beead463d38b6c
 江苏音乐,https://lhttp.qingting.fm/live/4936/64k.mp3
 江苏音乐台FM89.7,http://ott.mobaibox.com/PLTV/1/224/3221227949/1.m3u8
 江苏🍊无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/sd/live.m3u8
@@ -1521,23 +1494,25 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 河南戏曲,http://221.13.235.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://221.13.235.202:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://221.13.235.34:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=haxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=haxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=haxq&usign=cA1e6NTBFs4-H0T-s3gjpA
+河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=haxq&usign=CFONIjbZYacSC1nbKvqQnQ
+河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=haxq&usign=CFONIjbZYacSC1nbKvqQnQ
+河南戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=haxq&usign=CFONIjbZYacSC1nbKvqQnQ
 河南戏曲,http://39.164.164.132:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
 河南戏曲|枫斗直播,http://39.165.39.49:19901/tsfile/live/1118_1.m3u8
 河南戏曲频道,http://1.192.242.239:8188/rtp/239.16.20.171:11710
-河南戏曲频道,http://171.8.83.31:8800/rtp/239.16.20.171:11710
+河南戏曲频道,http://171.8.83.217:8800/rtp/239.16.20.171:11710
+河南戏曲频道,http://171.8.84.49:8800/rtp/239.16.20.171:11710
 河南戏曲频道,http://219.156.82.131:4022/rtp/225.1.4.99:1128
 河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
 河南曲艺,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 河南曲艺,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnqy
 河南曲艺|枫斗直播,http://150.158.10.195:80/dxxw.php?id=jczy
 河南移动戏曲,http://1.192.242.239:8188/rtp/239.16.20.120:11200
-河南移动戏曲,http://171.8.83.31:8800/rtp/239.16.20.120:11200
-河南移动戏曲,http://38.75.136.137:82/live1/hatv.m3u8?id=haydxq&usign=cA1e6NTBFs4-H0T-s3gjpA
-河南移动戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=haydxq&usign=cA1e6NTBFs4-H0T-s3gjpA
+河南移动戏曲,http://171.8.83.217:8800/rtp/239.16.20.120:11200
+河南移动戏曲,http://171.8.84.49:8800/rtp/239.16.20.120:11200
+河南移动戏曲,http://38.75.136.137:82/live1/hatv.m3u8?id=haydxq&usign=CFONIjbZYacSC1nbKvqQnQ
+河南移动戏曲,http://38.75.136.137:82/live1/jdtv2.m3u8?id=haydxq&usign=CFONIjbZYacSC1nbKvqQnQ
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 河南移动戏曲,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 河南移动戏曲,https://migu.188766.xyz/?migutoken=5a8421ceca1e5f087d5204e51a1777e7&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
@@ -1548,9 +1523,9 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 治愈•放松「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21241811
 治愈•放松「音乐」,https://cdn.ttvb.eu.org/huya/21241811
 治愈放松音乐,http://dns.yiandrive.com:15907/huya/21241811
-沾化综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=bzzhzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWJ6emh6eXwxNzkxNjI3OTg2fDQ5YmU5MWY1YmM1NTZmMDUwMDk4ZTVlNmVhMzI0NTBlNWViYzAxYTljMjQzMmE4YWNhMzBlZmNlOTM0ZDhiOGI
+沾化综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=bzzhzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWJ6emh6eXwxNzkxNzEyMDgxfGFkZDNjODBkY2VkZDYzZTRmNTFhODA4YWRjZmRjNGJhYWM2MWI4ODg5NmE1NDFjYmVmMjUyMWJkNDhmMTA3YWQ
 沾化综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=bzzhzy
-沾化综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdzhtv2&usign=cA1e6NTBFs4-H0T-s3gjpA
+沾化综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdzhtv2&usign=CFONIjbZYacSC1nbKvqQnQ
 沾化综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B2%BE%E5%8C%96%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 法国Djing E-Music HD,http://www.djing.com/tv/04.m3u8
 洪晓源-音乐城堡,http://em.21dtv.com/songs/60084400.mkv
@@ -1562,7 +1537,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 浙江动听(音乐调频) FM96.8 (Opt-2)[0*0],http://ls.qingting.fm/live/4866.m3u8
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
 浩音乐-不要迷恋哥寂寞的传说,http://em.21dtv.com/songs/60074784.mkv
-海口生活娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hihktv3&usign=cA1e6NTBFs4-H0T-s3gjpA
+海口生活娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hihktv3&usign=CFONIjbZYacSC1nbKvqQnQ
 海口生活娱乐,http://p2.vzan.com/11763520/801146877082650859/live.m3u8
 海口生活娱乐|枫斗直播,http://153.0.158.159:16080/live/hktv3.m3u8
 海口生活娱乐|枫斗直播,http://p2.weizan.cn/11763520/862975416677893268/live.m3u8
@@ -1604,10 +1579,10 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南娱乐,http://222.243.221.54:9901/tsfile/live/1002_1.m3u8
 湖南娱乐,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-湖南娱乐,http://38.75.136.137:82/live1/hntv.m3u8?id=hnyl&usign=cA1e6NTBFs4-H0T-s3gjpA
-湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hnyl&usign=cA1e6NTBFs4-H0T-s3gjpA
-湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=hnyl&usign=cA1e6NTBFs4-H0T-s3gjpA
-湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hnyl&usign=cA1e6NTBFs4-H0T-s3gjpA
+湖南娱乐,http://38.75.136.137:82/live1/hntv.m3u8?id=hnyl&usign=CFONIjbZYacSC1nbKvqQnQ
+湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hnyl&usign=CFONIjbZYacSC1nbKvqQnQ
+湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=hnyl&usign=CFONIjbZYacSC1nbKvqQnQ
+湖南娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hnyl&usign=CFONIjbZYacSC1nbKvqQnQ
 湖南娱乐,http://58.46.29.253:9999/tsfile/live/1096_1.m3u8
 湖南娱乐,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1kM2E1YzY2YTc5OTRmNWQzMTA5Yzc2OWJlNDhlODA2OCZ1aWQ9JnV1aWQ9NmE2MjQwYmUyYTUwZmMwYTQ5NWIxMDc5NjI4MDQzNGUtNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDI1Mg,,/HNYLMPP360.m3u8
 湖南娱乐,http://phonetx.qing.mgtv.com/live/0.0&/HNYLMPP360.m3u8
@@ -1624,16 +1599,16 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 湖南娱乐FHD,http://118.248.155.220:8889/udp/239.76.252.121:9000
 湖南娱乐FHD,http://118.251.19.148:8188/udp/239.76.245.121:1234
 湖南娱乐FHD,http://118.251.19.148:8188/udp/239.76.252.121:9000
-湖南娱乐FHD,http://58.46.31.115:8188/udp/239.76.245.121:1234
-湖南娱乐FHD,http://58.46.31.115:8188/udp/239.76.252.121:9000
+湖南娱乐FHD,http://58.46.28.41:8188/udp/239.76.245.121:1234
+湖南娱乐FHD,http://58.46.28.41:8188/udp/239.76.252.121:9000
 湖南娱乐|枫斗直播,http://8.138.7.223/tv/mgtv.php?id=344
 湖南娱乐|枫斗直播,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南娱乐频道,http://118.248.155.220:8889/udp/239.76.246.105:1234
 湖南娱乐频道,http://118.248.155.220:8889/udp/239.76.253.105:9000
 湖南娱乐频道,http://118.251.19.148:8188/udp/239.76.246.105:1234
 湖南娱乐频道,http://118.251.19.148:8188/udp/239.76.253.105:9000
-湖南娱乐频道,http://58.46.31.115:8188/udp/239.76.246.105:1234
-湖南娱乐频道,http://58.46.31.115:8188/udp/239.76.253.105:9000
+湖南娱乐频道,http://58.46.28.41:8188/udp/239.76.246.105:1234
+湖南娱乐频道,http://58.46.28.41:8188/udp/239.76.253.105:9000
 湖南娱乐高清,http://103.236.69.25:2380/hunanchinamobile/180000001002/00000001000000000007000000001248/main.m3u8
 湖南音乐,https://lhttp.qingting.fm/live/4979/64k.mp3
 湖州文化娱乐,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221235529/1/index.m3u8?fmt=ts2hls
@@ -1650,7 +1625,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 潍坊文艺时尚|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%BD%8D%E5%9D%8A%E6%96%87%E8%89%BA%E6%97%B6%E5%B0%9A&auth=666858
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视综艺,https://tv123.cc.cd/live.php?ch=1993&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=d961e6b5eb7698dfe127642c84ff5cf52f39741b40909ac44c845b849cca4932
+澳视综艺,https://tv123.cc.cd/live.php?ch=1936&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=bbbf5ffde4b5085b92b090d98d71d2827a64d5c12fbba2d579826419a620fea8
 澳门综艺,http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
 澳门综艺,http://cdn6.123.rr.kg/163189/amzy
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
@@ -1658,7 +1633,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 澳门综艺,https://cdn.qd.je/163189/amzy
 澳门综艺,https://cdn6.cc.cd/163189/amzy
 澳门综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-澳门综艺,https://tv123.cc.cd/live.php?ch=151&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=4f756c84b9d88d1e329cd5ef507a340d5ffa5c1a5d5f092647b58bc7e24b82ef
+澳门综艺,https://tv123.cc.cd/live.php?ch=151&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=843a04b16b7b48a05fba4b3d1d03555ca65b00f17a7e56b0f593b7816e285416
 澳门综艺 (VPN),https://globallive.tdm.com.mo/ch6/hd_ch6.live/chunklist_w915891956.m3u8
 澳门综艺.720,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8#http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
@@ -1670,31 +1645,27 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 热星音乐菌的直播间,http://footyun.top:35455/douyu/8405922
 热门综艺HD,http://182.135.66.163:1888/rtp/239.94.1.35:5140
 热门综艺HD,http://182.135.66.163:18888/rtp/239.94.1.35:5140
-热门音乐厅,https://hw-origin.pull.yximgs.com/gifshow/UiJffFNRBlw_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=028fc90cc9ee92123aa6b2ceae0ca23f&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+热门音乐厅,https://hw-origin.pull.yximgs.com/gifshow/TH9tiqxZnHU_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=b55297d4728534c7a4ee0fd475504e2f&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 無名原创音乐团队-剑濯山河,http://em.21dtv.com/songs/60158109.mkv
 無名原创音乐团队-千秋岁引,http://em.21dtv.com/songs/60170351.mkv
 熊音乐团-梦想回归,http://em.21dtv.com/songs/60125890.mkv
-燕儿音乐晚5，30直播,https://hw-origin.pull.yximgs.com/gifshow/mzmh_On8jFk_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=933a3a14a205295314996c1b774024cc&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
 爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
 爱丽达娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 爱尔达娱乐,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=L72E6f&tk=SLK5QjnsRiya
-爱尔达娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=08ce132c534f96ea1f060c635965c1e6;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 爱尔达娱乐,http://t.061899.xyz/tl/js/js.php?id=aedyl
 爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
 爱尔音乐团队-爱不简单,http://em.21dtv.com/songs/60105236.mkv
-爱戏曲阳光女孩379,https://hw-origin.pull.yximgs.com/gifshow/ragTFjo-kMs_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=1653a99689f09f14d2615285b0338cea&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
 爱综艺,rtsp://115.153.232.73:554/PLTV/88888888/224/3221226983/86440966.smil$南昌电信
 爱综艺,rtsp://118.212.169.134/PLTV/88888888/224/3221227360/10000100000000060000000001946764_0.smil$江西联通
-牡丹区综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzmdzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6bWR6eXwxNzkxNjI3OTg2fDFkMGFlNmUxZWFjZThhOWMwZGU1OGE5NzAzZmJhNTkzYmZhYzE5NDZmNzFjMzM5NTJmMzNkOTdhZTMwMDI1YTA
+牡丹区综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzmdzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6bWR6eXwxNzkxNzEyMDgxfGZiYTEwZDg4ODgzM2YxZTNlNWIwNWQwZjZiMWU5OGMyYWRhMGU3Y2UzODk3ZDgzYzgxNjY1NmM4YzVjZTEwNjc
 牡丹综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzmdzy
-牡丹综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzmd2&usign=cA1e6NTBFs4-H0T-s3gjpA
+牡丹综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzmd2&usign=CFONIjbZYacSC1nbKvqQnQ
 牡丹综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E7%89%A1%E4%B8%B9%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 狮子合唱团-MUSIC FIGHTER,http://em.21dtv.com/songs/60129374.mkv
 狮子合唱团-Music Fighter,http://em.21dtv.com/songs/60130560.mkv
 猛抬头的直播间音乐,http://epg.112114.xyz/douyu/8666105
 猪哥亮歌舞厅秀,http://31.43.191.125:8080/restream/restream/34856
 王大痣-DOPE MAN DOPE MUSIC,http://em.21dtv.com/songs/60146536.mkv
-王姐爱戏曲，晚7点开,https://hw-origin.pull.yximgs.com/gifshow/jq5r75qUsVc_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=aab2435da3f4006558b3d68614037602&tsc=origin&oidc=edgeWm&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
 王杭娟-认子(戏曲),http://em.21dtv.com/songs/60090085.mkv
 王绎龙-不变的音乐,http://em.21dtv.com/songs/60065856.mkv
 王绎龙-不变的音乐,http://em.21dtv.com/songs/60144631.mkv
@@ -1703,13 +1674,13 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 王莹-中国文艺的春天,http://em.21dtv.com/songs/60120777.mkv
 王进-音乐制造,http://em.21dtv.com/songs/60116168.mkv
 珠海电台交通音乐875[0*0],http://ls.qingting.fm/live/1275.m3u8
-田小小娱乐（三打一）,https://hw-origin.pull.yximgs.com/gifshow/O87xtegFM6w_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=58a4d711b9b9fb676a5994dc9dbb7797&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 电子琴《20分钟经典流行音乐》,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=xxTnPu&tk=IaRTZBNZkJti
 电子琴《20分钟经典流行音乐》,https://vdse.bdstatic.com//aa18d91f14915e1e79eacb046ac7747e.mp4
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 疯狂的音乐人,https://goodiptv.club/huya/29982625
 痛仰乐队-不要停止我的音乐,http://em.21dtv.com/songs/60011625.mkv
+百合歌舞,https://hw-origin.pull.yximgs.com/gifshow/6cerWrUjGhQ_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=50f20fc6d1a8b1981ebed5e5f1e837cf&tsc=origin&oidc=watchmen&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
 百色音乐广播[1920*1080],https://vod.bsyjrb.cn/live/82c95bdd98f2.m3u8?hls_ctx=x4x77831
 百视通戏曲精选,http://171.213.150.59:8188/udp/239.93.0.144:5140
 百视通热门综艺,http://171.213.150.59:8188/udp/239.93.0.151:5140
@@ -1723,20 +1694,20 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-9.ctv
 石家庄娱乐|枫斗直播,http://www.160606.xyz:10010/rtp/239.254.200.29:6000
 石家庄文化娱乐,http://106.116.241.206:9999/rtp/239.254.200.29:6000
-石家庄文化娱乐,http://38.75.136.137:82/live1/hoge.m3u8?ip=hesjz&id=6&usign=cA1e6NTBFs4-H0T-s3gjpA
-石家庄文化娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hesjz2&usign=cA1e6NTBFs4-H0T-s3gjpA
+石家庄文化娱乐,http://38.75.136.137:82/live1/hoge.m3u8?ip=hesjz&id=6&usign=CFONIjbZYacSC1nbKvqQnQ
+石家庄文化娱乐,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hesjz2&usign=CFONIjbZYacSC1nbKvqQnQ
 石家庄文化娱乐,http://60.4.29.46:8077/rtp/239.253.92.93:8120
 石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
-礼泉戏曲频道,http://38.75.136.137:82/live1/snxylq.m3u8?id=snxylq3&usign=cA1e6NTBFs4-H0T-s3gjpA
+礼泉戏曲频道,http://38.75.136.137:82/live1/snxylq.m3u8?id=snxylq3&usign=CFONIjbZYacSC1nbKvqQnQ
 祈inory+小旭音乐-花时约定,http://em.21dtv.com/songs/60164857.mkv
 祈inory+小旭音乐-花时约定,http://em.21dtv.com/songs/60165029.mkv
 福建音乐,https://lhttp.qingting.fm/live/4585/64k.mp3
-禹城综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=dzyczy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWR6eWN6eXwxNzkxNjI3OTg2fGE1ZDEyOThlNDBlOTQ4YzM5YzdjMzhiMWExOWY3YzgyYmI2M2VjYzZmZDJjMzA3Y2M4YjA3MTliNTdkNjMwY2I
+禹城综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=dzyczy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWR6eWN6eXwxNzkxNzEyMDgxfDA5NTFkYTA1MjUzM2I3OGVmZjI1MjJkYWM0YjU3ZDRlOWViODZkZTUwNTlmNjE4NGRlNmJmYWQ4MDZjNjNhZDQ
 禹城综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=dzyczy
 禹城综艺|枫斗直播,http://43.138.196.212/q0l.php?id=dzyczy
 禹城综艺频道,http://144.255.16.132:6688/udp/239.21.1.242:5002
-禹城综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sddzyc2&usign=cA1e6NTBFs4-H0T-s3gjpA
-禹城综艺频道,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sddzyc2&usign=cA1e6NTBFs4-H0T-s3gjpA
+禹城综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sddzyc2&usign=CFONIjbZYacSC1nbKvqQnQ
+禹城综艺频道,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sddzyc2&usign=CFONIjbZYacSC1nbKvqQnQ
 禹城综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E7%A6%B9%E5%9F%8E%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 秀才侃娱乐,http://footyun.top:35455/douyu/9382873
 秀才侃娱乐,https://goodiptv.club/douyu/9382873
@@ -1762,15 +1733,15 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精选高音质中文DJ串烧 超重低音炮 蹦迪车载音乐首选 首首洗脑,https://vd3.bdstatic.com/mda-pbtbhnide9qbjjq1/720p/h264/1677571859269734018/mda-pbtbhnide9qbjjq1.mp4
 繁昌文化娱乐[1920*1080],https://nfcplay.wuhunews.cn/fc/whyl.m3u8
-繁星音乐,https://hw-origin.pull.yximgs.com/gifshow/tPOjsaPk5wM_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=4f0b03ade5eb84964144ecb2911b1877&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+繁星音乐,https://hw-origin.pull.yximgs.com/gifshow/5iLS5JtiBdM_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=b059bfcae46c6d5c8d07f1fb5497bb04&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
 红线女-香君守楼(戏曲),http://em.21dtv.com/songs/60093021.mkv
 纬来音乐台,rtmp://f13h.mine.nu/sat/tv701
-纯音乐精选库（小店U盘）,https://hw-origin.pull.yximgs.com/gifshow/tSJIVWxC1PY_EcAvcFhdL3Mate.flv?hwTime=6aca129f&hwSecret=6036bc863f94bd86149c978b70dedee2&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=1
-经典伤感音乐,https://hw-origin.pull.yximgs.com/gifshow/H5BopfoRb1I_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=b295962956ff60373646c88d1744b514&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
-经典伤感音乐,https://hw-origin.pull.yximgs.com/gifshow/NuKsLHVpE58_ShowAvcHdL0.flv?hwTime=6aca129b&hwSecret=b09b45fe9f0ef335de3b26417f41f885&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-经典流行音乐,https://hw-origin.pull.yximgs.com/gifshow/C9WPQQOYJ24_ShowAvcHdL0.flv?hwTime=6aca129b&hwSecret=e823e1a8f54e9352346405acaa7aecd2&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-经典音乐驿站,https://hw-origin.pull.yximgs.com/gifshow/TJnp4iILeas_ShowAvcHdL0.flv?hwTime=6aca129b&hwSecret=a396e406be4c0bccdeef451fb14fdae5&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-绥哥爱打麻将娱乐直播,https://hw-origin.pull.yximgs.com/gifshow/jWMPojk0Y_c_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aca12a0&hwSecret=630b867b40acada48f8be329043e43c4&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=jWMPojk0Y_c&ss=s23&tfc_buyer=1
+经典伤感音乐,https://hw-origin.pull.yximgs.com/gifshow/cWtkBHd9kYw_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=74b26f68e0b614ab56afc73b0102fa82&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+经典伤感音乐,https://hw-origin.pull.yximgs.com/gifshow/rPWPcPeVpYw_ShowAvcHdL0.flv?hwTime=6acb5b1f&hwSecret=063a5dec1e099e82ea1048594a6dbd5d&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+经典流行音乐,https://hw-origin.pull.yximgs.com/gifshow/7izajGMqBTk_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=e0e3ebeddbe9602bd55c64b39d2003cf&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+经典流行音乐,https://hw-origin.pull.yximgs.com/gifshow/P1w2jz7DcfA_GameAvcHdL0.flv?hwTime=6acb5b1a&hwSecret=321a4f3abb15f4152977e80344853046&tsc=origin&oidc=edgeWm&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
+经典音乐驿站,https://hw-origin.pull.yximgs.com/gifshow/6WRGnj7nLDA_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=70f6fbe62f6a359382d5d010e530a38b&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+绥哥爱打麻将娱乐直播,https://hw-origin.pull.yximgs.com/gifshow/Gnh0qgb0wgs_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6acb5b1d&hwSecret=9564f6b366189f59aa8e9dabe7355513&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=Gnh0qgb0wgs&ss=s23&tfc_buyer=1
 综艺,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
 综艺,http://137.175.111.185/bfgd/?id=292
 综艺,http://cfss.cc/ds/bfgd.php?id=292&Cf.m3u8
@@ -1803,10 +1774,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 群星-thank abba for the music,http://em.21dtv.com/songs/60005508.mkv
 群星-放肆音乐通(无原唱),http://em.21dtv.com/songs/60016724.mkv
 群星-用音乐加油,http://em.21dtv.com/songs/60091861.mkv
-老义娱乐麻将,https://hw-origin.pull.yximgs.com/gifshow/ywtkXoqWo0g_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=d4b36c980fa5a54c9feea36debce379b&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
-考拉-24K音乐盒子 - 【极品点唱】听个小曲儿放松一哈！,https://baheyi.pages.dev/douyu/10952867
-考拉-24K音乐盒子-【极品点唱】听个小曲儿放松一哈！,https://douyu.445569.xyz/live/10952867
+考拉-24K音乐盒子-【极品点唱】第一首歌免费听！！！,https://douyu.445569.xyz/live/10952867
 肖雪-白蛇(MTV),http://em.21dtv.com/songs/60143845.mkv
 肯塔基白噪音正念冥想脑波音乐,https://goodiptv.club/bilibili/9493834
 胡东清-我用音乐说爱你,http://em.21dtv.com/songs/60085116.mkv
@@ -1817,9 +1786,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 胡美仪-帝女花之雪中燕(戏曲),http://em.21dtv.com/songs/60093064.mkv
 胡美仪-范蠡西施太湖会(戏曲),http://em.21dtv.com/songs/60093066.mkv
 胡美仪-高君保私会刘金定(戏曲),http://em.21dtv.com/songs/60093067.mkv
+自强自立 - 百姓摔跤娱乐大赛,https://pull-t5.douyincdn.com/stage/stream-120233830425035575_or4/index.m3u8?expire=1792230416&sign=a37a8bea04b3802da038b24ceb3ae87c&volcSecret=a37a8bea04b3802da038b24ceb3ae87c&volcTime=1792230416&exp_hrchy=h1&major_anchor_level=common&arch_hrchy=h1&t_id=037-2026101017465678DA1C93871423E0F16D-1yorvO
 舜文齐-文艺姑娘,http://em.21dtv.com/songs/60112164.mkv
 艾丽娅琪琪格-蒙古词典(MTV),http://em.21dtv.com/songs/60143858.mkv
 芭比-周末音乐,http://em.21dtv.com/songs/60059184.mkv
+花螺音乐 - 红歌民歌军旅歌阳阳带您唱,https://pull-hls-f1.douyincdn.com/gamereplay/stream-120233415297467056_uhd/playlist.m3u8?keeptime=00093a80&wsSecret=e67602732ac491c135e5671a57aa650d&wsTime=6aca098e&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202610101746544CBB1467F2B84CEC5971-cSj8a3
 苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏打绿-believe in music(演唱会),http://em.21dtv.com/songs/60000543.mkv
 苏振华-音乐是我的生命,http://em.21dtv.com/songs/60054331.mkv
@@ -1832,17 +1803,16 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 荒草音乐,http://live.nctv.top/douyu1.php?id=8706465
 莫文蔚+声音乐团-凉凉+广岛之恋,http://em.21dtv.com/songs/60151293.mkv
 莫文蔚-管他什么音乐,http://em.21dtv.com/songs/60147708.mkv
-莱阳民生综艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdytly2&usign=cA1e6NTBFs4-H0T-s3gjpA
-莱阳民生综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytlyms&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0bHltc3wxNzkxNjI3OTg2fGM0MTQ5MDllODQzMTgxNTY0YTRmYmQ0YmY3MGIyY2M5MDQ4YjY0NzgwNjcyODk3M2JmMGNlM2EyOWVmYTliN2I
+莱阳民生综艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdytly2&usign=CFONIjbZYacSC1nbKvqQnQ
+莱阳民生综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytlyms&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0bHltc3wxNzkxNzEyMDgxfDA4OWIxYmE0MTJiMTMyMzI4YmNmMjY1MDUxMTdmY2NmYzgwZjU5MmI5ZTFlZDZkOWViYzcyZTM0NzE3YmUwNTc
 莱阳民生综艺|枫斗直播,http://43.138.196.212/q0l.php?id=ytlyms
 莱阳民生综艺|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E8%8E%B1%E9%98%B3%E6%B0%91%E7%94%9F%E7%BB%BC%E8%89%BA&auth=666858
 萧敬腾+B51造音乐团-I Swear,http://em.21dtv.com/songs/60094662.mkv
 萧贺硕-musicians,http://em.21dtv.com/songs/60073630.mkv
 萨日娜-歌舞的世界,http://em.21dtv.com/songs/60151294.mkv
 蒋荣宗+216臭脸娃娃-魔法音乐学院,http://em.21dtv.com/songs/60030339.mkv
-蓬莱综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytplzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0cGx6eXwxNzkxNjI3OTg2fDU5Y2Q3MmNhMGZjOWJhOTZiN2VmMmEyZjgwNDllOTA1NjViODBkMDNmNGExYTM0NzI2YzJlMDA0YzkxNGY1Zjk
+蓬莱综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=ytplzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXl0cGx6eXwxNzkxNzEyMDgxfDNiMjQ2MDM5YzkzZjNlNmM4OWFhZDU0OGJjZTU4MWQ0M2RjMTM3MDY5ZmIwZmE0ODA1YmQ0OWFhN2JhZTRhNGM
 虎牙音乐,https://goodiptv.club/huya/880207
-虎牙音乐,https://live.ottiptv.cc/huya/880207
 袁莉媛+小旭音乐-如果寂寞了,http://em.21dtv.com/songs/60143909.mkv
 裘海正-音乐咖啡失眠的人,http://em.21dtv.com/songs/60054322.mkv
 襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
@@ -1854,8 +1824,8 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 触电_广东综艺,http://45.154.14.47:5678/gdtv.php?id=gdzy
 讦谯龙-音乐课,http://em.21dtv.com/songs/60054323.mkv
 许靖韵-Shut Up(MTV),http://em.21dtv.com/songs/60143924.mkv
-诸城生活娱乐,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdwfzc2&usign=cA1e6NTBFs4-H0T-s3gjpA
-诸城生活娱乐,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=wfzcsh&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXdmemNzaHwxNzkxNjI3OTg2fGMxOWQxZjZmYmIwMGM3NDZlY2M5MzYxYmM1N2U0ODk3MGUxZTc2N2Y1ZDYyYTdmNWMzNTBmZTM4OTFmMGQxZTE
+诸城生活娱乐,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdwfzc2&usign=CFONIjbZYacSC1nbKvqQnQ
+诸城生活娱乐,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=wfzcsh&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXdmemNzaHwxNzkxNzEyMDgxfDg0OGZjNmM1YTc2NTVlYWU2ZDI5YWFkZTE2ZTBmYzMyMGZjOTE3ZjAxOTU0MGM4NGYzOTQxODkzODI5NjcyNWI
 诸城生活娱乐|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E8%AF%B8%E5%9F%8E%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90&auth=666858
 谁的童年记忆？经典音乐之声,http://nn.7x9d.cn/xz/yy.php?id=1382735559
 谢和弦+玖壹壹+陈零九-每一个玩音乐的人,http://em.21dtv.com/songs/60127402.mkv
@@ -1865,7 +1835,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 费玉清-梦诛缘锁清秋(MTV),http://em.21dtv.com/songs/60143955.mkv
 赵仰瑞-农民的音乐梦,http://em.21dtv.com/songs/60072259.mkv
 赵传-音乐武侠,http://em.21dtv.com/songs/60079202.mkv
-趁妹妹沉醉在听音乐时叫上好友一起凌辱妹妹！,https://vip2.slbfsl.com/20230118/owYMAwqs/index.m3u8
+赵贝贝i-小贝音乐铺,https://douyu.445569.xyz/live/5767883
 超强车载重音乐[1280*720],https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
 超级综艺,http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
 超级综艺,http://36.158.153.134/wh7f454c46tw1910054539_1482728130/000000001000/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M%20FHD&version=1.0&owaccmark=1000000006000268002&owchid=ystenlive&owsid=2070551779509985833&AuthInfo=6CwJh75Z6TAl5rYgLcq1BlhxRbcGXO4zy3hL5O1XsT5q3rXkKn8Nqwx7AjMXIHJHxNfLaGgH%2BBoxA4ZHJ6OrfQ%3D%3D&IASHttpSessionId=RR2466020260523041945297526&icpid=1&RTS=1779509939&from=2&hms_devid=24339&online=1779509939&vqe=3
@@ -1889,7 +1859,7 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 超级综艺,http://zshymedia.jxa.bcs.ottcn.com:8080/ysten-businessmobile/live/HD-8000k-1080P-NEWTV03/1.m3u8$8M江西易视腾
 跳舞节奏音乐视频-车载DJ音乐精品美女夜店DJ视频,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=g7urnr&tk=IaRTZBNZkJti
 跳舞节奏音乐视频-车载DJ音乐精品美女夜店DJ视频,http://listen.92kk.com:8811//2013/车载视频/DJ舞曲视频/2015/2015-11/2015-11-05/Mp4_疯狂夜店美女热舞【杀阡陌】夜店歌曲DJMV .mp4
-车载流行音乐,https://hw-origin.pull.yximgs.com/gifshow/D5xd4mHeTF0_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=2ed46cecb769d0af055c3cbd48ea351d&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
+车载流行音乐,https://hw-origin.pull.yximgs.com/gifshow/mqwY_2vHwpw_ShowAvcHdL0.flv?hwTime=6acb5b1a&hwSecret=0d77047b64854a4659921d028a45cf78&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
 车载音乐DJ歌曲劲歌热舞提神醒目,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=0PIb6U&tk=IaRTZBNZkJti
 车载音乐DJ歌曲劲歌热舞提神醒目,https://vd3.bdstatic.com/mda-ncf25mrs5bm53k6j/sc/cae_h264_delogo/1647396409036292673/mda-ncf25mrs5bm53k6j.mp4
 车震音乐盒,https://vd4.bdstatic.com/mda-mm0gj2s7rx7u70aa/sc/cae_h264/1638401618609849630/mda-mm0gj2s7rx7u70aa.mp4
@@ -1915,13 +1885,14 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 郑健英-劝郎还(戏曲),http://em.21dtv.com/songs/60093271.mkv
 郑健英-天上人间乐升平(戏曲),http://em.21dtv.com/songs/60093272.mkv
 郑锦昌+刘君儿-度过太平年(戏曲),http://em.21dtv.com/songs/60093331.mkv
-郓城民生综艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzyc2&usign=cA1e6NTBFs4-H0T-s3gjpA
+郓城民生综艺,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdhzyc2&usign=CFONIjbZYacSC1nbKvqQnQ
 郓城民生综艺|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%83%93%E5%9F%8E%E6%B0%91%E7%94%9F%E7%BB%BC%E8%89%BA&auth=666858
-郓城综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzyczy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6eWN6eXwxNzkxNjI3OTg2fDBhMDAyMTViY2I1NGYwMzU0Mzc3YTYzZTlhNGFhYTczMTI1MDZlZDk3OWEyNmM2MDMyOTU3YWMxZGY3Yzk0NmY
+郓城综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzyczy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6eWN6eXwxNzkxNzEyMDgxfDQ4OGUxY2NiNTdhZGFmMTdjMjg0NjJkOGU0NTEwYzFlNzFmZjIxYmFkM2QyZWQ4NzAxYTkwNjc2MDU0NGYxOTQ
 郓城综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzyczy
 郓城综艺|枫斗直播,http://43.138.196.212/q0l.php?id=hzyczy
 郭凤女-摇红烛化佛前灯(戏曲),http://em.21dtv.com/songs/60093343.mkv
 郭凤女-焚香记之打神(戏曲),http://em.21dtv.com/songs/60093344.mkv
+郭姐爱音乐小号,https://hw-origin.pull.yximgs.com/gifshow/kMpPQRoC4w8_ShowAvcHdL0.flv?hwTime=6acb5b1c&hwSecret=a7366b6ed1d7b9e791084239f3d95ad9&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
 郭应龙-音乐早餐,http://em.21dtv.com/songs/60054332.mkv
 郭金-爱情让我着了魔(MTV),http://em.21dtv.com/songs/60144041.mkv
 郴州音乐交通广播 FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
@@ -1931,16 +1902,15 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 重庆文体娱乐,http://113.251.74.243:8012/rtp/235.254.198.187:7980
 重庆文体娱乐,http://211.158.40.175:8888/udp/225.0.4.194:7980
 重庆文体娱乐,http://222.86.13.51:9999/rtp/235.254.198.187:7980
-重庆文体娱乐,http://38.75.136.137:82/live1/jsb.m3u8?id=cqyl&ip=whus29&usign=cA1e6NTBFs4-H0T-s3gjpA
-重庆文体娱乐,http://38.75.136.137:82/live1/jsb.m3u8?id=cqyl&usign=cA1e6NTBFs4-H0T-s3gjpA
-重庆文体娱乐,http://38.75.136.137:82/live1/jsb1.m3u8?id=cqyl&usign=cA1e6NTBFs4-H0T-s3gjpA
+重庆文体娱乐,http://38.75.136.137:82/live1/jsb.m3u8?id=cqyl&ip=whus29&usign=CFONIjbZYacSC1nbKvqQnQ
+重庆文体娱乐,http://38.75.136.137:82/live1/jsb.m3u8?id=cqyl&usign=CFONIjbZYacSC1nbKvqQnQ
+重庆文体娱乐,http://38.75.136.137:82/live1/jsb1.m3u8?id=cqyl&usign=CFONIjbZYacSC1nbKvqQnQ
 重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 重庆文体娱乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqyl
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.198.187:7980
 重庆音乐,https://lhttp.qingting.fm/live/647/64k.mp3
 重庆音乐广播 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
 重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
-野马Guts - 技术和娱乐共存的男人！,https://pull-hls-q13.douyincdn.com/thirdgame/stream-120228189656056638_uhd.m3u8?expire=1792145793&sign=df0ff507dd0e4f5d86767fd1e5b0f457&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202610091816333992C17C75F9B4A0B9DA-GzyL81
 金海心-我要找到你[围炉音乐会],http://em.21dtv.com/songs/60131908.mkv
 金牌综艺,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
 金牌综艺,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
@@ -1964,7 +1934,6 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 金牌综艺|枫斗直播,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
 金玟岐-娱乐,http://em.21dtv.com/songs/60149440.mkv
 长治交通文艺广播 FM94.9[0*0],http://ls.qingting.fm/live/2669405.m3u8
-闪闪⚡️金铲铲 - 顺流而下七级三星五费，娱乐玩法教学~,https://pull-hls-q13.douyincdn.com/thirdgame/stream-696688455955776318_uhd.m3u8?expire=1792145789&sign=3ec1394bdf59de3756ffdc1224c267dd&rtm_expr_tag=empty_device_type&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026100918162835B108F0DB609897D546-8KIVxl
 闲暇观看综艺,http://footyun.top:35455/yy/1354932379
 闲暇观看综艺,http://nn.7x9d.cn/xz/yy.php?id=1354932379
 闲暇观看综艺,https://goodiptv.club/yy/1354932379
@@ -1975,18 +1944,18 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 阅读学习音乐,http://dns.yiandrive.com:15907/huya/21241813
 阎维文+王子辰+屈奕彤+侯欣悦+侯欣然-戏曲大联唱,http://em.21dtv.com/songs/60139201.mkv
 阜阳都市文艺,http://124.112.188.154:4022/rtp/238.1.78.127:6888
-阜阳都市文艺,http://124.112.241.143:4022/rtp/238.1.78.127:6888
 阜阳都市文艺|枫斗直播,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阳山辉仔-全粤语Electro音乐打造粤E173AJ车载,https://mp4.djuu.com/c2/16/2025/0cdb0fe9277a48f4.m4a
-阿坝州文艺频道,http://38.75.136.137:82/live1/scy.m3u8?id=scabtv2&usign=cA1e6NTBFs4-H0T-s3gjpA
+阿坝州文艺频道,http://38.75.136.137:82/live1/scy.m3u8?id=scabtv2&usign=CFONIjbZYacSC1nbKvqQnQ
 阿坝州文艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%98%BF%E5%9D%9D%E5%B7%9E%E6%96%87%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 阿坝州歌舞团-献给你一片高原的云,http://em.21dtv.com/songs/60048550.mkv
 阿坝州歌舞团-藏文字母歌,http://em.21dtv.com/songs/60088830.mkv
 阿悄+童可可-旋转音乐盒,http://em.21dtv.com/songs/60104525.mkv
+阿燕音乐,https://hw-origin.pull.yximgs.com/gifshow/dU-obmbGAa8_ShowAvcHdL0.flv?hwTime=6acb5b1a&hwSecret=a63541ec31d9e5ba749730af95ec762d&tsc=origin&oidc=edgeWm&sidc=2959&no_script=1&ss=s23&tfc_buyer=0
 阿牛-纯文艺恋爱,http://em.21dtv.com/songs/60013401.mkv
-阿茂 娱乐PK,https://hw-origin.pull.yximgs.com/gifshow/0hIdXDjFbnE_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aca129f&hwSecret=929c02e1f3daa9d7f85b0ed371f3e191&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&srcStrm=0hIdXDjFbnE&ss=s23&tfc_buyer=0
 阿茹娜-just love music,http://em.21dtv.com/songs/60073454.mkv
 阿茹娜-love music,http://em.21dtv.com/songs/60003575.mkv
+阿达西李光洙-新疆三角洲娱乐勿喷,https://douyu.445569.xyz/live/12903382
 陈仁丰-音乐魔咒,http://em.21dtv.com/songs/60072730.mkv
 陈俊豪+米可-管他什么音乐,http://em.21dtv.com/songs/60095126.mkv
 陈卓璇+小旭音乐-身不由己,http://em.21dtv.com/songs/60156664.mkv
@@ -2023,18 +1992,18 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 陕西音乐,https://lhttp.qingting.fm/live/4873/64k.mp3
 陕西音乐广播 FM98.8[0*0],http://ls.qingting.fm/live/4873.m3u8
 雨声助眠白噪音下雨天直播学习白噪声音乐,https://goodiptv.club/bilibili/25248835
-電影原聲台CMusic,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=166a68ae0f31402a6a12f6a9457d1d54;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=1775&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=a42986dd28de47b569b03a81e5de2acde22310efa795086800ea7656d400c262
-電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=2083&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=abac32861ce91d95140adc94db341f4978e8464c8a59439594a2ca23ba7e5696
-電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=303&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=3a25dcb176a78d72ae2bd1addfbed4260bc1453cdc0edca2ea58722ce99b059b
-電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=720&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=b8f29dd84986f33dc1cad2a64e98b051d9cbad5fca973adb7a63470fa180297c
-青柠音乐,https://hw-origin.pull.yximgs.com/gifshow/ayX-minhDCg_ShowAvcHdL0.flv?hwTime=6aca129d&hwSecret=f982d92c97102a0170cafee240d14150&tsc=origin&oidc=watchmen&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
+電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=1718&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=bc45b8a61dea85c2f7a211d35744488ead326e028f15a47fb96e50a89f78016a
+電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=2026&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=0050c751e259f2b3cb05b9f8dfa98d735a86e583b84daa8c8c69d1d26e1ccfe4
+電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=303&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=e1ccbbe329ff927ee50a61a793ab160f2e267d7c1ac17fd2bcb7f5dc5af0c7ed
+電影原聲台CMusic,https://tv123.cc.cd/live.php?ch=720&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=83c5a658a978b6968980126af488db0d5cf93ac19b85625817bb1e641fd3c075
+青柠音乐,https://hw-origin.pull.yximgs.com/gifshow/OUGdK5ocoq8_ShowAvcHdL0.flv?hwTime=6acb5b19&hwSecret=012b8b034decc9d514d1ce29c3b61e15&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+青柠音乐电台,https://hw-origin.pull.yximgs.com/gifshow/ANjZa4o8ITU_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=acbea86c98a9e051029820a9adcc83db&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
 青海交通音乐广播 FM97.2[0*0],http://ls.qingting.fm/live/5009.m3u8
 青青凉-我的音乐根本停不下来,http://em.21dtv.com/songs/60129779.mkv
+静思音乐,https://hw-origin.pull.yximgs.com/gifshow/SbnPGcy2r68_GameAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=1a61e2d25b3bd22404241abfca1a7dde&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
 靳永棠-心声泪影之寒江钓雪(戏曲),http://em.21dtv.com/songs/60093506.mkv
-韓國娛樂台 KMTV,https://tv123.cc.cd/live.php?ch=1766&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=9d3b365d400c85337ee69f6692676e688280b788f17333f2450b5191808daf3f
-韓國娛樂台 KMTV,https://tv123.cc.cd/live.php?ch=717&sid=f1f9d555a2865b1eb37fa00b7d0f911b&exp=1791584774&sig=8a27883c781e9ed3b26204acc02c7ed5232fb9f1e2f0aff4a21c664bd90ac2d3
-韓國娛樂台KMTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f0c7a74e8bc4b8c9487df4a97b183657;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
+韓國娛樂台 KMTV,https://tv123.cc.cd/live.php?ch=1709&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=6a391eb016410047ccbd8d3f6519d9eb7d58b49ace51819f7e8ade013bf42e1f
+韓國娛樂台 KMTV,https://tv123.cc.cd/live.php?ch=717&sid=baed2088d0f508393e6c15cea9eeeaf8&exp=1791668872&sig=3f63d18e2be12764adf8531083cea8a70c611786517f0342994c45222e5a6aa0
 韩国娱乐,http://45.192.97.170:8880/play/388.m3u8
 韩国娱乐台,http://t.061899.xyz/tl/js/js.php?id=hgylt
 韩国综艺,http://cfss.cc/cdn/huya/11336725.flv
@@ -2152,11 +2121,11 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 音乐才女与霸道总裁的治愈之恋,https://live.ottiptv.cc/yy/1382735573
 音乐新声力-我们的梦想,http://em.21dtv.com/songs/60157977.mkv
 音乐榜单,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
-音乐汇DJ歌曲,https://hw-origin.pull.yximgs.com/gifshow/6jK7luP2l7I_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=9d52f13d269cd59768659d519d561a02&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
+音乐汇DJ歌曲,https://hw-origin.pull.yximgs.com/gifshow/6jK7luP2l7I_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=89007c791da80e5d4e17877ddf51052f&tsc=origin&oidc=edgeWm&sidc=2012&no_script=1&ss=s23&pushMode=1&tfc_buyer=0
 音乐猛抬头,http://live.nctv.top/douyu1.php?id=8666105
 音乐猫-哭泣的玫瑰,http://em.21dtv.com/songs/60025570.mkv
 音乐猫-猫的未来,http://em.21dtv.com/songs/60028637.mkv
-音乐现场,http://38.75.136.137:82/live1/jdtv2.m3u8?id=asyyxc&usign=cA1e6NTBFs4-H0T-s3gjpA
+音乐现场,http://38.75.136.137:82/live1/jdtv2.m3u8?id=asyyxc&usign=CFONIjbZYacSC1nbKvqQnQ
 音乐现场,http://tv.zhangzp.top:4022/udp/239.125.1.40:5000
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,rtsp://115.153.232.73:554/PLTV/88888888/224/3221227001/86441055.smil$南昌电信
@@ -2314,13 +2283,12 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 风云音乐,http://163.177.122.122:9901/tsfile/live/1097_1.m3u8
 风云音乐,http://163.177.122.71:9901/tsfile/live/1097_1.m3u8
 风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
-风云音乐,http://183.10.180.112:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-风云音乐,http://183.30.201.205:10002/rtp/239.253.43.29:5146
-风云音乐,http://183.30.201.205:10002/rtp/239.253.43.6:5146
+风云音乐,http://183.10.180.46:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+风云音乐,http://183.30.201.226:10002/rtp/239.253.43.29:5146
+风云音乐,http://183.30.201.226:10002/rtp/239.253.43.6:5146
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$【38.75】
 风云音乐,http://45.192.97.170:8880/play/370.m3u8
-风云音乐,http://49.234.31.101:7033/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 风云音乐,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
 风云音乐,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226287/2/index.m3u8$江西移动V6
 风云音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2340,31 +2308,24 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 风云音乐,https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 风云音乐,rtsp://115.153.232.73:554/PLTV/88888888/224/3221226994/86128897.smil$南昌电信
 风云音乐,rtsp://118.212.169.134/PLTV/88888888/224/3221227226/10000100000000060000000000680078_0.smil$江西联通
-风云音乐HD,http://116.230.54.58:33988/rtp/233.18.204.185:5140
+风云音乐HD,http://101.81.77.3:9999/rtp/233.18.204.185:5140
 风云音乐HD,http://116.233.67.80:8899/rtp/233.18.204.185:5140
 风云音乐高清,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230021/10000100000000060000000011039295_0.smil?0&accountinfo=%7E%7EV2.0%7EKSWHdyQNKw5UgmkIp_Gqlw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 风尚音乐,http://137.175.111.185/bfgd/?id=294
-风尚音乐,http://192.187.124.34:81/live/hsfsyy.m3u8
 风尚音乐,http://cfss.cc/ds/bfgd.php?id=294&Cf.m3u8
 风尚音乐,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000294
 香港古典音乐,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
-香香音乐,https://hw-origin.pull.yximgs.com/gifshow/s0Puhmg5z90_ShowAvcHdL0.flv?hwTime=6aca129e&hwSecret=01024fb0b0cd7788110253d73a701ac4&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
-馨听🎵音乐,https://hw-origin.pull.yximgs.com/gifshow/L5eQ3Aw480A_ShowAvcHdL0.flv?hwTime=6aca12a0&hwSecret=69a18aeb8c2c48681c7a7ab554a94054&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-高唐综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=lcgtzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWxjZ3R6eXwxNzkxNjI3OTg2fGNkNjdhNjI2MmNhNjA3ODFhY2NlYmVkN2EzMTQzZmMzMDg5Mzg5NzVlNTgwMzViOGEwODA3ZDdiMTk1ZDNkODk
+香香音乐,https://hw-origin.pull.yximgs.com/gifshow/yNqhhiPsbXs_ShowAvcHdL0.flv?hwTime=6acb5b18&hwSecret=3e32d9725b65f599be8cb7f84344de93&tsc=origin&oidc=watchmen&sidc=206577&no_script=1&ss=s23&tfc_buyer=0
+馨听🎵音乐,https://hw-origin.pull.yximgs.com/gifshow/k5LrlPZS2QI_ShowAvcHdL0.flv?hwTime=6acb5b1e&hwSecret=fb8dd8228265dfedc347434a6b7177ad&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+馨馨ai音乐,https://hw-origin.pull.yximgs.com/gifshow/TaYPy6nvK-4_GameAvcFhdL3.flv?hwTime=6acb5b1e&hwSecret=6914b9e61b1ad83524e535fa383d3c83&tsc=origin&oidc=edgeWm&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
+高唐综艺,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=lcgtzy&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWxjZ3R6eXwxNzkxNzEyMDgxfDhhMTU1YTU4OTA1YzA0NWNlYTU3YmNhODZlYTQ3NmRmNjg1MWZiMWFlYWQ1MWJjMzM0NDA3NmQ0NjMzMDhiOTg
 高唐综艺|枫斗直播,http://1.94.31.214/php/qilu.php?id=lcgtzy
-高唐综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdlcgt2&usign=cA1e6NTBFs4-H0T-s3gjpA
+高唐综艺频道,http://38.75.136.137:82/live1/iqilu.m3u8?id=sdlcgt2&usign=CFONIjbZYacSC1nbKvqQnQ
 高唐综艺频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%AB%98%E5%94%90%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&auth=666858
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
 高达-娱乐零零狗,http://em.21dtv.com/songs/60055538.mkv
 魅力音乐,http://125.43.244.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
-麻豆传媒映画巨象娱乐..山道猴的下半身.莫忘中出,https://t26.cdn2020.com/video/m3u8/2023/10/24/2b7004a2/index.m3u8
-麻豆传媒映画巨象娱乐.宋雨川.情侣跟拍系列.直击情侣浪漫的约会,https://t26.cdn2020.com/video/m3u8/2024/01/07/5a57ed99/index.m3u8
-麻豆传媒映画巨象娱乐.恩恩.射会新鲜人.职场浅规则的调教,https://t26.cdn2020.com/video/m3u8/2023/12/02/bac6993c/index.m3u8
-麻豆传媒映画巨鹿娱乐.恩恩.爱情魔法师.爆乳女嬾模被摄好射满依旧渴望哥哥持续进入,https://t26.cdn2020.com/video/m3u8/2024/01/27/fbed78e8/index.m3u8
-麻豆传媒映画巨鹿娱乐.斑斑.楼下的法克.极品女房客.颜值的放荡夜晚.操到隔天上班迟到,https://t26.cdn2020.com/video/m3u8/2024/02/17/47cc69d8/index.m3u8
-麻豆传媒映画巨鹿娱乐.斑斑.汁液摄影师.害羞却能干.就爱操这种闷骚的美女,https://t26.cdn2020.com/video/m3u8/2024/02/12/ddff34f8/index.m3u8
-麻豆传媒映画麻麻传媒.乐乐.可儿.台球姐姐的美臀诱惑.真实姐妹花娱乐篇,https://t26.cdn2020.com/video/m3u8/2023/10/15/ab74ce10/index.m3u8
 黄妍-音乐大童,http://em.21dtv.com/songs/60146888.mkv
 黄少梅+黎佩仪-雪夜访珍妃(戏曲),http://em.21dtv.com/songs/60093536.mkv
 黄少梅-天涯踏遍觅芙奴(戏曲),http://em.21dtv.com/songs/60093537.mkv
@@ -2372,13 +2333,13 @@ Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
 黄浩琳-Cause My Music Comes Along,http://em.21dtv.com/songs/60080573.mkv
 黎瑞恩-音乐派队(演唱会),http://em.21dtv.com/songs/60054325.mkv
 黑糖音乐秀,http://live.nctv.top/douyu1.php?id=9560563
-鼠鼠哈尔滨娱乐麻将🀄️,https://hw-origin.pull.yximgs.com/gifshow/6RALIKcc2kw_ShowAvcHdL0.flv?hwTime=6aca12a1&hwSecret=70c71edb53f1e97a45ab044ca0a628db&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 龙宽九段-我听这种音乐的时候最爱你,http://em.21dtv.com/songs/60046287.mkv
 龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%BE%99%E6%B8%B8%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90&auth=666858
 龙视文艺频道全体主持人-对你爱不完,http://em.21dtv.com/songs/60075254.mkv
 龚琳娜-戏曲忐忑,http://em.21dtv.com/songs/60086969.mkv
-🎵经典伤感音乐🎵,https://hw-origin.pull.yximgs.com/gifshow/fcBXZ38wBgM_ShowAvcHdL0.flv?hwTime=6aca129f&hwSecret=84929430162aa3a17b78920c69018535&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-🎶🎤DEY.music🎤🎶 [102人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867223154313921474_hd.flv?expire=1792751137&sign=dacce4f8bf147d194b2c32d623ecccdb
-💞✨如意爱戏曲✨💞,https://hw-origin.pull.yximgs.com/gifshow/1IM66ZwWBpM_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aca129d&hwSecret=044c0b3114f5ec107fff6ec2f8653b51&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&srcStrm=1IM66ZwWBpM&ss=s23&tfc_buyer=0
+꧁❀✶✮📀𝐋𝐚𝐝𝐲 𝐆 𝐈𝐈📀✮✶❀꧂ - Music/Musica [89人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867228597916795842_hd.flv?expire=1792835225&sign=acc9fbbc9107be160eb67be20df4ec34
+𖥠KevinPolo - Music + Battles = fu... [205人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867228626504385474_hd.flv?expire=1792835227&sign=e75453d78a75b420adfce7ef0433dddb
+🎵经典伤感音乐🎵,https://hw-origin.pull.yximgs.com/gifshow/UVww9BPsJ8s_ShowAvcHdL0.flv?hwTime=6acb5b1d&hwSecret=8c85c2ed2844d4424fce74306b0ab325&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+💞✨如意爱戏曲✨💞,https://hw-origin.pull.yximgs.com/gifshow/eHEr6g85mAo_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6acb5b19&hwSecret=86a4bce398c31c795d0d562220f772fb&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&srcStrm=eHEr6g85mAo&ss=s23&tfc_buyer=0
