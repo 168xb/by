@@ -196,7 +196,7 @@
       "key": "华数",
       "name": "星星🌟┃华数视频",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -259,7 +259,7 @@
       "key": "甜圈短剧",
       "name": "甜圈短剧",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -340,7 +340,7 @@
       "key": "皮皮虾",
       "name": "♨️皮虾｜4K",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -376,7 +376,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -412,7 +412,7 @@
       "key": "fy",
       "name": "♨️枫叶｜免扫",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -421,7 +421,7 @@
       "key": "七猫短剧",
       "name": "🎬七猫┃短剧",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qmdj.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qmdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -430,7 +430,7 @@
       "key": "七星短剧",
       "name": "🎬七星丨短剧",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -556,7 +556,7 @@
       "key": "bl",
       "name": "❤小哩｜4K测试",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -565,7 +565,7 @@
       "key": "多多",
       "name": "🌀多多｜1920",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -583,7 +583,7 @@
       "key": "妙看",
       "name": "🌀妙看｜1920",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1456,7 +1456,7 @@
       "key": "河马短剧",
       "name": "河马短剧",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1546,7 +1546,7 @@
       "key": "裤佬爱剧PY",
       "name": "酷喵🐱皮皮虾",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1555,7 +1555,7 @@
       "key": "smdj",
       "name": "酷喵🐱星芽短剧②",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星芽短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1564,7 +1564,7 @@
       "key": "hmjc",
       "name": "酷喵🐱河马剧场②",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1618,7 +1618,7 @@
       "key": "瓜子优质 PY",
       "name": "👌瓜子优质丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子优质.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子优质.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1627,7 +1627,7 @@
       "key": "泥视频PY",
       "name": "👌泥视频-优质丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/泥视频.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/泥视频.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1636,7 +1636,7 @@
       "key": "瓜子app",
       "name": "瓜子app | [1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子APP.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/瓜子APP.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1645,7 +1645,7 @@
       "key": "1905 PY",
       "name": "1905电影网丨[720p]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/1905.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/1905.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1654,7 +1654,7 @@
       "key": "ai看剧 PY",
       "name": "ai看剧丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/ai看剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/ai看剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1663,7 +1663,7 @@
       "key": "秒看 PY",
       "name": "秒看丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/秒看.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/秒看.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1672,7 +1672,7 @@
       "key": "懂片帝 PY",
       "name": "懂片帝丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/懂片帝.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/懂片帝.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1681,7 +1681,7 @@
       "key": "韩剧狗 PY",
       "name": "韩剧狗丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧狗.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧狗.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1690,7 +1690,7 @@
       "key": "葵花影视网 PY",
       "name": "葵花影视网丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影视网.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影视网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1699,7 +1699,7 @@
       "key": "水月影视 PY",
       "name": "水月影视丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/水月影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/水月影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1708,7 +1708,7 @@
       "key": "葵花影院 PY",
       "name": "葵花影院丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影院.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/葵花影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1717,7 +1717,7 @@
       "key": "琪琪影视 PY",
       "name": "琪琪影视丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/琪琪影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/琪琪影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1726,7 +1726,7 @@
       "key": "绮梦短剧 PY",
       "name": "绮梦短剧丨[短剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/绮梦短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/绮梦短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1735,7 +1735,7 @@
       "key": "影视天堂 PY",
       "name": "影视天堂丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/影视天堂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/影视天堂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1744,7 +1744,7 @@
       "key": "臻彩4k PY",
       "name": "臻彩4k丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/臻彩4K.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/臻彩4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1753,7 +1753,7 @@
       "key": "py_星辰4k",
       "name": "🦅星辰4k|[1080p]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰4k.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星辰4k.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1762,7 +1762,7 @@
       "key": "真狼 PY",
       "name": "真狼丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/真狼.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/真狼.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1771,7 +1771,7 @@
       "key": "aeete影视 PY",
       "name": "aeete影视|[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/aeete影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/aeete影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1780,7 +1780,7 @@
       "key": "weishi PY",
       "name": "weishi丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/weishi.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/weishi.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1789,7 +1789,7 @@
       "key": "乌云影视 PY",
       "name": "乌云影视丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/乌云影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/乌云影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1798,7 +1798,7 @@
       "key": "蝉鸣影视 PY",
       "name": "蝉鸣影视丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/蝉鸣影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/蝉鸣影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1807,7 +1807,7 @@
       "key": "大米星球 PY",
       "name": "大米星球丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/大米星球.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/大米星球.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1816,7 +1816,7 @@
       "key": "电影侠 PY",
       "name": "电影侠丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1825,7 +1825,7 @@
       "key": "影视工厂PY",
       "name": "👌影视工厂丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/影视工厂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/影视工厂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1843,7 +1843,7 @@
       "key": "袋鼠PY",
       "name": "👌袋鼠丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/袋鼠.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/袋鼠.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1852,7 +1852,7 @@
       "key": "王者PY",
       "name": "👌王者丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/王者TV.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/王者TV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1861,7 +1861,7 @@
       "key": "布布PY",
       "name": "👌布布丨[4k影视]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/布布.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/布布.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1870,7 +1870,7 @@
       "key": "libvioPY",
       "name": "👌libvio丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/libvio.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/libvio.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1879,7 +1879,7 @@
       "key": "novip PY",
       "name": "👌novip丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/novip.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/novip.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1888,7 +1888,7 @@
       "key": "哔嘀 PY",
       "name": "哔嘀电影丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/哔嘀电影.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/哔嘀电影.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1897,7 +1897,7 @@
       "key": "cnflixPY",
       "name": "👌cnflix丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/cnflix.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/cnflix.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1906,7 +1906,7 @@
       "key": "开心影院PY",
       "name": "👌开心影院丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/开心影院.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/开心影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1915,7 +1915,7 @@
       "key": "lsys PY",
       "name": "👌绿色影视丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/lsys.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/lsys.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1924,7 +1924,7 @@
       "key": "韩剧TV PY",
       "name": "👌韩剧TV丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧TV.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/韩剧TV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1933,7 +1933,7 @@
       "key": "枫叶影院 PY",
       "name": "👌枫叶影院丨[4k影视]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1942,7 +1942,7 @@
       "key": "星耀 PY",
       "name": "星耀丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/星耀.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星耀.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1951,7 +1951,7 @@
       "key": "4k-av PY",
       "name": "4k-av丨[4k影视-需梯子]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/4k-av.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/4k-av.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1960,7 +1960,7 @@
       "key": "pomo666 PY",
       "name": "👌pomo666丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/pomo666.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/pomo666.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1969,7 +1969,7 @@
       "key": "可可影视 PY",
       "name": "可可影视py丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/可可影视.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/可可影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1978,7 +1978,7 @@
       "key": "网飞猫影视 PY",
       "name": "网飞猫影视py丨[1080P]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/网飞猫.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/网飞猫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1987,7 +1987,7 @@
       "key": "红果短剧最终版PY",
       "name": "👌红果短剧最终版丨全",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/红果短剧最终版.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/红果短剧最终版.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1996,7 +1996,7 @@
       "key": "zb",
       "name": "CCTV",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/cctv.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/cctv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2005,7 +2005,7 @@
       "key": "LYY",
       "name": "烈羽云-4k",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/AppV2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2014,7 +2014,7 @@
       "key": "荐片",
       "name": "荐片.py",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/荐片.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/荐片.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2023,7 +2023,7 @@
       "key": "py_新剧吧_APP",
       "name": "新剧吧┃APP",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.5.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.5.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2032,7 +2032,7 @@
       "key": "喜马拉雅",
       "name": "喜马拉雅.py",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/喜马拉雅.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/喜马拉雅.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2041,7 +2041,7 @@
       "key": "2影视App",
       "name": "2影视┃app",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.1.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/getapp3.4.1.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2050,7 +2050,7 @@
       "key": "美剧窝PY",
       "name": "👌美剧窝丨[美剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧窝.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧窝.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2059,7 +2059,7 @@
       "key": "美剧天堂PY",
       "name": "👌美剧天堂丨[美剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧天堂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧天堂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2068,7 +2068,7 @@
       "key": "美剧迷PY",
       "name": "👌美剧迷丨[美剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧迷.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧迷.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2077,7 +2077,7 @@
       "key": "美剧屋PY",
       "name": "👌美剧屋丨PY",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美剧屋.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2086,7 +2086,7 @@
       "key": "爱美剧PY",
       "name": "👌爱美剧丨[美剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/爱美剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/爱美剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2095,7 +2095,7 @@
       "key": "滴滴美剧PY",
       "name": "👌滴滴美剧丨[美剧]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/滴滴美剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/滴滴美剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2104,7 +2104,7 @@
       "key": "央视大全py",
       "name": "📺央视大全",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/央视大全.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/央视大全.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2113,7 +2113,7 @@
       "key": "wangluozb.py",
       "name": "🐅wlzbpy",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/wlzb.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/wlzb.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2122,7 +2122,7 @@
       "key": "🙈华数",
       "name": "🙈桦树|少儿",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/桦树.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/桦树.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2131,7 +2131,7 @@
       "key": "azz音乐py",
       "name": "🎶azz音乐|py[音乐]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/azz音乐网.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/azz音乐网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2140,7 +2140,7 @@
       "key": "千千音乐py",
       "name": "🎶千千音乐|py[音乐]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/千千音乐.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/千千音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2149,7 +2149,7 @@
       "key": "DJ音乐网 PY",
       "name": "👌DJ音乐网丨[音乐]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/DJ音乐网.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/DJ音乐网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2158,7 +2158,7 @@
       "key": "py_yymp3",
       "name": "🎶yymp3|音乐[音乐]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/YYMP3音乐网.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/YYMP3音乐网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2167,7 +2167,7 @@
       "key": "👧幼小衔接",
       "name": "🎶幼小衔接|py [教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/幼小衔接.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/幼小衔接.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2176,7 +2176,7 @@
       "key": "美食bili",
       "name": "🎶美食|[美食]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/美食.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/美食.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2185,7 +2185,7 @@
       "key": "李子柒bili",
       "name": "🎶李子柒|[美食]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/李子柒.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/李子柒.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2194,7 +2194,7 @@
       "key": "yirisc",
       "name": "一日三餐┃[美食]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/一日三餐.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/一日三餐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2203,7 +2203,7 @@
       "key": "yuzhou",
       "name": "宇宙太空┃[课外博学]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/宇宙太空.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/宇宙太空.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2212,7 +2212,7 @@
       "key": "国学bili",
       "name": "国学┃[课外博学]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/国学.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/国学.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2221,7 +2221,7 @@
       "key": "书法bili",
       "name": "书法┃[课外博学]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/书法.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/书法.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2230,7 +2230,7 @@
       "key": "中医bili",
       "name": "中医┃[课外博学]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/中医.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/中医.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2239,7 +2239,7 @@
       "key": "天文地理bili",
       "name": "天文地理┃[课外博学]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/天文地理.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/天文地理.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2248,7 +2248,7 @@
       "key": "跑步游戏 PY",
       "name": "跑步游戏丨[游戏运动]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/跑步游戏.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/跑步游戏.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2257,7 +2257,7 @@
       "key": "少儿教育PY",
       "name": "👌少儿教育丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/少儿教育.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/少儿教育.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2266,7 +2266,7 @@
       "key": "儿童编程PY",
       "name": "👌儿童编程丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童编程.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童编程.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2275,7 +2275,7 @@
       "key": "儿童识字PY",
       "name": "👌儿童识字丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童识字.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童识字.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2284,7 +2284,7 @@
       "key": "儿童拼音.PY",
       "name": "👌儿童拼音.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童拼音.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童拼音.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2293,7 +2293,7 @@
       "key": "儿童硬笔.PY",
       "name": "👌儿童硬笔.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童硬笔.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童硬笔.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2302,7 +2302,7 @@
       "key": "儿童口才.PY",
       "name": "👌儿童口才.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童口才.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童口才.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2311,7 +2311,7 @@
       "key": "儿童武术.PY",
       "name": "👌儿童武术.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童武术.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童武术.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2320,7 +2320,7 @@
       "key": "儿童绘画.PY",
       "name": "👌儿童绘画.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童绘画.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童绘画.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2329,7 +2329,7 @@
       "key": "儿童百科.PY",
       "name": "👌儿童百科.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童百科.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童百科.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2338,7 +2338,7 @@
       "key": "儿童思维.PY",
       "name": "👌儿童思维.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童思维.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/儿童思维.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2347,7 +2347,7 @@
       "key": "小学教育.PY",
       "name": "👌小学教育.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/小学课堂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/小学课堂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2356,7 +2356,7 @@
       "key": "初中教育.PY",
       "name": "👌初中教育.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/初中课堂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/初中课堂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2365,7 +2365,7 @@
       "key": "高中教育.PY",
       "name": "👌高中教育.丨[教育学习]",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/高中课堂.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/高中课堂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

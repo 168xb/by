@@ -507,6 +507,16 @@
       "filterable": 1
     },
     {
+      "key": "非凡",
+      "name": "聚合非凡┃影视 [1.8s]",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "push_agent",
       "name": "聚合推送┃链接",
       "type": 3,
@@ -593,7 +603,7 @@
     },
     {
       "key": "独播库",
-      "name": "聚合三方🥇播库🥇影视 [0.2s]",
+      "name": "聚合三方🥇播库🥇影视 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js",
       "searchable": 1,
@@ -645,7 +655,7 @@
     },
     {
       "key": "py_文才",
-      "name": "聚合🥇三方🥇文才🥇影视 [0.1s]",
+      "name": "聚合🥇三方🥇文才🥇影视 [0.3s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
       "searchable": 1,
@@ -670,7 +680,7 @@
     },
     {
       "key": "cat_剧迷网",
-      "name": "聚合三方🥇剧迷🥇影视 [0.1s]",
+      "name": "聚合三方🥇剧迷🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/高清剧迷.js",
       "style": {
