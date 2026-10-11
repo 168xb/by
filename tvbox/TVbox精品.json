@@ -659,12 +659,6 @@
       "genre": "shortdrama"
     },
     {
-      "key": "荐片",
-      "name": "🧲荐片｜磁力资源",
-      "api": "csp_JianPian",
-      "type": 3
-    },
-    {
       "key": "88看球",
       "name": "⚽88｜看球体育",
       "type": 3,
