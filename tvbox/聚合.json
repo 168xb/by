@@ -593,7 +593,7 @@
     },
     {
       "key": "永1乐",
-      "name": "聚合🥇三方永乐🥇影视 [0.3s]",
+      "name": "聚合🥇三方永乐🥇影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js",
       "searchable": 1,
@@ -655,7 +655,7 @@
     },
     {
       "key": "py_文才",
-      "name": "聚合🥇三方🥇文才🥇影视 [0.1s]",
+      "name": "聚合🥇三方🥇文才🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
       "searchable": 1,

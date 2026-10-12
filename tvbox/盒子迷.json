@@ -6,7 +6,7 @@
     {
       "name": "migu(优)",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "timeout": 10,
       "playerType": 2
     },
@@ -34,14 +34,14 @@
     {
       "name": "migu720",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "iTV",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
       "playerType": 2,
       "timeout": 10
     },
