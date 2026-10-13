@@ -1,7 +1,7 @@
 {
   "spider": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
-  "logo": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
+  "logo": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
   "sites": [
     {
       "key": "Tg豆瓣",
@@ -14,8 +14,8 @@
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
         "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
       }
     },
     {
@@ -33,7 +33,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -223,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
     },
     {
       "key": "农民",
@@ -233,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
     },
     {
       "key": "面包",
@@ -645,7 +645,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -658,7 +658,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.qwmkv.com",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -676,7 +676,7 @@
             "花絮"
           ]
         },
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -687,13 +687,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://www.wogg.net",
           "https://wogg.xxooo.cf",
           "http://woggpan.xxooo.cf"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -704,13 +704,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://123.666291.xyz",
           "https://666.666291.xyz",
           "https://www.muou.site"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -721,11 +721,11 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "http://38.76.197.172:16969/"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -736,11 +736,11 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "http://38.76.197.172:12521/"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -768,13 +768,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://woog.nxog.eu.org",
           "https://ogkk.nxog.eu.org",
           "https://woog.430520.xyz"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -785,13 +785,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://tv.yydsys.top",
           "https://tv.yydsys.cc",
           "https://tv.214521.xyz"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -802,13 +802,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://shandian.blog",
           "https://sd.sduc.site",
           "https://sduc.cloud/"
         ],
-        "filter": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -821,7 +821,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://1.star2.cn",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -833,7 +833,7 @@
       "changeable": 0,
       "ext": {
         "siteUrl": "https://4kzn.cc",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -845,7 +845,7 @@
       "changeable": 0,
       "ext": {
         "siteUrl": "https://gy.lubao2.de5.net",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -857,8 +857,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "share": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "share": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
       }
     },
     {
@@ -873,8 +873,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
       }
     },
     {
@@ -888,7 +888,7 @@
       "ext": {
         "count": 4,
         "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -899,7 +899,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -911,7 +911,7 @@
       "quickSearch": 1,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
       "style": {
         "type": "rect",
@@ -950,8 +950,8 @@
       "key": "酷我听书",
       "name": "📚酷我听书",
       "type": 3,
-      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
-      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/酷我听书.js"
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/酷我听书.js"
     },
     {
       "key": "DJ阁舞曲网",
@@ -989,8 +989,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1007,8 +1007,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1025,8 +1025,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1043,8 +1043,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1061,8 +1061,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1079,8 +1079,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1097,8 +1097,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
-        "commonConfig": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
+        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     }
@@ -1258,7 +1258,7 @@
     {
       "name": "Yoursmile",
       "type": 0,
-      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
