@@ -1,29 +1,47 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDU4MGEzYjk4N2UtMDMzMA/NjQ0MWMzOTMxZjAtZGRkZg.webp" group-title="日篮超",日篮超 佐贺气球人VS 群马雷鹤 (FLV)
-https://live01-cn-ali.xdbrk.com/live/34563594_tsc.flv?auth_key=1794373800-0-248926-5a52a17ec4dd7593908ba235fca6e3ec
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDU4MGEzYjk4N2UtMDMzMA/NjQ0MWMzOTMxZjAtZGRkZg.webp" group-title="日篮超",日篮超 佐贺气球人VS 群马雷鹤 (M3U8)
-https://live01-cn-ali.xdbrk.com/live/34563594_tsc.m3u8?auth_key=1794373800-0-248926-5a52a17ec4dd7593908ba235fca6e3ec
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZWM3NzMwZTc1NTYtNDNmYg/NDdkMDBiN2FmYjEtOWVkNw.webp" group-title="日篮超",日篮超 滋贺湖 VS 信州勇士 (FLV)
-https://live01-cn-ali.xdbrk.com/live/81186543_tsc.flv?auth_key=1794373800-0-5425939-92bbfc13de1ddd22dd22e28394b2e0e0
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZWM3NzMwZTc1NTYtNDNmYg/NDdkMDBiN2FmYjEtOWVkNw.webp" group-title="日篮超",日篮超 滋贺湖 VS 信州勇士 (M3U8)
-https://live01-cn-ali.xdbrk.com/live/81186543_tsc.m3u8?auth_key=1794373800-0-5425939-92bbfc13de1ddd22dd22e28394b2e0e0
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDAyMTJjMmM4N2UtZTRjMw/MjRlN2U2YjU0OTgtNjQwYw.webp" group-title="日蓝超",日蓝超  大阪七福神  VS  东京电击 (FLV)
-https://live01-cn-ali.xdbrk.com/live/15176501_tsc.flv?auth_key=1794373800-0-248808-7f4c23f5454a2c5d08b33b8b9337f332
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDAyMTJjMmM4N2UtZTRjMw/MjRlN2U2YjU0OTgtNjQwYw.webp" group-title="日蓝超",日蓝超  大阪七福神  VS  东京电击 (M3U8)
-https://live01-cn-ali.xdbrk.com/live/15176501_tsc.m3u8?auth_key=1794373800-0-248808-7f4c23f5454a2c5d08b33b8b9337f332
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTQxOTBmYWRjZjktMDZmOA/YmI0ZWM1YWRkZDQtZmEzMg.webp" group-title="德杯",德杯 KT VS VIT (FLV)
-https://live01-cn-ali.xdbrk.com/live/30020778_tsc.flv?auth_key=1794373800-0-6510810-a1bac95bd74b607a3d214f133448a850
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTQxOTBmYWRjZjktMDZmOA/YmI0ZWM1YWRkZDQtZmEzMg.webp" group-title="德杯",德杯 KT VS VIT (M3U8)
-https://live01-cn-ali.xdbrk.com/live/30020778_tsc.m3u8?auth_key=1794373800-0-6510810-a1bac95bd74b607a3d214f133448a850
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWZjZDkxNzk1YWItN2RjYw/ODliZDdmNGNhNDAtNzJiYQ.webp" group-title="日本女子联赛杯",日本女子联赛杯 | 埃尔芬埼玉女足 VS 新潟天鹅女足 (FLV)
-https://live.dyrur1.com/live/72338940_28354ddfadab2f3d7f68613e1520dbfd.flv?auth_key=1791795773-0-0-733f41fea96771fdd8c2163f6cfc5f53
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWZjZDkxNzk1YWItN2RjYw/ODliZDdmNGNhNDAtNzJiYQ.webp" group-title="日本女子联赛杯",日本女子联赛杯 | 埃尔芬埼玉女足 VS 新潟天鹅女足 (M3U8)
-https://live.dyrur1.com/live/72338940_28354ddfadab2f3d7f68613e1520dbfd.m3u8?auth_key=1791795773-0-0-733f41fea96771fdd8c2163f6cfc5f53
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWZjZDkxNzk1YWItN2RjYw/ODliZDdmNGNhNDAtNzJiYQ.webp" group-title="其他比赛",卫星04 (比赛流)
-https://live.dyrur1.com/live/72338940_28354ddfadab2f3d7f68613e1520dbfd_autoChange.m3u8?auth_key=1791797879-0-0-dc82dff2060a5a360c4ea7341df297b3
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZWM3NzMwZTc1NTYtNDNmYg/NDdkMDBiN2FmYjEtOWVkNw.webp" group-title="其他比赛",小鸡 (比赛流)
-https://live.dyrur1.com/live/34kgps1l5v0ueko_46801f400eafe54c54cfed083ee286ec_autoChange.m3u8?auth_key=1791797879-0-0-dd91ecfd7b2b10c268ab6a72fe1a59ad
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDAyMTJjMmM4N2UtZTRjMw/MjRlN2U2YjU0OTgtNjQwYw.webp" group-title="其他比赛",老黄 (比赛流)
-https://live2.dyrur1.com/live/72696058_ba7a6599e17e0b75daf6acd3bc725aa5_autoChange.m3u8?auth_key=1791797879-0-0-0935e37da4d0f7e27e3859569161173c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDU4MGEzYjk4N2UtMDMzMA/NjQ0MWMzOTMxZjAtZGRkZg.webp" group-title="其他比赛",优米 (比赛流)
-https://live1.dyrur1.com/live/72696060_5f8dc6c81f8037a425b0a2c4e1df197a_autoChange.m3u8?auth_key=1791797879-0-0-1e2182cda3f56a86fb080e8a89247864
+🔞成人台直播[限时],#genre#
+松視1,http://77.90.15.78/YC20161015.php?id=1
+松視2,http://77.90.15.78/YC20161015.php?id=2
+松視3,http://77.90.15.78/YC20161015.php?id=3
+松視4,http://77.90.15.78/YC20161015.php?id=4
+驚艷臺,http://77.90.15.78/YC20161015.php?id=5
+潘朵拉完美,http://77.90.15.78/YC20161015.php?id=6
+潘朵拉粉紅,http://77.90.15.78/YC20161015.php?id=7
+香蕉臺,http://77.90.15.78/YC20161015.php?id=8
+Happy,http://77.90.15.78/YC20161015.php?id=9
+彩虹電影,http://77.90.15.78/YC20161015.php?id=10
+彩虹E,http://77.90.15.78/YC20161015.php?id=11
+彩虹R,http://77.90.15.78/YC20161015.php?id=12
+樂活頻道,http://77.90.15.78/YC20161015.php?id=13
+LOOK,http://77.90.15.78/YC20161015.php?id=14
+HOT,http://77.90.15.78/YC20161015.php?id=15
+HiPLAY,http://77.90.15.78/YC20161015.php?id=16
+極限電影,http://77.90.15.78/YC20161015.php?id=17
+麻豆傳媒,http://77.90.15.78/YC20161015.php?id=18
+奧視1,http://77.90.15.78/YC20161015.php?id=20
+奧視2,http://77.90.15.78/YC20161015.php?id=21
+奧視3,http://77.90.15.78/YC20161015.php?id=22
+風雲夜場1,http://77.90.15.78/YC20161015.php?id=23
+風雲夜場2,http://77.90.15.78/YC20161015.php?id=24
+風雲夜場3,http://77.90.15.78/YC20161015.php?id=25
+風雲夜場4,http://77.90.15.78/YC20161015.php?id=26
+風雲夜場5,http://77.90.15.78/YC20161015.php?id=27
+風雲夜場6,http://77.90.15.78/YC20161015.php?id=28
+風雲夜場7,http://77.90.15.78/YC20161015.php?id=29
+風雲夜場8,http://77.90.15.78/YC20161015.php?id=30
+風雲夜場9,http://77.90.15.78/YC20161015.php?id=31
+風雲夜場10,http://77.90.15.78/YC20161015.php?id=32
+風雲夜場11,http://77.90.15.78/YC20161015.php?id=33
+Babes TV,http://77.90.15.78/YC20161015.php?id=34
+Bang U,http://77.90.15.78/YC20161015.php?id=35
+Brazzers Europe,http://77.90.15.78/YC20161015.php?id=36
+Dorcel TV,http://77.90.15.78/YC20161015.php?id=37
+Dorcel XXX,http://77.90.15.78/YC20161015.php?id=38
+Dusk,http://77.90.15.78/YC20161015.php?id=39
+ERO X,http://77.90.15.78/YC20161015.php?id=40
+ERO XXX,http://77.90.15.78/YC20161015.php?id=41
+EXTASY TV,http://77.90.15.78/YC20161015.php?id=42
+LEO TV,http://77.90.15.78/YC20161015.php?id=43
+LEO TV GOLD,http://77.90.15.78/YC20161015.php?id=44
+Passion XXX,http://77.90.15.78/YC20161015.php?id=45
+Pure Babes,http://77.90.15.78/YC20161015.php?id=46
+Reality Kings TV,http://77.90.15.78/YC20161015.php?id=47

@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
 #EXTM3U name="88看球(动态联赛分组)"
-#EXTINF:-1 tvg-id="129482_0" tvg-name="17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="菲NCAA",17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q1)
-https://stymei1.pages.dev/live/129482/0
-#EXTINF:-1 tvg-id="129482_1" tvg-name="17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="菲NCAA",17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q2)
-https://stymei1.pages.dev/live/129482/1
-#EXTINF:-1 tvg-id="129482_2" tvg-name="17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="菲NCAA",17:00 菲NCAA JRU重型轰炸机 vs EAC将军 (线路Q1)
-https://stymei1.pages.dev/live/129482/2
+#EXTINF:-1 tvg-id="129577_0" tvg-name="16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q2)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="国际友谊",16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q2)
+https://stymei1.pages.dev/live/129577/0
+#EXTINF:-1 tvg-id="129577_1" tvg-name="16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="国际友谊",16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q1)
+https://stymei1.pages.dev/live/129577/1
+#EXTINF:-1 tvg-id="129577_2" tvg-name="16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="国际友谊",16:00 国际友谊 白俄罗斯U17 vs 俄罗斯U17 (线路Q1)
+https://stymei1.pages.dev/live/129577/2

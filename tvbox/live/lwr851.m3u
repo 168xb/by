@@ -463,6 +463,9 @@ http://111.59.139.82:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.59.139.82:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="影视频道",CHC 动作电影
 http://111.59.139.82:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="华数4K电影" tvg-name="华数4K电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华数-4K.png" group-title="影视频道",华数4K电影
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
