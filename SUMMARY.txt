@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261013_181337
+TVBox 接口抓取报告  20261014_162758
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -206,10 +206,10 @@ TVBox 接口抓取报告  20261013_181337
   文件: tvbox/动漫.json
   成功URL: https://www.yingm.cc/dm/dm.json
 
-[小虎斑] okhttp/3.15
-  状态: TEXT
-  文件: tvbox/小虎斑.json
-  成功URL: http://hb.小虎斑.site:25252/仅供测试
+[小虎斑] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [星微Vip] okhttp/3.15
   状态: JSON
