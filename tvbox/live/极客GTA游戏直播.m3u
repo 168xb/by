@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
 #EXTM3U name="88看球(动态联赛分组)"
-#EXTINF:-1 tvg-id="129610_0" tvg-name="15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C4)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="亚冠联2",15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C4)
-https://stymei1.pages.dev/live/129610/0
-#EXTINF:-1 tvg-id="129610_1" tvg-name="15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C4)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="亚冠联2",15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C4)
-https://stymei1.pages.dev/live/129610/1
-#EXTINF:-1 tvg-id="129610_2" tvg-name="15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C6)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="亚冠联2",15:45 亚冠联2 墨尔本胜利 vs 首尔FC (线路C6)
-https://stymei1.pages.dev/live/129610/2
+#EXTINF:-1 tvg-id="129660_0" tvg-name="15:00 菲NCAA EAC将军 vs CSB开拓者 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="菲NCAA",15:00 菲NCAA EAC将军 vs CSB开拓者 (线路Q1)
+https://stymei1.pages.dev/live/129660/0
