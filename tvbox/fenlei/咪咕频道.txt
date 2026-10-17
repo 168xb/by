@@ -168,7 +168,7 @@ MIGUEL-TOLD YOU SO,http://em.21dtv.com/songs/60148889.mkv
 咪咕4K,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8?servicetype=1
 咪咕4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 咪咕4K,http://45.192.97.170:8880/play/2745.m3u8
-咪咕4K,https://tv123.cc.cd/live.php?ch=2292&sid=a12b2a0622613ddfe5f117e5ddc7d0c6&exp=1792181642&sig=ae6c918091871ae9be6f08d66235722456f539296b7a321a347688d452581cee
+咪咕4K,https://tv123.cc.cd/live.php?ch=2282&sid=7ca3084eeea027c64f2096a2bf4c25b9&exp=1792266737&sig=8addc1242829171b28cda455ae5f5f0c95eea6e94b6f21b3fb61dd7d1c509598
 咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
 咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226938/1.m3u8
@@ -178,7 +178,7 @@ MIGUEL-TOLD YOU SO,http://em.21dtv.com/songs/60148889.mkv
 咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226991/1.m3u8
 咪咕4K-2,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226991/1.m3u8$rrs01
-咪咕4K-2,https://tv123.cc.cd/live.php?ch=2293&sid=a12b2a0622613ddfe5f117e5ddc7d0c6&exp=1792181642&sig=f3e6769e42e46e64045f4b8f8e9c000a807803303b1a1d1310f86a797f8ddba1
+咪咕4K-2,https://tv123.cc.cd/live.php?ch=2283&sid=7ca3084eeea027c64f2096a2bf4c25b9&exp=1792266737&sig=db5677fd01b6126145b4dd1ae330885fb4dc68bb22874357b9ffadb7d18f2e8b
 咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 咪咕4K-2「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 咪咕4K[3840*2160],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
@@ -245,9 +245,9 @@ MIGUEL-TOLD YOU SO,http://em.21dtv.com/songs/60148889.mkv
 咪咕体育日报 undefined 咪咕体育日报 第149期 08:00,http://wfenf.x3322.net:7788/966489958
 咪咕体育日报 undefined 咪咕体育日报 第168期 08:00,http://45.192.97.170:8880/play/156.m3u8
 咪咕体育日报 undefined 咪咕体育日报 第169期 08:00,http://45.192.97.170:8880/play/210.m3u8
-咪咕体育日报 undefined 咪咕体育日报 第212期 08:00,https://migu.249051.xyz/968047946
-咪咕体育日报 undefined 咪咕体育日报 第213期 08:00,http://82.156.245.233:30008/968047818
 咪咕体育日报 undefined 咪咕体育日报 第213期 08:00,https://migu.249051.xyz/968047818
+咪咕体育日报 undefined 咪咕体育日报 第214期 08:00,http://82.156.245.233:30008/968047829
+咪咕体育日报 undefined 咪咕体育日报 第214期 08:00,https://migu.249051.xyz/968047829
 咪咕体育日报 undefined 咪咕体育日报 第82期 08:00,http://101.200.122.188:1234/964146308
 咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 咪咕游戏赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD

@@ -860,9 +860,9 @@
     },
     {
       "key": "py_文才",
-      "name": "文才影视[py]",
+      "name": "聚合🥇三方🥇文才🥇影视 [0.2s]",
       "type": 3,
-      "api": "https://clun.top/py/文才影视.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1123,7 +1123,7 @@
       "key": "py_金牌影院",
       "name": "金牌影院[py]",
       "type": 3,
-      "api": "https://clun.top/py/金牌.py",
+      "api": "https://clun.top/py/goldmedal.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1150,7 +1150,7 @@
       "key": "py_jieyingshi",
       "name": "界影视[py]",
       "type": 3,
-      "api": "https://clun.top/py/py_jieyingshi.py",
+      "api": "https://clun.top/py/jieyingshi.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2420,6 +2420,60 @@
       "name": "💕 枫斗三线💕",
       "type": 3,
       "api": "http://xn--oev29b.top/files/py/loader.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_yysub",
+      "name": "人人[py]",
+      "type": 3,
+      "api": "https://clun.top/py/yysub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ppnix",
+      "name": "PPnix[py]",
+      "type": 3,
+      "api": "https://clun.top/py/ppnix.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_wbbb",
+      "name": "歪比巴卜[py]",
+      "type": 3,
+      "api": "https://clun.top/py/wbbb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_guowaiju",
+      "name": "国外剧情[py]",
+      "type": 3,
+      "api": "https://clun.top/py/guowaiju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_mifun",
+      "name": "MiFun｜动漫",
+      "type": 3,
+      "api": "https://clun.top/py/mifun.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_yinhuaone",
+      "name": "樱花｜动漫",
+      "type": 3,
+      "api": "https://clun.top/py/yinhuaone.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

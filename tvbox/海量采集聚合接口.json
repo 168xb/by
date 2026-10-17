@@ -1388,6 +1388,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "创享",
+      "name": "创享 | 采集",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "优质",
+      "name": "优质 | 采集",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [

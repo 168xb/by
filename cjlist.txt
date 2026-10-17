@@ -56,7 +56,7 @@ piaoling|🍀飘零资源|type: 1|api: https://p2100.net/api.php/provide/vod
 modudongman|🍀魔都动漫|type: 1|api: https://caiji.moduapi.cc/api.php/provide/vod
 hongniu3|🍀红牛资源3|type: 1|api: https://www.hongniuzy3.com/api.php/provide/vod
 suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/vod
-说明|⚠️说明|type: 1|api: https://cdn.akaere.online/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
+说明|⚠️说明|type: 1|api: https://github.880824.xyz/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
 haiwaikan|🌊 海外看┃此接口须有魔法上网|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 茶杯API|七星·茶杯影视|type: 1|api: http://www.haohuazy.com/api.php/provide/vod
 天涯采集|影视 | 天涯|type: 1|api: http://tyyszy.com/api.php/provide/vod
@@ -88,9 +88,9 @@ acfun|A站｜星源|type: 1|api: https://xy.183933.xyz/php/acfun.php/provide/vod
 小乐|小乐｜星源|type: 1|api: https://xy.183933.xyz/php/ls.php/vod
 淘片|淘片｜平安™|type: 0|api: https://taopianapi.com/cjapi/mc/vod/xml
 豆瓣采集资源|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
-豆瓣|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/
+创享|创享 | 采集|type: 1|api: https://ys.cxkjg.cn/api/provide/vod/
 金鹰|金鹰 | 采集|type: 1|api: https://jyzyapi.com/api.php/provide/vod/
-樱花|樱花 | 采集|type: 1|api: https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/
+优质|优质 | 采集|type: 1|api: https://api.yyzy-tv.vip/inc/apijson.php
 黑木耳|黑木耳 | 采集|type: 1|api: https://json02.heimuer.xyz/api.php/provide/vod/
 艾旦|艾旦 | 采集|type: 1|api: https://www.lovedan.net/api.php/provide/vod/
 四个圈|四圈 | 采集|type: 1|api: https://pg.fenwe078.cf/api.php/provide/vod/
@@ -150,6 +150,8 @@ FF|🥗非凡┃秒播|type: 1|api: http://api.ffzyapi.com/api.php/provide/vod
 小灯塔科学|🌏小灯塔科学|type: 1|api: csp_Bili
 新浪影视|酷喵🐱新浪|type: 0|api: https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml
 iKun资源|酷喵🐱iKun|type: 0|api: https://ikunzyapi.com/api.php/provide/vod/at/xml
+豆瓣|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/
+樱花|樱花 | 采集|type: 1|api: https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/
 1080资源|1080影院|type: 1|api: https://api.yzzy-api.com/inc/apijson.php
 暴风资源|暴风资源(🔥)|type: 1|api: https://bf.xoxowin86cisyap.com/api.php/provide/vod
 csp_xml_ikun|❤ikun资源|type: 1|api: https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json

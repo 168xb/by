@@ -313,12 +313,6 @@
       "source": "裤佬"
     },
     {
-      "name": "👖裤佬NBA直播[腾讯体育源]",
-      "url": "https://stymei1.pages.dev/live.m3u",
-      "ua": "",
-      "source": "裤佬"
-    },
-    {
       "name": "👖裤佬抖音直播",
       "url": "https://douyin.445569.xyz/live.m3u",
       "ua": "",
@@ -351,6 +345,12 @@
     {
       "name": "👖裤佬来疯直播",
       "url": "https://laifeng.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬百战直播",
+      "url": "https://baizhan.445569.xyz/live.m3u",
       "ua": "",
       "source": "裤佬"
     },
@@ -405,6 +405,12 @@
     {
       "name": "🍿全球TV直播",
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "✍🏻学习直播",
+      "url": "https://paste.c-net.org/ForgivesAmateurs",
       "ua": "",
       "source": "裤佬"
     },
@@ -921,6 +927,12 @@
     {
       "name": "极客抖音直播",
       "url": "https://stymei2.pages.dev/live.m3u",
+      "ua": "",
+      "source": "卡卡"
+    },
+    {
+      "name": "极客GTA游戏直播",
+      "url": "https://stymei1.pages.dev/live.m3u",
       "ua": "",
       "source": "卡卡"
     },
