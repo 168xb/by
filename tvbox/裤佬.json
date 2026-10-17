@@ -18,11 +18,6 @@
       "url": "https://stymei.pages.dev/live.m3u"
     },
     {
-      "name": "👖裤佬NBA直播[腾讯体育源]",
-      "type": 0,
-      "url": "https://stymei1.pages.dev/live.m3u"
-    },
-    {
       "name": "👖裤佬抖音直播",
       "type": 0,
       "url": "https://douyin.445569.xyz/live.m3u"
@@ -53,6 +48,11 @@
       "url": "https://laifeng.445569.xyz/live.m3u"
     },
     {
+      "name": "👖裤佬百战直播",
+      "type": 0,
+      "url": "https://baizhan.445569.xyz/live.m3u"
+    },
+    {
       "name": "👖裤佬YY直播",
       "type": 0,
       "url": "https://yy.445569.xyz/live.m3u"
@@ -75,17 +75,17 @@
     {
       "name": "🍿涛涛TV直播",
       "type": 1,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
+      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
     },
     {
       "name": "🍿华视TV直播",
       "type": 1,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
+      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
     },
     {
       "name": "🍿易发TV直播",
       "type": 1,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
     {
       "name": "🍿乌拉TV直播",
@@ -96,6 +96,11 @@
       "name": "🍿全球TV直播",
       "type": 0,
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "✍🏻学习直播",
+      "type": 1,
+      "url": "https://paste.c-net.org/ForgivesAmateurs"
     }
   ],
   "sites": [
