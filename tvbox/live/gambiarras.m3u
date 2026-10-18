@@ -117,10 +117,6 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTGRP:Recomendados
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 
-#EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="TV Conecta" tvg-logo="https://i.postimg.cc/bYWc1jjz/tv-conecta.png", TV Conecta
-#EXTGRP:Recomendados
-https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
-
 #EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="TV da Cidade Joinville" tvg-logo="https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg", TV da Cidade Joinville
 #EXTGRP:Recomendados
 https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
@@ -165,13 +161,17 @@ https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playli
 #EXTGRP:Recomendados
 https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 
-#EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="TV Tudo" tvg-logo="https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg", TV Tudo
+#EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="TV+ News" tvg-logo="https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg", TV+ News
 #EXTGRP:Recomendados
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
 #EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="TVBC" tvg-logo="https://rokuimagens.logicahost.com.br/logos/52tvbc.png", TVBC
 #EXTGRP:Recomendados
 https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
+
+#EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="Ultra TV" tvg-logo="https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg", Ultra TV
+#EXTGRP:Recomendados
+https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 
 #EXTINF:-1 group-title="Recomendados" tvg-id="" tvg-name="Viva a Vida TV" tvg-logo="https://i.postimg.cc/L8dKWjPX/viva-vida-tv.png", Viva a Vida TV
 #EXTGRP:Recomendados
@@ -197,7 +197,7 @@ https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8
 
 #EXTINF:-1 group-title="TV Aberta" tvg-id="GloboInternacional.br" tvg-name="Globo TV (SP)" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg", Globo TV (SP)
 #EXTGRP:TV Aberta
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8
+https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8
 
 #EXTINF:-1 group-title="TV Aberta" tvg-id="RecordTV.br" tvg-name="Record" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png", Record
 #EXTGRP:TV Aberta
@@ -240,10 +240,6 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="AWTV.br" tvg-name="AWTV" tvg-logo="https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg", AWTV
 #EXTGRP:Variedades
 https://awtv.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="BoasNovas.br" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png", Boas Novas
-#EXTGRP:Variedades
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png", Canal 25 Jundiai
 #EXTGRP:Variedades
@@ -321,6 +317,10 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTGRP:Variedades
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
+#EXTINF:-1 group-title="Variedades" tvg-id="CulturaPara.br" tvg-name="Cultura Para" tvg-logo="https://i.imgur.com/5jPEI5c.png", Cultura Para
+#EXTGRP:Variedades
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades" tvg-id="DemaisTV.br" tvg-name="Demais TV" tvg-logo="https://i.imgur.com/Md3xibE.png", Demais TV
 #EXTGRP:Variedades
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -332,6 +332,10 @@ https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="EUTV.br" tvg-name="EUTV" tvg-logo="https://i.imgur.com/8PxpamC.png", EUTV
 #EXTGRP:Variedades
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="FalaLitoral.br" tvg-name="Fala Litoral" tvg-logo="https://i.imgur.com/NF6PL8O.png", Fala Litoral
+#EXTGRP:Variedades
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="GloboplayNovelas.br" tvg-name="Globoplay Novelas" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png", Globoplay Novelas
 #EXTGRP:Variedades
@@ -501,10 +505,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTGRP:Variedades
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="TVAliancaCatarinense.br" tvg-name="TV Alianca Catarinense" tvg-logo="https://i.imgur.com/eqmOhtP.png", TV Alianca Catarinense
-#EXTGRP:Variedades
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png", TV Alternativa
 #EXTGRP:Variedades
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -533,7 +533,7 @@ https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 #EXTGRP:Variedades
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg", TV Brasil Sinop
+#EXTINF:-1 group-title="Variedades" tvg-id="" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg", TV Brasil Sinop
 #EXTGRP:Variedades
 https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 
@@ -587,7 +587,7 @@ https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://i.imgur.com/0sksWse.png", TV Gazeta
 #EXTGRP:Variedades
-http://45.162.64.114/GAZETA/index.m3u8
+http://45.162.64.114/TV_GAZETA/index.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVGuarapari.br" tvg-name="TV Guarapari" tvg-logo="https://i.imgur.com/eDNzwK0.png", TV Guarapari
 #EXTGRP:Variedades
@@ -616,6 +616,10 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 group-title="Variedades" tvg-id="TVNatal.br" tvg-name="TV Natal" tvg-logo="https://i.imgur.com/wqQmQml.png", TV Natal
 #EXTGRP:Variedades
 http://185.228.163.146:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="" tvg-name="TV Novelas" tvg-logo="https://i.postimg.cc/T16pj5WG/tv-novelas.png", TV Novelas
+#EXTGRP:Variedades
+https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVPantanalMS.br" tvg-name="TV Pantanal MS" tvg-logo="https://i.imgur.com/0FOmktl.png", TV Pantanal MS
 #EXTGRP:Variedades
@@ -797,10 +801,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTGRP:Animação
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Animação" tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png", NickOnline Bob Esponja
-#EXTGRP:Animação
-https://bob.x1colegal.com/hls/stream.m3u8
-
 ### Canais Notícia
 
 #EXTINF:-1 group-title="Notícia" tvg-id="2353" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/sFcOZeo.png", AgroMais
@@ -939,10 +939,6 @@ https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTGRP:Entretenimento
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="TVVicosa.br" tvg-name="TV Vicosa" tvg-logo="https://i.imgur.com/TZF55f9.png", TV Vicosa
-#EXTGRP:Entretenimento
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="Entretenimento" tvg-id="TVZoom.br" tvg-name="TV Zoom" tvg-logo="https://i.imgur.com/jCGrjf5.png", TV Zoom
 #EXTGRP:Entretenimento
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -954,12 +950,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimento" tvg-id="UMATV.br" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/m0RVb79.png", UMA TV
 #EXTGRP:Entretenimento
 https://umatv.nuvemplay.live/hls/stream.m3u8
-
-### Canais Negócios
-
-#EXTINF:-1 group-title="Negócios" tvg-id="LaboralTV.br" tvg-name="Laboral TV" tvg-logo="https://tv.laboralsst.com.br/logo.png", Laboral TV
-#EXTGRP:Negócios
-https://tv.laboralsst.com.br/hls/stream.m3u8
 
 ### Canais Comédia
 
@@ -1288,6 +1278,10 @@ https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
 #EXTINF:-1 group-title="Religiosos" tvg-id="" tvg-name="Avivando Nações" tvg-logo="https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png", Avivando Nações
 #EXTGRP:Religiosos
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-id="" tvg-name="Canaã News TV" tvg-logo="https://i.postimg.cc/9fKggKJZ/cana-news.png", Canaã News TV
+#EXTGRP:Religiosos
+https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 
 #EXTINF:-1 group-title="Religiosos" tvg-id="" tvg-name="Rede Super TV" tvg-logo="https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg", Rede Super TV
 #EXTGRP:Religiosos
@@ -1646,10 +1640,6 @@ http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 http://186.219.52.187/tv_evangelizar/index.m3u8
 
 #EXTINF:-1 group-title="Alternativos" tvg-id="TVGazeta.br" tvg-name="TV Gazeta Alternativo 1" tvg-logo="https://i.imgur.com/0sksWse.png", TV Gazeta Alternativo 1
-#EXTGRP:Alternativos
-http://45.162.64.114/TV_GAZETA/index.m3u8
-
-#EXTINF:-1 group-title="Alternativos" tvg-id="TVGazeta.br" tvg-name="TV Gazeta Alternativo 2" tvg-logo="https://i.imgur.com/0sksWse.png", TV Gazeta Alternativo 2
 #EXTGRP:Alternativos
 http://186.219.52.187/gazeta/index.m3u8
 

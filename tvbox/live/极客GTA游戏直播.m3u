@@ -1,51 +1,57 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
 #EXTM3U name="88看球(动态联赛分组)"
-#EXTINF:-1 tvg-id="129771_0" tvg-name="14:00 日职联 鹿岛鹿角 vs 长崎航海 (线路A1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",14:00 日职联 鹿岛鹿角 vs 长崎航海 (线路A1)
-https://stymei1.pages.dev/live/129771/0
-#EXTINF:-1 tvg-id="129771_1" tvg-name="14:00 日职联 鹿岛鹿角 vs 长崎航海 (国内线路③)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",14:00 日职联 鹿岛鹿角 vs 长崎航海 (国内线路③)
-https://stymei1.pages.dev/live/129771/1
-#EXTINF:-1 tvg-id="129771_2" tvg-name="14:00 日职联 鹿岛鹿角 vs 长崎航海 (国内线路④)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",14:00 日职联 鹿岛鹿角 vs 长崎航海 (国内线路④)
-https://stymei1.pages.dev/live/129771/2
-#EXTINF:-1 tvg-id="129771_3" tvg-name="14:00 日职联 鹿岛鹿角 vs 长崎航海 (线路Q1)" tvg-logo="https://img1.gtimg.com/sports/pics/hv1/244/77/1794/116674729.png" group-title="日职联",14:00 日职联 鹿岛鹿角 vs 长崎航海 (线路Q1)
-https://stymei1.pages.dev/live/129771/3
-#EXTINF:-1 tvg-id="129772_0" tvg-name="14:00 日职联 大阪樱花 vs 川崎前锋 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 川崎前锋 (线路A1)
-https://stymei1.pages.dev/live/129772/0
-#EXTINF:-1 tvg-id="129772_1" tvg-name="14:00 日职联 大阪樱花 vs 川崎前锋 (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 川崎前锋 (国内线路④)
-https://stymei1.pages.dev/live/129772/1
-#EXTINF:-1 tvg-id="129772_2" tvg-name="14:00 日职联 大阪樱花 vs 川崎前锋 (国内线路⑤)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 川崎前锋 (国内线路⑤)
-https://stymei1.pages.dev/live/129772/2
-#EXTINF:-1 tvg-id="129772_3" tvg-name="14:00 日职联 大阪樱花 vs 川崎前锋 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 川崎前锋 (线路Q1)
-https://stymei1.pages.dev/live/129772/3
-#EXTINF:-1 tvg-id="129775_0" tvg-name="14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳超",14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (国内线路⑤)
-https://stymei1.pages.dev/live/129775/0
-#EXTINF:-1 tvg-id="129775_1" tvg-name="14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (国内线路⑥)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳超",14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (国内线路⑥)
-https://stymei1.pages.dev/live/129775/1
-#EXTINF:-1 tvg-id="129775_2" tvg-name="14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="澳超",14:00 澳超 麦克阿瑟FC vs 珀斯光荣 (线路Q1)
-https://stymei1.pages.dev/live/129775/2
-#EXTINF:-1 tvg-id="129773_0" tvg-name="15:00 中甲 延边龙鼎 vs 佛山南狮 (线路A1)" tvg-logo="https://cdn.leisu.com/teamflag_s/a1cf2929915ce4146a4635d4f8ae2e5d.png!avatar" group-title="中甲",15:00 中甲 延边龙鼎 vs 佛山南狮 (线路A1)
-https://stymei1.pages.dev/live/129773/0
-#EXTINF:-1 tvg-id="129773_1" tvg-name="15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路 M③)" tvg-logo="https://cdn.leisu.com/teamflag_s/a1cf2929915ce4146a4635d4f8ae2e5d.png!avatar" group-title="中甲",15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路 M③)
-https://stymei1.pages.dev/live/129773/1
-#EXTINF:-1 tvg-id="129773_2" tvg-name="15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路④)" tvg-logo="https://cdn.leisu.com/teamflag_s/a1cf2929915ce4146a4635d4f8ae2e5d.png!avatar" group-title="中甲",15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路④)
-https://stymei1.pages.dev/live/129773/2
-#EXTINF:-1 tvg-id="129773_3" tvg-name="15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路⑤)" tvg-logo="https://cdn.leisu.com/teamflag_s/a1cf2929915ce4146a4635d4f8ae2e5d.png!avatar" group-title="中甲",15:00 中甲 延边龙鼎 vs 佛山南狮 (国内线路⑤)
-https://stymei1.pages.dev/live/129773/3
-#EXTINF:-1 tvg-id="129773_4" tvg-name="15:00 中甲 延边龙鼎 vs 佛山南狮 (线路Q1)" tvg-logo="https://cdn.leisu.com/teamflag_s/a1cf2929915ce4146a4635d4f8ae2e5d.png!avatar" group-title="中甲",15:00 中甲 延边龙鼎 vs 佛山南狮 (线路Q1)
-https://stymei1.pages.dev/live/129773/4
-#EXTINF:-1 tvg-id="129774_0" tvg-name="15:00 日职联 水户蜀葵 vs 浦和红钻 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 水户蜀葵 vs 浦和红钻 (线路A1)
-https://stymei1.pages.dev/live/129774/0
-#EXTINF:-1 tvg-id="129774_1" tvg-name="15:00 日职联 水户蜀葵 vs 浦和红钻 (国内线路④)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 水户蜀葵 vs 浦和红钻 (国内线路④)
-https://stymei1.pages.dev/live/129774/1
-#EXTINF:-1 tvg-id="129774_2" tvg-name="15:00 日职联 水户蜀葵 vs 浦和红钻 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 水户蜀葵 vs 浦和红钻 (国内线路⑤)
-https://stymei1.pages.dev/live/129774/2
-#EXTINF:-1 tvg-id="129774_3" tvg-name="15:00 日职联 水户蜀葵 vs 浦和红钻 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 水户蜀葵 vs 浦和红钻 (线路Q1)
-https://stymei1.pages.dev/live/129774/3
-#EXTINF:-1 tvg-id="129776_0" tvg-name="15:30 韩K联 蔚山HD vs 富川FC (国内线路③)" tvg-logo="https://sd.qunliao.info/fastdfs7/M00/F9/97/rBUC6GepNn2AEEBQAACMrAjP_y4460.png" group-title="韩K联",15:30 韩K联 蔚山HD vs 富川FC (国内线路③)
-https://stymei1.pages.dev/live/129776/0
-#EXTINF:-1 tvg-id="129776_1" tvg-name="15:30 韩K联 蔚山HD vs 富川FC (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs7/M00/F9/97/rBUC6GepNn2AEEBQAACMrAjP_y4460.png" group-title="韩K联",15:30 韩K联 蔚山HD vs 富川FC (国内线路④)
-https://stymei1.pages.dev/live/129776/1
-#EXTINF:-1 tvg-id="129776_2" tvg-name="15:30 韩K联 蔚山HD vs 富川FC (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs7/M00/F9/97/rBUC6GepNn2AEEBQAACMrAjP_y4460.png" group-title="韩K联",15:30 韩K联 蔚山HD vs 富川FC (线路A1)
-https://stymei1.pages.dev/live/129776/2
-#EXTINF:-1 tvg-id="129776_3" tvg-name="15:30 韩K联 蔚山HD vs 富川FC (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs7/M00/F9/97/rBUC6GepNn2AEEBQAACMrAjP_y4460.png" group-title="韩K联",15:30 韩K联 蔚山HD vs 富川FC (线路Q1)
-https://stymei1.pages.dev/live/129776/3
+#EXTINF:-1 tvg-id="129823_0" tvg-name="15:00 日职联 町田泽维亚 vs 福冈黄蜂 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 町田泽维亚 vs 福冈黄蜂 (线路A1)
+https://stymei1.pages.dev/live/129823/0
+#EXTINF:-1 tvg-id="129823_1" tvg-name="15:00 日职联 町田泽维亚 vs 福冈黄蜂 (国内线路④)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 町田泽维亚 vs 福冈黄蜂 (国内线路④)
+https://stymei1.pages.dev/live/129823/1
+#EXTINF:-1 tvg-id="129823_2" tvg-name="15:00 日职联 町田泽维亚 vs 福冈黄蜂 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 町田泽维亚 vs 福冈黄蜂 (国内线路⑤)
+https://stymei1.pages.dev/live/129823/2
+#EXTINF:-1 tvg-id="129823_3" tvg-name="15:00 日职联 町田泽维亚 vs 福冈黄蜂 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="日职联",15:00 日职联 町田泽维亚 vs 福冈黄蜂 (线路Q1)
+https://stymei1.pages.dev/live/129823/3
+#EXTINF:-1 tvg-id="129824_0" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (国内线路④)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (国内线路④)
+https://stymei1.pages.dev/live/129824/0
+#EXTINF:-1 tvg-id="129824_1" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (国内线路⑤)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (国内线路⑤)
+https://stymei1.pages.dev/live/129824/1
+#EXTINF:-1 tvg-id="129824_2" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (线路A1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (线路A1)
+https://stymei1.pages.dev/live/129824/2
+#EXTINF:-1 tvg-id="129824_3" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (线路Q1)
+https://stymei1.pages.dev/live/129824/3
+#EXTINF:-1 tvg-id="129824_4" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (线路C5)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (线路C5)
+https://stymei1.pages.dev/live/129824/4
+#EXTINF:-1 tvg-id="129824_5" tvg-name="15:30 K联赛 首尔FC vs 尚州尚武 (线路C5)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="K联赛",15:30 K联赛 首尔FC vs 尚州尚武 (线路C5)
+https://stymei1.pages.dev/live/129824/5
+#EXTINF:-1 tvg-id="129825_0" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (国内线路③)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (国内线路③)
+https://stymei1.pages.dev/live/129825/0
+#EXTINF:-1 tvg-id="129825_1" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (国内线路④)
+https://stymei1.pages.dev/live/129825/1
+#EXTINF:-1 tvg-id="129825_2" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (线路A1)
+https://stymei1.pages.dev/live/129825/2
+#EXTINF:-1 tvg-id="129825_3" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (线路Q1)
+https://stymei1.pages.dev/live/129825/3
+#EXTINF:-1 tvg-id="129825_4" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (线路C5)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (线路C5)
+https://stymei1.pages.dev/live/129825/4
+#EXTINF:-1 tvg-id="129825_5" tvg-name="15:30 K联赛 浦项制铁 vs 安养FC (线路C5)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png" group-title="K联赛",15:30 K联赛 浦项制铁 vs 安养FC (线路C5)
+https://stymei1.pages.dev/live/129825/5
+#EXTINF:-1 tvg-id="129826_0" tvg-name="15:30 K联赛 江原FC vs 仁川联 (国内线路③)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (国内线路③)
+https://stymei1.pages.dev/live/129826/0
+#EXTINF:-1 tvg-id="129826_1" tvg-name="15:30 K联赛 江原FC vs 仁川联 (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (国内线路④)
+https://stymei1.pages.dev/live/129826/1
+#EXTINF:-1 tvg-id="129826_2" tvg-name="15:30 K联赛 江原FC vs 仁川联 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (线路A1)
+https://stymei1.pages.dev/live/129826/2
+#EXTINF:-1 tvg-id="129826_3" tvg-name="15:30 K联赛 江原FC vs 仁川联 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (线路Q1)
+https://stymei1.pages.dev/live/129826/3
+#EXTINF:-1 tvg-id="129826_4" tvg-name="15:30 K联赛 江原FC vs 仁川联 (线路C5)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (线路C5)
+https://stymei1.pages.dev/live/129826/4
+#EXTINF:-1 tvg-id="129826_5" tvg-name="15:30 K联赛 江原FC vs 仁川联 (线路C5)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png" group-title="K联赛",15:30 K联赛 江原FC vs 仁川联 (线路C5)
+https://stymei1.pages.dev/live/129826/5
+#EXTINF:-1 tvg-id="129827_0" tvg-name="16:00 中甲 陕西联合 vs 广州豹 (国内线路 M③)" tvg-logo="https://sd.qunliao.info/fastdfs6/M00/D4/41/rBUCgGS1Gb6APremAAA5s4dl3B0404.png" group-title="中甲",16:00 中甲 陕西联合 vs 广州豹 (国内线路 M③)
+https://stymei1.pages.dev/live/129827/0
+#EXTINF:-1 tvg-id="129827_1" tvg-name="16:00 中甲 陕西联合 vs 广州豹 (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs6/M00/D4/41/rBUCgGS1Gb6APremAAA5s4dl3B0404.png" group-title="中甲",16:00 中甲 陕西联合 vs 广州豹 (国内线路④)
+https://stymei1.pages.dev/live/129827/1
+#EXTINF:-1 tvg-id="129827_2" tvg-name="16:00 中甲 陕西联合 vs 广州豹 (国内线路⑤)" tvg-logo="https://sd.qunliao.info/fastdfs6/M00/D4/41/rBUCgGS1Gb6APremAAA5s4dl3B0404.png" group-title="中甲",16:00 中甲 陕西联合 vs 广州豹 (国内线路⑤)
+https://stymei1.pages.dev/live/129827/2
+#EXTINF:-1 tvg-id="129827_3" tvg-name="16:00 中甲 陕西联合 vs 广州豹 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs6/M00/D4/41/rBUCgGS1Gb6APremAAA5s4dl3B0404.png" group-title="中甲",16:00 中甲 陕西联合 vs 广州豹 (线路A1)
+https://stymei1.pages.dev/live/129827/3
+#EXTINF:-1 tvg-id="129827_4" tvg-name="16:00 中甲 陕西联合 vs 广州豹 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs6/M00/D4/41/rBUCgGS1Gb6APremAAA5s4dl3B0404.png" group-title="中甲",16:00 中甲 陕西联合 vs 广州豹 (线路Q1)
+https://stymei1.pages.dev/live/129827/4
