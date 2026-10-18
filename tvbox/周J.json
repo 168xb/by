@@ -1,6 +1,6 @@
 {
-  "spider": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
-  "logo": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/ext/app_icon.png",
+  "spider": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;f9538f89e13adf0cfbca7909ae555ab6",
+  "logo": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/ext/app_icon.png",
   "lives": [
     {
       "name": "🍬移动🍬",
@@ -21,7 +21,7 @@
     {
       "name": "🍬电信🍬",
       "type": 0,
-      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}"
@@ -40,7 +40,7 @@
       "key": "豆瓣",
       "name": "🍬糖果影视🍬",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/js/豆瓣.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/js/豆瓣.js",
       "searchable": 0,
       "changeable": 1
     },
@@ -61,7 +61,7 @@
       "key": "哔站记录片",
       "name": "🍬🅱哔站影视",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/js/哔哩纪录片.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/js/哔哩纪录片.js",
       "searchable": 1,
       "ext": ""
     },
@@ -69,7 +69,7 @@
       "key": "哔站教育",
       "name": "🍬🅱哔站教育",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/js/哔站教育.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/js/哔站教育.js",
       "searchable": 0,
       "changeable": 0,
       "ext": "",
@@ -254,8 +254,8 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/jar/FM.jar",
-      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/zhoujck/config/main/ext/market.json"
+      "jar": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/jar/FM.jar",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/zhoujck/config/main/ext/market.json"
     }
   ],
   "parses": [

@@ -6,7 +6,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
@@ -57,6 +57,12 @@
       "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
       "searchable": 0,
       "changeable": 1
+    },
+    {
+      "key": "py自动简化版",
+      "name": "🌾ok影视自动推送",
+      "type": 3,
+      "api": "http://宝盒接口.top/lib/PY助手.py"
     },
     {
       "key": "天天",
@@ -586,7 +592,7 @@
       "key": "儿童",
       "name": "儿童📚启蒙",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -594,7 +600,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
     {
       "key": "csp_少儿",
