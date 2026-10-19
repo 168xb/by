@@ -50,7 +50,6 @@ fy|♨️枫叶｜免扫|type: 3|api: https://cdn.akaere.online/https://raw.gith
 py_蓝莓短剧|✨蓝新公众号【盒子迷MAX】|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_蓝莓短剧.py
 py_偷乐短剧|✨偷乐短剧✨|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_偷乐短剧.py
 py_甜圈短剧|✨甜圈短剧✨|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_甜圈短剧.py
-py自动简化版|🌾ok影视自动推送|type: 3|api: http://宝盒接口.top/lib/PY助手.py
 看剧PY|七星·看剧影视|type: 3|api: https://15487.kstore.space/py/AppToV5.py
 猎手PY|👌猎手丨[1080P]|type: 3|api: https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py
 1905PY|七星·经典电影|type: 3|api: https://15487.kstore.space/py/1905.py
@@ -264,6 +263,7 @@ kwms|🎶裤硪丨音乐合集|type: 3|api: https://wget.la/raw.githubuserconten
 裤佬爱剧PY|酷喵🐱皮皮虾|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py
 smdj|酷喵🐱星芽短剧②|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星芽短剧.py
 hmjc|酷喵🐱河马剧场②|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py
+py自动简化版|🌾ok影视自动推送|type: 3|api: http://宝盒接口.top/lib/PY助手.py
 看剧影视|聚合三方🥇看剧🥇影视 [0.1s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
 py_yunduo|云朵影视[py]|type: 3|api: https://clun.top/py/yunduo.py
 py_国外|国外剧情[py]|type: 3|api: https://clun.top/py/py_guowaiju.py

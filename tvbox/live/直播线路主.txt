@@ -67,7 +67,7 @@ CCTV怀旧剧场,http://110.42.52.180:6688/live/live.php?token=Hhx0pHsUHTh4&id=c
 
 🐼中央电视备用,#genre#
 
-CCTV1,http://110.42.52.180:6688/live/live.php?token=ZY-6195Jk83y556PG4fKtRnCR6Az0UPvw3paVd6OcwPCe%2FF%2Bw&id=cctv1&zy.m3u8@0@1@@token@user_agent@CCTV1综合
+CCTV1,http://110.42.52.180:6688/live/live.php?token=D4Ny3ZeP&id=cctv1&zy.m3u8@0@1@@token@user_agent@CCTV1综合
 CCTV2,http://110.42.52.180:6688/live/live.php?token=D4Ny3ZeP&id=cctv2&zy.m3u8@0@1@@token@user_agent@CCTV2财经
 CCTV3,http://110.42.52.180:6688/live/live.php?token=D4Ny3ZeP&id=cctv3&zy.m3u8@0@1@@token@user_agent@CCTV3综艺
 CCTV4,http://110.42.52.180:6688/live/live.php?token=D4Ny3ZeP&id=cctv4&zy.m3u8@0@1@@token@user_agent@CCTV4中文国际
