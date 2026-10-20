@@ -47,6 +47,8 @@ fy|♨️枫叶｜免扫|type: 3|api: https://cdn.akaere.online/https://raw.gith
 七星短剧|🎬七星丨短剧|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py
 爱听音乐|🎶爱听｜音乐歌曲|type: 3|api: https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py
 网络直播|🌇｜网络｜直播|type: 3|api: https://chigua.eu.org/py/网络直播.py
+红果短剧|🍎红果丨短剧爽看|type: 3|api: https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py
+世界听书|世界 • 听书|type: 3|api: https://oss-v1.wangmeipo.cn/236/世界听书.py
 py_蓝莓短剧|✨蓝新公众号【盒子迷MAX】|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_蓝莓短剧.py
 py_偷乐短剧|✨偷乐短剧✨|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_偷乐短剧.py
 py_甜圈短剧|✨甜圈短剧✨|type: 3|api: https://cnb.cool/fish2018/duanju/-/git/raw/main/py/py_甜圈短剧.py
@@ -61,7 +63,6 @@ py_甜圈短剧|✨甜圈短剧✨|type: 3|api: https://cnb.cool/fish2018/duanju
 bl|❤小哩｜4K测试|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py
 妙看|🌀妙看｜1920|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py
 多多|🌀多多｜1920|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py
-红果短剧|🍎红果丨短剧爽看|type: 3|api: https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py
 韩国|👖韩国|type: 3|api: https://jsnz.pages.dev/f/26511242.py
 聚合|👖聚合|type: 3|api: https://jsnz.pages.dev/f/4df9fb60.py
 5|👖影视|type: 3|api: https://jsnz.pages.dev/f/9e53615c.py
@@ -93,7 +94,7 @@ nmvm|📺央视直播|type: 3|api: http://xn--oev29b.top/files/py/央视网.py
 多多0影视|💕 多多影视.py(缝合)|type: 3|api: https://lytvs.top/py/duoduoyingshi.py
 戒|🐌┃视界┃秒播|type: 3|api: https://盒子迷.top/py/界.py
 山有木兮|🌳┃木兮┃秒播|type: 3|api: http://mytv6688.xyz/pyplugin/木兮.py
-py_文才|聚合🥇三方🥇文才🥇影视 [0.2s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py
+py_文才|文才影视[py]|type: 3|api: https://clun.top/py/文才影视.py
 苹果py|🌟┃苹果┃短剧|type: 3|api: https://盒子迷.top/py/hgdj.py
 瓜子影视|酷喵🐱瓜子|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py
 bilibili|B站｜星源|type: 3|api: https://11405.kstore.space/xiaye/js/哔哩合集.py
@@ -148,6 +149,7 @@ py_4KAV|4KAV[py]|type: 3|api: https://clun.top/py/4KAV.py
 py_YYMP3|YYMP3[py]|type: 3|api: https://clun.top/py/yymp3.py
 py_mifun|MiFun｜动漫|type: 3|api: https://clun.top/py/mifun.py
 py_yinhuaone|樱花｜动漫|type: 3|api: https://clun.top/py/yinhuaone.py
+看剧影视|聚合三方🥇看剧🥇影视 [0.2s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
 山楂影视|💥｜山楂 | 影视|type: 3|api: https://chigua.eu.org/py/山楂影视.py
 哔哩直播py|🌇｜哔哩｜直播|type: 3|api: https://chigua.eu.org/py/哔哩直播.py
 爱听音乐py|♦｜爱听｜音乐|type: 3|api: https://chigua.eu.org/py/爱听音乐.py
@@ -264,7 +266,6 @@ kwms|🎶裤硪丨音乐合集|type: 3|api: https://wget.la/raw.githubuserconten
 smdj|酷喵🐱星芽短剧②|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星芽短剧.py
 hmjc|酷喵🐱河马剧场②|type: 3|api: https://cdn.akaere.online/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py
 py自动简化版|🌾ok影视自动推送|type: 3|api: http://宝盒接口.top/lib/PY助手.py
-看剧影视|聚合三方🥇看剧🥇影视 [0.1s]|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
 py_yunduo|云朵影视[py]|type: 3|api: https://clun.top/py/yunduo.py
 py_国外|国外剧情[py]|type: 3|api: https://clun.top/py/py_guowaiju.py
 MiFun|MiFun｜动漫|type: 3|api: https://clun.top/py/MiFunP.py

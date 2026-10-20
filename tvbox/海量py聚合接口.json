@@ -860,9 +860,9 @@
     },
     {
       "key": "py_文才",
-      "name": "聚合🥇三方🥇文才🥇影视 [0.2s]",
+      "name": "文才影视[py]",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
+      "api": "https://clun.top/py/文才影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1256,7 +1256,7 @@
     },
     {
       "key": "看剧影视",
-      "name": "聚合三方🥇看剧🥇影视 [0.1s]",
+      "name": "聚合三方🥇看剧🥇影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
       "searchable": 1,
@@ -2483,6 +2483,15 @@
       "name": "🌾ok影视自动推送",
       "type": 3,
       "api": "http://宝盒接口.top/lib/PY助手.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "世界听书",
+      "name": "世界 • 听书",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

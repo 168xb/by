@@ -3,23 +3,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="中女甲 河北雪如意女足 vs 上海申花女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6b13e8b4c1cf4f6333ecc4f5131b7482.png" group-title="足球",中女甲 河北雪如意女足 vs 上海申花女足
-http://47.100.99.38:28989/football/8514744
-#EXTINF:-1 tvg-name="中女甲 武汉武体三镇女足 vs 福建泉州南安女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6b13e8b4c1cf4f6333ecc4f5131b7482.png" group-title="足球",中女甲 武汉武体三镇女足 vs 福建泉州南安女足
-http://47.100.99.38:28989/football/8514747
-#EXTINF:-1 tvg-name="中女甲 重庆奥体女足 vs 上海盛丽女足B队" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6b13e8b4c1cf4f6333ecc4f5131b7482.png" group-title="足球",中女甲 重庆奥体女足 vs 上海盛丽女足B队
-http://47.100.99.38:28989/football/8514749
-#EXTINF:-1 tvg-name="中女甲 河南女足 vs 青岛西海岸女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6b13e8b4c1cf4f6333ecc4f5131b7482.png" group-title="足球",中女甲 河南女足 vs 青岛西海岸女足
-http://47.100.99.38:28989/football/8514750
-#EXTINF:-1 tvg-name="俄乙B 乌拉尔B队 vs 伊热夫斯克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6d69860d9e4e8140fce94361b7729b10.png" group-title="足球",俄乙B 乌拉尔B队 vs 伊热夫斯克
-http://47.100.99.38:28989/football/8497184
-#EXTINF:-1 tvg-name="印班超 哈尔FC vs SC班加罗尔" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 哈尔FC vs SC班加罗尔
-http://47.100.99.38:28989/football/8528975
-#EXTINF:-1 tvg-name="香港超 大埔 vs 冠忠南区" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/f3f3c0903de5b5aa90d328197d8c7610.png" group-title="足球",香港超 大埔 vs 冠忠南区
-http://47.100.99.38:28989/football/8449220
-#EXTINF:-1 tvg-name="菲NCAA 圣贝达红狮 vs EAC将军" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA 圣贝达红狮 vs EAC将军
-http://47.100.99.38:28989/basketball/8524934
-#EXTINF:-1 tvg-name="NODWIN关键时刻 Genone vs FRZ.R" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrN6I9qhxvIxzjIKSagP-TJfrKH4" group-title="电竞",NODWIN关键时刻 Genone vs FRZ.R
-http://47.100.99.38:28989/esport/26804
-#EXTINF:-1 tvg-name="CCT 2026 欧洲 PCIFIC vs Illyrians" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 PCIFIC vs Illyrians
-http://47.100.99.38:28989/esport/26836
+#EXTINF:-1 tvg-name="印尼超 伊森穆朗 vs 爪哇联" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="足球",印尼超 伊森穆朗 vs 爪哇联
+http://47.100.99.38:28989/football/8467736
+#EXTINF:-1 tvg-name="菲NCAA CSJL骑士 vs CSB开拓者" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA CSJL骑士 vs CSB开拓者
+http://47.100.99.38:28989/basketball/8524968
+#EXTINF:-1 tvg-name="澳女篮 阿德莱德闪电女篮 vs 汤斯维尔火力女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/adfacd9ff5bd3d2c98649d33a48acd92.png" group-title="篮球",澳女篮 阿德莱德闪电女篮 vs 汤斯维尔火力女篮
+http://47.100.99.38:28989/basketball/8447673
+#EXTINF:-1 tvg-name="MaceMedia VOID秋季赛 Cw vs WXM" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkauPPiPWkFaZLYRb0IipKZoo05e" group-title="电竞",MaceMedia VOID秋季赛 Cw vs WXM
+http://47.100.99.38:28989/esport/26616
+#EXTINF:-1 tvg-name="独联体LAN锦标赛 TrafficPills vs Nexora" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FoI9XSTuLpijf8vO21YW7-sVE4UJ" group-title="电竞",独联体LAN锦标赛 TrafficPills vs Nexora
+http://47.100.99.38:28989/esport/26917
+#EXTINF:-1 tvg-name="NODWIN关键时刻 Genone vs BW" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrN6I9qhxvIxzjIKSagP-TJfrKH4" group-title="电竞",NODWIN关键时刻 Genone vs BW
+http://47.100.99.38:28989/esport/26891
+#EXTINF:-1 tvg-name="CCT 2026 欧洲 FRZ.R vs Azuolas" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 FRZ.R vs Azuolas
+http://47.100.99.38:28989/esport/26897
