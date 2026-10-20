@@ -401,6 +401,16 @@
       "filterable": 1
     },
     {
+      "key": "非凡",
+      "name": "聚合非凡┃影视 [0.7s]",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "push_agent",
       "name": "聚合推送┃链接",
       "type": 3,
@@ -465,16 +475,35 @@
       "filterable": 1
     },
     {
-      "key": "py_文才",
-      "name": "聚合🥇三方🥇文才🥇影视 [0.2s]",
+      "key": "瓜子影视",
+      "name": "聚合三方🥇瓜子🥇影视 [0.2s]",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
+      "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
-      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
+    },
+    {
+      "key": "永1乐",
+      "name": "聚合🥇三方永乐🥇影视 [0.2s]",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
+    },
+    {
+      "key": "看剧影视",
+      "name": "聚合三方🥇看剧🥇影视 [0.2s]",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
+      "ext": "http://43.248.117.123:4680",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/cbc3e3de8d1603cfd4a723ff2128a08973715caa/9527.jar",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/4ce11434656bc1a8001647e3d42cf17b42392ef1/lmw.jar;md5;62cd1dd7cf867a100d8613907d69b665",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -24,6 +24,20 @@
       }
     },
     {
+      "key": "网盘分享",
+      "name": "🌐网盘丨资源库",
+      "type": 3,
+      "api": "csp_PanShare",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+    },
+    {
       "key": "指南",
       "name": "💿原盘｜4K_iso",
       "type": 3,
@@ -31,6 +45,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kzn.cc"
+        ]
+      },
       "timeout": 60
     },
     {
@@ -172,13 +191,35 @@
       "timeout": 60
     },
     {
-      "key": "宅男网盘",
-      "name": "💯宅男丨网盘资源",
-      "api": "csp_ZhaiNan",
+      "key": "libvio",
+      "name": "💯立播丨网盘资源",
       "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "小丑",
+      "name": "🤡小丑丨4K网盘",
+      "type": 3,
+      "api": "csp_4KZhinan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kxc.com"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "hdmoli",
+      "name": "🅾️HDmoli丨网盘资源",
+      "type": 3,
+      "api": "csp_HDMoli",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "sou4k",
@@ -206,15 +247,6 @@
         ]
       },
       "timeout": 60
-    },
-    {
-      "key": "盘链",
-      "name": "🅿️盘链丨网盘资源",
-      "api": "csp_PingLian",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Juying",
@@ -542,19 +574,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "葫芦",
-      "name": "🌓王林丨蓝光影视",
-      "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
-      "ext": {
-        "host": "https://wget.la/raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
-        "key": "8R33VQSxzmCaHpEX",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "天堂1",
@@ -1139,18 +1158,36 @@
       }
     },
     {
-      "key": "网盘分享",
-      "name": "🌐网盘丨资源库",
+      "key": "AList",
+      "name": "🌐Alist丨资源",
       "type": 3,
-      "api": "csp_PanShare",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "timeout": 60,
+      "playerType": 2,
       "style": {
-        "type": "list",
-        "ratio": 1.433
+        "type": "list"
       },
-      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+      "ext": "https://8815.kstore.vip/tvbox/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "🌐WebDav┃资源",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "timeout": 60,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://8815.kstore.vip/tvbox/json/webdav.json"
     },
     {
       "key": "本地",
