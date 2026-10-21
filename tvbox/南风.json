@@ -1,7 +1,7 @@
 {
   "spider": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
-  "logo": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
+  "logo": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
   "sites": [
     {
       "key": "Tg豆瓣",
@@ -14,8 +14,8 @@
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
         "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
       }
     },
     {
@@ -33,7 +33,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -94,26 +94,6 @@
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
         "version": "3.0.2.4",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "华谊",
-      "name": "🅰华谊",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "华谊",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
         "decrypt": "1"
       }
     },
@@ -223,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
     },
     {
       "key": "农民",
@@ -233,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
     },
     {
       "key": "面包",
@@ -389,6 +369,49 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV6Tg",
+      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+    },
+    {
+      "name": "🚀秋天",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "NewGrV2",
+      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+    },
+    {
+      "name": "⭐杜北",
+      "key": "Dubk",
+      "type": 3,
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Dubk",
+      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+    },
+    {
+      "name": "⭐荐片",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "JPian",
+      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+    },
+    {
+      "name": "⭐爱看",
+      "key": "AiBot",
+      "type": 3,
+      "api": "csp_AiBotAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
     },
     {
@@ -646,7 +669,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -659,7 +682,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.qwmkv.com",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -677,7 +700,7 @@
             "花絮"
           ]
         },
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -688,14 +711,14 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://woggpan.888484.xyz",
           "https://www.wogg.net",
           "https://wogg.xxooo.cf",
           "http://woggpan.xxooo.cf"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -706,14 +729,14 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://333.333291.xyz/",
           "https://www.muou.asia",
           "https://666.666291.xyz",
           "https://123.666291.xyz"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -724,7 +747,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://www.hjzhencai.top/"
         ]
@@ -738,11 +761,11 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "http://38.76.197.172:16969/"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -753,11 +776,11 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "http://38.76.197.172:12521/"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -785,13 +808,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://woog.nxog.eu.org",
           "https://ogkk.nxog.eu.org",
           "https://woog.430520.xyz"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -802,13 +825,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://yydsys.de5.net",
           "https://tv.yydsys.cc",
           "https://tv.214521.xyz"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -819,13 +842,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": [
           "https://shandian.blog",
           "https://sd.sduc.site",
           "https://sduc.cloud/"
         ],
-        "filter": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+        "filter": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       }
     },
     {
@@ -838,7 +861,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://1.star2.cn",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -850,7 +873,7 @@
       "changeable": 0,
       "ext": {
         "siteUrl": "https://4kzn.cc",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -862,7 +885,7 @@
       "changeable": 0,
       "ext": {
         "siteUrl": "https://gy.lubao2.de5.net",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -874,8 +897,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "share": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "share": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
       }
     },
     {
@@ -890,8 +913,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
       }
     },
     {
@@ -905,7 +928,7 @@
       "ext": {
         "count": 4,
         "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -916,7 +939,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {
@@ -928,7 +951,7 @@
       "quickSearch": 1,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
       "style": {
         "type": "rect",
@@ -967,8 +990,8 @@
       "key": "酷我听书",
       "name": "📚酷我听书",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/酷我听书.js"
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/酷我听书.js"
     },
     {
       "key": "哔哩",
@@ -983,8 +1006,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1001,8 +1024,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bliych.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bliych.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1019,8 +1042,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1037,8 +1060,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1055,8 +1078,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1073,8 +1096,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1091,8 +1114,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     },
@@ -1109,8 +1132,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
-        "commonConfig": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
+        "commonConfig": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       }
     }
@@ -1270,7 +1293,7 @@
     {
       "name": "Yoursmile",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
