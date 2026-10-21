@@ -3,17 +3,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="印尼超 伊森穆朗 vs 爪哇联" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="足球",印尼超 伊森穆朗 vs 爪哇联
-http://47.100.99.38:28989/football/8467736
-#EXTINF:-1 tvg-name="菲NCAA CSJL骑士 vs CSB开拓者" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA CSJL骑士 vs CSB开拓者
-http://47.100.99.38:28989/basketball/8524968
-#EXTINF:-1 tvg-name="澳女篮 阿德莱德闪电女篮 vs 汤斯维尔火力女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/adfacd9ff5bd3d2c98649d33a48acd92.png" group-title="篮球",澳女篮 阿德莱德闪电女篮 vs 汤斯维尔火力女篮
-http://47.100.99.38:28989/basketball/8447673
-#EXTINF:-1 tvg-name="MaceMedia VOID秋季赛 Cw vs WXM" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkauPPiPWkFaZLYRb0IipKZoo05e" group-title="电竞",MaceMedia VOID秋季赛 Cw vs WXM
-http://47.100.99.38:28989/esport/26616
-#EXTINF:-1 tvg-name="独联体LAN锦标赛 TrafficPills vs Nexora" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FoI9XSTuLpijf8vO21YW7-sVE4UJ" group-title="电竞",独联体LAN锦标赛 TrafficPills vs Nexora
-http://47.100.99.38:28989/esport/26917
-#EXTINF:-1 tvg-name="NODWIN关键时刻 Genone vs BW" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrN6I9qhxvIxzjIKSagP-TJfrKH4" group-title="电竞",NODWIN关键时刻 Genone vs BW
-http://47.100.99.38:28989/esport/26891
-#EXTINF:-1 tvg-name="CCT 2026 欧洲 FRZ.R vs Azuolas" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 FRZ.R vs Azuolas
-http://47.100.99.38:28989/esport/26897
+#EXTINF:-1 tvg-name="越南丙 平定 vs 河内公牛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e522e142e1fc7669c5f052823b3422d4.png" group-title="足球",越南丙 平定 vs 河内公牛
+http://47.100.99.38:28989/football/8529615
+#EXTINF:-1 tvg-name="越南丙 胡志明市STP食品 vs 雄王安江" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e522e142e1fc7669c5f052823b3422d4.png" group-title="足球",越南丙 胡志明市STP食品 vs 雄王安江
+http://47.100.99.38:28989/football/8529616
+#EXTINF:-1 tvg-name="中冠 吴川青年 vs 邢台沙河万率" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/2dab9bf127c0542fd6937a781ae85624.png" group-title="足球",中冠 吴川青年 vs 邢台沙河万率
+http://47.100.99.38:28989/football/8521953
+#EXTINF:-1 tvg-name="乌克U19 利维贝雷U19 vs 米达雷治U19" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/101759df9367e44dd566cf6b868b85bf.png" group-title="足球",乌克U19 利维贝雷U19 vs 米达雷治U19
+http://47.100.99.38:28989/football/8527800
+#EXTINF:-1 tvg-name="菲学联 德拉萨大学绿色弓箭手 vs 东方大学红勇士" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/7380ba45ccf72ec8b78949dee6bfa5de.png" group-title="篮球",菲学联 德拉萨大学绿色弓箭手 vs 东方大学红勇士
+http://47.100.99.38:28989/basketball/8529397
+#EXTINF:-1 tvg-name="MaceMedia VOID秋季赛 Rare Atom vs Lynn Vision" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkauPPiPWkFaZLYRb0IipKZoo05e" group-title="电竞",MaceMedia VOID秋季赛 Rare Atom vs Lynn Vision
+http://47.100.99.38:28989/esport/26960
+#EXTINF:-1 tvg-name="NODWIN关键时刻 BRUTE vs Ex-6666" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrN6I9qhxvIxzjIKSagP-TJfrKH4" group-title="电竞",NODWIN关键时刻 BRUTE vs Ex-6666
+http://47.100.99.38:28989/esport/26901
+#EXTINF:-1 tvg-name="CCT 2026 欧洲 Baks vs Lfo 10" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 Baks vs Lfo 10
+http://47.100.99.38:28989/esport/26902
+#EXTINF:-1 tvg-name="独联体LAN锦标赛 VP vs BP" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FoI9XSTuLpijf8vO21YW7-sVE4UJ" group-title="电竞",独联体LAN锦标赛 VP vs BP
+http://47.100.99.38:28989/esport/26999
+#EXTINF:-1 tvg-name="独联体LAN锦标赛 Xmeta vs Evo elite" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FoI9XSTuLpijf8vO21YW7-sVE4UJ" group-title="电竞",独联体LAN锦标赛 Xmeta vs Evo elite
+http://47.100.99.38:28989/esport/27000
