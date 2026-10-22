@@ -141,7 +141,7 @@ acfun|A站｜星源|type: 1|api: https://xy.183933.xyz/php/acfun.php/provide/vod
 金鹰资源|🌼金鹰┃资源🌼|type: 1|api: https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json
 豆瓣采集资源|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
 aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
-说明|⚠️说明|type: 1|api: https://git.yylx.win/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
+说明|⚠️说明|type: 1|api: https://cdn.akaere.online/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
 淘片|淘片｜平安™|type: 0|api: https://taopianapi.com/cjapi/mc/vod/xml
 小灯塔科学|🌏小灯塔科学|type: 1|api: csp_Bili
 暴風|暴風|type: 1|api: http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?

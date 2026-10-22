@@ -167,15 +167,17 @@ MIGUEL-TOLD YOU SO,http://em.21dtv.com/songs/60148889.mkv
 咪咕4K,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8?servicetype=1
 咪咕4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 咪咕4K,http://45.192.97.170:8880/play/2745.m3u8
-咪咕4K,https://tv123.cc.cd/live.php?ch=2276&sid=60735c3ae73a2e4fdce929a26db6fb18&exp=1792615024&sig=fe1c81107881b3a2e8b4e5d387a3e112e5c0e2937bed59895da56898d1b30899
+咪咕4K,https://tv123.cc.cd/live.php?ch=1923&sid=b2669f09dcd13e60b6cee4e7ebb47b40&exp=1792701533&sig=511306823b626a03d09f093688a691596c22f24ebd229a5e915eaae68eaa1896
 咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
+咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226938/1.m3u8
 咪咕4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226989/1.m3u8
 咪咕4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226938/1.m3u8$rrs01
 咪咕4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226989/1.m3u8$rrs01
+咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226991/1.m3u8
 咪咕4K-2,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226991/1.m3u8$rrs01
-咪咕4K-2,https://tv123.cc.cd/live.php?ch=2277&sid=60735c3ae73a2e4fdce929a26db6fb18&exp=1792615024&sig=cfb0290c23b695ef3c368816708a7be644c1b4cd66fe5dfda24a21aa7bded5cc
+咪咕4K-2,https://tv123.cc.cd/live.php?ch=1924&sid=b2669f09dcd13e60b6cee4e7ebb47b40&exp=1792701533&sig=0f3d41189982af0afcd618f9fcfca6f59df12792cc7c4c64b76205fd315dec2e
 咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 咪咕4K-2「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 咪咕4K[3840*2160],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
@@ -240,8 +242,9 @@ MIGUEL-TOLD YOU SO,http://em.21dtv.com/songs/60148889.mkv
 咪咕体育|飞扬直播,http://k.061899.xyz/m.php?id=mgty
 咪咕体育|飞扬直播,http://m.061899.xyz/mg/mgty
 咪咕体育日报 undefined 咪咕体育日报 第149期 08:00,http://wfenf.x3322.net:7788/966489958
-咪咕体育日报 undefined 咪咕体育日报 第217期 08:00,https://migu.249051.xyz/968047871
 咪咕体育日报 undefined 咪咕体育日报 第218期 08:00,https://migu.249051.xyz/968047887
+咪咕体育日报 undefined 咪咕体育日报 第219期 08:00,http://113.98.11.46:3000/968047904
+咪咕体育日报 undefined 咪咕体育日报 第219期 08:00,https://migu.249051.xyz/968047904
 咪咕体育日报 undefined 咪咕体育日报 第82期 08:00,http://101.200.122.188:1234/964146308
 咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 咪咕游戏赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
