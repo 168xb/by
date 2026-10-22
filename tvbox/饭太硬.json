@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/23a0210a87314011a88b149d6f04722e.jpg;md5;654fb7dcb0aeaaea7dba0e662395f38e",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单",
+      "name": "豆豆┃片单 <修复所有>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -385,8 +385,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -401,8 +401,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -529,8 +529,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -656,7 +656,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://git.yylx.win/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
