@@ -3,21 +3,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="印班超 泰尼高FF vs 皇家班加罗尔" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 泰尼高FF vs 皇家班加罗尔
-http://47.100.99.38:28989/football/8528891
-#EXTINF:-1 tvg-name="印尼超 佩斯克谏义里 vs 斯莱曼" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="足球",印尼超 佩斯克谏义里 vs 斯莱曼
-http://47.100.99.38:28989/football/8467741
-#EXTINF:-1 tvg-name="印尼超 PSM望加锡 vs 帕尔斯巴亚" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="足球",印尼超 PSM望加锡 vs 帕尔斯巴亚
-http://47.100.99.38:28989/football/8467742
-#EXTINF:-1 tvg-name="澳女篮 南区飞人女篮 vs 塔斯马尼亚珍宝女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/adfacd9ff5bd3d2c98649d33a48acd92.png" group-title="篮球",澳女篮 南区飞人女篮 vs 塔斯马尼亚珍宝女篮
-http://47.100.99.38:28989/basketball/8447674
-#EXTINF:-1 tvg-name="MaceMedia VOID秋季赛 VA vs Rare Atom" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkauPPiPWkFaZLYRb0IipKZoo05e" group-title="电竞",MaceMedia VOID秋季赛 VA vs Rare Atom
-http://47.100.99.38:28989/esport/27007
-#EXTINF:-1 tvg-name="NODWIN关键时刻 BW vs Ex-6666" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrN6I9qhxvIxzjIKSagP-TJfrKH4" group-title="电竞",NODWIN关键时刻 BW vs Ex-6666
-http://47.100.99.38:28989/esport/27028
-#EXTINF:-1 tvg-name="CCT 2026 欧洲 Genone vs Spirit-A" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 Genone vs Spirit-A
-http://47.100.99.38:28989/esport/27039
-#EXTINF:-1 tvg-name="CCT 2026 欧洲 Baks vs Azuolas" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 Baks vs Azuolas
-http://47.100.99.38:28989/esport/27040
-#EXTINF:-1 tvg-name="PARI宇宙 Yandex vs GL" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Ft2GHXAg535MhKqkmqFGQb2aFKMf" group-title="电竞",PARI宇宙 Yandex vs GL
-http://47.100.99.38:28989/esport/25846
+#EXTINF:-1 tvg-name="中乙 上海海港B队 vs 杭州临平吴越" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b6025970c665a7640122d6b3d156b0b8.png" group-title="足球",中乙 上海海港B队 vs 杭州临平吴越
+http://47.100.99.38:28989/football/8500078
+#EXTINF:-1 tvg-name="越女联 胡志明市B队女足 vs 太原T&T女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/40121ad4dae08e4bef3bb8d4a46606d1.png" group-title="足球",越女联 胡志明市B队女足 vs 太原T&T女足
+http://47.100.99.38:28989/football/8396295
+#EXTINF:-1 tvg-name="越女联 越南煤矿女足 vs 河内女足" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/40121ad4dae08e4bef3bb8d4a46606d1.png" group-title="足球",越女联 越南煤矿女足 vs 河内女足
+http://47.100.99.38:28989/football/8396297
+#EXTINF:-1 tvg-name="印班超 斯图拉德 vs 南美联合" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 斯图拉德 vs 南美联合
+http://47.100.99.38:28989/football/8528892
+#EXTINF:-1 tvg-name="菲NCAA CSJL骑士 vs SSCR雄鹿" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA CSJL骑士 vs SSCR雄鹿
+http://47.100.99.38:28989/basketball/8524966
+#EXTINF:-1 tvg-name="澳女篮 悉尼火焰女篮 vs UC首都女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/aec71798541a567ed9ba8543fb3390bd.png" group-title="篮球",澳女篮 悉尼火焰女篮 vs UC首都女篮
+http://47.100.99.38:28989/basketball/8447675
+#EXTINF:-1 tvg-name="EPL东南亚 YG vs Cloud Dawning" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Fvaw7gQVHoKO8ZYuau0LVCpWuqSW" group-title="电竞",EPL东南亚 YG vs Cloud Dawning
+http://47.100.99.38:28989/esport/26914
+#EXTINF:-1 tvg-name="MaceMedia VOID秋季赛 Nexvoid vs Rare Atom" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkauPPiPWkFaZLYRb0IipKZoo05e" group-title="电竞",MaceMedia VOID秋季赛 Nexvoid vs Rare Atom
+http://47.100.99.38:28989/esport/27075
+#EXTINF:-1 tvg-name="CCT 2026 欧洲 FRZ.R vs Lfo 10" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 FRZ.R vs Lfo 10
+http://47.100.99.38:28989/esport/27063
+#EXTINF:-1 tvg-name="PARI宇宙 1w Team vs OG" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Ft2GHXAg535MhKqkmqFGQb2aFKMf" group-title="电竞",PARI宇宙 1w Team vs OG
+http://47.100.99.38:28989/esport/25850
