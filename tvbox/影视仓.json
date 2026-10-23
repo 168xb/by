@@ -65,26 +65,6 @@
       "hide": 1
     },
     {
-      "key": "JianSou",
-      "name": "💖┃简搜┃4K💖",
-      "type": 3,
-      "api": "csp_JianSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {"site":"http://103.231.12.104:8000","type":0,"name":" 简搜"},
-      "jar":"http://jx.pdscxz.cn/d/lz/iZM5u4cdljpa"
-    },
-    {
-      "key": "JianSou2",
-      "name": "💖┃简搜2┃4K💖",
-      "type": 3,
-      "api": "csp_JianSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {"site":"http://47.120.41.246:8000","type":0,"name":" 简搜"},
-      "jar":"http://jx.pdscxz.cn/d/lz/iZM5u4cdljpa"
-    },  
-    {
       "key": "木偶",
       "name": "💖┃木偶┃4K💖",
       "type": 3,
