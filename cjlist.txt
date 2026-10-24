@@ -58,6 +58,7 @@ hongniu3|🍀红牛资源3|type: 1|api: https://www.hongniuzy3.com/api.php/provi
 suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/vod
 说明|⚠️说明|type: 1|api: https://cdn.akaere.online/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
 haiwaikan|🌊 海外看┃此接口须有魔法上网|type: 1|api: https://haiwaikan.com/api.php/provide/vod
+ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 茶杯API|七星·茶杯影视|type: 1|api: http://www.haohuazy.com/api.php/provide/vod
 天涯采集|影视 | 天涯|type: 1|api: http://tyyszy.com/api.php/provide/vod
 非凡|非凡|type: 1|api: http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?
