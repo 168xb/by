@@ -1,6 +1,6 @@
-TVBox 抓取失败接口报告  20261023_161851
+TVBox 抓取失败接口报告  20261024_155623
 ==============================================================
-失败接口数: 13 / 总数: 102
+失败接口数: 12 / 总数: 102
 ==============================================================
 
 [1] 集多
@@ -20,52 +20,47 @@ TVBox 抓取失败接口报告  20261023_161851
     尝试过的源 (1 个):
       - https://play.iptv365.org/香雅情/api.json
 
-[4] 小米
-    状态: FAILED
-    尝试过的源 (1 个):
-      - https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
-
-[5] 道长
+[4] 道长
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 
-[6] 小苹果
+[5] 小苹果
     状态: FAILED
     尝试过的源 (1 个):
       - https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 
-[7] 短剧
+[6] 短剧
     状态: FAILED
     尝试过的源 (1 个):
       - https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
 
-[8] 巧计线路
+[7] 巧计线路
     状态: FAILED
     尝试过的源 (1 个):
       - http://pandown.pro/tvbox/tvbox.json
 
-[9] 欧歌4K
+[8] 欧歌4K
     状态: FAILED
     尝试过的源 (1 个):
       - http://tv.nxog.top/m
 
-[10] 影探线路
+[9] 影探线路
     状态: FAILED
     尝试过的源 (1 个):
       - http://www.lyyytv.cn/yt/yt.json
 
-[11] 无意线路
+[10] 无意线路
     状态: FAILED
     尝试过的源 (1 个):
       - https://www.wya6.cn/tv/yc.json
 
-[12] 凯弟2线
+[11] 凯弟2线
     状态: FAILED
     尝试过的源 (1 个):
       - http://rihou.vip:55/天天开心
 
-[13] 澜露
+[12] 澜露
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitee.com/hulanlu/04/raw/master/lanlu.json

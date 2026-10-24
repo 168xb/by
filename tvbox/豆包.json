@@ -105,6 +105,12 @@
       "api": "https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py"
     },
     {
+      "key": "SZ",
+      "name": "山楂影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py"
+    },
+    {
       "key": "懂骗",
       "name": "懂骗",
       "type": 3,
@@ -383,15 +389,6 @@
       "name": "🥇金牌｜影视",
       "type": 3,
       "api": "https://meow.668yun.top/api/s/CoCWMqhRrncdz5AYheeuatvSTsTXfFnl/金牌影院.js"
-    },
-    {
-      "key": "移动",
-      "name": "九灵｜免扫4k｜移动",
-      "type": 3,
-      "jar": "https://meow.668yun.top/api/s/TDrbF8k4LT5puZo8IeYnX3PjYYOyqvlI/yunY.jar",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "EmbyJS",
