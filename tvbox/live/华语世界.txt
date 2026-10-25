@@ -62,6 +62,8 @@ JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
 
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+TVB Plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+
 台湾,#genre#
 
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -81,7 +83,9 @@ TVBS精彩台,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 民视,http://211.72.174.95:8115/0.ts
 
-公视,http://211.72.174.95:8116/0.ts 
+华视,http://211.72.174.95:8114/0.ts
+
+公视,http://211.72.174.95:8116/0.ts
 
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 
@@ -99,9 +103,41 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
+Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 国际频道,#genre#
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+
+美国CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+
+韩国tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN
+
+🇰🇷韩国AriangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
+泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
