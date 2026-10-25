@@ -64,6 +64,16 @@
       },
       "hide": 1
     },
+     {
+      "key": "jiansou",
+      "name": "💖┃度度1┃4K💖",
+      "type": 3,
+      "api": "csp_JianSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": {"site":"http://118.89.172.248:8000","types": "2","name":"度度4K"},
+      "jar":"http://jx.pdscxz.cn/d/lz/iZM5u4cdljpa"
+    },
     { 
         "key": "玩偶哥哥", 
         "name": "💖┃玩偶┃4K💖",
@@ -145,7 +155,7 @@
       "changeable": 1,
       "ext": {
         "site": [
-          " http://38.76.197.172:16969"
+          "http://38.76.197.172:16969"
         ]
       },
       "hide": 1
@@ -159,16 +169,6 @@
         "type": "list"
       }
     },
-     {
-      "key": "jiansou",
-      "name": "💖┃简搜┃4K💖",
-      "type": 3,
-      "api": "csp_JianSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {"site":"http://118.89.172.248:8000","type":0,"name":" 简搜"},
-      "jar":"http://jx.pdscxz.cn/d/lz/iZM5u4cdljpa"
-    },  
     {
       "key": "JinPai",
       "name": "🍂┃金牌┃秒播",
