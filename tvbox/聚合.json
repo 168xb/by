@@ -402,7 +402,7 @@
     },
     {
       "key": "非凡",
-      "name": "聚合非凡┃影视 [2.8s]",
+      "name": "聚合非凡┃影视",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -749,8 +749,8 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "电视家潇雨-会员或已过期请兑换后重启软件",
-      "url": "http://45.192.97.170:5211/698335",
+      "name": "电视家test-会员或已过期请兑换后重启软件",
+      "url": "http://jfn.mitetech.cn:280/m3u",
       "playerType": 2,
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
