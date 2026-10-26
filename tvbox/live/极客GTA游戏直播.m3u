@@ -1,35 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="极客GTA游戏直播",极客GTA游戏直播
 #EXTM3U name="88看球(动态联赛分组)"
-#EXTINF:-1 tvg-id="130183_0" tvg-name="14:00 日职联 大阪樱花 vs 千叶市原 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 千叶市原 (线路A1)
-https://stymei1.pages.dev/live/130183/0
-#EXTINF:-1 tvg-id="130183_1" tvg-name="14:00 日职联 大阪樱花 vs 千叶市原 (国内线路②)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 千叶市原 (国内线路②)
-https://stymei1.pages.dev/live/130183/1
-#EXTINF:-1 tvg-id="130183_2" tvg-name="14:00 日职联 大阪樱花 vs 千叶市原 (国内线路③)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 千叶市原 (国内线路③)
-https://stymei1.pages.dev/live/130183/2
-#EXTINF:-1 tvg-id="130183_3" tvg-name="14:00 日职联 大阪樱花 vs 千叶市原 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAUj3qAAAhYzmfY8g118.png" group-title="日职联",14:00 日职联 大阪樱花 vs 千叶市原 (线路Q1)
-https://stymei1.pages.dev/live/130183/3
-#EXTINF:-1 tvg-id="130184_0" tvg-name="14:00 日职联 浦和红钻 vs 长崎航海 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LiAJTTKAAAfjTgW7zE758.png" group-title="日职联",14:00 日职联 浦和红钻 vs 长崎航海 (线路A1)
-https://stymei1.pages.dev/live/130184/0
-#EXTINF:-1 tvg-id="130184_1" tvg-name="14:00 日职联 浦和红钻 vs 长崎航海 (国内线路③)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LiAJTTKAAAfjTgW7zE758.png" group-title="日职联",14:00 日职联 浦和红钻 vs 长崎航海 (国内线路③)
-https://stymei1.pages.dev/live/130184/1
-#EXTINF:-1 tvg-id="130184_2" tvg-name="14:00 日职联 浦和红钻 vs 长崎航海 (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LiAJTTKAAAfjTgW7zE758.png" group-title="日职联",14:00 日职联 浦和红钻 vs 长崎航海 (国内线路④)
-https://stymei1.pages.dev/live/130184/2
-#EXTINF:-1 tvg-id="130184_3" tvg-name="14:00 日职联 浦和红钻 vs 长崎航海 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LiAJTTKAAAfjTgW7zE758.png" group-title="日职联",14:00 日职联 浦和红钻 vs 长崎航海 (线路Q1)
-https://stymei1.pages.dev/live/130184/3
-#EXTINF:-1 tvg-id="130185_0" tvg-name="15:00 日职联 东京FC vs 水户蜀葵 (国内线路④)" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/176582347/0.jpg" group-title="日职联",15:00 日职联 东京FC vs 水户蜀葵 (国内线路④)
-https://stymei1.pages.dev/live/130185/0
-#EXTINF:-1 tvg-id="130185_1" tvg-name="15:00 日职联 东京FC vs 水户蜀葵 (国内线路⑤)" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/176582347/0.jpg" group-title="日职联",15:00 日职联 东京FC vs 水户蜀葵 (国内线路⑤)
-https://stymei1.pages.dev/live/130185/1
-#EXTINF:-1 tvg-id="130185_2" tvg-name="15:00 日职联 东京FC vs 水户蜀葵 (线路Q1)" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/176582347/0.jpg" group-title="日职联",15:00 日职联 东京FC vs 水户蜀葵 (线路Q1)
-https://stymei1.pages.dev/live/130185/2
-#EXTINF:-1 tvg-id="130185_3" tvg-name="15:00 日职联 东京FC vs 水户蜀葵 (线路A1)" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/176582347/0.jpg" group-title="日职联",15:00 日职联 东京FC vs 水户蜀葵 (线路A1)
-https://stymei1.pages.dev/live/130185/3
-#EXTINF:-1 tvg-id="130186_0" tvg-name="15:00 日职联 川崎前锋 vs 冈山绿雉 (国内线路④)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAPM2fAAAnCbL-wmo278.png" group-title="日职联",15:00 日职联 川崎前锋 vs 冈山绿雉 (国内线路④)
-https://stymei1.pages.dev/live/130186/0
-#EXTINF:-1 tvg-id="130186_1" tvg-name="15:00 日职联 川崎前锋 vs 冈山绿雉 (国内线路⑤)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAPM2fAAAnCbL-wmo278.png" group-title="日职联",15:00 日职联 川崎前锋 vs 冈山绿雉 (国内线路⑤)
-https://stymei1.pages.dev/live/130186/1
-#EXTINF:-1 tvg-id="130186_2" tvg-name="15:00 日职联 川崎前锋 vs 冈山绿雉 (线路Q1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAPM2fAAAnCbL-wmo278.png" group-title="日职联",15:00 日职联 川崎前锋 vs 冈山绿雉 (线路Q1)
-https://stymei1.pages.dev/live/130186/2
-#EXTINF:-1 tvg-id="130186_3" tvg-name="15:00 日职联 川崎前锋 vs 冈山绿雉 (线路A1)" tvg-logo="https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAPM2fAAAnCbL-wmo278.png" group-title="日职联",15:00 日职联 川崎前锋 vs 冈山绿雉 (线路A1)
-https://stymei1.pages.dev/live/130186/3
+#EXTINF:-1 tvg-id="130212_0" tvg-name="15:00 菲NCAA CSB开拓者 vs 玛布亚红雀 (线路Q1)" tvg-logo="https://www.88kanqiu.la/static/img/default.png" group-title="菲NCAA",15:00 菲NCAA CSB开拓者 vs 玛布亚红雀 (线路Q1)
+https://stymei1.pages.dev/live/130212/0
