@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261028_172326
+TVBox 接口抓取报告  20261029_173053
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -297,12 +297,12 @@ TVBox 接口抓取报告  20261028_172326
   成功URL: http://itv666.cc/aowu/config.webp
 
 [影视仓] okhttp/3.15
-  状态: TEXT
+  状态: JSON
   文件: tvbox/影视仓.json
   成功URL: http://影视仓.com
 
 [茄子] okhttp/3.15
-  状态: TEXT
+  状态: JSON
   文件: tvbox/茄子.json
   成功URL: https://700sjro44343.vicp.fun/eggp/qiezi/tv.php
 
@@ -377,7 +377,7 @@ TVBox 接口抓取报告  20261028_172326
   成功URL: https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj
 
 [二月红] okhttp/3.15
-  状态: TEXT
+  状态: JSON
   文件: tvbox/二月红.json
   成功URL: https://700sjro44343.vicp.fun/eggp/0211/tv.json
 
