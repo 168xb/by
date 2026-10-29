@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="🍬电信🍬",🍬电信🍬
+#EXTINF:-1 tvg-name="Kimentanm",Kimentanm
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote

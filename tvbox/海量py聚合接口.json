@@ -59,9 +59,9 @@
     },
     {
       "key": "剧下饭",
-      "name": "🍚下饭｜平安™",
+      "name": "♨️下饭｜4K线路",
       "type": 3,
-      "api": "https://13826.kstore.vip/AppV2.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -158,9 +158,9 @@
     },
     {
       "key": "布布",
-      "name": "酷喵🐱布布4K（备）",
+      "name": "🐷布布",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/ca1d0aee761c0cf8d47d1fddcddb9a30.py",
+      "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -169,7 +169,7 @@
       "key": "分享",
       "name": "枫叶",
       "type": 3,
-      "api": "https://meow.668yun.top/api/s/hFbjMTBQh5J3EmLfSzpqEdnBGSIXNMbg/枫叶.py",
+      "api": "https://pan.szfx.top/down.php/b963d79ea0ea6e386515863d823eab89.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -194,9 +194,9 @@
     },
     {
       "key": "华数",
-      "name": "星星🌟┃华数视频",
+      "name": "星华｜星源",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+      "api": "https://11405.kstore.space/xiaye/js/华数TV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -214,7 +214,7 @@
       "key": "文才影视",
       "name": "🌾文才快看",
       "type": 3,
-      "api": "https://meow.668yun.top/api/s/lW1oFDA8h9m2NMRhhV6995rPkqZQzpuu/文才影视.py",
+      "api": "https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -275,7 +275,7 @@
     },
     {
       "key": "界影PY",
-      "name": "界影",
+      "name": "👖裤佬丨界影丨PY",
       "type": 3,
       "api": "https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
       "searchable": 1,
@@ -284,7 +284,7 @@
     },
     {
       "key": "裤佬央视PY",
-      "name": "丨央视丨",
+      "name": "央视",
       "type": 3,
       "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
       "searchable": 1,
@@ -338,18 +338,18 @@
     },
     {
       "key": "皮皮虾",
-      "name": "♨️皮虾｜4K",
+      "name": "♨️皮虾｜皮皮",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+      "api": "https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "酷喵🐱星芽短剧",
+      "name": "😄星芽｜[短剧]",
       "type": 3,
-      "api": "https://8815.kstore.vip/tvbox/py/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -437,18 +437,18 @@
     },
     {
       "key": "爱听音乐",
-      "name": "🎶爱听｜音乐歌曲",
+      "name": "爱听｜音乐",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "网络直播",
-      "name": "🌇｜网络｜直播",
+      "name": "网络｜直播",
       "type": 3,
-      "api": "https://chigua.eu.org/py/网络直播.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -491,9 +491,9 @@
     },
     {
       "key": "猎手PY",
-      "name": "👌猎手丨[1080P]",
+      "name": "七星·猎手影视",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+      "api": "https://15487.kstore.space/py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -509,9 +509,9 @@
     },
     {
       "key": "央视PY",
-      "name": "🍀┃央视┃栏目",
+      "name": "七星·央视影库",
       "type": 3,
-      "api": "https://盒子迷.top/py/央视.py",
+      "api": "https://15487.kstore.space/py/cctv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -572,9 +572,9 @@
     },
     {
       "key": "爱看剧",
-      "name": "酷喵🐱爱剧",
+      "name": "爱看丨视频",
       "type": 3,
-      "api": "https://gitee.com/rgzyyuncang/vip/raw/master/js/apiv1281ApptoV5%E6%94%B9.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -590,9 +590,9 @@
     },
     {
       "key": "红果短剧",
-      "name": "🍎红果丨短剧爽看",
+      "name": "🎬红果｜短剧",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -635,27 +635,27 @@
     },
     {
       "key": "11",
-      "name": "👖短剧",
+      "name": "👖网盘",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/29b94aff.py",
+      "api": "https://jsnz.pages.dev/f/261c1664.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "12",
-      "name": "👖音乐",
+      "name": "👖4k",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/eded33cf.py",
+      "api": "https://jsnz.pages.dev/f/af676592.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "13",
-      "name": "👖动漫",
+      "name": "👖APP",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/7e20bdb7.py",
+      "api": "https://jsnz.pages.dev/f/77cec76a.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -680,9 +680,9 @@
     },
     {
       "key": "7",
-      "name": "👖PY",
+      "name": "👖短剧",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
+      "api": "https://jsnz.pages.dev/f/29b94aff.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -752,9 +752,9 @@
     },
     {
       "key": "枫叶",
-      "name": "🍁┃枫叶┃影视",
+      "name": "枫叶丨4K",
       "type": 3,
-      "api": "https://盒子迷.top/py/枫叶.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/枫叶.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -878,9 +878,9 @@
     },
     {
       "key": "瓜子影视",
-      "name": "酷喵🐱瓜子",
+      "name": "聚合三方🥇瓜子🥇影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1310,7 +1310,7 @@
     },
     {
       "key": "网易歌曲下载.py",
-      "name": "🎤闪电┃网易音乐",
+      "name": "星星🌟｜网易音乐",
       "type": 3,
       "api": "https://15487.kstore.space/%E7%BD%91%E6%98%93%E6%AD%8C%E6%9B%B2%E4%B8%8B%E8%BD%BD.py",
       "searchable": 1,
@@ -1319,7 +1319,7 @@
     },
     {
       "key": "枫叶音乐",
-      "name": "🎤闪电┃枫叶",
+      "name": "星星🌟｜枫叶音乐",
       "type": 3,
       "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
       "searchable": 1,
@@ -2528,6 +2528,150 @@
       "name": "移动",
       "type": 3,
       "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影探",
+      "name": "🌌影探丨4K资源",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shanzha4k",
+      "name": "🍒山楂丨蓝光秒播",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "果果短剧",
+      "name": "🍎果果丨短剧爽看",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yuetingba",
+      "name": "🍊悦听吧",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "2",
+      "name": "👖聚合",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/4df9fb60.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4",
+      "name": "👖娱乐",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/26511242.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "6",
+      "name": "👖采集",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/72b7239d.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "8",
+      "name": "👖音乐",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/eded33cf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "9",
+      "name": "👖动漫",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/7e20bdb7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "14",
+      "name": "👖PY",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "19",
+      "name": "👖API",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/cf616b2f.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "21",
+      "name": "👖听书",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/d44dd2cf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "22",
+      "name": "👖广播",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/cec31b11.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "23",
+      "name": "👖有声",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/e126d1e4.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "测试专用",
+      "name": "📌测试",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/e7124867.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

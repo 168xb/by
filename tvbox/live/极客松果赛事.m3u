@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="极客松果赛事",极客松果赛事
+#EXTM3U
+# 大米直播 - 实时全线路源
+# 北京时间: 2026/10/29 17:46:48
+# 当前直播场次: 11 场
+
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
+https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿塞杯" tvg-name="[18:00] 赞加祖尔 VS 卡云艾夫拉克 (高清K)",[18:00] 赞加祖尔 VS 卡云艾夫拉克 (高清K)
+https://hello.ooo0ooo.top/live/4656649.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿塞杯" tvg-name="[18:00] 赞加祖尔 VS 卡云艾夫拉克 (高清B)",[18:00] 赞加祖尔 VS 卡云艾夫拉克 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4656649.m3u8?txSecret=0163b7ee56890cc3f150af0356bd234b&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="澳锦标" tvg-name="[16:30] 堪培拉FC VS 南墨尔本 (高清K)",[16:30] 堪培拉FC VS 南墨尔本 (高清K)
+https://hello.ooo0ooo.top/live/4657672.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="澳锦标" tvg-name="[16:30] 堪培拉FC VS 南墨尔本 (高清B)",[16:30] 堪培拉FC VS 南墨尔本 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4657672.m3u8?txSecret=1e447263ef79ad22ccb9e2c31147f81a&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="澳NBL" tvg-name="[17:00] 布里斯班子弹 VS 凯恩斯太攀蛇 (高清K)",[17:00] 布里斯班子弹 VS 凯恩斯太攀蛇 (高清K)
+https://hello.ooo0ooo.top/live/3925979.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="澳NBL" tvg-name="[17:00] 布里斯班子弹 VS 凯恩斯太攀蛇 (高清B)",[17:00] 布里斯班子弹 VS 凯恩斯太攀蛇 (高清B)
+https://pul-tenm.gkykp.com/live/hd-en-2-3925979.m3u8?txSecret=be48f8587c46b9eb7fe03ecd771edb01&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="菲NCAA" tvg-name="[15:00] 玛布亚红雀 VS 圣贝达红狮 (高清K)",[15:00] 玛布亚红雀 VS 圣贝达红狮 (高清K)
+https://hello.ooo0ooo.top/live/3947126.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="韩篮甲" tvg-name="[18:00] 蔚山现代太阳神 VS 釜山宙斯盾 (高清K)",[18:00] 蔚山现代太阳神 VS 釜山宙斯盾 (高清K)
+https://hello.ooo0ooo.top/live/3933726.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="蒙古超" tvg-name="[16:00] 乌兰巴托FC VS 德仁FC (高清K)",[16:00] 乌兰巴托FC VS 德仁FC (高清K)
+https://hello.ooo0ooo.top/live/4661293.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="蒙古超" tvg-name="[16:00] 乌兰巴托FC VS 德仁FC (高清B)",[16:00] 乌兰巴托FC VS 德仁FC (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4661293.m3u8?txSecret=4566e831613979fe501f08235679cfbf&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌克兰杯" tvg-name="[18:00] 切尔尼夫 VS 杜纳伊夫齐 (高清K)",[18:00] 切尔尼夫 VS 杜纳伊夫齐 (高清K)
+https://hello.ooo0ooo.top/live/4662676.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌兹甲" tvg-name="[18:00] 卡塔库尔甘 VS 莫比乌兹奥林匹克 (高清K)",[18:00] 卡塔库尔甘 VS 莫比乌兹奥林匹克 (高清K)
+https://hello.ooo0ooo.top/live/4525641.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌兹甲" tvg-name="[18:00] 卡塔库尔甘 VS 莫比乌兹奥林匹克 (高清B)",[18:00] 卡塔库尔甘 VS 莫比乌兹奥林匹克 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4525641.m3u8?txSecret=f14f25acebfd4b4100e5b8ec0b15865f&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚冠二级" tvg-name="[18:00] 淡滨尼流浪者 VS 柴桢 (高清K)",[18:00] 淡滨尼流浪者 VS 柴桢 (高清K)
+https://hello.ooo0ooo.top/live/4621384.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚冠二级" tvg-name="[18:00] 淡滨尼流浪者 VS 柴桢 (高清B)",[18:00] 淡滨尼流浪者 VS 柴桢 (高清B)
+https://pul-tenm.gkykp.com/live/hd-en-1-4621384.m3u8?txSecret=e9f37786683d609c9b5024047415d65d&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚冠二级" tvg-name="[18:00] 江原FC VS 古晋城 (高清K)",[18:00] 江原FC VS 古晋城 (高清K)
+https://hello.ooo0ooo.top/live/4621385.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚冠二级" tvg-name="[18:00] 江原FC VS 古晋城 (高清B)",[18:00] 江原FC VS 古晋城 (高清B)
+https://pul-tenm.gkykp.com/live/hd-en-1-4621385.m3u8?txSecret=3a18421908b7325012b250b4ee0dcd38&txTime=6AE466E1
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="印尼IBL杯" tvg-name="[14:45] 太平洋凯撒 VS 拉贾瓦利棉兰 (高清K)",[14:45] 太平洋凯撒 VS 拉贾瓦利棉兰 (高清K)
+https://hello.ooo0ooo.top/live/3956926.m3u8

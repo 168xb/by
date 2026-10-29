@@ -3,19 +3,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="印班超 科达古 vs 班加罗尔梦幻联" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="足球",印班超 科达古 vs 班加罗尔梦幻联
-http://47.100.99.38:28989/football/8529477
-#EXTINF:-1 tvg-name="印尼超 斯莱曼 vs 婆罗洲FC" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="足球",印尼超 斯莱曼 vs 婆罗洲FC
-http://47.100.99.38:28989/football/8467753
-#EXTINF:-1 tvg-name="越南甲 林同 vs PVF人民公安" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/0edff1472edca4aeeec7534f0bceb230.png" group-title="足球",越南甲 林同 vs PVF人民公安
-http://47.100.99.38:28989/football/8499690
-#EXTINF:-1 tvg-name="菲NCAA JRU重型轰炸机 vs LPU海盗" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e58550230c71f163ef684e1cf3820855.png" group-title="篮球",菲NCAA JRU重型轰炸机 vs LPU海盗
-http://47.100.99.38:28989/basketball/8524948
-#EXTINF:-1 tvg-name="澳女篮 本迪高精灵女篮 vs 汤斯维尔火力女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/aec71798541a567ed9ba8543fb3390bd.png" group-title="篮球",澳女篮 本迪高精灵女篮 vs 汤斯维尔火力女篮
-http://47.100.99.38:28989/basketball/8447679
-#EXTINF:-1 tvg-name="MESA万圣节杯 Cw vs The-one" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FnjtONQPLUCfnQcDYCVEl2zBVTb4" group-title="电竞",MESA万圣节杯 Cw vs The-one
-http://47.100.99.38:28989/esport/27219
-#EXTINF:-1 tvg-name="DFRAG 邀请赛 Flyquest vs Rooster" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FkMpk08_MbvhjRERc5crQSl7vE5D" group-title="电竞",DFRAG 邀请赛 Flyquest vs Rooster
-http://47.100.99.38:28989/esport/27230
-#EXTINF:-1 tvg-name="特斯拉杯 B8 vs K27" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fiu55_H4MazVpW_LFUUa0GwecpHs" group-title="电竞",特斯拉杯 B8 vs K27
-http://47.100.99.38:28989/esport/27014
+#EXTINF:-1 tvg-name="蒙古超 乌兰巴托FC vs 德仁FC" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/455b85f583d273127160e78383f25211.png" group-title="足球",蒙古超 乌兰巴托FC vs 德仁FC
+http://47.100.99.38:28989/football/8530637
+#EXTINF:-1 tvg-name="澳锦标 堪培拉FC vs 南墨尔本" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/24c4935c711f8829dafcea8715df5702.png" group-title="足球",澳锦标 堪培拉FC vs 南墨尔本
+http://47.100.99.38:28989/football/8525704
+#EXTINF:-1 tvg-name="缅甸U20 汉达瓦底联U20 vs 亚大那保U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 汉达瓦底联U20 vs 亚大那保U20
+http://47.100.99.38:28989/football/8541043
+#EXTINF:-1 tvg-name="缅甸U20 妙瓦底U20 vs 达根星U20" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3ece2f66192f1b997bb16a1d786857cc.png" group-title="足球",缅甸U20 妙瓦底U20 vs 达根星U20
+http://47.100.99.38:28989/football/8534249
+#EXTINF:-1 tvg-name="俄乙B 新特罗伊茨克诺斯塔 vs 伊热夫斯克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/6d69860d9e4e8140fce94361b7729b10.png" group-title="足球",俄乙B 新特罗伊茨克诺斯塔 vs 伊热夫斯克
+http://47.100.99.38:28989/football/8497189
+#EXTINF:-1 tvg-name="印尼IBL杯 印尼年轻骑士 vs 兰斯皮克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/b3b31617799a31d07270505859e51c45.png" group-title="篮球",印尼IBL杯 印尼年轻骑士 vs 兰斯皮克
+http://47.100.99.38:28989/basketball/8541206
+#EXTINF:-1 tvg-name="NBL 布里斯班子弹 vs 凯恩斯太攀蛇" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/75ea0c3c22789700eeaf2c8047450d82.png" group-title="篮球",NBL 布里斯班子弹 vs 凯恩斯太攀蛇
+http://47.100.99.38:28989/basketball/8447801
+#EXTINF:-1 tvg-name="MESA万圣节杯 Audacity vs Cw" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FnjtONQPLUCfnQcDYCVEl2zBVTb4" group-title="电竞",MESA万圣节杯 Audacity vs Cw
+http://47.100.99.38:28989/esport/27275
+#EXTINF:-1 tvg-name="PGL布加勒斯特 FUT vs Nemiga" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FpW1UNKx2S9dDZrq8uxRnbta3SpR" group-title="电竞",PGL布加勒斯特 FUT vs Nemiga
+http://47.100.99.38:28989/esport/27283
+#EXTINF:-1 tvg-name="HyperX 反攻赛 WBT.A vs SAW.Y" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FgeombIdhSLGnnF5B9WcDRwp_5CF" group-title="电竞",HyperX 反攻赛 WBT.A vs SAW.Y
+http://47.100.99.38:28989/esport/27238
+#EXTINF:-1 tvg-name="特斯拉杯 B8 vs HOTU" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fiu55_H4MazVpW_LFUUa0GwecpHs" group-title="电竞",特斯拉杯 B8 vs HOTU
+http://47.100.99.38:28989/esport/27276
+#EXTINF:-1 tvg-name="CCT 2026 欧洲 Butterfly vs FRZ.R" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 Butterfly vs FRZ.R
+http://47.100.99.38:28989/esport/27295
+#EXTINF:-1 tvg-name="PARI宇宙 Liquid vs AI" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Ft2GHXAg535MhKqkmqFGQb2aFKMf" group-title="电竞",PARI宇宙 Liquid vs AI
+http://47.100.99.38:28989/esport/25870
+#EXTINF:-1 tvg-name="KPL年度总决赛 KSG vs 北京WB" tvg-logo="https://esports-cdn.namitiyu.com/kog/tournament/FvLrEesnNjNeLefxnjJ0rNn7e0z7" group-title="电竞",KPL年度总决赛 KSG vs 北京WB
+http://47.100.99.38:28989/esport/27109
