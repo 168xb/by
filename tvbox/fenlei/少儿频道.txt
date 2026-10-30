@@ -6,6 +6,8 @@
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 3ABN Kids Network,https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
 4 Fun Kids (576i),https://stream.4fun.tv:8889/hls/4fk.m3u8
+4K少儿,http://182.135.66.163:1888/rtp/239.94.1.70:5140
+4K少儿,http://182.135.66.163:18888/rtp/239.94.1.70:5140
 90's Kids,https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 90s Kids TV 2,https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 [地灵曲] 动画版鬼吹灯,http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153953-1239543153953-11135014980477255680-2479086431362-10057-A-0-1.m3u8
@@ -25,7 +27,7 @@ BRTV卡酷少儿,http://route.079915.xyz:4022/rtp/239.3.1.120:8000
 BRTV卡酷少儿,http://route.079915.xyz:4022/rtp/239.3.1.121:8000
 BRTV卡酷少儿,http://route.079915.xyz:4022/rtp/239.3.1.189:8000
 BRTV卡酷少儿,http://route.079915.xyz:4022/rtp/239.3.1.243:8000
-BRTV少儿HD,http://222.92.158.109:9889/rtp/239.49.0.148:8000
+BRTV少儿HD,http://222.92.158.110:9889/rtp/239.49.0.148:8000
 BRTV少儿HD,http://222.92.94.26:9889/rtp/239.49.0.148:8000
 BTV卡酷,http://113.25.252.226:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV少儿,http://113.140.86.162:8009/hls/14/index.m3u8$陕西电信酒店
@@ -40,6 +42,7 @@ CN卡通,https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 CN卡通 捷克,https://estreams.tv.nej.cz/dash/CH_CARTOON_HD.ism/playlist.mpd
+CN卡通频道,http://125.227.210.55:3027/VideoInput/play.ts
 COLD+WAR+KIDS-minimum day,http://em.21dtv.com/songs/60069111.mkv
 D+51-Brand New World(动画),http://em.21dtv.com/songs/60101754.mkv
 Dios Te Ve Kids (720p),https://s.emisoras.tv:8081/diostevekids/index.m3u8
@@ -48,14 +51,13 @@ Discovery Kids,https://epg.pw/stream/73ef9cfedfcb80c833ab7b08e8e6b5f966ca2936284
 Discovery Kids,https://epg.pw/stream/b3905f12eae5967f726a0fa7733d09b8b08a1ad79d098922584cf687149c8527.ctv
 Discovery Kids,https://epg.pw/stream/fdb07a19c094811a6f1382cb4731bc3b71450c4413a9437610094d063a7af36f.ctv
 Discovery Kids (720p),https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-Discovery Kids [4K],https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzkwMjUwLm0zdTgiLCJyb290IjoiaHR0cDovL2Z2aDIxLmNvbS9saXZlL2JydTY3NW5iOC9iZlQ3OS85MDI1MC5tM3U4IiwicmVuZXciOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzkwMjUwLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpkaXNjb3Zlcnkta2lkcyJ9.m3u8
 Discovery Kids Latin America (1080p),http://181.224.200.5:2277/play/a00o/index.m3u8
 Discovery Kids Latin America Brazil (720p) [Geo-blocked],http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 Discovery Kids Latin America Chile (1080p),http://38.224.231.176:8000/play/a01j/index.m3u8
 Discovery Kids Latin America Colombia (1080p),http://38.134.250.110:8000/play/a003/index.m3u8
 Discovery Kids Latin America Mexico (1080p),http://38.65.175.84:8000/play/a0an/index.m3u8
 Discovery Kids Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
-Discovery Kids Tamil,https://tv123.cc.cd/live.php?ch=2217&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=9ea62ac1cb62b616894c5c792cce6c3d0ca4f2685f851e89f9569240fb67d729
+Discovery Kids Tamil,https://tv123.cc.cd/live.php?ch=2218&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=a8b44c3eb4cd0c7027cec7b2fc0c027b5fc83ea31cce7e9cafbf0e5747ae58b4
 DiscoveryKidsTamil,http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
 DreamWorks梦工厂动画,https://cdn.qd.je/163189/dreamworks
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
@@ -76,7 +78,7 @@ E-KIDS-恋爱秘笈(无原唱),http://em.21dtv.com/songs/60027029.mkv
 E-KIDS-私人时段,http://em.21dtv.com/songs/60040468.mkv
 EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshij
-EBS kids,https://tv123.cc.cd/live.php?ch=170&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=c6e754af122fd2a413242fbf8d26da2cd7b57ae5d5c1192345133720d9ca0ed0
+EBS kids,https://tv123.cc.cd/live.php?ch=156&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=356fb6f2a9e6e01ed762e548b03c51d879b2eb7a5ed737aa2228ecc05b11690a
 EBS Kids (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 EKids (576p),http://78.108.244.134:8899/ekids
 Epic Kids Digital (1080p),https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
@@ -100,12 +102,12 @@ HappyKids (1080p),https://dil9xdvretp0f.cloudfront.net/index.m3u8
 i-Fun动漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 iHOT-爱动漫,http://iptv.0564.org:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 iHOT-爱幼教,http://iptv.0564.org:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT爱动漫,http://171.213.134.204:8188/udp/239.93.42.23:5140
-iHOT爱动漫,http://171.213.238.156:8188/udp/239.93.42.23:5140
-iHOT爱动漫,http://171.213.243.82:8188/udp/239.93.42.23:5140
-iHOT爱幼教,http://171.213.134.204:8188/udp/239.93.42.17:5140
-iHOT爱幼教,http://171.213.238.156:8188/udp/239.93.42.17:5140
-iHOT爱幼教,http://171.213.243.82:8188/udp/239.93.42.17:5140
+iHOT爱动漫,http://171.213.151.28:8188/udp/239.93.42.23:5140
+iHOT爱动漫HD,http://182.135.66.163:1888/rtp/239.94.1.141:5140
+iHOT爱动漫HD,http://182.135.66.163:18888/rtp/239.94.1.141:5140
+iHOT爱幼教,http://171.213.151.28:8188/udp/239.93.42.17:5140
+iHOT爱幼教HD,http://182.135.66.163:1888/rtp/239.94.1.139:5140
+iHOT爱幼教HD,http://182.135.66.163:18888/rtp/239.94.1.139:5140
 IPTV少儿动画,http://120.87.19.109:80/PLTV/88888973/224/3221226113/10000100000000060000000000916600_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xBJXpL3WoRxzspPhVVTBH2gWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 IPTV少儿动画,http://14.145.143.147:14022/rtp/239.77.1.91:5146
 IPTV少儿动画,http://14.157.24.38:2345/rtp/239.77.1.91:5146
@@ -117,7 +119,7 @@ Kids & Family TV - VTC11,http://42.117.12.25:1111/udp/225.1.2.193:30120
 KIDS-魅力移动,http://em.21dtv.com/songs/60029405.mkv
 KidsFlix (1080p) [Not 24/7],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 Kids Staton,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-Kids Staton TV,https://tv123.cc.cd/live.php?ch=977&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=3cc1f9f2605a47fd87d1445897b27cd24c9c081f0e370e78d798f0e4ab1004b5
+Kids Staton TV,https://tv123.cc.cd/live.php?ch=963&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=2f3b852ce01f2c80099979b9ecf6d6183b1db5bc11284a25548bdefdf2970af8
 Kids TV,http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
 Kids Zone (720p),http://103.250.28.74:8000/play/a04m/index.m3u8
@@ -156,7 +158,7 @@ Nick少儿频流,http://tl.061833.xyz/tl/nickelodeon
 Niki Kids (1080p),http://stream.mcquack.net/271/index.m3u8
 ON Kids (720p),https://freem3u.xyz/api/live/play.m3u8?vid=179
 ORF Kids (720p),https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-PBS Kids,https://tv123.cc.cd/live.php?ch=1514&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=de19142f4d8763f0756d9d2404e35dad9ac9f9d36424a1229cafa0cf460a135c
+PBS Kids,https://tv123.cc.cd/live.php?ch=1500&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=0fdd073b33c98069ba2eca22bb0fddd09b36e64aa32ab80aeaa5243731b11bc9
 PBS Kids (720p),https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 PBS Kids Alaska (1080p),https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 PBS Kids Eastern/Central (720p),https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -171,22 +173,23 @@ Pluto TV Kids LatAm,https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 Pluto TV Super Kids,https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 PP看动漫,https://goodiptv.club/douyu/9837291
 PP看动漫,https://live.ottiptv.cc/douyu/9837291
+PP看动漫-【樱木花道灌篮】PP动漫精彩解说,https://douyu.445569.xyz/live/9837291
 Pritz-Go Girls(动画),http://em.21dtv.com/songs/60104714.mkv
 ROBBIE WILLIAMS+KYLI-kids,http://em.21dtv.com/songs/60003148.mkv
 RU.TV Kids (720p),https://rutvkids.ru/live/efir/index.m3u8
 Sara-旧时光(动画),http://em.21dtv.com/songs/60101820.mkv
 Sat 7 Kids (1080p),https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 SBT Kids (1080p) [Geo-blocked],https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
-Sky Kids UK,https://tv123.cc.cd/live.php?ch=1242&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=0f9c718455b4566748aefd2194748e63aa5ad386e5aabf200380d8579ee1342b
-Starz Kids & Family,https://tv123.cc.cd/live.php?ch=1608&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=28ff387a17c8584f7efcd3c684ba512395518b1b0e83e90ec054ac6bce940b14
+Sky Kids UK,https://tv123.cc.cd/live.php?ch=1228&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=520cea3a0ea3e8144acf7e7e975f3fb09f233be9805cbd17e9f2681cfbd0591b
+Starz Kids & Family,https://tv123.cc.cd/live.php?ch=1594&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3dbed740dcc20f7440dd05513e0a64b579c34e7a0b82c4ef5688759bd852d2ca
 Starz Kids & Family (1080p),http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 Steve Aoki+morten-Kids,http://em.21dtv.com/songs/60164077.mkv
 Stray Kids-Awkward Silence,http://em.21dtv.com/songs/60162023.mkv
 Stray Kids-District 9,http://em.21dtv.com/songs/60156870.mkv
 Stray Kids-My Pace,http://em.21dtv.com/songs/60164212.mkv
 STS kids (1080p),http://31.148.48.15/STS_Kids_HD/index.m3u8
-SUPER Kids Channel,https://tv123.cc.cd/live.php?ch=523&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=f2ac8e4f7eb38601a3129b53e20d346b02acec4e532efe59569b25b252903c56
-SUPER Kids Channel,https://tv123.cc.cd/live.php?ch=621&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=34c81c158b4be9fd558dbffbfd490f4a1c3d1487180b2326578074490b235d9d
+SUPER Kids Channel,https://tv123.cc.cd/live.php?ch=509&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=a5a7b58948e96e262c2e48f81c932531986b53db4d3c385d3903ea216f693976
+SUPER Kids Channel,https://tv123.cc.cd/live.php?ch=607&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=c310058a703535a8ab67eb98eb86d388982ec42ecf448bbf456d728aee0afe97
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 THE ORAL CIGARETTES-狂乱 Hey Kids!!,http://em.21dtv.com/songs/60117498.mkv
 TNT Kids TV (288p),https://restreamer1.tnt.ba/hls/tntkids.m3u8
@@ -233,7 +236,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 上海动漫秀场,http://1.192.242.239:8188/rtp/239.16.20.40:10400
 上海动漫秀场,http://106.116.241.206:9999/rtp/239.254.201.165:6358
 上海动漫秀场,http://106.45.2.15:4000/rtp/239.121.4.74:8418
-上海动漫秀场,http://110.178.145.113:8188/udp/239.1.1.80:8080
+上海动漫秀场,http://110.178.145.83:8188/udp/239.1.1.80:8080
 上海动漫秀场,http://112.192.73.115:8484/rtp/239.0.0.28:5140
 上海动漫秀场,http://112.192.73.227:8484/rtp/239.0.0.28:5140
 上海动漫秀场,http://113.7.79.181:4022/rtp/229.58.190.78:5000
@@ -244,7 +247,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 上海动漫秀场,http://118.251.18.87:8188/udp/239.76.254.70:9000
 上海动漫秀场,http://124.112.189.183:4022/rtp/238.1.78.154:7104
 上海动漫秀场,http://124.165.232.26:8082/rtp/226.0.2.183:9376
-上海动漫秀场,http://124.165.232.26:8085/rtp/226.0.2.183:9376
+上海动漫秀场,http://124.165.232.26:8084/rtp/226.0.2.183:9376
 上海动漫秀场,http://171.119.206.17:6000/rtp/226.0.2.183:9376
 上海动漫秀场,http://171.119.206.49:6000/rtp/226.0.2.183:9376
 上海动漫秀场,http://171.8.84.49:8800/rtp/239.16.20.40:10400
@@ -255,16 +258,14 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 上海动漫秀场,http://39.77.234.102:4002/rtp/239.253.254.115:8000
 上海动漫秀场,http://39.77.26.17:4002/rtp/239.253.254.115:8000
 上海动漫秀场,http://42.92.117.151:8231/udp/239.255.29.16:8231
-上海动漫秀场,http://58.46.28.198:8188/udp/239.76.254.70:9000
+上海动漫秀场,http://58.46.31.185:8188/udp/239.76.254.70:9000
 上海动漫秀场,http://60.30.67.44:8834/rtp/225.1.1.134:5002
 上海动漫秀场,http://60.30.67.45:8834/rtp/225.1.1.134:5002
 中华小当家「动漫」,http://live.chinacert.cftest5.cn/huya/11342413
 中华小当家「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
 中华小当家「动漫」,https://cdn.ttvb.eu.org/huya/11342413
 中华小当家动漫,http://footyun.top:35455/huya/11342413
-中录动漫4K,http://171.213.134.204:8188/udp/239.93.1.188:5140
-中录动漫4K,http://171.213.238.156:8188/udp/239.93.1.188:5140
-中录动漫4K,http://171.213.243.82:8188/udp/239.93.1.188:5140
+中录动漫4K,http://171.213.151.28:8188/udp/239.93.1.188:5140
 乐佳-红尘错(动画),http://em.21dtv.com/songs/60101867.mkv
 乐儿陪你看动漫,http://footyun.top:35455/douyu/8221699
 乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
@@ -274,7 +275,6 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 云南少儿|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E5%B0%91%E5%84%BF&auth=666858
 云南少儿频道,http://106.59.2.209:55555/rtp/239.200.200.32:8864
 云南少儿频道,http://106.59.2.53:55555/rtp/239.200.200.32:8864
-优动漫驯服野生画手,https://live.ottiptv.cc/bilibili/25050627
 优漫卡通,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
 优漫卡通,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 优漫卡通,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221228378/1/index.m3u8?fmt=ts2hls
@@ -282,7 +282,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,http://106.116.241.206:9999/rtp/239.254.201.203:7178
 优漫卡通,http://107.150.60.122/live/ymkt.m3u8
 优漫卡通,http://110.154.192.81:7788/626064703
-优漫卡通,http://110.178.145.113:8188/rtp/239.1.1.72:8072
+优漫卡通,http://110.178.145.83:8188/rtp/239.1.1.72:8072
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 优漫卡通,http://111.76.19.197:1234/626064703
 优漫卡通,http://113.120.243.10:7788/626064703
@@ -294,10 +294,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,http://117.169.121.162:6610/PLTV/88888910/224/3221225665/index.m3u8
 优漫卡通,http://120.198.84.146:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://120.237.24.142:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://121.199.48.54/live1/jsbv1.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw
-优漫卡通,http://121.199.48.54/live1/jsbv2b.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw
-优漫卡通,http://121.199.48.54/live1/jstv1.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw@@Referer=https://live.jstv.com/@@
-优漫卡通,http://121.199.48.54/live1/jstv2.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw@@Referer=https://live.jstv.com/@@
+优漫卡通,http://120.238.5.44:1698/hls/58/index.m3u8
+优漫卡通,http://121.199.48.54/live1/jsbv1.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+优漫卡通,http://121.199.48.54/live1/jsbv2b.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+优漫卡通,http://121.199.48.54/live1/jstv1.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
+优漫卡通,http://121.199.48.54/live1/jstv2.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
 优漫卡通,http://123.179.61.200:4022/rtp/239.29.0.127:5000
 优漫卡通,http://124.114.103.202:6789/rtp/239.112.205.185:5140
 优漫卡通,http://139.129.231.228:50060/rtp/239.21.1.50:5002
@@ -308,6 +309,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ymkt
 优漫卡通,http://171.213.132.228:4000/udp/239.93.0.251:5140
 优漫卡通,http://175.0.69.253:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://182.135.66.163:1888/rtp/239.94.2.232:5140
+优漫卡通,http://182.135.66.163:18888/rtp/239.94.2.232:5140
 优漫卡通,http://183.220.107.138:4022/rtp/239.11.0.63:5140
 优漫卡通,http://183.222.15.202:4321/rtp/239.11.0.63:5140
 优漫卡通,http://183.30.201.168:10002/rtp/239.77.0.222:5146
@@ -315,7 +318,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,http://192.151.150.154/live/ymkt.m3u8
 优漫卡通,http://198.204.228.26/live/ymkt.m3u8
 优漫卡通,http://204.12.221.218:8181/3m1080p/ymkt.m3u8
-优漫卡通,http://218.86.184.215:8188/rtp/238.255.2.57:5999
+优漫卡通,http://218.86.185.39:8188/rtp/238.255.2.57:5999
 优漫卡通,http://222.134.19.49:8090/626064703
 优漫卡通,http://223.247.25.235:1234/626064703
 优漫卡通,http://27.12.12.101:1234/626064703
@@ -323,9 +326,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,http://36.105.100.208:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 优漫卡通,http://36.129.204.117:9003//hls/67/index.m3u8
 优漫卡通,http://36.158.153.146/wh7f454c46tw2392932793_1328392945/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M%20SD&version=1.0&owaccmark=1000000002000010063&owchid=ystenlive&owsid=2375821779510468835&AuthInfo=6CwJh75Z6TAl5rYgLcq1BqzPf3ZwEZ7uwx5Z1Z%2BiG310eLd3zJCVmv4FxtN5zFE8ai%2F7ZWyfWX%2Fhxqp71g0hkA%3D%3D&IASHttpSessionId=RR2467520260523042748411644&icpid=1&RTS=1779510422&from=2&hms_devid=24334&online=1779510422&vqe=3
-优漫卡通,http://38.75.136.137:82/live2/jsqx.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw
-优漫卡通,http://38.75.136.137:82/live2/jsqx1.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw
-优漫卡通,http://38.75.136.137:82/live2/jstv.m3u8?id=ymkt&usign=AjqfC1t32Xq2XfybeLa0kw
+优漫卡通,http://38.75.136.137:82/live2/jsqx.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+优漫卡通,http://38.75.136.137:82/live2/jsqx1.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+优漫卡通,http://38.75.136.137:82/live2/jstv.m3u8?id=ymkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
 优漫卡通,http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
 优漫卡通,http://39.134.65.194/PLTV/88888888/224/3221225556/1.m3u8
 优漫卡通,http://39.134.65.198/PLTV/88888888/224/3221225556/1.m3u8
@@ -363,8 +366,10 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c$LR•4•IPV4『线路4』
 优漫卡通[768*576],http://39.134.67.148/PLTV/88888888/224/3221225556/1.m3u8
 优漫卡通[768*576],http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
-优漫卡通HD,http://222.92.158.109:9889/rtp/239.49.8.119:8000
+优漫卡通HD,http://222.92.158.110:9889/rtp/239.49.8.119:8000
 优漫卡通HD,http://222.92.94.26:9889/rtp/239.49.8.119:8000
+优漫卡通SD,http://182.135.66.163:1888/rtp/239.94.1.31:5140
+优漫卡通SD,http://182.135.66.163:18888/rtp/239.94.1.31:5140
 优漫卡通|枫斗直播,https://3.69mini.com/mg.php?token=fb7fc4550a529fabe0b72942911705
 优漫卡通频道,http://101.200.122.188:1234/626064703
 优漫卡通频道,http://103.236.77.86:29824/626064703
@@ -374,7 +379,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通频道,http://119.233.255.62:1234/626064703
 优漫卡通频道,http://8.137.121.66:20241/626064703
 优漫卡通频道,http://A/ku9/js/咪咕超简版.js?id=626064703
-优漫卡通频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=20261029140302aa6bac55467240f5b4266b8b9268eb24&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261029140302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20261029140302&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c4b8048710ebb396f269886aa95a91c5
+优漫卡通频道,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=8e4cf8a910bb159ff163ed5834eaa19f&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261030174822&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=39.103.188.159&SecurityKey=20261030174822&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3cb4b827e47fe70643e8fd7a60789919&ddCalcu=931cv9ba94x8ba780267ae74d7ff8ee73046&sv=10004&ct=android
+优漫卡通频道,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=d6474dada03ba422a073bd928a1f4822&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261030174843&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=39.103.182.111&SecurityKey=20261030174843&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f559c224ed9188870ffe4b48f8251f9d&ddCalcu=df95vf5a19x5ca2282f48e4db941e8f8f807&sv=10004&ct=android
+优漫卡通频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=20261030140304c2968782ebfe49eaa8f0bc0472a0986e&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261030140304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20261030140304&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8371685055d0c56d01b65793ea518905
 优漫卡通频道,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Ha38y2&tk=IaRTZBNZkJti
 优漫卡通频道,http://mg.cttv.vip/626064703
 优漫卡通频道,http://my1nas.dpdns.org:1234/626064703
@@ -385,7 +392,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 优漫卡通频道,https://live.chinacert.cftest5.cn/cnmg/live/626064703
 优漫卡通频道,https://migu.249051.xyz/626064703
 优漫卡通频道,https://tv.zhuhongxuan.cn/626064703
-优漫卡通频道,https://tv123.cc.cd/live.php?ch=2522&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=08999579636f41013a033be51e8735c790f834ff30e22465926fe7a006e8339b
+优漫卡通频道,https://tv123.cc.cd/live.php?ch=2525&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3c1c1425b2ee85ab4337bf8c06431f682d0d1272c8f427d17a4ebea4ab37e0ae
 何方-小时儿的动画片,http://em.21dtv.com/songs/60128778.mkv
 你也爱看动漫吗？,http://footyun.top:35455/douyu/9564766
 侧田-卡通歌,http://em.21dtv.com/songs/60024972.mkv
@@ -393,7 +400,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 儿童|靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1752629214236
 儿童动漫,http://137.175.111.185/bfgd/?id=293
 儿童动漫,http://cfss.cc/ds/bfgd.php?id=293&Cf.m3u8
-儿童动漫小游戏,https://tx-origin.pull.yximgs.com/gifshow/EcHsXjEByhE_GameAvcHdL0.flv?txSecret=38cedc00cbc22c62d5e497f0690a368d&txTime=6ae46789&stat=70ikKdQrIBcTK7irO1sydS83kebHn6ccuAAiqTkOY9mQpf7r056VBJqyG12gdCK3&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
+儿童动漫小游戏,https://tx-origin.pull.yximgs.com/gifshow/yQiCpILsip0_GameAvcHdL0.flv?txSecret=ffb4c76fd8eccae92221e0ab2def130b&txTime=6ae5bba8&stat=AVj1GpSO5CZ2%2FYni4rK00W2yWWwZjKw7y1yGcUoszOIQxg2G2nOTVT0Yy14iitHq&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
 全国少儿歌曲-司马光砸缸(演唱会),http://em.21dtv.com/songs/60071147.mkv
 全国少儿歌曲-朝霞之歌,http://em.21dtv.com/songs/60101915.mkv
 全国少儿歌曲-皮影戏儿,http://em.21dtv.com/songs/60071029.mkv
@@ -404,7 +411,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 内蒙古少儿频道,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225771/1.m3u8?fmt=ts2hls
 内蒙古少儿频道,http://123.179.61.200:4022/rtp/239.29.0.207:5000
-内蒙古少儿频道,http://38.75.136.137:82/live2/nmtv.m3u8?id=nmse&usign=AjqfC1t32Xq2XfybeLa0kw
+内蒙古少儿频道,http://38.75.136.137:82/live2/nmtv.m3u8?id=nmse&usign=i6C9UEdDPOiyDe-1w4fIwQ
 内蒙古少儿频道,http://play1-qk.nmtv.cn/live/1769652083789030.m3u8
 内蒙古少儿频道[1920*1080],http://play1-qk.nmtv.cn/live/2318general.m3u8
 内蒙古少儿频道[1920*1080],http://play1-qk.nmtv.cn/live/2327general.m3u8
@@ -519,8 +526,10 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8$LR•5•IPV4『线路1』
 动漫秀场HD,http://116.233.67.80:8899/rtp/233.18.204.46:5140
 动漫秀场HD,http://116.233.67.80:8899/rtp/233.18.204.54:5140
-动漫秀场HD,http://121.199.48.54/live1/jsbv1.m3u8?id=dmxchd&usign=AjqfC1t32Xq2XfybeLa0kw
-动漫秀场HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=dmxchd&usign=AjqfC1t32Xq2XfybeLa0kw
+动漫秀场HD,http://121.199.48.54/live1/jsbv1.m3u8?id=dmxchd&usign=i6C9UEdDPOiyDe-1w4fIwQ
+动漫秀场HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=dmxchd&usign=i6C9UEdDPOiyDe-1w4fIwQ
+动漫秀场HD,http://182.135.66.163:1888/rtp/239.94.1.171:5140
+动漫秀场HD,http://182.135.66.163:18888/rtp/239.94.1.171:5140
 动漫秀场HD,http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
 动漫秀场HD,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dmxchd
 动漫秀场HD|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BAHD&auth=666858
@@ -580,36 +589,35 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 动画魂,https://live.ottiptv.cc/douyu/9393242
 北京KAKU少儿,http://118.248.156.76:8889/udp/239.76.254.81:9000
 北京KAKU少儿,http://118.251.18.87:8188/udp/239.76.254.81:9000
-北京KAKU少儿,http://58.46.28.198:8188/udp/239.76.254.81:9000
+北京KAKU少儿,http://58.46.31.185:8188/udp/239.76.254.81:9000
 北京|卡酷少儿,http://222.128.98.255:4000/rtp/239.3.1.189:8000
 北京|卡酷少儿,http://router.tonyliangli.cn:4022/udp/239.3.1.189:8000
 北京卡酷,http://111.225.95.13:8800/hls/61/index.m3u8
 北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
+北京卡酷少儿,http://111.193.227.77:23234/rtp/239.3.1.189:8000
 北京卡酷少儿,http://111.196.135.80:20000/rtp/239.3.1.189:8000
 北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
-北京卡酷少儿,http://114.254.37.78:8888/rtp/239.3.1.189:8000
-北京卡酷少儿,http://114.254.38.234:8888/rtp/239.3.1.189:8000
-北京卡酷少儿,http://114.254.80.143:4022/rtp/239.3.1.189:8000
+北京卡酷少儿,http://114.254.35.125:8888/rtp/239.3.1.189:8000
+北京卡酷少儿,http://114.254.85.67:4022/rtp/239.3.1.189:8000
 北京卡酷少儿,http://115.171.216.227:4000/udp/225.1.8.35:8000
 北京卡酷少儿,http://115.171.216.32:4000/udp/225.1.8.35:8000
-北京卡酷少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=btvkk&usign=AjqfC1t32Xq2XfybeLa0kw
-北京卡酷少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=btvkk&usign=AjqfC1t32Xq2XfybeLa0kw
+北京卡酷少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=btvkk&usign=i6C9UEdDPOiyDe-1w4fIwQ
+北京卡酷少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=btvkk&usign=i6C9UEdDPOiyDe-1w4fIwQ
 北京卡酷少儿,http://123.112.208.143:4022/rtp/239.3.1.189:8000
+北京卡酷少儿,http://123.117.173.7:8118/rtp/239.3.1.189:8000
 北京卡酷少儿,http://123.118.60.232:8686/rtp/239.3.1.189:8000
-北京卡酷少儿,http://123.120.6.99:4022/rtp/239.3.1.189:8000
 北京卡酷少儿,http://123.179.61.200:4022/rtp/239.29.1.41:5001
-北京卡酷少儿,http://125.33.209.235:5588/rtp/239.3.1.189:8000
 北京卡酷少儿,http://137.175.111.185/bfgd/?id=106
 北京卡酷少儿,http://192.151.150.154/live/btvkk.m3u8
 北京卡酷少儿,http://198.204.228.26/live/btvkk.m3u8
 北京卡酷少儿,http://202.107.163.231:5555/udp/238.125.5.107:5140
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
-北京卡酷少儿,http://218.86.184.215:8188/rtp/238.255.2.106:5999
-北京卡酷少儿,http://218.86.184.215:8188/rtp/238.255.2.80:5999
+北京卡酷少儿,http://218.86.185.39:8188/rtp/238.255.2.106:5999
+北京卡酷少儿,http://218.86.185.39:8188/rtp/238.255.2.80:5999
 北京卡酷少儿,http://221.220.134.250:8012/rtp/239.3.1.189:8000
 北京卡酷少儿,http://223.167.230.155:4022/rtp/239.45.0.8:5140
-北京卡酷少儿,http://38.75.136.137:82/live2/btv.m3u8?id=btvkk&usign=AjqfC1t32Xq2XfybeLa0kw
+北京卡酷少儿,http://38.75.136.137:82/live2/btv.m3u8?id=btvkk&usign=i6C9UEdDPOiyDe-1w4fIwQ
 北京卡酷少儿,http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 北京卡酷少儿,http://39.77.234.102:4002/rtp/239.253.254.66:8000
 北京卡酷少儿,http://39.77.26.17:4002/rtp/239.253.254.66:8000
@@ -626,37 +634,35 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 北京卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 北京少儿|飞扬直播,http://m.061899.xyz/mg/bjkk
 千代语默的动漫世界,http://footyun.top:35455/douyu/9484187
+半吊子分镜师失业做点福瑞动画？,https://live.ottiptv.cc/bilibili/2802398
 华数动漫,http://106.59.2.209:55555/rtp/239.200.200.75:9000
 华数动漫,http://106.59.2.53:55555/rtp/239.200.200.75:9000
+华数动画,http://111.193.227.77:23234/rtp/239.3.1.80:4120
 华数动画,http://111.196.135.80:20000/rtp/239.3.1.80:4120
 华数动画,http://113.251.74.243:8012/rtp/235.254.198.87:1624
-华数动画,http://114.254.37.78:8888/rtp/239.3.1.80:4120
-华数动画,http://114.254.38.234:8888/rtp/239.3.1.80:4120
-华数动画,http://114.254.80.143:4022/rtp/239.3.1.80:4120
+华数动画,http://114.254.35.125:8888/rtp/239.3.1.80:4120
+华数动画,http://114.254.85.67:4022/rtp/239.3.1.80:4120
 华数动画,http://115.171.216.227:4000/rtp/225.1.8.240:4120
 华数动画,http://115.171.216.32:4000/rtp/225.1.8.240:4120
+华数动画,http://123.117.173.7:8118/rtp/239.3.1.80:4120
 华数动画,http://123.118.60.232:8686/rtp/239.3.1.80:4120
-华数动画,http://123.120.6.99:4022/rtp/239.3.1.80:4120
-华数动画,http://125.33.209.235:5588/rtp/239.3.1.80:4120
 华数动画,http://220.176.218.17:9000/rtp/239.252.219.165:5140
 华数动画,http://221.220.134.250:8012/rtp/239.3.1.80:4120
 华数动画,http://222.86.13.51:9999/rtp/235.254.198.87:1624
+华数少儿动画,http://111.193.227.77:23234/rtp/239.3.1.199:9000
 华数少儿动画,http://111.196.135.80:20000/rtp/239.3.1.199:9000
 华数少儿动画,http://112.109.206.161:9999/rtp/239.255.40.66:8208
 华数少儿动画,http://113.251.74.243:8012/rtp/235.254.198.116:1740
-华数少儿动画,http://114.254.37.78:8888/rtp/239.3.1.199:9000
-华数少儿动画,http://114.254.38.234:8888/rtp/239.3.1.199:9000
-华数少儿动画,http://114.254.80.143:4022/rtp/239.3.1.199:9000
+华数少儿动画,http://114.254.35.125:8888/rtp/239.3.1.199:9000
+华数少儿动画,http://114.254.85.67:4022/rtp/239.3.1.199:9000
 华数少儿动画,http://115.171.216.227:4000/rtp/225.1.8.207:9000
 华数少儿动画,http://115.171.216.32:4000/rtp/225.1.8.207:9000
+华数少儿动画,http://123.117.173.7:8118/rtp/239.3.1.199:9000
 华数少儿动画,http://123.118.60.232:8686/rtp/239.3.1.199:9000
-华数少儿动画,http://123.120.6.99:4022/rtp/239.3.1.199:9000
-华数少儿动画,http://125.33.209.235:5588/rtp/239.3.1.199:9000
 华数少儿动画,http://14.145.143.147:14022/rtp/239.77.0.109:5146
 华数少儿动画,http://14.157.24.38:2345/rtp/239.77.0.109:5146
 华数少儿动画,http://183.30.201.168:10002/rtp/239.77.0.109:5146
-华数少儿动画,http://219.156.33.127:4022/rtp/225.1.4.189:1238
-华数少儿动画,http://219.156.84.127:4022/rtp/225.1.4.189:1238
+华数少儿动画,http://219.156.35.203:4022/rtp/225.1.4.189:1238
 华数少儿动画,http://220.176.218.17:9000/rtp/239.252.220.136:5140
 华数少儿动画,http://221.220.134.250:8012/rtp/239.3.1.199:9000
 华数少儿动画,http://222.86.13.51:9999/rtp/235.254.198.116:1740
@@ -664,7 +670,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 华数少儿动画,http://223.198.241.63:4000/rtp/239.253.64.232:5140
 华顺-谁愿意嫁给我(卡通),http://em.21dtv.com/songs/60087445.mkv
 南京少儿,http://221.226.51.220:50080/newlive/live/hls/46/live.m3u8
-南京少儿,http://222.92.158.109:9889/rtp/239.49.0.45:8000
+南京少儿,http://222.92.158.110:9889/rtp/239.49.0.45:8000
 南京少儿,http://222.92.94.26:9889/rtp/239.49.0.45:8000
 南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -681,14 +687,14 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷动画,http://120.87.19.109:80/PLTV/88888973/224/3221225698/10000100000000060000000000334056_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xjYcLe69k3H2w650IpTcktQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 卡酷动画,http://121.19.134.6:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://125.42.148.47:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://125.42.148.90:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://125.42.150.11:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://125.42.150.219:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://171.213.132.228:4000/udp/239.93.0.208:5140
 卡酷动画,http://183.24.62.163:44443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://183.62.8.58:50085/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://221.13.235.113:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://221.13.235.156:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://221.13.235.132:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://221.13.235.236:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://49.234.31.101:7033/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://tv.zhangzp.top:4022/udp/234.1.3.55:5000
 卡酷少儿,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
@@ -699,7 +705,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷少儿,http://106.116.241.206:9999/rtp/239.254.200.91:9248
 卡酷少儿,http://106.59.2.209:55555/rtp/239.200.200.64:8324
 卡酷少儿,http://106.59.2.53:55555/rtp/239.200.200.64:8324
-卡酷少儿,http://110.178.145.113:8188/rtp/239.1.1.62:8062
+卡酷少儿,http://110.178.145.83:8188/rtp/239.1.1.62:8062
 卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://112.109.206.161:9999/rtp/239.255.40.24:8208
 卡酷少儿,http://112.192.73.115:8484/rtp/239.0.0.75:5140
@@ -719,6 +725,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷少儿,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227622/1.m3u8?HlsProfileId=
 卡酷少儿,http://120.198.84.146:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://120.198.86.186:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://120.238.5.44:1698/hls/55/index.m3u8
 卡酷少儿,http://124.112.189.183:4022/rtp/238.1.78.97:6648
 卡酷少儿,http://124.114.103.202:6789/rtp/239.112.205.138:5140
 卡酷少儿,http://124.231.213.16:9999/tsfile/live/1104_1.m3u8
@@ -727,6 +734,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷少儿,http://14.157.24.38:2345/rtp/239.77.0.79:5146
 卡酷少儿,http://14.157.24.38:2345/rtp/239.77.1.50:5146
 卡酷少儿,http://180.213.170.24:8188/rtp/239.5.0.58:5000
+卡酷少儿,http://182.135.66.163:1888/rtp/239.94.2.230:5140
+卡酷少儿,http://182.135.66.163:18888/rtp/239.94.2.230:5140
 卡酷少儿,http://183.220.107.138:4022/rtp/239.11.0.129:5140
 卡酷少儿,http://183.222.15.202:4321/rtp/239.11.0.129:5140
 卡酷少儿,http://183.237.95.108:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -734,8 +743,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷少儿,http://183.30.201.168:10002/rtp/239.77.1.50:5146
 卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷少儿,http://218.17.143.73:9901/tsfile/live/1004_1.m3u8?key=txiptv&url=tvzb.com
-卡酷少儿,http://219.156.33.127:4022/rtp/225.1.4.48:1077
-卡酷少儿,http://219.156.84.127:4022/rtp/225.1.4.48:1077
+卡酷少儿,http://219.156.35.203:4022/rtp/225.1.4.48:1077
 卡酷少儿,http://220.167.170.199:4000/rtp/239.120.1.138:8886
 卡酷少儿,http://220.176.218.17:9000/rtp/239.252.219.109:5140
 卡酷少儿,http://221.205.89.249:9003/hls/57/index.m3u8$山西联通酒店
@@ -783,11 +791,14 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 卡酷少儿[1024*576],http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225654/.m3u8
 卡酷少儿HD,http://116.233.67.80:8899/rtp/233.18.204.109:5140
 卡酷少儿SD,http://116.233.67.80:8899/rtp/233.18.204.152:5140
+卡酷少儿SD,http://182.135.66.163:1888/rtp/239.94.1.29:5140
+卡酷少儿SD,http://182.135.66.163:18888/rtp/239.94.1.29:5140
 卡酷少兒,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 原创惊悚恐怖动漫,http://footyun.top:35455/douyu/9312460
 合家欢动画片,http://103.193.151.146/huya.php?id=11601958
 听听歌，看绝美动漫场景,http://footyun.top:35455/douyu/9191790
 呆呆的动画,https://goodiptv.club/huya/29837259
+和女友一起看黄色动漫几把看硬就开干,https://t21.cdn2020.com/video/m3u8/2023/03/20/948c5356/index.m3u8
 咸鱼动漫,http://nn.7x9d.cn/xz/yy.php?id=1354076248
 哆啦A梦「动漫」,http://live.chinacert.cftest5.cn/huya/11601963
 哆啦A梦「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
@@ -808,7 +819,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://106.52.119.159:1234/614952364
 嘉佳卡通,http://107.150.60.122/live/gdjjkt.m3u8
 嘉佳卡通,http://110.154.192.81:7788/614952364
-嘉佳卡通,http://110.178.145.113:8188/rtp/239.1.1.68:8068
+嘉佳卡通,http://110.178.145.83:8188/rtp/239.1.1.68:8068
+嘉佳卡通,http://111.193.227.77:23234/rtp/239.3.1.147:9268
 嘉佳卡通,http://111.196.135.80:20000/rtp/239.3.1.147:9268
 嘉佳卡通,http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
 嘉佳卡通,http://111.76.19.197:1234/614952364
@@ -818,9 +830,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://113.7.79.181:4022/rtp/229.58.190.107:5000
 嘉佳卡通,http://113.81.20.131:20443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://113.98.11.46:3000/614952364
-嘉佳卡通,http://114.254.37.78:8888/rtp/239.3.1.147:9268
-嘉佳卡通,http://114.254.38.234:8888/rtp/239.3.1.147:9268
-嘉佳卡通,http://114.254.80.143:4022/rtp/239.3.1.147:9268
+嘉佳卡通,http://114.254.35.125:8888/rtp/239.3.1.147:9268
+嘉佳卡通,http://114.254.85.67:4022/rtp/239.3.1.147:9268
 嘉佳卡通,http://115.171.216.227:4000/rtp/225.1.8.170:9268
 嘉佳卡通,http://115.171.216.32:4000/rtp/225.1.8.170:9268
 嘉佳卡通,http://116.2.166.222:4010/rtp/232.0.0.157:1234
@@ -828,29 +839,32 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://116.52.173.151:1234/614952364
 嘉佳卡通,http://116.52.173.67:1234/614952364
 嘉佳卡通,http://116.9.3.106:4000/udp/239.81.0.64:4056
+嘉佳卡通,http://119.125.131.239:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
 嘉佳卡通,http://119.233.255.62:1234/614952364
 嘉佳卡通,http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://120.198.84.146:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+嘉佳卡通,http://120.238.5.44:1698/hls/56/index.m3u8
 嘉佳卡通,http://120.238.94.82:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
 嘉佳卡通,http://120.87.19.109:80/PLTV/88888973/224/3221225728/10000100000000060000000000334188_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xQYxx5eRGMSiVTVhMpRIw9AWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-嘉佳卡通,http://121.199.48.54/live1/jsbv1.m3u8?id=gdjjkt&usign=AjqfC1t32Xq2XfybeLa0kw
-嘉佳卡通,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdjjkt&usign=AjqfC1t32Xq2XfybeLa0kw
+嘉佳卡通,http://121.199.48.54/live1/jsbv1.m3u8?id=gdjjkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+嘉佳卡通,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdjjkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
+嘉佳卡通,http://123.117.173.7:8118/rtp/239.3.1.147:9268
 嘉佳卡通,http://123.118.60.232:8686/rtp/239.3.1.147:9268
-嘉佳卡通,http://123.120.6.99:4022/rtp/239.3.1.147:9268
 嘉佳卡通,http://123.179.61.200:4022/rtp/239.29.0.126:5000
 嘉佳卡通,http://124.114.103.202:6789/rtp/239.112.205.135:5140
-嘉佳卡通,http://125.33.209.235:5588/rtp/239.3.1.147:9268
 嘉佳卡通,http://125.42.148.47:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://125.42.148.90:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://125.42.150.11:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://125.42.150.219:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://14.145.143.147:14022/rtp/239.77.0.179:5146
 嘉佳卡通,http://14.145.143.147:14022/rtp/239.77.1.15:5146
 嘉佳卡通,http://14.157.24.38:2345/rtp/239.77.0.179:5146
 嘉佳卡通,http://14.157.24.38:2345/rtp/239.77.1.15:5146
 嘉佳卡通,http://171.213.132.228:4000/udp/239.93.0.246:5140
+嘉佳卡通,http://182.135.66.163:1888/rtp/239.94.2.226:5140
+嘉佳卡通,http://182.135.66.163:18888/rtp/239.94.2.226:5140
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
 嘉佳卡通,http://183.220.107.138:4022/rtp/239.11.0.203:5140
 嘉佳卡通,http://183.222.15.202:4321/rtp/239.11.0.203:5140
@@ -861,9 +875,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://198.204.228.26/live/gdjjkt.m3u8
 嘉佳卡通,http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
 嘉佳卡通,http://218.17.143.73:9901/tsfile/live/1006_1.m3u8?key=txiptv&url=tvzb.com
-嘉佳卡通,http://218.86.184.215:8188/rtp/238.255.2.62:5999
-嘉佳卡通,http://219.156.33.127:4022/rtp/225.1.4.92:1121
-嘉佳卡通,http://219.156.84.127:4022/rtp/225.1.4.92:1121
+嘉佳卡通,http://218.86.185.39:8188/rtp/238.255.2.62:5999
+嘉佳卡通,http://219.156.35.203:4022/rtp/225.1.4.92:1121
 嘉佳卡通,http://220.167.170.199:4000/rtp/239.120.1.108:8640
 嘉佳卡通,http://220.176.218.17:9000/rtp/239.252.219.92:5140
 嘉佳卡通,http://221.220.134.250:8012/rtp/239.3.1.147:9268
@@ -875,7 +888,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://27.12.12.101:1234/614952364
 嘉佳卡通,http://27.154.99.234:3386/rtp/239.61.2.72:8426
 嘉佳卡通,http://2g545s5578.qicp.vip:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdjjkt&usign=AjqfC1t32Xq2XfybeLa0kw
+嘉佳卡通,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdjjkt&usign=i6C9UEdDPOiyDe-1w4fIwQ
 嘉佳卡通,http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通,http://42.94.210.16:7788/614952364
@@ -896,7 +909,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,http://chuangye168.gnway.org:56994/g8dyou.php?id=gdjiajiacartoon_1500
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=61a9a75877b554529059bd1e7549dd65&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20261021115112&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=39.103.182.111&SecurityKey=20261021115112&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9f722dc4fdd28a1f4a5a3de173de6609&ddCalcu=990fv67a62be2add3c741feddd32a85aa14f&sv=10004&ct=android
-嘉佳卡通,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20261029160301e99058a69ec44fc6bc90e77b97ca8b4b&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20261029160301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=171.8.79.254&SecurityKey=20261029160301&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=748318e82de88a2b931248c312136ea8
+嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=9ca48b509f00e6956adcf185b1c5e40e&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20261030174840&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=39.103.188.159&SecurityKey=20261030174840&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=815b6c74c905208719df8c649830dfad&ddCalcu=d8a1vf5adbb06a3c87944c69c085f2d09817&sv=10004&ct=android
+嘉佳卡通,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20261030160301425ba72588ba4312936a295dc153de6c&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20261030160301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=171.8.79.254&SecurityKey=20261030160301&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4e8e5419c23dacb69f7a21851ef56b5
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/01.m3u8$江西移动
 嘉佳卡通,http://k.061899.xyz/k.php?id=jjkt
 嘉佳卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZsMh4t&tk=IaRTZBNZkJti
@@ -922,8 +936,10 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-1.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-2.ctv
 嘉佳卡通,https://tv.zhuhongxuan.cn/614952364
-嘉佳卡通,https://tv123.cc.cd/live.php?ch=2571&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=df15ba4d920fcd20ca11cd2b682dc2000585c4fff86fce69bb2b5b899995b01f
+嘉佳卡通,https://tv123.cc.cd/live.php?ch=2574&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=74c3e067cc0c9850cc4149474434bfa5ae61a11ce45c43334b93651a2f526f3f
 嘉佳卡通SD,http://116.233.67.80:8899/rtp/233.18.204.151:5140
+嘉佳卡通SD,http://182.135.66.163:1888/rtp/239.94.1.10:5140
+嘉佳卡通SD,http://182.135.66.163:18888/rtp/239.94.1.10:5140
 嘉佳卡通|枫斗直播,https://3.69mini.com/mg.php?token=de381f782124668e264e7bb8b5e3ae
 嘉佳卡通高清,http://120.87.19.109:80/PLTV/88888973/224/3221226663/10000100000000060000000002048489_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xPnp1olV2OTiF3IkQRu01qgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 四川|成都少儿,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv6hd&fmt=hls
@@ -948,11 +964,13 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 宁夏少儿,https://hls.nxhhy.cn/live/nxse1M.m3u8
 宁夏少儿频道,http://106.45.2.15:4000/rtp/239.121.4.63:8352
 宁波少儿|枫斗直播,http://www.liangcl.top:8686/rtp/233.50.201.181:5140
+宝宝动画HD,http://182.135.66.163:1888/rtp/239.94.1.32:5140
+宝宝动画HD,http://182.135.66.163:18888/rtp/239.94.1.32:5140
 宝宝动画高清,http://171.213.132.228:4000/udp/239.93.0.147:5140
-寿柔蔓-忍村动漫半CD,https://douyu.445569.xyz/live/7791568
 小乔-情书(动画),http://em.21dtv.com/songs/60104074.mkv
 小姐姐详细解说动漫,http://footyun.top:35455/douyu/9674566
 小当家动漫社,https://goodiptv.club/huya/24257300
+小当家动漫社,https://live.ottiptv.cc/huya/24257300
 小淘气说动漫,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Iq2bLi&tk=IaRTZBNZkJti
 小芯·动漫解说,https://live.ottiptv.cc/bilibili/30150311
 小陶气说动漫,https://goodiptv.club/douyu/9527700
@@ -961,8 +979,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 少儿142,http://cdntv.online/high/ynemik5cl9/1849.mpeg
 少儿1539,http://cdntv.online/high/ynemik5cl9/1539.mpeg
 少儿2132,http://cdntv.online/high/ynemik5cl9/2132.mpeg.m3u8
-少儿动漫,http://121.199.48.54/live1/jsbv1.m3u8?id=hssedm&usign=AjqfC1t32Xq2XfybeLa0kw
-少儿动漫,http://121.199.48.54/live1/jsbv2b.m3u8?id=hssedm&usign=AjqfC1t32Xq2XfybeLa0kw
+少儿动漫,http://121.199.48.54/live1/jsbv1.m3u8?id=hssedm&usign=i6C9UEdDPOiyDe-1w4fIwQ
+少儿动漫,http://121.199.48.54/live1/jsbv2b.m3u8?id=hssedm&usign=i6C9UEdDPOiyDe-1w4fIwQ
 少儿动漫,http://192.187.124.34:81/live/hssedm.m3u8
 少儿动漫,rtsp://118.212.169.134/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$江西联通
 少儿动画,http://120.196.235.42:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1265,11 +1283,12 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 少儿动画295,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/584d0536b3914dabb03a60d7426c46e6/1200.m3u8
 少儿动画296,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b4667f3a746e4d2382835b3d2c2a2ff7/1200.m3u8
 少儿动画297,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c438ef0a3cc492fa136ae39a4da941e/1200.m3u8
+少儿动画HD,http://182.135.66.163:1888/rtp/239.94.1.33:5140
+少儿动画HD,http://182.135.66.163:18888/rtp/239.94.1.33:5140
 少儿动画高清,http://171.213.132.228:4000/udp/239.93.0.193:9000
-少儿口才棒棒糖老师 - 线上口才课，开始报名啦！,https://pull-hls-l6.douyincdn.com/stage/stream-408574489929187359_or4/index.m3u8?k=5d7cddd75ce7b44c&t=1793871893&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261029174453C3F8970A96020AF2B2C5-XqqeAa
-少儿天地,http://171.213.134.204:8188/udp/239.93.42.34:5140
-少儿天地,http://171.213.238.156:8188/udp/239.93.42.34:5140
-少儿天地,http://171.213.243.82:8188/udp/239.93.42.34:5140
+少儿天地,http://171.213.151.28:8188/udp/239.93.42.34:5140
+少儿天地HD,http://182.135.66.163:1888/rtp/239.94.1.138:5140
+少儿天地HD,http://182.135.66.163:18888/rtp/239.94.1.138:5140
 少儿歌曲-在公园里,http://em.21dtv.com/songs/60057048.mkv
 少儿歌曲-我的好妈妈,http://em.21dtv.com/songs/60102156.mkv
 少儿歌曲-爸爸妈妈听我说,http://em.21dtv.com/songs/60087720.mkv
@@ -1286,7 +1305,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 山东少儿,http://112.235.200.120:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 山东少儿,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 山东少儿,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
-山东少儿,http://121.199.48.54/live1/sdxw.m3u8?id=sdse&usign=AjqfC1t32Xq2XfybeLa0kw
+山东少儿,http://121.199.48.54/live1/sdxw.m3u8?id=sdse&usign=i6C9UEdDPOiyDe-1w4fIwQ
 山东少儿,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东少儿,http://123.132.233.194:352/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东少儿,http://139.129.231.228:50060/rtp/239.21.1.208:5002
@@ -1337,11 +1356,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 广东卡通,http://171.38.107.33:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卡通HD,http://yzfvip.top:9106/udp/239.77.0.179:5146
 广东嘉佳卡通,http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+广东嘉佳卡通,http://121.10.7.16:4000/udp/239.77.0.179:5146
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.236.43.98:4013/udp/239.77.0.179:5146
 广东嘉佳卡通,http://58.253.171.52:8188/udp/239.0.1.56:5007
 广东嘉佳卡通,http://61.145.188.90:50055/udp/239.77.0.179:5146
-广东嘉佳卡通,http://61.145.188.90:60033/udp/239.77.0.179:5146
 广东嘉佳卡通,http://tv.8610000.cn:555/gdtv/gdtv.php?id=66
 广东少儿,http://107.150.60.122/live/gdtvs5.m3u8
 广东少儿,http://113.81.20.131:20443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1354,14 +1373,15 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+广东少儿,http://120.238.5.44:1698/hls/13/index.m3u8
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.238.94.82:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.87.19.109:80/PLTV/88888973/224/3221225727/10000100000000060000000000334183_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xMUv/gTuI5DDcfzACpClQ3gWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-广东少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdtvs5&usign=AjqfC1t32Xq2XfybeLa0kw
-广东少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdtvs5a&usign=AjqfC1t32Xq2XfybeLa0kw
-广东少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdtvs5&usign=AjqfC1t32Xq2XfybeLa0kw
-广东少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdtvs5a&usign=AjqfC1t32Xq2XfybeLa0kw
+广东少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdtvs5&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广东少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdtvs5a&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广东少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdtvs5&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广东少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdtvs5a&usign=i6C9UEdDPOiyDe-1w4fIwQ
 广东少儿,http://124.222.238.146:3328/SMBD/smtv.php?id=gdse
 广东少儿,http://14.145.143.147:14022/rtp/239.77.0.250:5146
 广东少儿,http://14.157.24.38:2345/rtp/239.77.0.250:5146
@@ -1372,8 +1392,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 广东少儿,http://183.30.201.168:10002/rtp/239.77.0.250:5146
 广东少儿,http://192.151.150.154/live/gdtvs5.m3u8
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
-广东少儿,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs5&usign=AjqfC1t32Xq2XfybeLa0kw
+广东少儿,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdtvs5&usign=i6C9UEdDPOiyDe-1w4fIwQ
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
+广东少儿,http://49.234.31.101:7033/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdtvs5
 广东少儿,http://8.217.90.28:9999/触电.php?id=gdse
 广东少儿,http://chuangye168.gnway.org:56994/g8dyou.php?id=gdshaoer_1500
@@ -1392,9 +1413,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 广东少儿,https://mgev.188766.xyz/?migutoken=64c819ac9373e91ddb4989d946121337&id=gd_gdse&type=sz
 广东少儿HD,http://yzfvip.top:9106/udp/239.77.0.250:5146
 广东少儿欣赏,http://rihou.cc:555/tv/[AtI]广东少儿
+广东少儿频道,http://121.10.7.16:4000/udp/239.77.0.250:5146
 广东少儿频道,http://183.236.43.98:4013/udp/239.77.0.250:5146
 广东少儿频道,http://58.253.171.52:8188/udp/239.0.1.55:5012
-广东少儿频道,http://61.145.188.90:60033/udp/239.77.0.250:5146
 广东少儿高清,http://119.29.142.81:4022/udp/239.77.0.250:5146
 广东少儿高清,http://120.87.19.109:80/PLTV/88888973/224/3221226666/10000100000000060000000002048491_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xXqlf5E/eFhCs5YS6r02m6AWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广东少儿高清,http://61.145.188.90:50055/udp/239.77.0.250:5146
@@ -1425,9 +1446,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 成都少儿|枫斗直播,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.21:1251
 成都少儿|枫斗直播,http://uo202.1985001.xyz:66/rtp/239.93.0.21:1251
 成都少儿|枫斗直播,http://xdnas.teop.cn:8189/rtp/239.93.0.21:1251
-成都少儿频道,http://171.213.134.204:8188/udp/239.93.0.21:1251
-成都少儿频道,http://171.213.238.156:8188/udp/239.93.0.21:1251
-成都少儿频道,http://171.213.243.82:8188/udp/239.93.0.21:1251
+成都少儿频道,http://171.213.151.28:8188/udp/239.93.0.21:1251
 成都少儿频道,http://cqshushu.us.kg:2086/公众号【医工学习日志】/四川/chengdu.php?id=cdtv6
 我的世界小本子-我的世界动画-怪物学院,https://huya.445569.xyz/live/374579
 战斗吧热血动漫全看,http://footyun.top:35455/douyu/9641152
@@ -1450,8 +1469,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 新动漫,http://120.198.84.146:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://122.189.103.197:8888/rtp/228.0.0.240:6108
 新动漫,http://180.213.170.24:8188/rtp/239.5.0.109:5000
-新动漫,http://219.156.33.127:4022/rtp/225.1.4.212:1265
-新动漫,http://219.156.84.127:4022/rtp/225.1.4.212:1265
+新动漫,http://219.156.35.203:4022/rtp/225.1.4.212:1265
 新动漫,http://220.176.218.17:9000/rtp/239.252.220.132:5140
 新动漫,http://222.134.19.49:8090/961930269
 新动漫,http://223.247.25.235:1234/961930269
@@ -1485,12 +1503,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 新动漫,https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 新动漫,https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc$LR•5•IPV4『线路5』
 新动漫,https://tv.zhuhongxuan.cn/961930269
-新动漫,https://tv123.cc.cd/live.php?ch=2573&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=7ea41f1757d9c4f5ee8ac6b28b261c3135d97ce1ae46ad59acc638274c53d7c5
+新动漫,https://tv123.cc.cd/live.php?ch=2576&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=2ea2412100d290410c24706cd31a239324a83ed5fab8983e37aef357dbd124b8
 新动漫,rtsp://118.212.169.134/PLTV/88888888/224/3221227212/10000100000000060000000000680199_0.smil$江西联通
-新手肝动画中，求大佬指教,https://live.ottiptv.cc/bilibili/1967229547
 新疆|新疆少儿,http://livehyw5.chinamcache.com/hyw/zb12.m3u8?txSecret=b2d9d5bdd746c8ae8ce02450b95e3315&txTime=95A66658
-新疆少儿频道,http://121.199.48.54/live1/jsbv1.m3u8?id=xjtv8&usign=AjqfC1t32Xq2XfybeLa0kw
-新疆少儿频道,http://121.199.48.54/live1/xjtv.m3u8?id=xjtv12&usign=AjqfC1t32Xq2XfybeLa0kw@@X-Forwarded-For=36.189.232.78@@
+新疆少儿频道,http://121.199.48.54/live1/jsbv1.m3u8?id=xjtv8&usign=i6C9UEdDPOiyDe-1w4fIwQ
+新疆少儿频道,http://121.199.48.54/live1/xjtv.m3u8?id=xjtv12&usign=i6C9UEdDPOiyDe-1w4fIwQ@@X-Forwarded-For=36.189.232.78@@
 新疆少儿频道,http://192.151.150.154/live/xjtv8.m3u8
 新疆少儿频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%96%86%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&auth=666858
 日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
@@ -1502,16 +1519,16 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 晓葵动漫花园o(❁´◡`❁)o,http://footyun.top:35455/douyu/426517
 来看热血动漫,http://footyun.top:35455/douyu/9931766
 杰克动漫,https://goodiptv.club/huya/19757963
+杰克动漫,https://live.ottiptv.cc/huya/19757963
 枫狂吐槽的动漫推荐没番看就进来吧,http://footyun.top:35455/douyu/9541849
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 正午阳光少儿明星-POWER BABY天津,http://em.21dtv.com/songs/60153061.mkv
-民间独立动画_直播签绘女角色,https://live.ottiptv.cc/bilibili/1880712937
 江苏|优曼卡通,http://api2.52tb.xyz/info?id=460&token=20230218htjgzi
 江苏|南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 江苏优漫卡通,http://121.237.244.247:8888/rtp/239.49.8.119:8000
 江苏优漫卡通,http://121.237.245.192:8888/rtp/239.49.8.119:8000
 江苏卡通,http://180.103.42.133:8800/rtp/239.49.8.119:8000
-江苏卡通,http://222.92.158.109:9889/rtp/239.49.1.21:6000
+江苏卡通,http://222.92.158.110:9889/rtp/239.49.1.21:6000
 江苏卡通,http://222.92.94.26:9889/rtp/239.49.1.21:6000
 江西-6少儿频道,http://47.106.224.31:25523/hls/129/index.m3u8
 江西|江西少儿,http://223.83.183.218:9901/tsfile/live/1062_1.m3u8
@@ -1529,11 +1546,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 江西少儿,rtsp://118.212.169.134/PLTV/88888888/224/3221227089/10000100000000060000000000582672_0.smil$江西联通
 江西少儿|飞扬直播,http://113.195.172.192:808/hls/11/index.m3u8
 江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
-江西少儿家庭,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv6&usign=AjqfC1t32Xq2XfybeLa0kw
-江西少儿家庭,http://121.199.48.54/live1/jsbv2b.m3u8?id=jxtv6&usign=AjqfC1t32Xq2XfybeLa0kw
+江西少儿家庭,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv6&usign=i6C9UEdDPOiyDe-1w4fIwQ
+江西少儿家庭,http://121.199.48.54/live1/jsbv2b.m3u8?id=jxtv6&usign=i6C9UEdDPOiyDe-1w4fIwQ
 江西少儿家庭,http://192.151.150.154/live/jxtv6.m3u8
 江西少儿家庭,http://198.204.228.26/live/jxtv6.m3u8
-江西少儿家庭,http://38.75.136.137:82/live2/jxtv.m3u8?id=jxtv6&usign=AjqfC1t32Xq2XfybeLa0kw
+江西少儿家庭,http://38.75.136.137:82/live2/jxtv.m3u8?id=jxtv6&usign=i6C9UEdDPOiyDe-1w4fIwQ
 江西少儿家庭,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 江西少儿频道,http://220.176.218.17:9000/udp/239.252.219.113:5140
 江西少儿高清,http://113.195.172.192:808/hls/35/index.m3u8
@@ -1547,7 +1564,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 河北少儿科教,http://111.225.95.13:8800/hls/21/index.m3u8
 河北少儿科教,http://121.19.134.149:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿科教,http://121.19.134.6:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-河北少儿科教,http://121.199.48.54/live1/hetv.m3u8?id=hese&usign=AjqfC1t32Xq2XfybeLa0kw
+河北少儿科教,http://121.199.48.54/live1/hetv.m3u8?id=hese&usign=i6C9UEdDPOiyDe-1w4fIwQ
 河北少儿科教,http://124.239.135.194:11080/live/sekj/index.m3u8
 河北少儿科教,http://60.4.28.229:8077/rtp/239.253.92.174:6004
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
@@ -1565,9 +1582,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 浙江|宁波少儿频道,http://www.372583307.top:4022/udp/233.50.201.181:5140
 浙江|少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-浙江少儿,http://121.199.48.54/live1/zjtv.m3u8?id=zjtv8&usign=AjqfC1t32Xq2XfybeLa0kw
-浙江少儿,http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv8&usign=AjqfC1t32Xq2XfybeLa0kw
-浙江少儿,http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv8&usign=AjqfC1t32Xq2XfybeLa0kw
+浙江少儿,http://121.199.48.54/live1/zjtv.m3u8?id=zjtv8&usign=i6C9UEdDPOiyDe-1w4fIwQ
+浙江少儿,http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv8&usign=i6C9UEdDPOiyDe-1w4fIwQ
+浙江少儿,http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv8&usign=i6C9UEdDPOiyDe-1w4fIwQ
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,http://183.129.255.66:8480/hls/23/index.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•8•IPV4『线路1』
@@ -1576,7 +1593,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•8•IPV4『线路4』
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•8•IPV4『线路3』
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -1592,10 +1609,10 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 浙江少儿,http://ms.fxim.net:808/hls/15/index.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•8•IPV4『线路3』
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•8•IPV4『线路2』
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•8•IPV4『线路2』
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•8•IPV4『线路4』
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1616,7 +1633,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 浙江少儿频道,http://115.211.1.213:8001/udp/233.50.201.138:5140
 浙江少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海南少儿,http://113.58.133.109:8188/rtp/239.254.96.192:8178
-海南少儿,http://121.199.48.54/live1/hitv.m3u8?id=hiqs&usign=AjqfC1t32Xq2XfybeLa0kw
+海南少儿,http://121.199.48.54/live1/hitv.m3u8?id=hiqs&usign=i6C9UEdDPOiyDe-1w4fIwQ
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
@@ -1637,7 +1654,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 海南广播电视总台少儿频道,http://113.98.11.46:3000/962067523
 海南广播电视总台少儿频道,http://119.233.255.62:1234/962067523
 海南广播电视总台少儿频道,http://8.137.121.66:20241/962067523
-海南广播电视总台少儿频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610291602576b5132e1345045ec8b3e2aa54c19327f&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261029160257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261029160257&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8cec5b042a0a0831e3329e800a89a10e
+海南广播电视总台少儿频道,http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/51/20251225/index.m3u8?msisdn=c667199ea00a1423949936a2627e86c6&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261030174824&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=39.103.188.159&SecurityKey=20261030174824&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=649f2b0c7bdf47eba7e66e31cd5740e4&ddCalcu=46e4v09a4fz72a5bd0cc173bed6f64e77eab&sv=10004&ct=android
+海南广播电视总台少儿频道,http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/51/20251225/index.m3u8?msisdn=f625bc157c39facefdb854858ba361e5&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261030174840&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=39.103.188.159&SecurityKey=20261030174840&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=088de30495cd76285d8d6f6bb789395e&ddCalcu=e058v98a3dz9ea8370b4b965fc6dd786d258&sv=10004&ct=android
+海南广播电视总台少儿频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=20261030160257c9ffa80f198b47d8b82a451e1889b907&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261030160257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261030160257&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c5259d303257ce48bcce764a5c8ae10d
 海南广播电视总台少儿频道,http://mg.cttv.vip/962067523
 海南广播电视总台少儿频道,http://my1nas.dpdns.org:1234/962067523
 海南广播电视总台少儿频道,http://njdm.i234.me:1234/962067523
@@ -1646,10 +1665,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 海南广播电视总台少儿频道,http://xch819.cn:7788/962067523
 海南广播电视总台少儿频道,https://migu.249051.xyz/962067523
 海南广播电视总台少儿频道,https://tv.zhuhongxuan.cn/962067523
-海南广播电视总台少儿频道,https://tv123.cc.cd/live.php?ch=2537&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=29e80a944ba50351fa625af77304080e62a8b2df6d0039601ba7d63b1cfb1a45
+海南广播电视总台少儿频道,https://tv123.cc.cd/live.php?ch=2540&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=32c581fe6101fd891a036c61cd3877d3cf83be1bf6dd5876c9099332dcb3ad26
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdszse&usign=AjqfC1t32Xq2XfybeLa0kw
-深圳少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdszse&usign=AjqfC1t32Xq2XfybeLa0kw
+深圳少儿,http://119.125.131.239:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+深圳少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=gdszse&usign=i6C9UEdDPOiyDe-1w4fIwQ
+深圳少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdszse&usign=i6C9UEdDPOiyDe-1w4fIwQ
 深圳少儿,http://125.89.163.44:8888/udp/239.77.1.244:5146
 深圳少儿,http://14.145.143.147:14022/rtp/239.77.1.244:5146
 深圳少儿,http://14.157.24.38:2345/rtp/239.77.1.244:5146
@@ -1672,15 +1692,15 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 深圳少儿|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%84%BF&auth=666858
 深圳少儿频道,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳少儿频道,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+深圳少儿频道,http://121.10.7.16:4000/udp/239.77.1.244:5146
 深圳少儿频道,http://183.236.43.98:4013/udp/239.77.1.244:5146
 深圳少儿频道,http://61.145.188.90:50055/udp/239.77.1.244:5146
-深圳少儿频道,http://61.145.188.90:60033/udp/239.77.1.244:5146
 深圳少儿频道|枫斗直播,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szse
 湖南.金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 湖南|金鹰卡通,http://api2.52tb.xyz/info?id=568&token=20230218htjgzi
 湖南金鹰卡通,http://1.192.242.239:8188/rtp/239.16.20.104:11040
 湖南金鹰卡通,http://124.165.232.26:8082/rtp/226.0.2.172:9288
-湖南金鹰卡通,http://124.165.232.26:8085/rtp/226.0.2.172:9288
+湖南金鹰卡通,http://124.165.232.26:8084/rtp/226.0.2.172:9288
 湖南金鹰卡通,http://171.119.206.17:6000/rtp/226.0.2.172:9288
 湖南金鹰卡通,http://171.119.206.49:6000/rtp/226.0.2.172:9288
 湖南金鹰卡通,http://171.8.84.49:8800/rtp/239.16.20.104:11040
@@ -1705,12 +1725,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-8.m3u8
 炫动卡通,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 熊孩子沙雕动画,https://huyazhibo.de5.net/?id=25243852
-熊猫卡通,http://171.213.134.204:8188/udp/239.93.1.172:5140
-熊猫卡通,http://171.213.238.156:8188/udp/239.93.1.172:5140
-熊猫卡通,http://171.213.243.82:8188/udp/239.93.1.172:5140
-熊猫少儿,http://171.213.134.204:8188/udp/239.93.1.189:5140
-熊猫少儿,http://171.213.238.156:8188/udp/239.93.1.189:5140
-熊猫少儿,http://171.213.243.82:8188/udp/239.93.1.189:5140
+熊猫卡通,http://171.213.151.28:8188/udp/239.93.1.172:5140
+熊猫少儿,http://171.213.151.28:8188/udp/239.93.1.189:5140
 熊猫少儿高清,http://171.213.132.228:4000/udp/239.93.1.189:5140
 爆笑解说各种动漫,http://footyun.top:35455/douyu/2365
 爱动漫,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
@@ -1748,12 +1764,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 画点自己的个人作品 逐帧动画,https://live.ottiptv.cc/bilibili/5180478
 疯狂动漫 正在直播,https://goodiptv.club/yy/1353937086
 百事通少儿4K,http://223.167.230.155:4022/rtp/239.45.1.1:5140
-百视通宝宝动画,http://171.213.134.204:8188/udp/239.93.0.147:5140
-百视通宝宝动画,http://171.213.238.156:8188/udp/239.93.0.147:5140
-百视通宝宝动画,http://171.213.243.82:8188/udp/239.93.0.147:5140
-百视通青春动漫,http://171.213.134.204:8188/udp/239.93.0.146:5140
-百视通青春动漫,http://171.213.238.156:8188/udp/239.93.0.146:5140
-百视通青春动漫,http://171.213.243.82:8188/udp/239.93.0.146:5140
+百视通宝宝动画,http://171.213.151.28:8188/udp/239.93.0.147:5140
+百视通青春动漫,http://171.213.151.28:8188/udp/239.93.0.146:5140
 皮皮动漫星球,https://goodiptv.club/douyu/8841920
 皮皮动漫星球,https://live.ottiptv.cc/douyu/8841920
 皮皮看动漫,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=4AfanG&tk=IaRTZBNZkJti
@@ -1771,9 +1783,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 福建|福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福建少儿,http://103.236.69.25:2380/fujtv/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
 福建少儿,http://110.86.15.66:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-福建少儿,http://121.199.48.54/live1/fjtv.m3u8?id=fjse&usign=AjqfC1t32Xq2XfybeLa0kw
-福建少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=fjse&usign=AjqfC1t32Xq2XfybeLa0kw
-福建少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=fjse&usign=AjqfC1t32Xq2XfybeLa0kw
+福建少儿,http://121.199.48.54/live1/fjtv.m3u8?id=fjse&usign=i6C9UEdDPOiyDe-1w4fIwQ
+福建少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=fjse&usign=i6C9UEdDPOiyDe-1w4fIwQ
+福建少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=fjse&usign=i6C9UEdDPOiyDe-1w4fIwQ
 福建少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fjse
 福建少儿,http://8.138.7.223/tv/fjtv1.php?id=fjse
 福建少儿,https://live.264788.xyz/channel/fujianshaoer?streamid=98ccc174671e43f0e307e3445e59e2b5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1803,15 +1815,14 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
 經典卡通,http://iptv.4666888.xyz/iptv2A.php?id=41
 經典卡通-FastTV飛速看,https://4g.158.qzz.io/163189/dlam
-經典卡通-FastTV飛速看,https://tv123.cc.cd/live.php?ch=2435&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=1783585eea66c8cb2c97e160ff0a62ef56cb79fb326bbe7668c9cdb90de03dd1
-經典卡通-FastTV飛速看,https://tv123.cc.cd/live.php?ch=2647&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=b468e4c4d8f70c95117cfe3e67a57ad92d3598376d12b6043c03e7aa2e302c3c
+經典卡通-FastTV飛速看,https://tv123.cc.cd/live.php?ch=2433&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=89f331bf34ff5b18376a4951944d27b7432b9efb806b2aa1616a713047ab41b7
+經典卡通-FastTV飛速看,https://tv123.cc.cd/live.php?ch=2650&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=77618d4407273f793069a9e07f4263bf7ed8aeed7029f209d6edd353606a6cc8
 經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784702901150
 經典卡通台,https://4g.158.qzz.io/163189/jdktk
-經典卡通台,https://tv123.cc.cd/live.php?ch=2635&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=eb118fc0b9dd6bb3b4f79bbd1e944e044e5c542908389d8bdeb00914f2fd2822
-經典卡通台,https://tv123.cc.cd/live.php?ch=735&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=2d0579dc9ce42f9340bbea0b65994057cabe4d0a902540b30639cea4003bfcc4
+經典卡通台,https://tv123.cc.cd/live.php?ch=2638&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e41ba29db02d0917a8f6875cc79dd8ce6f29652f65a310803fef9416ebfc2195
+經典卡通台,https://tv123.cc.cd/live.php?ch=721&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=75569dd9b152a3946fee3f231cbab4d3980f9629901bfcf705ed4b91a9eb63ca
 经典动漫,http://61.133.118.228:5001/yy/24180320
 经典动漫,http://8.155.43.98:35455/yy/67857780
-经典动漫,https://www.goodiptv.club/yy/22777075
 经典动画大集合,http://101.200.122.188:1234/629942219
 经典动画大集合,http://103.236.77.86:29824/629942219
 经典动画大集合,http://106.5.174.241:5678/629942219
@@ -1820,7 +1831,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 经典动画大集合,http://119.233.255.62:1234/629942219
 经典动画大集合,http://8.137.121.66:20241/629942219
 经典动画大集合,http://A/ku9/js/咪咕超简版.js?id=629942219
-经典动画大集合,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20261029160301091f9d02839a4216bd64c1550a92d311&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261029160301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20261029160301&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b52d1394b072aaa29eee1897002eeaef
+经典动画大集合,http://gslbmgsplive.miguvideo.com/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=c109ca941386efdfe07f759f7be3cd9b&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261030174840&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=39.103.182.111&SecurityKey=20261030174840&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6e664683a6040f0af10c84ab4e34e0f8&ddCalcu=86fev06ae6a44a36e843baa64084c00f10fa&sv=10004&ct=android
+经典动画大集合,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20261030160301b1c4e7356e0d4764932be44e4e9c1cc3&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261030160301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20261030160301&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10ef315dc8f798c3983bafeb3487a956
 经典动画大集合,http://k.061899.xyz/k.php?id=dhdjh
 经典动画大集合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eaJgJc&tk=IaRTZBNZkJti
 经典动画大集合,http://mg.cttv.vip/629942219
@@ -1833,7 +1845,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 经典动画大集合,https://migu.188766.xyz/?migutoken=0b2c5f815c015be8e84d4795ec703334&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
 经典动画大集合,https://migu.249051.xyz/629942219
 经典动画大集合,https://tv.zhuhongxuan.cn/629942219
-经典动画大集合,https://tv123.cc.cd/live.php?ch=2572&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=a5a61ec6880595178dbfae5a340888dc09955f72b27d001f731b8c1de887a3b2
+经典动画大集合,https://tv123.cc.cd/live.php?ch=2575&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=db1967b77c7e6a503956246d10c19617e002e213856411c07dbc3078fa634597
 经典卡通,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
 经典卡通,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 经典日本动漫速看,https://goodiptv.club/huya/29982686
@@ -1862,12 +1874,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 辽宁新动漫,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000140
 进来 陪你看动漫,http://nn.7x9d.cn/xz/yy.php?id=1352866135
 进来 陪你看动漫,https://live.ottiptv.cc/yy/1352866135
-道狭闻思所及-【抽象动画】,https://huya.445569.xyz/live/30826130
 郭晓薇-卡通人,http://em.21dtv.com/songs/60088791.mkv
 郭采洁-卡通人生,http://em.21dtv.com/songs/60024973.mkv
 重庆|重庆少儿,http://api2.52tb.xyz/info?id=615&token=20230218htjgzi
-重庆少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=cqse&usign=AjqfC1t32Xq2XfybeLa0kw
-重庆少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=cqse&usign=AjqfC1t32Xq2XfybeLa0kw
+重庆少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=cqse&usign=i6C9UEdDPOiyDe-1w4fIwQ
+重庆少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=cqse&usign=i6C9UEdDPOiyDe-1w4fIwQ
 重庆少儿,http://211.92.45.231:8900/udp/225.0.4.191:7980$重庆联通
 重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqse
@@ -1877,11 +1888,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 重庆少儿频道,http://222.86.13.51:9999/rtp/235.254.196.214:1128
 金熊猫卡通高清,http://171.213.132.228:4000/udp/239.93.1.172:5140
 金鷹卡通,https://7612-5516-affc-d88b.kylintv.tv/live/jykt_iphone.m3u8
+金鹰卡通,http://1.197.249.110:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://1.197.250.194:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
-金鹰卡通,http://101.66.194.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$LR•7•IPV4『线路2』
-金鹰卡通,http://101.66.198.18:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.234:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.84:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.194.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.232:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://103.236.69.25:2380/fujtv/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1
 金鹰卡通,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 金鹰卡通,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8?servicetype=1
@@ -1891,8 +1902,9 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://106.116.241.206:9999/rtp/239.254.200.92:9252
 金鹰卡通,http://106.59.2.209:55555/rtp/239.200.200.65:8328
 金鹰卡通,http://106.59.2.53:55555/rtp/239.200.200.65:8328
-金鹰卡通,http://110.178.145.113:8188/rtp/239.1.1.61:8061
+金鹰卡通,http://110.178.145.83:8188/rtp/239.1.1.61:8061
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
+金鹰卡通,http://111.193.227.77:23234/rtp/239.3.1.51:9252
 金鹰卡通,http://111.196.135.80:20000/rtp/239.3.1.51:9252
 金鹰卡通,http://111.225.95.13:8800/hls/62/index.m3u8
 金鹰卡通,http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
@@ -1904,9 +1916,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://113.251.74.243:8012/rtp/235.254.198.50:1476
 金鹰卡通,http://113.7.79.181:4022/rtp/229.58.190.98:5000
 金鹰卡通,http://113.9.214.47:9003/hls/59/index.m3u8
-金鹰卡通,http://114.254.37.78:8888/rtp/239.3.1.51:9252
-金鹰卡通,http://114.254.38.234:8888/rtp/239.3.1.51:9252
-金鹰卡通,http://114.254.80.143:4022/rtp/239.3.1.51:9252
+金鹰卡通,http://114.254.35.125:8888/rtp/239.3.1.51:9252
+金鹰卡通,http://114.254.85.67:4022/rtp/239.3.1.51:9252
 金鹰卡通,http://115.171.216.227:4000/rtp/225.1.8.163:9252
 金鹰卡通,http://115.171.216.32:4000/rtp/225.1.8.163:9252
 金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1931,14 +1942,15 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
 金鹰卡通,http://120.237.24.142:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://120.238.5.44:1698/hls/54/index.m3u8
 金鹰卡通,http://120.238.94.10:9901/tsfile/live/1036_1.m3u8
 金鹰卡通,http://120.238.94.82:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://120.87.19.109:80/PLTV/88888973/224/3221225699/10000100000000060000000000334067_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x9+G5VOA6WzIveOV07+CzEgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 金鹰卡通,http://120.87.19.109:80/PLTV/88888973/224/3221226664/10000100000000060000000002070298_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x0Urd2lQtGXCDQud3DPmJnwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 金鹰卡通,http://121.19.134.6:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://122.189.103.197:8888/rtp/228.0.0.59:6108
+金鹰卡通,http://123.117.173.7:8118/rtp/239.3.1.51:9252
 金鹰卡通,http://123.118.60.232:8686/rtp/239.3.1.51:9252
-金鹰卡通,http://123.120.6.99:4022/rtp/239.3.1.51:9252
 金鹰卡通,http://123.179.61.200:4022/rtp/239.29.1.85:5001
 金鹰卡通,http://124.112.189.183:4022/rtp/238.1.78.100:6672
 金鹰卡通,http://124.114.103.202:6789/rtp/239.112.205.136:5140
@@ -1946,8 +1958,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://124.231.213.16:9999/tsfile/live/1101_1.m3u8
 金鹰卡通,http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 金鹰卡通,http://124.90.45.52:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://125.33.209.235:5588/rtp/239.3.1.51:9252
-金鹰卡通,http://125.42.150.11:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.150.219:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://137.175.111.185/bfgd/?id=105
 金鹰卡通,http://14.145.143.147:14022/rtp/239.77.0.164:5146
 金鹰卡通,http://14.145.143.147:14022/rtp/239.77.1.52:5146
@@ -1956,6 +1967,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://171.213.132.228:4000/udp/239.93.0.108:5140
 金鹰卡通,http://171.38.148.188:9003/hls/50/index.m3u8
 金鹰卡通,http://180.213.170.24:8188/rtp/239.5.1.147:5000
+金鹰卡通,http://182.135.66.163:1888/rtp/239.94.2.231:5140
+金鹰卡通,http://182.135.66.163:18888/rtp/239.94.2.231:5140
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
 金鹰卡通,http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
 金鹰卡通,http://183.220.107.138:4022/rtp/239.11.0.127:5140
@@ -1972,15 +1985,13 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://218.15.183.23:9901/tsfile/live/23041_1.m3u8
 金鹰卡通,http://218.17.143.73:9901/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
 金鹰卡通,http://218.206.193.218:8888/hls/37/index.m3u8
-金鹰卡通,http://218.86.184.215:8188/rtp/238.255.2.55:5999
-金鹰卡通,http://219.156.33.127:4022/rtp/225.1.4.49:1078
-金鹰卡通,http://219.156.84.127:4022/rtp/225.1.4.49:1078
+金鹰卡通,http://218.86.185.39:8188/rtp/238.255.2.55:5999
+金鹰卡通,http://219.156.35.203:4022/rtp/225.1.4.49:1078
 金鹰卡通,http://220.167.170.199:4000/rtp/239.120.1.139:8892
 金鹰卡通,http://220.169.100.41:10087/udp/239.76.246.107:1234$湖南电信
 金鹰卡通,http://220.176.218.17:9000/rtp/239.252.219.69:5140
-金鹰卡通,http://221.13.235.113:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://221.13.235.113:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•7•IPV4『线路1』
-金鹰卡通,http://221.13.235.156:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://221.205.89.249:9003/hls/56/index.m3u8$山西联通酒店
 金鹰卡通,http://221.220.134.250:8012/rtp/239.3.1.51:9252
 金鹰卡通,http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2000,8 +2011,8 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://58.21.83.106:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0$吉林联通酒店
 金鹰卡通,http://58.253.171.52:8188/udp/239.0.1.41:9252
-金鹰卡通,http://58.46.28.198:8188/udp/239.76.246.107:1234
-金鹰卡通,http://58.46.28.198:8188/udp/239.76.253.107:9000
+金鹰卡通,http://58.46.31.185:8188/udp/239.76.246.107:1234
+金鹰卡通,http://58.46.31.185:8188/udp/239.76.253.107:9000
 金鹰卡通,http://60.30.67.44:8834/rtp/225.1.2.236:5002
 金鹰卡通,http://60.30.67.45:8834/rtp/225.1.2.236:5002
 金鹰卡通,http://60.4.28.229:8077/rtp/239.253.92.163:8055
@@ -2041,15 +2052,15 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8$LR•7•IPV4『线路6』
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8$LR•5•IPV4『线路4』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-14.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8$LR•7•IPV4『线路7』
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8$LR•5•IPV4『线路5』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•7•IPV4『线路4』
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•5•IPV4『线路2』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-3.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8$LR•7•IPV4『线路5』
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8$LR•5•IPV4『线路3』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-4.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-4.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
@@ -2060,7 +2071,7 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-5.m3u8
 金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-9.m3u8
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
-金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•7•IPV4『线路3』
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•5•IPV4『线路1』
 金鹰卡通,rtsp://118.212.169.134/PLTV/88888888/224/3221226969/10000100000000060000000000568711_0.smil$江西联通
 金鹰卡通,rtsp://118.212.169.134/PLTV/88888888/224/3221227312/10000100000000060000000001945876_0.smil$江西联通
 金鹰卡通[1024*576],http://39.134.67.148/PLTV/88888888/224/3221225561/1.m3u8
@@ -2069,19 +2080,19 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 金鹰卡通FHD,http://118.248.156.76:8889/udp/239.76.252.120:9000
 金鹰卡通FHD,http://118.251.18.87:8188/udp/239.76.245.120:1234
 金鹰卡通FHD,http://118.251.18.87:8188/udp/239.76.252.120:9000
-金鹰卡通FHD,http://58.46.28.198:8188/udp/239.76.245.120:1234
-金鹰卡通FHD,http://58.46.28.198:8188/udp/239.76.252.120:9000
+金鹰卡通FHD,http://58.46.31.185:8188/udp/239.76.245.120:1234
+金鹰卡通FHD,http://58.46.31.185:8188/udp/239.76.252.120:9000
 金鹰卡通HD,http://116.233.67.80:8899/rtp/233.18.204.113:5140
-金鹰卡通HD,http://222.92.158.109:9889/rtp/239.49.8.33:8000
+金鹰卡通HD,http://222.92.158.110:9889/rtp/239.49.8.33:8000
 金鹰卡通HD,http://222.92.94.26:9889/rtp/239.49.8.33:8000
 金鹰卡通HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 金鹰卡通SD,http://116.233.67.80:8899/rtp/233.18.204.150:5140
+金鹰卡通SD,http://182.135.66.163:1888/rtp/239.94.1.30:5140
+金鹰卡通SD,http://182.135.66.163:18888/rtp/239.94.1.30:5140
 金鹰卡通|枫斗直播,http://8.138.7.223/tv/mgtv.php?id=287
 金鹰卡通高清,http://103.236.69.25:2380/hunanchinamobile/180000001002/00000001000000000007000000001247/main.m3u8
 鑫酱盘动漫,https://goodiptv.club/douyu/9547575
 鑫酱盘动漫,https://live.ottiptv.cc/douyu/9547575
-锤子动画,https://huya.445569.xyz/live/30649359
-锤子动画,https://live.ottiptv.cc/huya/30649359
 长治公共少儿,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治公共少儿,rtmp://live.njgdmm.com/changzhi/cztv2
 长治公共少儿|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E6%B2%BB%E5%85%AC%E5%85%B1%E5%B0%91%E5%84%BF&auth=666858
@@ -2095,20 +2106,22 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 霸州少儿频道,http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
 青春动漫,http://171.213.132.228:4000/udp/239.93.0.146:5140
 青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
+青春动漫HD,http://182.135.66.163:1888/rtp/239.94.1.34:5140
+青春动漫HD,http://182.135.66.163:18888/rtp/239.94.1.34:5140
 靖天卡通,http://31.43.191.125:8080/restream/restream/34842
 靖天卡通,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
+靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
 靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
-靖天卡通台,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天卡通台,http://t.061899.xyz/tl/js/js.php?id=jtktt
 靖天卡通台,https://4g.158.qzz.io/163189/jtktt
-靖天卡通台,https://tv123.cc.cd/live.php?ch=2164&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=1ac11d8502d3732c1b12920dd612cf129fc785c668ce9ffb3ea645d6c8a1147d
-靖天卡通台,https://tv123.cc.cd/live.php?ch=2596&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=9ff7c9f561af24dbb46823c6f43f658dc650ae8268ebbf486864966f38e8f6a9
-靖天卡通台,https://tv123.cc.cd/live.php?ch=737&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=49eaafaa50039ead8f46824f701c3fe66876c9780f673c974fc7adada34dc571
+靖天卡通台,https://tv123.cc.cd/live.php?ch=2165&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4595d1a15d1dab3c2d14e50ea4cb9201abf324c68243262d5c84419b702ca102
+靖天卡通台,https://tv123.cc.cd/live.php?ch=2599&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=eee484e3c218bb7234d09b18842d1e868d87cda039c49817b4d3b088c4ca6019
+靖天卡通台,https://tv123.cc.cd/live.php?ch=723&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4b7c26bf5b20a68fc658bf52271ba62f94cf615c83f738c76a3f9bb27a081d72
 靖天卡通台[1280x720],http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖洋卡通,http://31.43.191.125:8080/restream/restream/34834
 靖洋卡通,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv057
@@ -2116,14 +2129,15 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
 靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
 靖洋卡通Nice Bingo,https://4g.158.qzz.io/163189/jykt
-靖洋卡通Nice Bingo,https://tv123.cc.cd/live.php?ch=2597&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=84056abb5c1ad74a9d260fe675e33577f35e8a5195c35367e54a53ee1867fa72
-靖洋卡通Nice Bingo,https://tv123.cc.cd/live.php?ch=738&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=51f3fcaa004b8756cdfc7074e633209e9fe0af53283f69fdcc05f9711df12acb
+靖洋卡通Nice Bingo,https://tv123.cc.cd/live.php?ch=2600&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=b3f6928b6a05b0090c46951b11e380e1d847dbf93e30f58d382277ad73d1ad09
+靖洋卡通Nice Bingo,https://tv123.cc.cd/live.php?ch=724&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4af9d2dd885e5a4d62759780c074ee64ca5a019366b4a349154302a01ee2d93e
 靖洋卡通台,http://api.mytv666.top/api/hk.php?id=6439333435633230343261376137336237646336336138646138643336303965267469643d74762669643d313634
 靖洋卡通台,http://t.061899.xyz/tl/js/js.php?id=jyktt
 韩国EBD-Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 韩国EBS少儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 韩国|Ebs Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 魔术师丶西索-【Hunter】动漫 热血 老贼 冒险,https://douyu.445569.xyz/live/6610883
+麻豆传媒映画.魏乔安.解放性欲之秋.怒操教唱恐龙抗浪的幼教,https://t26.cdn2020.com/video/m3u8/2023/10/08/e9ca5463/index.m3u8
 黑莓动画,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1
 黑莓动画,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
@@ -2186,11 +2200,11 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 黑龙江少儿频道,http://113.7.79.181:4022/rtp/229.58.190.39:5000
 黑龙江少儿频道[1280*720],https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 齐木楠雄陪你看动漫,http://footyun.top:35455/douyu/9415755
-龍華卡通,https://tv123.cc.cd/live.php?ch=2355&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=106877286d624f19fde54c3638394f48f084493e6d749ff2610889cdd9f00684
+龍華卡通,https://tv123.cc.cd/live.php?ch=2353&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=13ed581b7e24af26336fe8e15436257346f757ae7479a15ad72fbf59c14173f3
 龍華卡通台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn01
-龍華卡通台,https://tv123.cc.cd/live.php?ch=1815&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=cefb43ace469352c2fb42dccb532eeeb36622dde9b91739bf68b57ca9fe9e888
-龍華卡通台,https://tv123.cc.cd/live.php?ch=450&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=6c85dd3237e41f49143f77625b2bf5c02f5a5a89258c60d94930bf49488a987c
-龍華卡通台,https://tv123.cc.cd/live.php?ch=685&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=ac7ad8451b649e2a1bf88e99fcca82de96181ae16b59c200f0129d3c3143a6e0
+龍華卡通台,https://tv123.cc.cd/live.php?ch=1814&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=a1ee142340785ec4b6abca13a53b7aa345ce79eb097eff8bce885fc657fd79b8
+龍華卡通台,https://tv123.cc.cd/live.php?ch=436&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=637af6565557c5959f600501f857b27049102ba1f2b34ec458a409015eb22ab0
+龍華卡通台,https://tv123.cc.cd/live.php?ch=671&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=96f54824be3780c07618b4ac26fff6c48c10c941ce89092b0358681390e11c7d
 龙华卡通,http://8.fast.hidns.vip/163189/lhkt
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt
 龙华卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=GEhzLs&tk=IaRTZBNZkJti
@@ -2201,4 +2215,4 @@ WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通,https://jackcdn8.946985.qzz.io/live/lhkt/stream.m3u8
 龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
-龙华卡通,https://tv123.cc.cd/live.php?ch=336&sid=abc120e701f7615c1639936680169c16&exp=1793310431&sig=5cffaa68ced00566316d5e0a1c70928b589312027fb92fd51178809f8a743a95
+龙华卡通,https://tv123.cc.cd/live.php?ch=322&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e60891217ba9ff76d1fba1e9ae29f164339331bde02aad89e6c97f980758ae9f

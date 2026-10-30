@@ -140,7 +140,6 @@ ffy2|自建｜采集|type: 1|api: http://ld.69mzf.cn/api.php/provide/vod/?ac=lis
 糖豆广场舞|🎶糖豆丨广场舞|type: 1|api: https://kk.666888.club/vod/cibn_api.php/provide/vod/
 HH|☕🦊茶杯狐┃秒播|type: 1|api: http://www.haohuazy.com/api.php/provide/vod
 FF|🥗非凡┃秒播|type: 1|api: http://api.ffzyapi.com/api.php/provide/vod
-ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 pt|移动｜星源|type: 1|api: https://xy.183933.xyz/php/pt.php/provide/vod/
 kuwo|酷我｜音乐|type: 1|api: https://xy.183933.xyz/php/kuwo.php/provide/vod
 mgyy|咪咕｜音乐|type: 1|api: https://xy.183933.xyz/php/miguyy.php/provide/vod
@@ -150,6 +149,7 @@ acfun|A站｜星源|type: 1|api: https://xy.183933.xyz/php/acfun.php/provide/vod
 3|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
 暴風|暴風|type: 1|api: http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?
 aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
+ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 百度|百度|type: 1|api: https://api.apibdzy.com/api.php/provide/vod?ac=list
 360|三六零|type: 1|api: https://360zy.com/api.php/provide/vod
 影视工厂|🌼影视┃工厂🌼|type: 1|api: https://cj.lziapi.com/api.php/provide/vod/

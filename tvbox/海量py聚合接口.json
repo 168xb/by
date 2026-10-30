@@ -320,9 +320,9 @@
     },
     {
       "key": "哔哩直播",
-      "name": "哔哩｜直播",
+      "name": "📺哔哩｜点播",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/哔哩直播.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -394,7 +394,7 @@
       "key": "短剧┃搜索1",
       "name": "🏠短剧┃搜1",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/7e246e896fa4cf52866921b818d7e8cb.py",
+      "api": "https://mpimg.cn/down.php/7e246e896fa4cf52866921b8d7e8cb.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -403,7 +403,7 @@
       "key": "短剧搜索",
       "name": "🏠短剧┃搜2",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a86642.py",
+      "api": "https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a866.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -412,7 +412,7 @@
       "key": "fy",
       "name": "♨️枫叶｜免扫",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+      "api": "https://0.12yue.de5.net/5/lib/fy.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -421,7 +421,7 @@
       "key": "七猫短剧",
       "name": "🎬七猫┃短剧",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qmdj.py",
+      "api": "https://0.12yue.de5.net/5/lib/qmdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -437,9 +437,9 @@
     },
     {
       "key": "爱听音乐",
-      "name": "爱听｜音乐",
+      "name": "📻爱听｜音乐",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -644,18 +644,18 @@
     },
     {
       "key": "12",
-      "name": "👖4k",
+      "name": "👖磁力",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/af676592.py",
+      "api": "https://jsnz.pages.dev/f/baad9656.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "13",
-      "name": "👖APP",
+      "name": "👖4k",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/77cec76a.py",
+      "api": "https://jsnz.pages.dev/f/af676592.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -680,9 +680,9 @@
     },
     {
       "key": "7",
-      "name": "👖短剧",
+      "name": "👖采集",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/29b94aff.py",
+      "api": "https://jsnz.pages.dev/f/72b7239d.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -698,9 +698,9 @@
     },
     {
       "key": "15",
-      "name": "👖听书",
+      "name": "👖PY",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/d44dd2cf.py",
+      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2597,9 +2597,9 @@
     },
     {
       "key": "6",
-      "name": "👖采集",
+      "name": "👖短剧",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/72b7239d.py",
+      "api": "https://jsnz.pages.dev/f/29b94aff.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2624,9 +2624,9 @@
     },
     {
       "key": "14",
-      "name": "👖PY",
+      "name": "👖APP",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
+      "api": "https://jsnz.pages.dev/f/77cec76a.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2642,9 +2642,9 @@
     },
     {
       "key": "21",
-      "name": "👖听书",
+      "name": "👖API",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/d44dd2cf.py",
+      "api": "https://jsnz.pages.dev/f/cf616b2f.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2660,9 +2660,9 @@
     },
     {
       "key": "23",
-      "name": "👖有声",
+      "name": "👖听书",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/e126d1e4.py",
+      "api": "https://jsnz.pages.dev/f/d44dd2cf.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2672,6 +2672,24 @@
       "name": "📌测试",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/e7124867.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "20",
+      "name": "👖FM",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/cec31b11.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "24",
+      "name": "👖有声",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/e126d1e4.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
