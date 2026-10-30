@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/cab6d671a5d791f17ec53eea18330d8933cac11b/261028.jar;md5;afad65a24e267420799145db6cb37a4a",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/f85272374a4bb56a22db964c827ce3382fa93ab2/261030.jar;md5;5373f773e5441ebc4ffc7d4518558931",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -35,7 +35,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
     },
     {
       "key": "指南",
@@ -449,7 +449,7 @@
       "key": "影探",
       "name": "🌌影探丨4K资源",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -459,7 +459,7 @@
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -469,7 +469,7 @@
       "key": "shanzha4k",
       "name": "🍒山楂丨蓝光秒播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -654,7 +654,7 @@
       "key": "果果短剧",
       "name": "🍎果果丨短剧爽看",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
       "genre": "shortdrama"
     },
     {
@@ -776,7 +776,7 @@
       "key": "yuetingba",
       "name": "🍊悦听吧",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,

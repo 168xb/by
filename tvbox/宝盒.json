@@ -53,31 +53,6 @@
       "changeable": 1
     },
     {
-      "key": "pan-cfg",
-      "name": "⚙️ 网盘影视·扫码版",
-      "type": 3,
-      "api": "https://xn--6orr3pi6g9uu.top/js/spider.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.75
-      },
-      "ext": "{\"token\":\"my\",\"api\":\"https://xn--5mq46jrwl99dn01d.top/tvbox-api\"}"
-    },
-    {
-      "key": "ysc-pan",
-      "name": "📦 网盘影视·直连版",
-      "type": 1,
-      "api": "https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "天天",
       "name": "热播┃零二",
       "type": 3,
@@ -564,7 +539,7 @@
       "key": "儿童",
       "name": "儿童📚启蒙",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -572,7 +547,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
     {
       "key": "csp_少儿",
