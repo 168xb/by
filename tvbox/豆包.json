@@ -282,49 +282,49 @@
       "key": "藤1藤",
       "name": "天神别腾讯",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫1茫",
       "name": "天神别芒果",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "腾讯备",
       "name": "🦐腾讯",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
     },
     {
       "key": "芒果备",
       "name": "🦐芒果",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
     },
     {
       "key": "哔哩",
       "name": "🦐哔哩",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
     },
     {
       "key": "爱奇幕",
       "name": "🦐奇异",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
     },
     {
       "key": "优幕",
       "name": "🦐优酷",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/fskl1/H/refs/heads/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/9Y0jHb/%E4%BC%98%E9%85%B7.js"
     },
     {
@@ -348,8 +348,8 @@
       "key": "路漫漫",
       "name": "路漫漫",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
     },
     {
       "key": "动漫堂",
@@ -433,26 +433,6 @@
       "type": 3,
       "api": "http://nn.4688888.xyz/js/drpy2.min.js",
       "ext": "http://nn.4688888.xyz/js/芒果视频.js"
-    },
-    {
-      "key": "热播影视",
-      "name": "热播┃影视",
-      "jar": "https://meow.668yun.top/api/s/ATW2Vde7yXrh2u7QKe9st3HIFYvMZHU6/热播跟肥6.jar",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "csp_Qiyou",
-      "name": "奇优┃肥六",
-      "jar": "https://meow.668yun.top/api/s/ATW2Vde7yXrh2u7QKe9st3HIFYvMZHU6/热播跟肥6.jar",
-      "type": 3,
-      "api": "csp_Qiyou"
     },
     {
       "key": "模拟器",
@@ -588,21 +568,10 @@
       "type": 3
     },
     {
-      "key": "裤永乐JS",
-      "name": "永乐",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    {
-      "key": "裤佬央视PY",
+      "key": "央视PY",
       "name": "央视",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+      "api": "https://mpimg.cn/down.php/a01436462aacba707ad6b678fe42cfa1.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -689,30 +658,6 @@
       "api": "http://zhangqun1818.serv00.net/cj/cjjh.php?ac=list",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "咕噜画",
-      "name": "咕噜映画 | APP",
-      "type": 3,
-      "changeable": 0,
-      "api": "https://fastlink.cokey.xyz/f/oPJvI9/Appfox.min.js",
-      "ext": {
-        "host": "http://www.yingsw.top",
-        "timeout": 8,
-        "key": "guluyinghua_123",
-        "sign": "679543610991810f19698c187e5e106e"
-      }
-    },
-    {
-      "key": "快映",
-      "name": "🐮快映",
-      "type": 3,
-      "changeable": 0,
-      "api": "https://fastlink.cokey.xyz/f/oPJvI9/Appfox.min.js",
-      "ext": {
-        "host": "https://www.baidukuaiy.top",
-        "ver": 3
-      }
     },
     {
       "key": "耐看",
@@ -989,7 +934,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
       "category": "综合",
       "searchable": 1
     },

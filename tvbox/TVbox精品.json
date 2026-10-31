@@ -35,7 +35,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+      "ext": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
     },
     {
       "key": "指南",
@@ -449,7 +449,7 @@
       "key": "影探",
       "name": "🌌影探丨4K资源",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -459,7 +459,7 @@
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -469,7 +469,7 @@
       "key": "shanzha4k",
       "name": "🍒山楂丨蓝光秒播",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -654,7 +654,7 @@
       "key": "果果短剧",
       "name": "🍎果果丨短剧爽看",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
       "genre": "shortdrama"
     },
     {
@@ -776,7 +776,7 @@
       "key": "yuetingba",
       "name": "🍊悦听吧",
       "type": 3,
-      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
+      "api": "https://gh.1k.ink/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,

@@ -26,7 +26,7 @@
       "name": "💥最新软件接口❤Link3.cc/uuccc❤💥",
       "type": 3,
       "api": "csp_Douban",
-      "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json"
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "JianSou",
@@ -48,7 +48,7 @@
       "api": "csp_PanCms",
       "searchable": 1,
       "filterable": 1,
-      "ext": "{\"site\":[\"http://103.231.12.104:22776\",\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
+      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
     },
     {
       "key": "MuouPanCms",
@@ -163,19 +163,6 @@
       }
     },
     {
-      "key": "YingTan4K",
-      "name": "🍂┃影探┃1080P",
-      "type": 3,
-      "api": "csp_YingTan4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://cms.lyyytv.cn",
-        "parseApi": "http://fys.lyyytv.cn/api/index?parsesId=3&appid=10001&videoUrl="
-      }
-    },
-    {
       "key": "YunDuo",
       "name": "🍂┃大鹅┃1080P",
       "type": 3,
@@ -187,7 +174,9 @@
         "host": "https://323433ssdfd.top",
         "block": [
           "PO蓝光",
-          "CO4K"
+          "CO4K",
+          "ZJ4k",
+          "NB蓝光"
         ]
       }
     },

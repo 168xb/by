@@ -711,7 +711,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "https://github.880824.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "url": "https://gh.1k.ink/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 2,
       "timeout": 10
