@@ -21,7 +21,7 @@ ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA675992936759
 abc news,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
 ABC News (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABCNews[1280x720],http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-ABC News AU,https://tv123.cc.cd/live.php?ch=1684&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e47945c4486abbf867a492151d32ea651a481f0d9dd5a4e2d5a5348f1a0cdffc
+ABC News AU,https://tv123.cc.cd/live.php?ch=1703&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=61e9562be83865d7d756f10d68bed3e83a88b2aafb2a9923d4d7b6a38533e95e
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
 ABC News Australia (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
@@ -32,11 +32,14 @@ ABC NEWS LIVE,http://kytv.xyz:80/live/brendan1/brendan1/648323.ts
 ABC NEWS LIVE,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=855330&extension=ts
 ABC NEWS LIVE,http://t365.in:80/0976265177/2034078588/32233
 ABC NEWS LIVE,https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+ABC NEWS LIVE,https://pia.cx/live/qtTNEdtW/vpwLyzfw/200163528.ts
+ABC NEWS LIVE,https://pia.cx/live/qtTNEdtW/vpwLyzfw/35917.ts
+ABC NEWS LIVE,https://pia.cx/live/qtTNEdtW/vpwLyzfw/400124863.ts
 ABC News Live,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13424.ts
 ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 ABC News Live,https://livetv-fa.tubi.video/abc-news/index.m3u8
-ABC News Live,https://tv123.cc.cd/live.php?ch=1672&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=1efe5770cce8213bde3748a09c1abf8ee6ebabf2b625adae34e8f85d021acf81
+ABC News Live,https://tv123.cc.cd/live.php?ch=1691&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=a3687fcea5a7d1c85d13f240e1e75b2e7d8fc2398fdb89e9bafa6dd94b459a4f
 ABC News Live,https://www.youtube.com/watch?v=iipR5yUp36o
 ABC News Live (720p),https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 ABC News Live 1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
@@ -78,12 +81,10 @@ Al Sharqiya News (1080p),https://indexforce.com/newshighres/mystream/playlist.m3
 ALWifak News TV (720p),http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 America's Voice News (720p),https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 ANB News (720p),https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
-Aniyah - Anchor the News W/Me... [774人],https://pull-f5-tt01.fcdn.eu.tiktokcdn.com/stage/stream-3579114244333110192_hd.flv?expire=1794563881&sign=145ef0fbfae7853b1b92f16df86bb082
 ANN News,http://154.3.38.29/lyzx/live.php?id=17
 ANN News,http://2022.stream-link.org/playlist/ann_news.ts
 ANN News,https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-AresLPs - ✅Drops[ON]✅|🎁!GIVEAWAY🎁|🔥Heute: VarietyGames + WoW Forever News + Azeroth Survivor🔥|☕️Looten Morgen!☕️|💲!nitrado !emma !more💲 (1777 viewers),https://twitch.445569.xyz/areslps.m3u8
 Argus News (576p),https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 ARY News,https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 Asharq News (1080p),https://live-news.asharq.com/asharq.m3u8
@@ -91,7 +92,7 @@ Ashwaveega News 24x7 (720p),https://mars.streambridge.cloud/sls/ashwaveega/playl
 Asianet News,http://2022.stream-link.org/playlist/asianet_news.ts
 Asianet News,https://jmp2.uk/stvp-IN800012RO
 Asianet News,https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
-Asianet News,https://tv123.cc.cd/live.php?ch=2213&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=046f24c18fdcfeb39d927f832c17ab40cac9268b6f40aead9887c2f680dd8441
+Asianet News,https://tv123.cc.cd/live.php?ch=2232&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=9a4e0ab35cfb938df802a449c3c4b398b03e01e7fd8b09368c8e908f5d4abadf
 Asianet News (1080p),https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 Asianet Suvarna News (576p),https://fta.ektv.in/live/692/master.m3u8
 Asian News (1080p),https://stream.ottlive.co.in/asiannews/index.m3u8
@@ -100,6 +101,7 @@ BAND NEWS,https://stream1.freetv.fun/band-news-1.m3u8
 BAND NEWS,https://stream1.freetv.fun/band-news-2.ctv
 BandNews,http://45.162.64.114/BAND_NEWS/index.m3u8
 BandNews (1080p),https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+BAND NEWS [FHD],https://frostview-s1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTg3Lm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvNDYwODk4Ny5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTg3Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpiYW5kLW5ld3MifQ~--OSkPkoCifTufaYZQNzuZasiGh-WC9O.m3u8
 BandNews Alternativo 1,http://170.83.16.50/BAND_NEWS/index.m3u8
 BandNews Alternativo 2,http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 Bansal News (720p),https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
@@ -116,19 +118,19 @@ BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bb
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8#ttps://jmp2.uk/stvp-US4000033L
-BBC News,https://tv123.cc.cd/live.php?ch=1050&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e3c1c29d59cb34f364df2d09a8064b56279e4cdb5dffef9638c608f509ef3d74
-BBC News,https://tv123.cc.cd/live.php?ch=971&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=08c3a3ea5f99d7c2321fcc3a510974fac2e0f2342b0d04bfa45cb0469cf36724
+BBC News,https://tv123.cc.cd/live.php?ch=1069&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=cde9efbc9b6b82959f00909dae9487211ca93566aab6bdf848a1498b9f56118d
+BBC News,https://tv123.cc.cd/live.php?ch=990&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=50b90e4ecbdf1eba057466dae7dd5f51592eceba504c132b85e83d68d207904c
 BBC News Africa (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Asia Pacific (576p),http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
 BBC News Europe (576p),http://46.32.176.50/bbcworld/index.m3u8
 BBC NEWS FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1382478.ts
-BBC News International,https://tv123.cc.cd/live.php?ch=1663&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e070ef166fcbab2aed0effd4847987d6b26a1d6adc5af2c63e4e902438cf9b98
+BBC News International,https://tv123.cc.cd/live.php?ch=1682&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=0023c599ed34ea1eec8c4e3bd81a91f7c0f2b3a553e2d61a519ed4dbea0bf80a
 BBCNewsInternational,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
 BBC News North America (1080p),http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 BBC News South Asia (720p),https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
-BBC News UK,https://tv123.cc.cd/live.php?ch=1664&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=325f22495ed55d3ae39813b22e94cf3fcd1683ec22e52daab88e4542b288f9a6
+BBC News UK,https://tv123.cc.cd/live.php?ch=1683&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=a14469fe5bb89b0b152f00d60169388dc9b61bb801635a694dfc8db074295608
 BBC News UK HD (1080p),http://45.153.96.44:8001
 BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC WORLD NEWS,http://1tv41.icu:8080/darriusthomas115@gmail.com/darriusthomas115@2025/305067
@@ -139,16 +141,18 @@ BBC WORLD NEWS,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105861.ts
 BBC WORLD NEWS,http://skyfilex.fun/live/249433528395/864483763454/1059.ts
 BBC WORLD NEWS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543290.ts
 BBC WORLD NEWS,https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+BBC WORLD NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/200155129.ts
+BBC WORLD NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/36149.ts
 BBC World News,http://31.43.191.125:8080/restream/restream/34675
 BBC World News,http://42.117.12.25:1111/udp/225.1.2.74:30120
 BBC World News,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220913
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
-BBC World News,https://tv123.cc.cd/live.php?ch=1166&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=ab7ce11d2f0db14f1045893097e411d426bf039fb13c5c6712c66d19fe6efab5
-BBC World News,https://tv123.cc.cd/live.php?ch=2057&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=28c528d8c85c146c3b6823f06b15ce40d0b1a311215df02d5128f2eaa2e833b0
+BBC World News,https://tv123.cc.cd/live.php?ch=1185&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=48e1986fb976d2b9eed64ab3b243cb4e48546d68e24192da6a8316736fc51d96
+BBC World News,https://tv123.cc.cd/live.php?ch=2076&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=eee2e1f4ce2a985ccef975b823a5c61f3f4a6e52b4eec892d4ba8646ca665ead
 BBCWorldNews[1280x720],http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BBC World News HD,https://tv123.cc.cd/live.php?ch=883&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=06279bacff33d40ad97720ed22edfdc75a7381be766c718df21ae8f083c6922e
+BBC World News HD,https://tv123.cc.cd/live.php?ch=900&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=29240976d61d3e3c9440cb013a056e2ef940e1ec6c802f3aeb900aef1948ad38
 BBC WORLD NEWS UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71484.ts
 BBC半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC新闻,http://t.061899.xyz/tl/js/js.php?id=bbcxw
@@ -181,11 +185,11 @@ CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playli
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 CBC News Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220977
 CBC News Network (1080p),https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
-CBC News Network CA,https://tv123.cc.cd/live.php?ch=1660&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=2183d29e0e9f448a380f44902fa6919d9ca872a80d8a69096492304d2da4a57d
+CBC News Network CA,https://tv123.cc.cd/live.php?ch=1679&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=becb24a13e727ba2e114b64cd565b92acdf08de3126690f228c0be547271eb38
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CBN News (1080p),https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 CBS News,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220907
-CBS News,https://tv123.cc.cd/live.php?ch=1951&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=040f57b7db5fc2446c8798824cc6a148b8aa5863e13be4b75f5717b0d404432f
+CBS News,https://tv123.cc.cd/live.php?ch=1970&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=41a5cbb3d7cd4dbe2d5541d6ad9e6d4164cc2d0d25d2b8d488c164ef7849c96c
 CBS NEWS 24/7,http://1tv41.icu:8080/darriusthomas115@gmail.com/darriusthomas115@2025/21259
 CBS NEWS 24/7,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/855972.ts
 CBS NEWS 24/7,http://ky-tv.cc/live/brendan1/brendan1/517979.ts
@@ -193,7 +197,7 @@ CBS NEWS 24/7,http://kytv.xyz:80/live/brendan1/brendan1/517979.ts
 CBS NEWS 24/7,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=986865&extension=ts
 CBS NEWS 24/7,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13433.ts
 CBS News 24/7,https://jmp2.uk/stvp-USBA370000104#https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8#https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
-CBS News 24/7,https://tv123.cc.cd/live.php?ch=1673&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=567b399b1115e7fe5639a9725bc7fa1c33f17c7662a1d32c88b3f33ab3c497ea
+CBS News 24/7,https://tv123.cc.cd/live.php?ch=1692&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=0d8fb96ad9580357657161fb6fb46ea5ace65d73e09888404475d0c504eaea4c
 CBS News 24/7 (720p),https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 CBSNews[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 CBS News Baltimore,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220924
@@ -212,6 +216,7 @@ CBS News Denver (D),http://tv-213424.ifiesta.net:80/TV-7926745948196/89228100417
 CBS News Detroit,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220985
 CBS News Detroit (720p),https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 CBS NEWS DETROIT FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/364781.ts
+CBS NEWS LIVE,https://pia.cx/live/qtTNEdtW/vpwLyzfw/23055.ts
 CBS NEWS LIVE,https://www.youtube.com/watch?v=lZo_X9bsTYE
 CBS NEWS LOS ANGELES,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=855310&extension=ts
 CBS NEWS LOS ANGELES,http://volltv.site/live/EDW455451/bf82f0256c44be73/597249.ts
@@ -236,7 +241,7 @@ CCTVNEWS,http://113.140.86.162:8009/hls/16/index.m3u8$陕西电信酒店
 CCTVNEWS,http://113.57.20.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通酒店
 CHANNEL NEWS ASIA,http://31.43.191.125:8080/restream/restream/34782
 Channel News Asia,http://42.117.12.25:1111/udp/225.1.1.202:30120
-Channel News Asia HD,https://tv123.cc.cd/live.php?ch=807&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=1ad21b64888ae4e90f39d631974acfa050d76c56b47ef885c22fd52716bfb2ff
+Channel News Asia HD,https://tv123.cc.cd/live.php?ch=824&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=cb46a28e82cb15a3279fd2ef8f3cdfc5459c2b61797ffa091b6df8c20e660b3d
 Cheddar News,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220908
 Cheddar News (1080p),https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 CHICAGO NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063018.ts
@@ -248,10 +253,10 @@ CityNews Calgary (720p),https://citynewsregional.akamaized.net/hls/live/1024053/
 CityNews Edmonton,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
 City News Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CityNews Toronto (720p),https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-CityNews Toronto CA,https://tv123.cc.cd/live.php?ch=1342&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=06c4982f72cc46499d63524a67e40242a519b9ac1cec7c30fadeddb4f0e1b093
+CityNews Toronto CA,https://tv123.cc.cd/live.php?ch=1361&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=7b876c97401fafe0ec4e9d1f0779ce570ba7cab8ea2e94381cfdaf0491f00543
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/Video-1Mbps.m3u8
 CityNews Vancouver (720p),https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-CityNews Vancouver CA,https://tv123.cc.cd/live.php?ch=1341&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3b7affa4dbf3e2dd1aa849c409bcc88534f4edeac63731e7bcf2c373f1fcd9b8
+CityNews Vancouver CA,https://tv123.cc.cd/live.php?ch=1360&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ec0049b7dcc5710d55f76f42a295462fb74035dd7110aa2e6009ab526c0e54f1
 CNA News,http://154.3.38.29/lyzx/live.php?id=25
 CNA News,http://2022.stream-link.org/playlist/cna_news.ts
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -266,12 +271,11 @@ CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
 CRTV News,https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 CTS News [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
 CTV News,https://jmp2.uk/stvp-CA1400004AE
-CTV News Channel CA,https://tv123.cc.cd/live.php?ch=1659&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=be48175c11af6fb83fca24e337eed1d63cec09ab75f0cdaee135c39159eea202
+CTV News Channel CA,https://tv123.cc.cd/live.php?ch=1678&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=c7ae3bddd527a6bcf7bf6b9220016187462fe5765f546bc9473df5d5561f78b5
 CVR News (576p),https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
 DBC News (480p),http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 DD News (1080p),https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 DD News HD (1080p),https://fta.ektv.in/live/117/117_0.m3u8
-DNews (720p),http://38.19.16.151:8000/play/a0a3
 Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 Dunya News (720p) [Not 24/7],https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 Dunya News UK (720p) [Not 24/7],https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
@@ -304,21 +308,21 @@ Euronews,https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengj
 Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8
 Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
-Euronews,https://tv123.cc.cd/live.php?ch=1007&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4787513a53294ced86bb7ec8f9267e242b03696b8f4dc14c6580539ae27ed40b
-Euronews,https://tv123.cc.cd/live.php?ch=231&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=25a3f5323275e80bee44176b55152214fb2a806b472f4c060d193cd96cbb3255
+Euronews,https://tv123.cc.cd/live.php?ch=1026&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=4a642d70fdd67e9fbde1e27601afb6a3b274b3e2aed128ea7d43bb8977e1baa4
+Euronews,https://tv123.cc.cd/live.php?ch=251&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=e13913dc27bea5b72a32fa027ed577ced50ec57a723cf3701b353cca9c67577f
 Euronews (720p),https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 Euronews Bulgaria,http://213.91.179.28:8000/play/a05e
 Euronews EN DIRECT,https://jmp2.uk/stvp-FR2600004SS
 Euronews English,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220976
 Euronews English (720p),https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 Euronews English HD,https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-Euronews FR,https://tv123.cc.cd/live.php?ch=1662&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=a925c817606c6d282fc657811f019959ba3fccb20aa568165d967251232d3314
+Euronews FR,https://tv123.cc.cd/live.php?ch=1681&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=495f8faf5109f7f3d14d93c07181503840375c8f1889c9fb02198266fd8ab7ba
 Euronews French (720p),https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 Euronews Georgia,http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 Euronews German (720p),https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 Euronews Greek (720p),https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 EURONEWS H,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
-Euronews HD,https://tv123.cc.cd/live.php?ch=886&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=cb8bc1909930d329b99b84d625f1f00c07ac70bd7732294ac72af693bcc978ef
+Euronews HD,https://tv123.cc.cd/live.php?ch=903&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=10891d6e25aa93b523d66477e352b8a603794c9dca64ab2a546ad40550fadcdb
 Euronews Hungarian (720p),https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 Euronews Italian (720p),https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
 Euronews LIVE,https://jmp2.uk/stvp-DE2600003TR
@@ -347,13 +351,15 @@ FOX NEWS,http://t365.in:80/0976265177/2034078588/29118
 FOX NEWS,http://t365.in:80/0976265177/2034078588/32232
 FOX NEWS,http://t365.in:80/0976265177/2034078588/6558
 FOX NEWS,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
+FOX NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/23052.ts
+FOX NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/36155.ts
 Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX NEWS CHANNEL,http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440107.ts
 Fox News Channel,http://iptv.852851.xyz/l/mJA9ozxZYJCDtysvnpVzygQ1sskmtsnnkEb0kA7Z02RISNXYld9bA4Hdt8b3-njj/play
 Fox News Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220905
-Fox News Channel,https://tv123.cc.cd/live.php?ch=1678&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=d3af2b17a02190074b3661ec30a77740f896c5f6a267dc9f2cca3cb1919a7e1b
-Fox News Channel,https://tv123.cc.cd/live.php?ch=884&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=571a8554fb43015b859b811fd52523190da7979d3e709c374084d9449292277d
+Fox News Channel,https://tv123.cc.cd/live.php?ch=1697&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=6db5c88f7f510fd472ca431c26ef45ff70680b81dced5bc5127fe4e6757a6139
+Fox News Channel,https://tv123.cc.cd/live.php?ch=901&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=1f66eb02d122b08a5145ef5bff086c4816531422fe64c054c7c1402e2e27003b
 Fox News Channel (1080p),https://tvsen6.aynaott.com/foxnews/index.m3u8
 FOX NEWS CHANNEL [BK] HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1084575.ts
 FOX NEWS CHANNEL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71487.ts
@@ -379,7 +385,7 @@ GB News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/T
 GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 GB News,https://jmp2.uk/stvp-GBBB1600008R3
 GB News (1080p),https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
-GB News UK,https://tv123.cc.cd/live.php?ch=1679&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=6ce04031d7a44dde7f7daa0bd5841ce1341c9bd3e26fbfc08a1e473eb8b67f11
+GB News UK,https://tv123.cc.cd/live.php?ch=1698&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=5d01735ab4966d593597eb958262a3fbe0323f80feb72fe4e5a522acc624a178
 GBN新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
@@ -388,6 +394,7 @@ Global News Edmonton,https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-
 Global News Lethbridge,https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
 Global News Okanagan,https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
 GloboNews (1080p),http://79.127.238.228:14093
+GLOBO NEWS [4K],https://frostview-s1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS83Njk0NDY4Lm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvNzY5NDQ2OC5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS83Njk0NDY4Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpnbG9iby1uZXdzIn0~nQWulrLUTG2GmADAjTPp3aJwfwcn284-.m3u8
 Good News Today (720p),https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 GoodNews TV (720p),https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 GTC News (1080p),https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
@@ -403,16 +410,16 @@ HoyTV资讯,http://2022.stream-link.org/playlist/hoy_info.ts
 HOY国际财经台,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
 HOY国际财经台,https://cdn.qd.je/163189/hoy76
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-HOY国际财经台,https://tv123.cc.cd/live.php?ch=290&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=eaf45f70bb203b2849e6b6634b7f9fb4cf6d8fe7b93830689fe923388e527abd
-HOY国际财经台,https://tv123.cc.cd/live.php?ch=651&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e856b8162f1a1687b31a43c7933318f81be3f295a0e7555779a5b85541dc4645
+HOY国际财经台,https://tv123.cc.cd/live.php?ch=310&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=e626032ef61a230dc71310977509e7f17722acf253ee63ba4266089928c83def
+HOY国际财经台,https://tv123.cc.cd/live.php?ch=671&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=cfc22b4f4ffbfb60018a0033a80bfa223ef134101cf41057296e4b73522f47fc
 HOY 资讯,http://tv543.cc/Smart.php?id=hoycaijing_twn
 HOY资讯台,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
 HOY资讯台,http://cdn.123.rr.kg/163189/hoy78
 HOY资讯台,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
 HOY资讯台,https://cdn.qd.je/163189/hoy78
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
-HOY资讯台,https://tv123.cc.cd/live.php?ch=289&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=75f56c150cc75f2d0f6f71a7ae8df31ff085e49b105e69301220d858c8db28de
-HOY资讯台,https://tv123.cc.cd/live.php?ch=554&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=f8cac6f3434114aed500bec0a119f3f2f3175b51a93b2a6f65c4682dfecf928a
+HOY资讯台,https://tv123.cc.cd/live.php?ch=309&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=9fd822667c1b79ae623c7d533bdfa544fb9e597e9410a6e2e0d7578fd66eaf1a
+HOY资讯台,https://tv123.cc.cd/live.php?ch=574&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=d2051b831aaeff4098e2d058d8628c1511586241f3c695eda77f236190179616
 HOY资讯台_SMT,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=J6e9N4&tk=IaRTZBNZkJti
 HUEY LEWIS+THE NEWS-but its alright,http://em.21dtv.com/songs/60000737.mkv
 Hum News,http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
@@ -437,7 +444,7 @@ India TV Speed News (1080p),https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/372
 I News (1080p),https://live.i-news.tv/hls/stream.m3u8
 INews (720p),https://cdn.pishow.tv/ott/live/411/master.m3u8
 iNews TV,https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
-iNews TV,https://tv123.cc.cd/live.php?ch=2086&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=f3cdc41b9f7f2da7af6e29704e21c15c295b0141a35a9816e77fa06ba346d6f9
+iNews TV,https://tv123.cc.cd/live.php?ch=2105&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=e4d49c44139cf4c03bfbd562fa6eb2056e7086b391d6cc821fa9b6b25b63af9b
 iNews新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
 iNews 新闻台[1920x1080],http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 J3NEWS TV,https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
@@ -448,8 +455,10 @@ Jingmen Comprehensive News Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?
 Jiuquan TV News Comprehensive Channel (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 Jovem Pan News,https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 Jovem Pan News (720p),http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+Jovem Pan News [FHD],https://frostview-s2.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTkyLm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvNDYwODk5Mi5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTkyLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpqb3ZlbS1wYW4tbmV3cyJ9~vUUVMxKsUlGaimfjOobqTId0SV4w1nuf.m3u8
 Jovem Pan News Alternativo 1,http://186.219.52.187/jp_news/index.m3u8
 Jovem Pan News Alternativo 2,https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+JP NEWS [4K],https://frostview-s1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS83Njk0NDQ2Lm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvNzY5NDQ0Ni5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS83Njk0NDQ2Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpqcC1uZXdzIn0~L3sqDJTUyi2TifF_ERjbeYqYKUXUjw1i.m3u8
 Kairali News (720p),https://cdn.pishow.tv/ott/live/1469/master.m3u8
 Kanak News (576p),https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 Kashish News (720p),https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
@@ -465,7 +474,6 @@ LaC News 24 (720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S2739
 Lahore News (720p) [Not 24/7],https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 Ldnews,https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
-Leaflit - NEWS/REACTS | I'm Back And The World Is Burning !ttrpg !novel !video (890 viewers),https://twitch.445569.xyz/leaflit.m3u8
 Living India News (1080p),https://stream.ottlive.co.in/livingindia/index.m3u8
 Lokshahi News (576p),https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 Mahaa News (1080p),https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
@@ -475,7 +483,6 @@ Mathrubhumi News (576p),https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.
 Meteonews (1080p),https://streaming.meteonews.net/hls/stream.m3u8
 Metro1 News (576p),http://103.250.28.74:8000/play/a04u/index.m3u8
 Mh 1 News (576p),https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
-mhtvnews - No Title (1 viewers),https://twitch.445569.xyz/mhtvnews.m3u8
 M News (1080p),https://cdn.rabta.stream/M-News/index.m3u8
 Mongolian News Channel (1080p),https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 MRTV News,https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
@@ -497,10 +504,11 @@ NBC NEWS NOW,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x
 NBC NEWS NOW,https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
 NBC NEWS NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC NEWS NOW,https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+NBC NEWS NOW,https://pia.cx/live/qtTNEdtW/vpwLyzfw/20998.ts
 NBC NEWS NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 NBC News NOW,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220952
 NBC News NOW,https://jmp2.uk/stvp-USBB2200014DK#https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8#https://jmp2.uk/stvp-GBBB1500004LG#https://jmp2.uk/stvp-ITBC4000028E#https://jmp2.uk/stvp-CAAJ2700011IF
-NBC News NOW,https://tv123.cc.cd/live.php?ch=1674&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=ec6bf3cae80e33bcc98338d9b94568e78ace1bfb6f0c1cfd2976f44b232ca14d
+NBC News NOW,https://tv123.cc.cd/live.php?ch=1693&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=f6df07d3b0f51a6f638e8173225f9ab2c92f26ab6cc877fbae765319374640b6
 NBC News Now,http://mtayeh.ottb.xyz/live/774710333494/659822672281/29220.ts
 NBCNewsNOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 NBC News NOW (1080p),https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
@@ -564,7 +572,7 @@ News18 Odia (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18
 News18 Punjab/Haryana/Himachal (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
 News18 Rajasthan (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
 News 18 Tamil,https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
-News 18 Tamil,https://tv123.cc.cd/live.php?ch=2201&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=5e3fc6b0a43d6ee01508d32cf650c4f5d131715d08f97c74548c6957af931ff1
+News 18 Tamil,https://tv123.cc.cd/live.php?ch=2220&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=8723ea04753d602fc7549e8b4203725b77c0bebc6b7e7342b1f42e5d7202e1c6
 News18 Tamil Nadu (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 News18 Urdu (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
 News18 Uttar Pradesh Uttarakhand (1080p),https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
@@ -597,7 +605,7 @@ News Live (576p),https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 News Live Bangla (576p),https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 News Marathi 24x7 (720p),https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-NEWSMAX,https://tv123.cc.cd/live.php?ch=1670&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=1df60c1feb6091a117f5b6c2e06413e2e857c63791a2d92c8401aa45f19a7248
+NEWSMAX,https://tv123.cc.cd/live.php?ch=1689&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=6f6b03c14e68283f14b8357646704a8f1850c945254b3f34ade015466129cf93
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Newsmax 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220920
@@ -610,7 +618,7 @@ Newsmax Spanish (1080p),https://n1ottesorkatv.akamaized.net/hls/live/2113795/Liv
 Newsmax TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220910
 Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 NEWSMAX TV HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/169717.ts
-NewsNation,https://tv123.cc.cd/live.php?ch=1668&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=902ba72e758dafc83478e86b592573bb27aa88807ce981260f2efe2a7c6d15db
+NewsNation,https://tv123.cc.cd/live.php?ch=1687&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=eac1b98a35b538e77cad9e9b37941797fb27c0c492ebff123e679a5f983d4579
 News Nation (1080p),https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 News Nation 81 (1080p),https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 NewsNation East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220911
@@ -626,10 +634,10 @@ News State Punjab Haryana Himachal (1080p),https://jmp2.uk/stvp-IN300083R1
 News State UP & UK (1080p),https://jmp2.uk/stvp-IN3000846P
 News Tamil 24x7 (576p),https://cdn.pishow.tv/ott/live/1433/master.m3u8
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
-NewsWorld,https://tv123.cc.cd/live.php?ch=1003&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=fc5380f859e72f4eccab98b8bb27e59887e0f802c3d16e89b23e09128e232f57
-NewsWorld,https://tv123.cc.cd/live.php?ch=227&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=8525c9a0f572cd7c10fcb4ab2d3cb0b1f7721a3633044341af37f9a07a52af80
-NewsWorld,https://tv123.cc.cd/live.php?ch=541&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=fafb8016b0396f957b48658e95b624c25da2e20a098fd9de3543fbeef0664886
-NewsWorld,https://tv123.cc.cd/live.php?ch=639&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=87abf6a135720683d22eca24081f7fe29f94d0bdc45c626ae2ed12c4e97e6794
+NewsWorld,https://tv123.cc.cd/live.php?ch=1022&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=26c25e63c582961318f968b42edc96ba7336ceeaaa954fa754e3cc0b8a6e0918
+NewsWorld,https://tv123.cc.cd/live.php?ch=247&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=7dd0ea17ee6663399e76ee9114495b699d43a80cc1e98f53a915216248b2272f
+NewsWorld,https://tv123.cc.cd/live.php?ch=561&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=75131dc6554faa9658e7d9fc5ad89274c397379833b4bccd809b10d2d36c4c5d
+NewsWorld,https://tv123.cc.cd/live.php?ch=659&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=7f819c59e5c31109cef88090cdb608fd7cf13af430f14fbc2001225167197280
 NewsWorld (1080p),https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 NewsWorld (ニュース／報道),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 NewsX (720p),https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
@@ -638,6 +646,7 @@ Newsy,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220912
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 Newsy (1080p),https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 Nopola News (1080p) [Not 24/7],https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+Nosiiree - ⭐ WE ARE FREE ⭐ LATE NIGHT NSR ⭐ !newsong !discord !comm !socials (758 viewers),https://twitch.445569.xyz/nosiiree.m3u8
 Nova News,http://213.91.179.28:8000/play/a063
 NOW NEWS,http://cdn.163189.xyz/163189/now
 Now News,http://rihou.cc:555/tv/[Mt]Now新闻
@@ -652,8 +661,8 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,https://cdn.qd.je/163189/now
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,https://jackcdn.946985.qzz.io/live/now/stream.m3u8
-NOW新闻台,https://tv123.cc.cd/live.php?ch=293&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=89c1be62ab7c801ce83a1b124e13e62c93c225731504147a4f142715157c8d14
-NOW新闻台,https://tv123.cc.cd/live.php?ch=555&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=d019183264b91906638aeaa4e9c37febc404de00f678dc530ff541860cbcdce2
+NOW新闻台,https://tv123.cc.cd/live.php?ch=313&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=117d9a6d692a09f1bdc46dbba606bdb527203b0c76a46b032ead04471dc4000a
+NOW新闻台,https://tv123.cc.cd/live.php?ch=575&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=36427c73a0e052b95e455d44e412ba212891fb34e26b125495dd8b51cf11b17b
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=QLWSn7&tk=rf2ptUUwLxlr
 Now新闻台,https://migu.188766.xyz/?migutoken=02919a1a7c6f21086fd160a1c07f4b5c&id=hk_now&type=dy
@@ -672,9 +681,10 @@ Palitra News (480p) [Not 24/7],https://live.palitranews.ge/hls/palitratv/index.m
 Phoenix InfoNews Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220996
 Phoenix InfoNews Channel (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 Phoenix InfoNews Channel (China),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219159
-Phoenix InfoNews Channel HD,https://tv123.cc.cd/live.php?ch=895&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=d45f23f0fa5f3329552df38944da4edd24e476653029fc66656dfa60003e1aa3
+Phoenix InfoNews Channel HD,https://tv123.cc.cd/live.php?ch=912&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=72e3c4952a5b9bda2a8722f1f33648e859d4a0cd5b7a4dc7a949f562ee6ba8e4
 Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 Pluto TV Record News (720p),https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+PoliceChaseNetwork - 🚨 🚨classic pursuits and breaking news #halloween #badgeevent (519 viewers),https://twitch.445569.xyz/policechasenetwork.m3u8
 Polimer News (576p),https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 Polsat News (1080p) [Geo-blocked],https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 Polsat News 2 (1080p) [Geo-blocked],https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
@@ -701,11 +711,11 @@ Raj News Telugu (576p),https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u
 Real News Kerala (1080p) [Not 24/7],https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 Record News,https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 Record News (720p),http://45.162.64.114/RECORD_NEWS/index.m3u8
+RECORD NEWS [HD],https://frostview-s1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTgzLm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvNDYwODk4My5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS80NjA4OTgzLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpyZWNvcmQtbmV3cyJ9~LAdIEu1lEGv1lyS6kayyVNAwFdYIAPXx.m3u8
 Record News Alternativo 1,http://170.83.16.50/RECORD_NEWS/index.m3u8
 Record News Alternativo 2,http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 Record News Alternativo 3,http://186.219.52.187/record_news/index.m3u8
 Record News Alternativo 4,https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-RENEL INFOS NEWS [85人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867344803357787074_hd.flv?expire=1794563883&sign=3548cfd57d9d03064738e3759d2ba3fe
 Revry News (720p) [Not 24/7],https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 Roze News (576p),http://103.250.28.74:8000/play/a01k/index.m3u8
 RS News,https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
@@ -715,6 +725,7 @@ RTE NEWS,http://kytv.xyz:80/live/brendan1/brendan1/189995.ts
 RTE NEWS,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=595799&extension=ts
 RTE NEWS,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/106992.ts
 RTE NEWS,http://t365.in/0976265177/2034078588/6552
+RTE NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/600000574.ts
 RTLNEWS,https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 RT NEWS,http://179.60.51.134:8888/RT/index.m3u8
 RT NEWS,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/840/index.m3u8
@@ -723,6 +734,7 @@ RT NEWS,http://kytv.xyz:80/live/brendan1/brendan1/2310343.ts
 RT NEWS,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=823728&extension=ts
 RT NEWS,http://t365.in:80/0976265177/2034078588/32224
 RT NEWS,http://t365.in:80/0976265177/2034078588/6524
+RT NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/9587.ts
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT NEWS(Spain),https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT NEWS AMERICA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/773812.ts
@@ -733,6 +745,7 @@ Sahana News (576p),https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8
 Salem News Channel (1080p),https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
 Sandesh News (576p),https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 SBT News (720p),https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+SBT NEWS [FHD],https://frostview-s1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS84MTEzODcwLm0zdTgiLCJyb290IjoiaHR0cDovL3VsdHJha2F5LmNjL2xpdmUvcmFtYXJhbDExMDcvdGhlbzI2MDEvODExMzg3MC5tM3U4IiwicmVuZXciOiJodHRwOi8vdWx0cmFrYXkuY2MvbGl2ZS9yYW1hcmFsMTEwNy90aGVvMjYwMS84MTEzODcwLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpzYnQtbmV3cyJ9~m3fulkEOTyA1YpfeII8VkfYvTyw_57gm.m3u8
 SBT News Alternativo 1,https://sbtnews.maissbt.com/3.m3u8
 Scripps News,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220982
 Scripps News (1080p),https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
@@ -753,12 +766,13 @@ SKY NEWS,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/109062.ts
 SKY NEWS,http://skyfilex.fun/live/249433528395/864483763454/1060.ts
 SKY NEWS,http://t365.in/0976265177/2034078588/34476
 SKY NEWS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052585.ts
+SKY NEWS,https://pia.cx/live/qtTNEdtW/vpwLyzfw/200165142.ts
 Sky News,http://2022.stream-link.org/playlist/sky_news.ts
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News,https://jmp2.uk/stvp-USBB52000022Q#https://jmp2.uk/stvp-GB3300002NF
 Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
-Skynews,https://tv123.cc.cd/live.php?ch=1173&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=6d190b67699b6a7035528665998c5e2dbb2abed9a43fa895ebc0b2bec04f0003
-Skynews,https://tv123.cc.cd/live.php?ch=2064&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=bbb9c762a4f6a7b53144437e90111fcc4b84cf928efb7d9a1751e174119a5aa7
+Skynews,https://tv123.cc.cd/live.php?ch=1192&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=b53f201a2e51e05efbe89a63dd6627ccb8c93cbce59c3f9533ee43c40e52ac3a
+Skynews,https://tv123.cc.cd/live.php?ch=2083&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=fafb4e496d7c98f76e60f3ecd539386c75f540a1c198c3f264cb2aa2ae0eecc7
 Sky News (1080p),https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
 Sky News Arabia (1080p),https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 Sky News Arabia SD (1080p) [Not 24/7],https://stream.skynewsarabia.com/ott/ott.m3u8
@@ -767,9 +781,9 @@ Sky News Arabia Vertical SD (1280p) [Not 24/7],https://stream.skynewsarabia.com/
 Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-Sky News HD,https://tv123.cc.cd/live.php?ch=885&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=73925d66e027f1b77001d704c99c95eae069f26ad5f4546575eb5af57f1602a8
+Sky News HD,https://tv123.cc.cd/live.php?ch=902&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=dd9aeb4d9f51b87e6986deef2570ef228562e18efb5c329899c9459539d077d1
 Sky News International,https://jmp2.uk/stvp-CH34000014Q
-Sky News International,https://tv123.cc.cd/live.php?ch=1661&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e541e7983c507aa7955dcf7243483613273294fbf7a4faeaba6ff945acfcbc44
+Sky News International,https://tv123.cc.cd/live.php?ch=1680&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=55d87d1a76a189571bec0c66a55e41220e0ace4ca13abb90435fb476ac94cc18
 Sky News Urdu (720p),https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 SPECTRUM NEWS - (NEW YORK) ROCHESTER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284266.ts
@@ -806,6 +820,7 @@ SPECTRUM NEWS 1 LOS ANGELES,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/306933
 SPECTRUM NEWS 1 LOS ANGELES,http://limited-names.com/live/brendan1/brendan1/2882221.ts
 SPECTRUM NEWS 1 LOS ANGELES,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=855273&extension=ts
 SPECTRUM NEWS 1 LOS ANGELES,http://v3tv.live:80/play/live.php?extension=ts&mac=00:1A:79:C2:01:8B&stream=306915
+SPECTRUM NEWS 1 LOS ANGELES,https://pia.cx/live/qtTNEdtW/vpwLyzfw/140551.ts
 SPECTRUM NEWS 1 LOUISVILLE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284280.ts
 SPECTRUM NEWS 1 MILWAUKEE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284265.ts
 SPECTRUM NEWS 1 MOUNTAIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284274.ts
@@ -840,8 +855,7 @@ Sudarshan News (1080p),https://ott.livelegitpro.in/sudarshannews/sudarshannews/t
 Suno News HD (1080p),http://103.250.28.74:8000/play/a02a/index.m3u8
 Suvarna News SD (576p),https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 Swadesh News (720p),https://cdn.pishow.tv/ott/live/465/master.m3u8
-Talibans_news_ media [70人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867344746917921730_hd.flv?expire=1794563879&sign=17b077c0154ad8da7f21aa6bb76983bf
-TBS News,https://tv123.cc.cd/live.php?ch=972&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=fb4a26b8d3deb02a7a9670f5c2d1b9ad9211fd8bf50da893ca968971309d0362
+TBS News,https://tv123.cc.cd/live.php?ch=991&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ce94b9e8295350f0d5c82af2ee7373223840d5ade51ebffea66eeb5dc7315dc3
 Telenews TV,https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
 Ticker News,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220963
 ticker News (1080p),https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
@@ -851,6 +865,7 @@ TOLOnews (720p),https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 Top News (720p),https://live.topnews.co.th/hls/topnews_a_720.m3u8
 Top News Marathi (1080p),https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 Top Stories by Newsy (720p),https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+TotalNewsTexas - Houston Streets Live [1557人],https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/stage/stream-3867348994783183810_hd.flv?expire=1794648981&sign=66c49776128acb6f8f1b8d6ad3b78717
 TSN TeleSondrio News (480p) [Not 24/7],https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 TTV News,https://live.wcetv.com/hls/master-ttvnews.m3u8
 TV+ News,https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
@@ -956,26 +971,26 @@ US| Spectrum News 1 Dalla,http://doubleclicktv.live:80/70376812/52663544/1012
 US| Spectrum News 1 Evans,http://doubleclicktv.live:80/70376812/52663544/1011
 US| Spectrum News NY1,http://doubleclicktv.live:80/70376812/52663544/1006
 V6 News (576p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-VBS-NEWS,https://tv123.cc.cd/live.php?ch=896&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=043ec1490c65b4f18f33b68b140d1c1ac977be32f3876ea726d6a538c12cadda
+VBS-NEWS,https://tv123.cc.cd/live.php?ch=913&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=50e5f02b8fdb981de196a82600ffebb4e4e7df3c94a3ec5711f3e6521309c934
 VIP News (360p),https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Vistaar News (1080p),https://stream.ottlive.co.in/vistaartv/index.m3u8
 VSH News (576p),http://103.250.28.74:8000/play/a00w/index.m3u8
 VTV News (576p),https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
-Weather News,https://tv123.cc.cd/live.php?ch=1069&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=43d3a373bdf515fc619885abdbd8ab1138066b4dba6c7f7965bd807173ad5222
-Weather News,https://tv123.cc.cd/live.php?ch=278&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3b8f7905485116fb077b9d9d2e0f1e3e6bfcc8cbfdd8b0709f86ef9e00fcacbb
+Weather News,https://tv123.cc.cd/live.php?ch=1088&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=359b8dcfc165018aa69e132f6dfe8f79302fff3439e4647b2da6ce1326eca078
+Weather News,https://tv123.cc.cd/live.php?ch=298&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=870e912581de4b2d6435e793824f7bbe3bae0154653debfe2c4caf93844b32a0
 Weathernews (720p),https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-Weathernews (720p),https://tv123.cc.cd/live.php?ch=997&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4e0898e35377146fa5c9db237b7bc567ef42a55e66bbcc2c900c0a55d112d593
+Weathernews (720p),https://tv123.cc.cd/live.php?ch=1016&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ebc7aefc20bfd37ec42c05d786537c5a6d2fa2f82dceb83f8cca8d4d9194b1e3
 Yahoo! Finance,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220981
 Yahoo! Finance (1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 YAHOO FINANCE,http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440367.ts
 YAHOO FINANCE,http://t365.in:80/0976265177/2034078588/18658
 Yahoo Finance,https://jmp2.uk/stvp-USAJ4300005PJ
-Yahoo Finance,https://tv123.cc.cd/live.php?ch=1665&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e59662488ebe6d1fdc7a61502550d8eaa39cf60d91737dcfbb49ee4d6bf33a2e
+Yahoo Finance,https://tv123.cc.cd/live.php?ch=1684&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=71672bc83ea2511fff1ba8e7fa3ef426f55c0def9132c1e87fe81d7ec1f65be2
 YMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 YMG新闻|枫斗直播,http://125.113.88.160:8888//rtp/233.50.201.159:5140
 Zee Kannada News (720p),https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 Zee News,https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
-Zee News,https://tv123.cc.cd/live.php?ch=2211&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=c1ec1c92e27db8a65f934c4f35290b0a91fd5cbbd37dcdaf7f8df1a40189ecdc
+Zee News,https://tv123.cc.cd/live.php?ch=2230&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ae7250b9ba3ee9b94fd1ed58e2221cace659d5a944b5ead3414dc739ee9b7d3d
 Zee News (1080p),https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 Zee Tamil News (720p),https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 Zee Telugu News (720p),https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
@@ -989,8 +1004,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 三立新聞iNEWS,https://4g.158.qzz.io/163189/slxw
 三立新聞iNEWS,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
-三立新聞iNEWS,https://tv123.cc.cd/live.php?ch=2606&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=998019e71dc9a169bbdb196430a11048597b76faa84cc98dad79e98749103494
-三立新聞iNEWS,https://tv123.cc.cd/live.php?ch=734&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=2c9cd2e6580eabbb295b38ef93c81cccdf2d3beafd64fbc9c6048d7470ffbc3a
+三立新聞iNEWS,https://tv123.cc.cd/live.php?ch=2614&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=e476a0a0ddbb5adb9473536191b34051c7d4543baf0bd0c120a6b9a23a388c37
+三立新聞iNEWS,https://tv123.cc.cd/live.php?ch=754&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=b592a51b65523b729b459f08aaef2cd01be8fb62a2b3540e7a8a820ebbed9359
 三立新闻,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 三立新闻,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立新闻,http://2023.stream-link.org/playlist/set_news.flv
@@ -1023,13 +1038,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 上海东方财经,http://1.192.242.239:8188/rtp/239.16.20.64:10640
 上海东方财经,http://106.116.241.206:9999/rtp/239.254.201.181:7214
 上海东方财经,http://106.45.2.15:4000/rtp/239.121.4.71:8400
-上海东方财经,http://110.178.145.83:8188/udp/239.1.1.85:8085
+上海东方财经,http://110.178.145.22:8188/udp/239.1.1.85:8085
 上海东方财经,http://113.7.79.181:4022/rtp/229.58.190.105:5000
 上海东方财经,http://117.12.151.30:4022/rtp/225.1.1.247:5002
 上海东方财经,http://118.248.156.76:8889/udp/239.76.254.69:9000
-上海东方财经,http://118.251.18.87:8188/udp/239.76.254.69:9000
+上海东方财经,http://118.251.19.31:8188/udp/239.76.254.69:9000
 上海东方财经,http://124.112.189.183:4022/rtp/238.1.78.73:6456
-上海东方财经,http://124.165.232.26:8082/rtp/226.0.2.76:8520
+上海东方财经,http://124.165.232.26:8083/rtp/226.0.2.76:8520
 上海东方财经,http://124.165.232.26:8084/rtp/226.0.2.76:8520
 上海东方财经,http://171.119.206.17:6000/rtp/226.0.2.76:8520
 上海东方财经,http://171.119.206.49:6000/rtp/226.0.2.76:8520
@@ -1037,18 +1052,18 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 上海东方财经,http://171.8.84.49:8800/rtp/239.16.20.64:10640
 上海东方财经,http://180.213.170.24:8188/rtp/239.5.1.156:5000
 上海东方财经,http://202.107.163.231:5555/udp/238.125.4.54:5140
-上海东方财经,http://220.167.170.199:4000/rtp/239.120.1.55:8304
+上海东方财经,http://220.167.170.243:4000/rtp/239.120.1.55:8304
 上海东方财经,http://39.77.234.102:4002/rtp/239.253.254.94:8000
 上海东方财经,http://39.77.26.17:4002/rtp/239.253.254.94:8000
-上海东方财经,http://58.46.31.185:8188/udp/239.76.254.69:9000
+上海东方财经,http://58.46.31.215:8188/udp/239.76.254.69:9000
 上海东方财经,http://60.30.67.44:8834/rtp/225.1.1.247:5002
 上海东方财经,http://60.30.67.45:8834/rtp/225.1.1.247:5002
 上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 上海新闻,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-上海新闻HD,http://121.199.48.54/live1/bstv.m3u8?id=shxwhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-上海新闻HD,http://121.199.48.54/live1/jsbv1.m3u8?id=shxwhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-上海新闻HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=shxwhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-上海新闻HD,http://38.75.136.137:82/live2/shkk.m3u8?id=shxwhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
+上海新闻HD,http://121.199.48.54/live1/bstv.m3u8?id=shxwhd&usign=tLngDtuj_ih6JsLuwOyZmA
+上海新闻HD,http://121.199.48.54/live1/jsbv1.m3u8?id=shxwhd&usign=tLngDtuj_ih6JsLuwOyZmA
+上海新闻HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=shxwhd&usign=tLngDtuj_ih6JsLuwOyZmA
+上海新闻HD,http://38.75.136.137:82/live2/shkk.m3u8?id=shxwhd&usign=tLngDtuj_ih6JsLuwOyZmA
 上海新闻HD,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 上海新闻HD,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=shxwhd
 上海新闻HD|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BBHD&auth=666858
@@ -1064,8 +1079,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 上海第一财经,http://119.233.255.62:1234/608780988
 上海第一财经,http://8.137.121.66:20241/608780988
 上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
-上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=442c4d2599a8e63ecf56e2f17484c8ac&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261030174820&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=39.103.182.111&SecurityKey=20261030174820&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=212655eb99bc3f57e9bf27c340ffc934&ddCalcu=4231v92ac6lf5af50e4b39c97b2cf3bf95e7&sv=10004&ct=android
-上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261030140301192f916867754e819ce99a30353c4054&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261030140301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261030140301&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47e380b809a25fd2273566233aa887b7
+上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261031140300b58d9195ee624a588a57499cbf8ed15b&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261031140300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261031140300&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=941f72608df50e6cfe27cbb37853f0cc
 上海第一财经,http://k.061899.xyz/k.php?id=dycj
 上海第一财经,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gxVeNZ&tk=IaRTZBNZkJti
 上海第一财经,http://mg.cttv.vip/608780988
@@ -1080,8 +1094,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 上海第一财经,https://migu.249051.xyz/608780988
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,https://tv.zhuhongxuan.cn/608780988
-上海第一财经,https://tv123.cc.cd/live.php?ch=1746&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=cc5ec16a8cc94a2c8085c91e89495d271db320e5d00389ec6f50dbde44917c60
-上海第一财经,https://tv123.cc.cd/live.php?ch=2508&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=ecea12a50146f6375c85a6e51de0a5e391866d69fa2939c1d66c8ffc60211513
+上海第一财经,https://tv123.cc.cd/live.php?ch=1765&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=00e9d03362b397bbe4ee5a83832d39c0bf1ee97efa15615bac267a8b86fa9000
+上海第一财经,https://tv123.cc.cd/live.php?ch=2516&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=a081e514df4bddbc83db9b565b898458100acb6b96e1c32a3a8008f877e1e7d8
 上虞新闻,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新闻|枫斗直播,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新闻|枫斗直播,https://stream1.freetv.fun/10f878df91ad1768ede91f010c6cc072507a54783e88ddaec8f54356a8945884.m3u8
@@ -1091,10 +1105,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 东方财经,http://110.42.52.180:6688/live/live.php?token=yyabU8vdlG67&id=dfcj&zy.m3u8@0@1@@token@user_agent@东方财经
 东方财经,http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
-东方财经,http://121.199.48.54/live1/jsbv1.m3u8?id=dfcj&usign=i6C9UEdDPOiyDe-1w4fIwQ
-东方财经,http://121.199.48.54/live1/jsbv2b.m3u8?id=dfcj&usign=i6C9UEdDPOiyDe-1w4fIwQ
-东方财经,http://121.199.48.54/live1/yicai.m3u8?id=dfcj&usign=i6C9UEdDPOiyDe-1w4fIwQ
-东方财经,http://121.199.48.54/live1/yicai.m3u8?id=dfcja&usign=i6C9UEdDPOiyDe-1w4fIwQ
+东方财经,http://121.199.48.54/live1/jsbv1.m3u8?id=dfcj&usign=tLngDtuj_ih6JsLuwOyZmA
+东方财经,http://121.199.48.54/live1/jsbv2b.m3u8?id=dfcj&usign=tLngDtuj_ih6JsLuwOyZmA
+东方财经,http://121.199.48.54/live1/yicai.m3u8?id=dfcj&usign=tLngDtuj_ih6JsLuwOyZmA
+东方财经,http://121.199.48.54/live1/yicai.m3u8?id=dfcja&usign=tLngDtuj_ih6JsLuwOyZmA
 东方财经,http://124.248.69.76:26781/douyu/9548279
 东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
 东方财经,http://182.135.66.163:1888/rtp/239.94.2.236:5140
@@ -1162,7 +1176,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
 东森新闻台[1280x720],http://awei.beimua.com/iptv.php?id=44
 东森新闻美洲台[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森美洲新闻,https://tv123.cc.cd/live.php?ch=1946&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=becedc40317f3e3f1817fcb043f29ba59f23be344518037123a296e8392c771c
+东森美洲新闻,https://tv123.cc.cd/live.php?ch=1965&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=35313f181b43720c9a944c97fae202b0f1f76ff27de0d1a5fbe0738afe400dec
 东森财经,http://123.51.230.108:18515/.m3u8
 东森财经,http://154.3.38.29/lyzx/live.php?id=7
 东森财经,http://2023.stream-link.org/playlist/ebc_finance.flv
@@ -1172,6 +1186,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 东森财经,https://epg.pw/stream/b63e2d95c2b56cb909e04f9639d8da0cef29a29061078ad5e4407af8c8b176cf.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森财经,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森财经,https://pia.cx/live/qtTNEdtW/vpwLyzfw/14944.ts
 东森财经台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=xclZck&tk=IaRTZBNZkJti
 东森财经新闻,http://123.51.149.68:18515/0.m3u8
 东森财经新闻,http://45.192.97.170:8880/play/1315.m3u8
@@ -1185,20 +1200,20 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 东森财经新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
 东森财经美洲,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59158.ts
 东海新闻,http://iptv.666230.xyz/iptv/jsyd.php/jsdonghaixinwen
-东海新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jslygdh1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-东海新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jslygdh1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-东海新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jslygdh1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+东海新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jslygdh1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+东海新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jslygdh1&usign=tLngDtuj_ih6JsLuwOyZmA
+东海新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jslygdh1&usign=tLngDtuj_ih6JsLuwOyZmA
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8@@Referer=http://donghai.cm.jstv.com/@@
 东海新闻频道,http://donghai-tv-replay.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
 东莞新闻频道,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&ttl=3600&key=427e13368d7e4211bb3f1f6432084b3f
-东莞生活资讯,http://121.10.7.16:4000/udp/239.253.43.105:5146
-东莞生活资讯,http://121.199.48.54/live1/gddgtv.m3u8?id=gddgtv2&usign=i6C9UEdDPOiyDe-1w4fIwQ
+东莞生活资讯,http://121.199.48.54/live1/gddgtv.m3u8?id=gddgtv2&usign=tLngDtuj_ih6JsLuwOyZmA
 东莞生活资讯,http://14.145.143.147:14022/rtp/239.253.43.105:5146
 东莞生活资讯,http://14.157.24.38:2345/rtp/239.253.43.105:5146
 东莞生活资讯,http://183.236.43.98:4013/udp/239.253.43.105:5146
 东莞生活资讯,http://183.30.201.168:10002/rtp/239.253.43.105:5146
 东莞生活资讯,http://61.145.188.90:50055/udp/239.253.43.105:5146
+东莞生活资讯,http://61.145.188.90:60033/udp/239.253.43.105:5146
 东莞生活资讯,http://chuangye168.gnway.org:56994/g8dyou.php?id=2122
 东莞生活资讯,http://nn.7x9d.cn/91tv1.php?e=gddgtv2&line=0
 东莞生活资讯,http://nn.7x9d.cn/91tv1.php?e=gddgtv2&line=1
@@ -1211,14 +1226,14 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 东莞生活资讯[1280*720],https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 东莞生活资讯|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E8%8E%9E%E7%94%9F%E6%B4%BB%E8%B5%84%E8%AE%AF&auth=666858
 东营区新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=dydyqxw
-东营新闻,http://144.255.16.190:6688/udp/239.21.1.81:5002
+东营新闻,http://144.255.31.42:6688/udp/239.21.1.81:5002
 东营新闻,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-中国新闻社,https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15034112137_strL_GameAvcHdL0.flv?hwTime=6ae5bbab&hwSecret=aa535e4888da003b8ad9c27e56e64b9a&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=RRKDQbehGBQ&ss=s23&tfc_buyer=0
+中国新闻社,https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15034112137_strL_GameAvcHdL0.flv?hwTime=6ae70824&hwSecret=f3eb838f604adf37d15bead4ce2db525&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=RRKDQbehGBQ&ss=s23&tfc_buyer=0
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
 中国蓝新闻台,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻台,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$浙江广电
-中天新聞 CTI News,https://tv123.cc.cd/live.php?ch=2175&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3c5b4d3193e6e7debc66275f2d84c2876b84ed928ba9c6a9a7e21d3607da9c8f
+中天新聞 CTI News,https://tv123.cc.cd/live.php?ch=2194&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=5394abdcb2e6cd394783df5fce37414be0d595aff09bcffb1b66719d17780113
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
@@ -1255,8 +1270,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 中天新闻,https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,https://my5353.com/ztxw
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新闻,rtmp://47.238.2.198/live/888ztxw
@@ -1293,7 +1307,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 中视新闻,http://t.061899.xyz/tl/js/js.php?id=zsxw
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
-中视新闻,https://tv123.cc.cd/live.php?ch=1939&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=06fec28d788a5b79611a88c297f06b8f46efb4e545246a5fb4cbef8175baf713
+中视新闻,https://tv123.cc.cd/live.php?ch=1958&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=9e5af695f3241d622238338c3560b65579c88a534e41991debcbb792923656d9
 中视新闻[1920x1080],http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻[1920x1080],http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中视新闻台,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
@@ -1303,7 +1317,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 中视新闻台[1280x720],http://awei.beimua.com/iptv.php?id=46
 中视新闻台[1920x1080],http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 临城新闻频道,http://60.4.28.229:8077/rtp/239.253.93.167:6335
-临平新闻频道,http://121.199.48.54/live1/ady.m3u8?id=zjhzlp1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+临平新闻频道,http://121.199.48.54/live1/ady.m3u8?id=zjhzlp1&usign=tLngDtuj_ih6JsLuwOyZmA
 临平新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B8%B4%E5%B9%B3%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 临沂新闻,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临泉新闻频道,http://120.210.216.73:8080/ysten-business/live/SD20-576P-linquan/1.m3u8
@@ -1322,9 +1336,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 乌克兰7tvod新闻台,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 乌克兰|24小时新闻,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-乐清新闻频道,http://121.199.48.54/live1/ady.m3u8?id=zjwzyq1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+乐清新闻频道,http://121.199.48.54/live1/ady.m3u8?id=zjwzyq1&usign=tLngDtuj_ih6JsLuwOyZmA
 乐清新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B9%90%E6%B8%85%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-乐陵新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzll1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+乐陵新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzll1&usign=tLngDtuj_ih6JsLuwOyZmA
 乐陵新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%B9%90%E9%99%B5%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 云南新闻广播 FM105.8[0*0],http://ls.qingting.fm/live/1926.m3u8
 云南生活资讯|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E7%94%9F%E6%B4%BB%E8%B5%84%E8%AE%AF&auth=666858
@@ -1336,9 +1350,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-亳州新闻频道,http://121.199.48.54/live1/ahbztv.m3u8?fmt=flv&id=ahbztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-亳州新闻频道,http://121.199.48.54/live1/ahbztv.m3u8?id=ahbztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-亳州新闻频道,http://121.199.48.54/live1/ahqx.m3u8?id=ahbztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+亳州新闻频道,http://121.199.48.54/live1/ahbztv.m3u8?fmt=flv&id=ahbztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+亳州新闻频道,http://121.199.48.54/live1/ahbztv.m3u8?id=ahbztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+亳州新闻频道,http://121.199.48.54/live1/ahqx.m3u8?id=ahbztv1&usign=tLngDtuj_ih6JsLuwOyZmA
 亳州新闻频道,http://zbbf2.ahbztv.com/live/416.m3u8
 什邡新闻频道,https://live.sfcmc.cn:85/live/zhpd.m3u8
 什邡新闻频道|枫斗直播,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -1346,12 +1360,11 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 什邡新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%BB%80%E9%82%A1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 仁和新闻,http://103.236.69.25:2380/scgd/scgd/rhxwH264_2000.m3u8?E=&U=&A=&K=&P=&S=
 今日俄罗斯（RT News）,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-今视频长天新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15034061484_strL_GameAvcHdL0.flv?txSecret=7e363593dad65db36e6e62c1f42d9776&txTime=6ae5bba8&stat=%2FhhA8REfH5P8MKuEZQuJXnEoVKtJaGMCd1yXxXJ2IhmCX82hGW1s1hyZr6fP2OVo&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=vIBBjXZL1a0&ss=s23&tfc_buyer=0
 介休新闻频道,http://p2hs.vzan.com/235832/448981620783516053/live.m3u8
 介休新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%BB%8B%E4%BC%91%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 代理_广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 任城新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=jircxw
-任城新闻生活,http://121.199.48.54/live1/iqilu.m3u8?id=sdjirc1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+任城新闻生活,http://121.199.48.54/live1/iqilu.m3u8?id=sdjirc1&usign=tLngDtuj_ih6JsLuwOyZmA
 任城新闻生活|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E4%BB%BB%E5%9F%8E%E6%96%B0%E9%97%BB%E7%94%9F%E6%B4%BB&auth=666858
 伊拉克 Sharqiya News,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 伊金霍洛新闻,rtmp://cms-play.yjhlnews.cn/live/vedio?zneimd
@@ -1373,12 +1386,12 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 偃师新闻频道,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
 元卫觉醒-新闻主播,http://em.21dtv.com/songs/60050961.mkv
 兖州新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=jiyzxw
-兖州新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jiyzxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWppeXp4d3wxNzkzNDQwNzA3fGZhODljZDk4MjQ4Y2MzMGZhZjllZDQ3YmM3NzBmNGI3NzYyNjdiNWZhNWZkZWI0NmNhM2QyZDUyZThlMTcyZmU
+兖州新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jiyzxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWppeXp4d3wxNzkzNTI1ODEzfDlkMmExZWI3MTQ0YmFhMzQ1NmYxNTA5Y2U3MTIyYmU5NzcyODE2ZWRkNWE4NWVmZjRjNzRhMDNmNDdlODEyYzQ
 兖州新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=jiyzxw
 兖州新闻|枫斗直播,http://43.138.196.212/q0l.php?id=jiyzxw
 兖州新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=jiyzxw
-兖州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiyz1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-兖州新闻频道,http://144.255.16.190:6688/udp/239.21.1.224:5002
+兖州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiyz1&usign=tLngDtuj_ih6JsLuwOyZmA
+兖州新闻频道,http://144.255.31.42:6688/udp/239.21.1.224:5002
 兖州新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%85%96%E5%B7%9E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 党建新闻,http://flv4mp4.people.com.cn/videofile7/pvmsvideo/2021/3/10/ShiXinPei_71ec1680d031363446f16a2366abccb9_android_c.mp4
 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -1393,9 +1406,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 公共新闻频道,http://45.192.97.170:8880/play/41.m3u8
 公共新闻频道,http://8.137.121.66:20241/626064693
 公共新闻频道,http://A/ku9/js/咪咕超简版.js?id=626064693
-公共新闻频道,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2c1c52d1e9ae28885611f9229d0f1d6d&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261030174844&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=39.103.182.111&SecurityKey=20261030174844&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6ac8090d728eecc7a619ed358bf1837e&ddCalcu=e67av3ca88w10af9b08d5732d8ee9e1c6ca7&sv=10004&ct=android
-公共新闻频道,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=788bdb66448ceaa9bcedd9f925f60820&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261030174821&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=39.103.188.159&SecurityKey=20261030174821&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=75e3932c7f960fe823157aa3edb76dbf&ddCalcu=f7b5vdea63w79ab3d2ec37afa976501f3e28&sv=10004&ct=android
-公共新闻频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=202610301403032d16916bcffe489dbccc15c60d6a08e1&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261030140303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20261030140303&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ad68167f1480d68597ad0f7e845104a2
+公共新闻频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=20261031140302e2cf35fee76b4c6b917a06b4f0332383&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261031140302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20261031140302&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4273899a3f7c365187b8c7e207366b2c
 公共新闻频道,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=whOx9m&tk=IaRTZBNZkJti
 公共新闻频道,http://mg.cttv.vip/626064693
 公共新闻频道,http://my1nas.dpdns.org:1234/626064693
@@ -1406,31 +1417,31 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 公共新闻频道,https://live.chinacert.cftest5.cn/cnmg/live/626064693
 公共新闻频道,https://migu.249051.xyz/626064693
 公共新闻频道,https://tv.zhuhongxuan.cn/626064693
-公共新闻频道,https://tv123.cc.cd/live.php?ch=2518&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=2e7a0178102f1be0e026c01e1c0939e30db0c6e1d1b1e7fbbbc62dd659bcff75
+公共新闻频道,https://tv123.cc.cd/live.php?ch=2526&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=69858e29555e96df9a34730ed54a9dcd4dc6536c9587ed37c90965bfc5c6a6de
 公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
 六安新闻,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
 六盘水新闻,https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
 兰溪新闻,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed?
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-共同通信News,https://tv123.cc.cd/live.php?ch=1002&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=4c9d6f67da0a6fc0d92673d99e60fda543be4b05bfcc7d25c35767930944e513
-共同通信News,https://tv123.cc.cd/live.php?ch=226&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=59dd6b6d145e18d49a27d2812f778566c8ffe55260e59411189a1511f9778ee7
+共同通信News,https://tv123.cc.cd/live.php?ch=1021&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=76a9f093654467a7b29ef2fa6b2889b6570c9917646358aac98d941f0d7b602c
+共同通信News,https://tv123.cc.cd/live.php?ch=246&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=c7351b93bb4257890e6be32787dd7bc22c7f25fb15bd75299804931d0318732b
 共同通信News (ニュース／報道),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 内蒙古：包头新闻,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 内蒙古|内蒙古新闻,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=162&auth=rinimabi
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-冕宁新闻频道,http://121.199.48.54/live1/scy.m3u8?id=sclimn1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+冕宁新闻频道,http://121.199.48.54/live1/scy.m3u8?id=sclimn1&usign=tLngDtuj_ih6JsLuwOyZmA
 冕宁新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%86%95%E5%AE%81%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
 凤凰资讯,http://103.236.69.25:2380/scgd/scgd/test2_4000.m3u8?E=&U=&A=&K=&P=&S=
 凤凰资讯,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰资讯,http://110.178.145.83:8188/udp/239.1.1.127:8127
+凤凰资讯,http://110.178.145.22:8188/udp/239.1.1.127:8127
 凤凰资讯,http://115.211.1.213:8001/udp/233.50.200.192:5140
 凤凰资讯,http://118.248.156.76:8889/udp/239.76.246.135:1234
 凤凰资讯,http://118.248.156.76:8889/udp/239.76.253.135:9000
-凤凰资讯,http://118.251.18.87:8188/udp/239.76.246.135:1234
-凤凰资讯,http://118.251.18.87:8188/udp/239.76.253.135:9000
+凤凰资讯,http://118.251.19.31:8188/udp/239.76.246.135:1234
+凤凰资讯,http://118.251.19.31:8188/udp/239.76.253.135:9000
 凤凰资讯,http://119.125.131.239:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
@@ -1465,10 +1476,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 凤凰资讯,http://42.92.117.151:8231/udp/239.255.30.70:8231
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$LR•5•IPV4『线路1』
-凤凰资讯,http://49.234.31.101:7033/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$襄阳联通
-凤凰资讯,http://58.46.31.185:8188/udp/239.76.246.135:1234
-凤凰资讯,http://58.46.31.185:8188/udp/239.76.253.135:9000
+凤凰资讯,http://58.46.31.215:8188/udp/239.76.246.135:1234
+凤凰资讯,http://58.46.31.215:8188/udp/239.76.253.135:9000
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715
@@ -1532,13 +1542,14 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,https://migu.188766.xyz/?migutoken=a4fa6acc3219766980e447a09a189c4b&id=hk_fhzx&type=dy
 凤凰资讯,https://migu.188766.xyz/?migutoken=c97e9d65f93545e5fd85e3b8be092759&id=fhzx&pp=1
+凤凰资讯,https://pia.cx/live/qtTNEdtW/vpwLyzfw/14955.ts
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://shenxian.serv00.net/fhx.php?id=zx
 凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
-凤凰资讯,https://tv123.cc.cd/live.php?ch=1932&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=649890291aee4927f247a869dc37b0358a52a8658cc1a0c8f945f1fa9cba6963
-凤凰资讯,https://tv123.cc.cd/live.php?ch=2332&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=cbf25c11b114d5ee43a2eeea7c996f0aea32e8e3928354c8c3da55dfff61740e
-凤凰资讯,https://tv123.cc.cd/live.php?ch=303&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=77e5aeb722408e41770399894f1a05b956a41516387d7262775f750ac2e60853
-凤凰资讯,https://tv123.cc.cd/live.php?ch=557&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=1f2101544a2e92fc51417d1bcea336e80ec9d013c830e8f67a883a9030080915
+凤凰资讯,https://tv123.cc.cd/live.php?ch=1951&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ba349cc5e4a67ce7b0db478c49a800cb40c8e2e54430292c16eb793719996101
+凤凰资讯,https://tv123.cc.cd/live.php?ch=2351&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=615c332e4a01efe3d777ea00c1ad72ae7c26ee59bb95c7dbaf06449e80cab41e
+凤凰资讯,https://tv123.cc.cd/live.php?ch=323&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=7ebe7ec1c29a710b4760d77fca15ae740642705c894ef178864ba07d61e4c23a
+凤凰资讯,https://tv123.cc.cd/live.php?ch=577&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=826901743be35efcf5d784462c8d3b293fd67bce4c1308be1615fc23ca14341d
 凤凰资讯1080,http://cc.123.rr.kg/163189/fhzx
 凤凰资讯480p,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯720,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
@@ -1563,8 +1574,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=sz0hY1&tk=IaRTZBNZkJti
 凤凰资讯台,http://rihou.cc:555/tv/hktv%2Fhk0815
 凤凰资讯台,https://epg.pw/stream/d51b2b2c5d04dbc82a25641c304b46f6d003e6142f3cacf3d75b1a716fd0fc31.m3u8
-凤凰资讯台,https://tv123.cc.cd/live.php?ch=1754&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3cfbdb05f0e4ec84637bdefa5ef558c32c3c31049b0c7282817fa4f78aacae3e
-凤凰资讯台,https://tv123.cc.cd/live.php?ch=358&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=8cd358662401f4d4975984aed9869c9e5eac9a1c401e860e60ae634119337dd9
+凤凰资讯台,https://tv123.cc.cd/live.php?ch=1773&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=1e3a30e772da48d1df3268dc1224fbbfd3d5ed1a5525139bf6f4459115e14ada
+凤凰资讯台,https://tv123.cc.cd/live.php?ch=378&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=7c5dbd68a707e1425200d02a0a9a3289d6e08917c799e0920a27f11a09fbb011
 凤凰资讯台1,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
 凤凰资讯台2,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰资讯台3,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
@@ -1573,7 +1584,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 凤凰资讯高清,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 刘耔彤-桃色新闻,http://em.21dtv.com/songs/60041606.mkv
 利津新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=dyljzh
-利津新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddylj1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+利津新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddylj1&usign=tLngDtuj_ih6JsLuwOyZmA
 利津新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%88%A9%E6%B4%A5%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
@@ -1582,10 +1593,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 北京|北京财经,http://222.128.98.255:4000/rtp/239.3.1.116:8000
 北京|北京财经,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
-北京新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=btv9&usign=i6C9UEdDPOiyDe-1w4fIwQ
-北京新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv9&usign=i6C9UEdDPOiyDe-1w4fIwQ
+北京新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=btv9&usign=tLngDtuj_ih6JsLuwOyZmA
+北京新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv9&usign=tLngDtuj_ih6JsLuwOyZmA
 北京新闻,http://123.112.208.143:4022/rtp/239.3.1.159:8000
-北京新闻,http://38.75.136.137:82/live2/btv.m3u8?id=btv9&usign=i6C9UEdDPOiyDe-1w4fIwQ
+北京新闻,http://38.75.136.137:82/live2/btv.m3u8?id=btv9&usign=tLngDtuj_ih6JsLuwOyZmA
 北京新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv9
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 北京新闻,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.159:8000
@@ -1597,6 +1608,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
 北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,http://tnvcn.com:8012/rtp/239.3.1.159:8000$北京联通
+北京新闻,http://wstvcpudtxy.liveplay.myqcloud.com/wstvcpud/udrmbtv9_1_hd.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 北京新闻,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjxw
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
@@ -1607,21 +1619,22 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 北京新闻|枫斗直播,http://47.108.20.161:8866/beijing/beijing.php?id=bjxw
 北京新闻|飞扬直播,http://m.061899.xyz/mg/bjxw
-北京新闻频道,http://111.193.227.77:23234/rtp/239.3.1.159:8000
 北京新闻频道,http://111.196.135.80:20000/rtp/239.3.1.159:8000
-北京新闻频道,http://114.254.35.125:8888/rtp/239.3.1.159:8000
-北京新闻频道,http://114.254.85.67:4022/rtp/239.3.1.159:8000
+北京新闻频道,http://114.254.37.126:8888/rtp/239.3.1.159:8000
+北京新闻频道,http://114.254.38.234:8888/rtp/239.3.1.159:8000
+北京新闻频道,http://114.254.85.64:4022/rtp/239.3.1.159:8000
 北京新闻频道,http://115.171.216.227:4000/udp/225.1.8.83:8000
 北京新闻频道,http://115.171.216.32:4000/udp/225.1.8.83:8000
 北京新闻频道,http://123.117.173.7:8118/rtp/239.3.1.159:8000
 北京新闻频道,http://123.118.60.232:8686/rtp/239.3.1.159:8000
+北京新闻频道,http://123.120.6.99:4022/rtp/239.3.1.159:8000
 北京新闻频道,http://221.220.134.250:8012/rtp/239.3.1.159:8000
 北京新闻频道,http://www.ogrehq.com:20146/rtp/239.3.1.159:8000
 北京财经,http://114.242.62.109:888/hls/21/index.m3u8
-北京财经,http://121.199.48.54/live1/jsbv1.m3u8?id=btv5&usign=i6C9UEdDPOiyDe-1w4fIwQ
-北京财经,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv5&usign=i6C9UEdDPOiyDe-1w4fIwQ
+北京财经,http://121.199.48.54/live1/jsbv1.m3u8?id=btv5&usign=tLngDtuj_ih6JsLuwOyZmA
+北京财经,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv5&usign=tLngDtuj_ih6JsLuwOyZmA
 北京财经,http://123.112.208.143:4022/rtp/239.3.1.116:8000
-北京财经,http://38.75.136.137:82/live2/btv.m3u8?id=btv5&usign=i6C9UEdDPOiyDe-1w4fIwQ
+北京财经,http://38.75.136.137:82/live2/btv.m3u8?id=btv5&usign=tLngDtuj_ih6JsLuwOyZmA
 北京财经,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv5
 北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 北京财经,http://beifeng.site:4000/rtp/239.3.1.116:8000
@@ -1641,14 +1654,15 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 北京财经|枫斗直播,http://47.108.20.161:8866/beijing/beijing.php?id=bjcj
 北京财经|飞扬直播,http://m.061899.xyz/mg/bjcj
-北京财经频道,http://111.193.227.77:23234/rtp/239.3.1.116:8000
 北京财经频道,http://111.196.135.80:20000/rtp/239.3.1.116:8000
-北京财经频道,http://114.254.35.125:8888/rtp/239.3.1.116:8000
-北京财经频道,http://114.254.85.67:4022/rtp/239.3.1.116:8000
+北京财经频道,http://114.254.37.126:8888/rtp/239.3.1.116:8000
+北京财经频道,http://114.254.38.234:8888/rtp/239.3.1.116:8000
+北京财经频道,http://114.254.85.64:4022/rtp/239.3.1.116:8000
 北京财经频道,http://115.171.216.227:4000/udp/225.1.8.106:8002
 北京财经频道,http://115.171.216.32:4000/udp/225.1.8.106:8002
 北京财经频道,http://123.117.173.7:8118/rtp/239.3.1.116:8000
 北京财经频道,http://123.118.60.232:8686/rtp/239.3.1.116:8000
+北京财经频道,http://123.120.6.99:4022/rtp/239.3.1.116:8000
 北京财经频道,http://221.220.134.250:8012/rtp/239.3.1.116:8000
 北京财经频道,http://www.ogrehq.com:20146/rtp/239.3.1.116:8000
 北海新闻,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1
@@ -1688,7 +1702,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 华视新闻,http://t.061899.xyz/tl/js/js.php?id=hsxw
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
-华视新闻,https://tv123.cc.cd/live.php?ch=1941&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=a803279e36d1e484b270c36e54b9f96d13d1fb66699b5764d6ea459778c36e76
+华视新闻,https://tv123.cc.cd/live.php?ch=1960&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=1b9750ca62867e5612fbbcfb8d120dc1c4ed688f9027dc0123de73b374947152
 华视新闻台,http://api.mytv666.top/api/hk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531
 华视新闻台,http://t.061899.xyz/tl/js/js.php?id=hsxwt
 华视新闻台[1280x720],http://awei.beimua.com/iptv.php?id=51
@@ -1709,19 +1723,19 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 南昌资讯,rtsp://115.153.232.67/PLTV/88888888/224/3221227080/113409255.smil$南昌电信
 南昌资讯|飞扬直播,https://stream1.freetv.fun/88a155963494a4d798bfb33df80bff24c5384caae8f35114e7dab6ccc95b66f4.ctv
 南昌资讯政法,http://39.135.138.58:18890/PLTV/88888888/224/3221226228/index.m3u8
-南昌资讯频道,http://121.199.48.54/live1/jxnctv.m3u8?fmt=flv&id=jxnctv3&usign=i6C9UEdDPOiyDe-1w4fIwQ
-南昌资讯频道,http://121.199.48.54/live1/jxnctv.m3u8?id=jxnctv3&usign=i6C9UEdDPOiyDe-1w4fIwQ
-南昌资讯频道,http://121.199.48.54/live1/jxnctv1.m3u8?id=jxnctv3&usign=i6C9UEdDPOiyDe-1w4fIwQ
+南昌资讯频道,http://121.199.48.54/live1/jxnctv.m3u8?fmt=flv&id=jxnctv3&usign=tLngDtuj_ih6JsLuwOyZmA
+南昌资讯频道,http://121.199.48.54/live1/jxnctv.m3u8?id=jxnctv3&usign=tLngDtuj_ih6JsLuwOyZmA
+南昌资讯频道,http://121.199.48.54/live1/jxnctv1.m3u8?id=jxnctv3&usign=tLngDtuj_ih6JsLuwOyZmA
 南通新闻|枫斗直播,https://3.69mini.com/mg.php?token=84391b2c2b2d92150a1647050243b1
 南阳新闻|枫斗直播,http://help.lwfz.fun:8800/rtp/239.16.10.58:2000
-南阳新闻频道,http://121.199.48.54/live1/hanytv.m3u8?id=hanytv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@User-Agent=Mozilla/5.0@@
-南阳新闻频道,http://121.199.48.54/live1/hatv.m3u8?id=hanytv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+南阳新闻频道,http://121.199.48.54/live1/hanytv.m3u8?id=hanytv1&usign=tLngDtuj_ih6JsLuwOyZmA@@User-Agent=Mozilla/5.0@@
+南阳新闻频道,http://121.199.48.54/live1/hatv.m3u8?id=hanytv1&usign=tLngDtuj_ih6JsLuwOyZmA
 博山新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=zbbsxw
-博山新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbbsxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiYnN4d3wxNzkzNDQwNzA3fDJlM2E4NTE2YTVkYmI3NGQxMWNmNDYyZjlhODc5ZTJjMTQ1ZjFjMTNlMmU1ZTQyYmE1OTQzOGU3NTBlYzgxMmY
+博山新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbbsxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiYnN4d3wxNzkzNTI1ODEzfDlkODFlMzc4Yjc2ZGEyYmNiMGNkNDIwZTIwMTY1MmExMGNkMzBlOTk4YTlmYzhiYWJhYzU4YjgwMTk5NjViZTM
 博山新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=zbbsxw
 博山新闻|枫斗直播,http://43.138.196.212/q0l.php?id=zbbsxw
 博山新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=zbbsxw
-博山新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbbs1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+博山新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbbs1&usign=tLngDtuj_ih6JsLuwOyZmA
 博山新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%8D%9A%E5%B1%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 卡拉玛依新闻,http://klmysjtzb.rcsxzx.com/hls/klmy5.m3u8
 印度|WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -1730,7 +1744,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 双滦新闻频道,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f@@
 台儿庄新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=zztezxw
 台湾-民视新闻台,https://s2.pub/cctv-16
-台視新聞台 TTV News,https://tv123.cc.cd/live.php?ch=2177&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=d6781517c6388b8e98b68fcdba2e689e6cf6f651f55aa4d8bd46c21824b0cf4c
+台視新聞台 TTV News,https://tv123.cc.cd/live.php?ch=2196&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=3605e48bde8365955983b4f274cb10061175d24df57ee0ced001f1c35525c4a0
 台视新闻,http://154.3.38.29/lyzx/live.php?id=4
 台视新闻,http://2023.stream-link.org/playlist/ttv_news.flv
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
@@ -1746,8 +1760,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 台视新闻,http://t.061899.xyz/tl/js/js.php?id=tsxw
 台视新闻,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269922.ts
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+台视新闻,https://pia.cx/live/qtTNEdtW/vpwLyzfw/14946.ts
 台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
-台视新闻,https://tv123.cc.cd/live.php?ch=1938&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=c0dd3d73709e0e14dcdd95f7adf2a1c3c83fa2500aa19db9be5afd37eebe6a71
+台视新闻,https://tv123.cc.cd/live.php?ch=1957&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=a244ac81765686ad37ab864dba332d90772ccec2605f239bdca14cc6ade7e69b
 台视新闻[1920x1080],http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻[1920x1080],http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻[1920x1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -1774,11 +1789,11 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
 吉林市新闻|枫斗直播,https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8
 吉林市新闻高清|枫斗直播,http://36.108.172.237:10206/stream/channelid/1547302023?ticket=d6f77584ffa38302512849dcd2cdba3f5d522066
-吕梁新闻频道,http://121.199.48.54/live1/sxtv.m3u8?id=sxlltv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@User-Agent=Mozilla/5.0@@
+吕梁新闻频道,http://121.199.48.54/live1/sxtv.m3u8?id=sxlltv1&usign=tLngDtuj_ih6JsLuwOyZmA@@User-Agent=Mozilla/5.0@@
 吕梁新闻频道,https://live.llxw.cn:8088/rftlive/b8786a5cba024cd0938dbd3268b058f5/b8786a5cba024cd0938dbd3268b058f5.m3u8
 吕梁新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%90%95%E6%A2%81%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 周口新闻|枫斗直播,http://help.lwfz.fun:8800/rtp/239.16.10.59:2000
-周村新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbzctv1&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiemN0djF8MTc5MzQ0MDcwN3xkMTA2MGJmNjAzZTJiZDI4YzQ1NGU0ODkwNmFmN2ZhOTBkMjQ1ZmIwMGE3NGU0ZmRjNzA1MzdlZGY2ZDA3MWE1
+周村新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbzctv1&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiemN0djF8MTc5MzUyNTgxM3xmYWU3ZTZlYzcxNmJiNTM3YzVhNmQ4M2NhM2Q0MmEzMDIyMTJlNThhMTc1ZDg1ZmUyMDMxMWQyZGM0ZGI3ZmIz
 周村新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=zbzctv1
 呼伦贝尔生活资讯,http://123.179.61.200:4022/rtp/239.29.0.21:5000
 呼伦贝尔生活资讯,http://live.hrtonline.cn/flv/live/live003.flv
@@ -1826,8 +1841,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 四川新闻|枫斗直播,http://xdnas.teop.cn:8189/rtp/239.93.0.47:5140
 四川新闻频道,http://112.192.73.115:8484/rtp/239.0.0.4:5140
 四川新闻频道,http://112.192.73.227:8484/rtp/239.0.0.4:5140
-四川新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=sctv4&usign=i6C9UEdDPOiyDe-1w4fIwQ
-四川新闻频道,http://121.199.48.54/live1/jsbv2b.m3u8?id=sctv4&usign=i6C9UEdDPOiyDe-1w4fIwQ
+四川新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=sctv4&usign=tLngDtuj_ih6JsLuwOyZmA
+四川新闻频道,http://121.199.48.54/live1/jsbv2b.m3u8?id=sctv4&usign=tLngDtuj_ih6JsLuwOyZmA
 四川新闻频道,http://171.213.151.28:8188/udp/239.93.0.47:5140
 四川新闻频道,http://ep.b1791.com/php/sctv.php?id=scxw
 四川新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
@@ -1838,11 +1853,11 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 国际财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
 地方财经,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 垦利新闻,https://livealone302.iqilu.com/kenli/kenli_tv01/playlist.m3u8?shandd
-垦利新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddykl1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+垦利新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddykl1&usign=tLngDtuj_ih6JsLuwOyZmA
 垦利新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%9E%A6%E5%88%A9%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
-壹新闻,https://tv123.cc.cd/live.php?ch=2192&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=db1a6262c4db2fd0a2ead8e73b0aa3e20ee03587f450c98ac1a507269920f212
-壹新闻,https://tv123.cc.cd/live.php?ch=793&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=cfee2412807c5a6d94d82e31e65ae764436e8fb5c0ad8cfcd0d1402d19fc4758
+壹新闻,https://tv123.cc.cd/live.php?ch=2211&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=62d0e53f8f63401c0dfae9cad1fa423d5b0efa495a03f8cc872180f387bad81d
+壹新闻,https://tv123.cc.cd/live.php?ch=813&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=d0504ce164cd4c4a204c9d36dc55b99f33b1a2387e2c1df51ba3b961d2bb8f3c
 壹新闻台,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
 壹电视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
 夏邑新闻频道,http://live.dxhmt.cn:9081/tv/11426-1.m3u8
@@ -1859,8 +1874,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 天全新闻频道|枫斗直播,https://m3u8channel-tq.yunxya.com/nmip-media/channellive/channel100634/playlist.m3u8
 天津|天津新闻,http://117.14.55.102:18080/hls/34/index.m3u8
 天津|滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-天津新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-天津新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+天津新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv1&usign=tLngDtuj_ih6JsLuwOyZmA
+天津新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv1&usign=tLngDtuj_ih6JsLuwOyZmA
 天津新闻,http://192.151.150.154/live/tjtv1.m3u8
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 天津新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1
@@ -1880,7 +1895,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 天空新闻,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 太原新闻,https://tytv-hls.sxtygdy.com/49VAfrw/500/u5oe94A.m3u8
 太原新闻广播 FM91.2[0*0],http://ls.qingting.fm/live/23873.m3u8
-头条新闻,https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15034175804_strL_GameAvcHdL0.flv?hwTime=6ae5bbab&hwSecret=42dde296b8c0ff032a0d5333acb3ce62&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=9tjywXdKan4&ss=s23&tfc_buyer=0
+头条新闻,https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15036241260_strL_GameAvcHdL0.flv?hwTime=6ae70824&hwSecret=6068c93d92eafbee1ae45796c61cc650&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=JgDpB29QGXM&ss=s23&tfc_buyer=0
 孝昌新闻党建,https://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-83b00665ab7bb853672a32259dd39e3c@@Referer=https://app.cjyun.org/@@
 孝昌新闻党建|枫斗直播,http://106.53.99.30/tv/hubei.php?id=xcxw
 孝昌新闻党建|枫斗直播,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-948b2cf2777e352d9f83660c9b79aa3f
@@ -1890,7 +1905,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 安吉新闻频道,http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8
 安吉新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%90%89%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 安庆新闻|枫斗直播,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
-安康新闻频道,http://121.199.48.54/live1/tianma1.m3u8?ip=snaktv&id=36&usign=i6C9UEdDPOiyDe-1w4fIwQ
+安康新闻频道,http://121.199.48.54/live1/tianma1.m3u8?ip=snaktv&id=36&usign=tLngDtuj_ih6JsLuwOyZmA
 安康新闻频道,http://pili-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 安康新闻频道,http://pili-snapshot.akrt.cn/akapptv/zhpdhd.m3u8
 安徽：固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
@@ -1902,11 +1917,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 安顺新闻|枫斗直播,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻频道,http://hplayer1.juyun.tv/camera/197226150.m3u8
-定陶新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzdt1&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6ZHQxfDE3OTM0NDA3MDd8MDhiYmQyMTM5YWQ4OWFiYWVhMmEzZjhlNmFiNzcxZDYwNjBmNjQ0MjllZGYzZTFjNWZiZWI3Mjg1ZDhkMGMyYQ
+定陶新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzdt1&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6ZHQxfDE3OTM1MjU4MTN8YjU1YTI2MDljNzE3YTY1NjU4NTZjZTA2NjM0M2Q0MTc3ZGE1NWMyMGM4NDU5NTkzYWZhZjMwMDRiZmJjOTFiNQ
 定陶新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=hzdt1
-定陶新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdhzdt1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+定陶新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdhzdt1&usign=tLngDtuj_ih6JsLuwOyZmA
 定陶新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%AE%9A%E9%99%B6%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-宜兴新闻,http://112.103.141.123:1234/955227996
 宜兴新闻,http://116.236.204.18:1234/955227996
 宜兴新闻,https://live.chinacert.cftest5.cn/cnmg/live/955227996
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
@@ -1925,10 +1939,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 宿松新闻|枫斗直播,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 宿迁新闻|枫斗直播,https://3.69mini.com/mg.php?token=ffc8aa8209a8b75150c34db342be48
 寒亭新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=wfhtxw
-寒亭新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=wfhtxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXdmaHR4d3wxNzkzNDQwNzA3fDRlNTYwMmE2OWY0ZTJmZjI5YThkY2UzOGQzMTUyNTViNWU2YjU1OTk1NDVmY2U1MGM2ZGI0NGRkMTRkNDE1NjQ
+寒亭新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=wfhtxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXdmaHR4d3wxNzkzNTI1ODEzfGI3NzNkNTA3YmM0ZjY5MzVlMTgxY2NmNWI3ZTlhMjk4N2IxOTQwZTg1NTE0ZmNkNjIzZmQ5NWM1MzNhN2Q4NzQ
 寒亭新闻|枫斗直播,http://43.138.196.212/q0l.php?id=wfhtxw
 寒亭新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=wfhtxw
-寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻,http://154.3.38.29/lyzx/live.php?id=5
 寰宇新闻,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=c37a8a6fedcfb3a4
 寰宇新闻,http://2023.stream-link.org/playlist/global_news.flv
@@ -1946,6 +1959,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻台,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻台,http://31.43.191.125:8080/restream/restream/34793
 寰宇新闻台,http://31.43.191.125:8080/restream/restream/34870
@@ -1965,13 +1979,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
 寰宇财经台,http://iptv.4666888.xyz/iptv2A.php?id=42
 寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
-寿光新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdwfsg1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+寿光新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdwfsg1&usign=tLngDtuj_ih6JsLuwOyZmA
 寿光新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%AF%BF%E5%85%89%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 山东|山东新闻,http://api2.52tb.xyz/info?id=522&token=20230218htjgzi
 山东|山东新闻,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdgg&auth=rinimabi
 山东新闻,http://112.235.200.120:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东新闻,http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
-山东新闻,http://121.199.48.54/live1/sdxw.m3u8?id=sdgg&usign=i6C9UEdDPOiyDe-1w4fIwQ
+山东新闻,http://121.199.48.54/live1/sdxw.m3u8?id=sdgg&usign=tLngDtuj_ih6JsLuwOyZmA
 山东新闻,http://123.129.70.178:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
 山东新闻,http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1987,7 +2001,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 山东新闻|枫斗直播,http://58.57.223.226:8200/hls/19/index.m3u8
 山东新闻|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB&auth=666858
 山东新闻广播 FM95[0*0],http://ls.qingting.fm/live/60180.m3u8
-山东新闻频道,http://144.255.16.190:6688/udp/239.21.1.140:5002
+山东新闻频道,http://144.255.31.42:6688/udp/239.21.1.140:5002
 山东新闻频道,http://39.77.234.102:4002/rtp/239.253.254.23:8000
 山东新闻频道,http://39.77.26.17:4002/rtp/239.253.254.23:8000
 山西|太原新闻,http://lu1.cc/itv/php/tide.php?id=tyxwzh
@@ -1999,28 +2013,28 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
 嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhendhttp://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
-巨野新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzjyxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6anl4d3wxNzkzNDQwNzA3fDkzNDhiZjI2YWM5ZDNiNWEyYzE1YzJmMGMyM2NmOTkxMzhhNmE0ZTAxMmYyYmY2ZGZmZTFiNTllOGFlMjM1Nzc
+巨野新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzjyxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6anl4d3wxNzkzNTI1ODEzfDEyMTBlMGI5MTEwOGIwNDk1ZmViMjFiMjdkYjVkNmZkYWIwMjVkYTQ1MzAzM2EyYTExMzFlYjAyNTNkMGJkZWU
 巨野新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzjyxw
 巨野新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=hzjyxw
-巨野新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdhzjy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-巨野新闻频道,http://144.255.16.190:6688/udp/239.21.1.215:5002
+巨野新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdhzjy1&usign=tLngDtuj_ih6JsLuwOyZmA
+巨野新闻频道,http://144.255.31.42:6688/udp/239.21.1.215:5002
 巨野新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B7%A8%E9%87%8E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 巴州新闻,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/chunklist_w877242305.m3u8
 巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-常州新闻,http://121.199.48.54/live1/jscztv.m3u8?id=jscztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-常州新闻,http://121.199.48.54/live1/jstv1.m3u8?id=jscztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-常州新闻,http://38.75.136.137:82/live2/jsqx.m3u8?id=jscztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-常州新闻,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jscztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-常熟新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsszcs1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-常熟新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsszcs1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-常熟新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsszcs1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+常州新闻,http://121.199.48.54/live1/jscztv.m3u8?id=jscztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+常州新闻,http://121.199.48.54/live1/jstv1.m3u8?id=jscztv1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+常州新闻,http://38.75.136.137:82/live2/jsqx.m3u8?id=jscztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+常州新闻,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jscztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+常熟新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsszcs1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+常熟新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsszcs1&usign=tLngDtuj_ih6JsLuwOyZmA
+常熟新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsszcs1&usign=tLngDtuj_ih6JsLuwOyZmA
 常熟新闻频道,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 平度新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=qdpdxw
 平江新闻频道,https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8@@Referer=https://xhncloud.voc.com.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 平湖新闻,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed?
-平邑新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdlypy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+平邑新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdlypy1&usign=tLngDtuj_ih6JsLuwOyZmA
 平邑新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E9%82%91%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-平顶山新闻,http://121.199.48.54/live1/hatv.m3u8?id=hapds1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+平顶山新闻,http://121.199.48.54/live1/hatv.m3u8?id=hapds1&usign=tLngDtuj_ih6JsLuwOyZmA
 平顶山新闻,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
 平顶山新闻|枫斗直播,http://help.lwfz.fun:8800/rtp/239.16.20.137:11370
@@ -2033,8 +2047,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
-年代新闻,https://tv123.cc.cd/live.php?ch=2143&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=6d48000d2a94c46445da6f40ff73efb3c840a98cd71753b01c19de699fb8e8b4
-年代新闻,https://tv123.cc.cd/live.php?ch=657&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=65a824a71712abd511be3b1384ea34e8117bc57e4e2d9299889896b331c35fd8
+年代新闻,https://tv123.cc.cd/live.php?ch=2162&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=6d2ed06be0cc1af5ee4305489be7553e5f92807936451a26c6d6580efef9360e
+年代新闻,https://tv123.cc.cd/live.php?ch=677&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=c5eeec74f9103a77e8716f7686369562533ab92e9015fab1c9e6f238667df443
 年代新闻[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新闻台,http://api.mytv666.top/api/hk.php?id=3666643635353637663833346366363536386431333931323061356464376332267469643d77696e74763132332669643d3436
 广东.东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
@@ -2052,6 +2066,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广东新闻,http://119.123.78.80:8086/hls/45/index.m3u8
 广东新闻,http://119.123.78.81:8086/hls/45/index.m3u8
 广东新闻,http://119.123.78.83:8086/hls/45/index.m3u8
+广东新闻,http://119.125.131.239:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻,http://119.129.172.176:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://119.129.172.34:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111
 广东新闻,http://119.32.12.32:2901/udp/224.1.100.5:11111
 广东新闻,http://120.196.235.42:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2065,10 +2082,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广东新闻,http://120.238.94.82:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://120.87.19.109:80/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xIxuG/ppvtsqNE5wJr63vnQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广东新闻,http://121.11.160.7:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gdxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-广东新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gdxwa&usign=i6C9UEdDPOiyDe-1w4fIwQ
-广东新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-广东新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdxwa&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广东新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gdxw&usign=tLngDtuj_ih6JsLuwOyZmA
+广东新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gdxwa&usign=tLngDtuj_ih6JsLuwOyZmA
+广东新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdxw&usign=tLngDtuj_ih6JsLuwOyZmA
+广东新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdxwa&usign=tLngDtuj_ih6JsLuwOyZmA
 广东新闻,http://125.89.163.44:8888/udp/239.77.0.173:5146
 广东新闻,http://14.145.143.147:14022/rtp/239.77.0.173:5146
 广东新闻,http://14.157.24.38:2345/rtp/239.77.0.173:5146
@@ -2098,11 +2115,12 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广东新闻,http://218.13.74.202:9901/tsfile/live/0001_5.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东新闻,http://218.17.143.73:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
-广东新闻,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广东新闻,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdxw&usign=tLngDtuj_ih6JsLuwOyZmA
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub$订阅源
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw#http://bztv.tvbus.cc:8081/cdnlive/gdxw.m3u8
+广东新闻,http://49.234.31.101:7040/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw#http://bztv.tvbus.cc:8081/cdnlive/gdxw.m3u8#http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻,http://8.217.90.28:9999/触电.php?id=gdxw
 广东新闻,http://chuangye168.gnway.org:56994/g8dyou.php?id=gdnews_1500
@@ -2156,16 +2174,15 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-8.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-1.m3u8
-广东新闻,https://ysp.lml1971.ccwu.cc/gd_guangdongxinwen/playlist.m3u8
 广东新闻HD,http://yzfvip.top:9106/udp/239.77.0.173:5146
 广东新闻|枫斗直播,http://go.bkpcp.top/mg/gdxw
 广东新闻|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB&auth=666858
 广东新闻|飞扬直播,http://m.061899.xyz/mg/gdxw
 广东新闻欣赏,http://rihou.cc:555/tv/[AtI]广东新闻
 广东新闻欣赏,http://rihou.cc:555/tv/[At|]广东新闻
-广东新闻频道,http://121.10.7.16:4000/udp/239.77.0.173:5146
 广东新闻频道,http://183.236.43.98:4013/udp/239.77.0.173:5146
 广东新闻频道,http://58.253.171.52:8188/udp/239.0.1.47:5006
+广东新闻频道,http://61.145.188.90:60033/udp/239.77.0.173:5146
 广东新闻高清,http://119.29.142.81:4022/udp/239.77.0.173:5146
 广东新闻高清,http://120.87.19.109:80/PLTV/88888973/224/3221226655/10000100000000060000000002048492_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xB0xoYt5pz45xkfYvfDE3rwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广东新闻高清,http://61.145.188.90:50055/udp/239.77.0.173:5146
@@ -2195,12 +2212,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广州新闻,http://113.67.164.93:8888/udp/239.253.43.72:5146
 广州新闻,http://119.32.12.17:2901/udp/224.1.100.38:11111
 广州新闻,http://119.32.12.32:2901/udp/224.1.100.38:11111
-广州新闻,http://121.199.48.54/live1/gdgztv.m3u8?id=gdgzxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广州新闻,http://121.199.48.54/live1/gdgztv.m3u8?id=gdgzxw&usign=tLngDtuj_ih6JsLuwOyZmA
 广州新闻,http://125.89.163.44:8888/udp/239.253.43.72:5146
 广州新闻,http://14.145.143.147:14022/rtp/239.253.43.72:5146
 广州新闻,http://14.157.24.38:2345/rtp/239.253.43.72:5146
 广州新闻,http://183.30.201.168:10002/rtp/239.253.43.72:5146
-广州新闻,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广州新闻,http://38.75.136.137:82/live2/gdgztv.m3u8?id=gdgzxw&usign=tLngDtuj_ih6JsLuwOyZmA
+广州新闻,http://45.192.97.170:8880/play/682.m3u8
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
 广州新闻,http://chuangye168.gnway.org:56994/g8dyou.php?id=gznews_1500
 广州新闻,http://dns.yiandrive.com:15907/gztv/xinwen
@@ -2246,8 +2264,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a$广州广电
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c8ffc2c11f17d87d365f3b29bf8ef7fa&txTime=18f3392b07f
-广州新闻,https://tv123.cc.cd/live.php?ch=2404&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=23d1845b562804aba64a8700538ca24032ebbcf5b745ff287ed7117088185c90
-广州新闻,https://tv123.cc.cd/live.php?ch=426&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=fa5487b7941173ff30e58875625d62e62d4333932fa689b56815e4ef8e55f50b
+广州新闻,https://tv123.cc.cd/live.php?ch=2423&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=9460b277f31eb44b95ed500c9dd93bd3b01107c0330053b3cc352135fb7ef924
+广州新闻,https://tv123.cc.cd/live.php?ch=446&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ccb81d30a8bc2923fdc3de3c5776c8f17460473725a2ac8b37a95203b2d029a1
 广州新闻,rtsp://183.59.131.100:554/PLTV/88888905/224/3221230113/453206913.smil?0&accountinfo=%7E%7EV2.0%7E0SFQT4d134tJBYGpDmeXDQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州新闻|枫斗直播,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen
 广州新闻|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB&auth=666858
@@ -2257,9 +2275,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广州新闻欣赏,http://rihou.cc:555/tv/[Cx]广州新闻
 广州新闻电台 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
 广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
-广州新闻频道,http://121.10.7.16:4000/udp/239.253.43.72:5146
 广州新闻频道,http://183.236.43.98:4013/udp/239.253.43.72:5146
 广州新闻频道,http://61.145.188.90:50055/udp/239.253.43.72:5146
+广州新闻频道,http://61.145.188.90:60033/udp/239.253.43.72:5146
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻频道,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
@@ -2273,8 +2291,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广西|广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西新闻,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1
 广西新闻,http://107.150.60.122/live/gxxw.m3u8
-广西新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gxxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-广西新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gxxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+广西新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=gxxw&usign=tLngDtuj_ih6JsLuwOyZmA
+广西新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=gxxw&usign=tLngDtuj_ih6JsLuwOyZmA
 广西新闻,http://192.151.150.154/live/gxxw.m3u8
 广西新闻,http://198.204.228.26/live/gxxw.m3u8
 广西新闻,http://36.136.38.87:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2287,17 +2305,16 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 广西新闻频道,http://116.9.3.106:4000/udp/239.81.0.248:4056
 广西桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 广饶新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=dygrzh
-庆云新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzqy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+庆云新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzqy1&usign=tLngDtuj_ih6JsLuwOyZmA
 庆云新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%BA%86%E4%BA%91%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 应城新闻党建,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ef12543bb6178c5df642769f92b5396@@Referer=https://m.ycrmtzx.cn/@@
-廊坊新闻,http://121.19.134.6:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+廊坊新闻,http://121.19.134.33:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 廊坊新闻,http://60.10.139.113:8801/hls/48/index.m3u8
 廊坊新闻|枫斗直播,http://www.160606.xyz:10010/rtp/239.254.200.183:6000
 廊坊新闻|枫斗直播,rtmp://222.222.126.18/live/lfxw
 延边新闻,http://cfss.cc/cdn/dy/YBnews.flv
 建安新闻,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 建安新闻,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-开化新闻,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化新闻,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed?
 开封新闻,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
@@ -2306,7 +2323,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 张掖新闻,http://play.kankanlive.com/live/1675849013180979.m3u8
 张掖新闻|枫斗直播,https://play.kankanlive.com/live/1720583434627241.m3u8
 徐州新闻|枫斗直播,https://3.69mini.com/mg.php?token=c6990ad15583684264f80b7150f6e3
-德州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+德州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddztv1&usign=tLngDtuj_ih6JsLuwOyZmA
 德州新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E5%BE%B7%E5%B7%9E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 德阳新闻|枫斗直播,https://zb.scdytv.cn/live/xwpd.m3u8
 徽州新闻频道,http://124.112.189.183:4022/rtp/238.1.78.138:6976
@@ -2319,9 +2336,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 成都经济资讯,http://cqshushu.us.kg:2086/公众号【医工学习日志】/四川/chengdu.php?id=cdtv2
 扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
 扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8@@Referer=http://yangzhong.cm.jstv.com/@@
-扬州新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsyztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-扬州新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsyztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-扬州新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsyztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+扬州新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsyztv1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+扬州新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsyztv1&usign=tLngDtuj_ih6JsLuwOyZmA
+扬州新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsyztv1&usign=tLngDtuj_ih6JsLuwOyZmA
 承德新闻|枫斗直播,http://www.160606.xyz:10010/rtp/239.254.200.32:6000
 文山新闻,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 新乡新闻|枫斗直播,http://help.lwfz.fun:8800/rtp/239.16.20.139:11390
@@ -2330,9 +2347,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 新昌新闻綜合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd&quot;
-新沂新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-新沂新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxzxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-新沂新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxzxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+新沂新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzxy1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+新沂新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxzxy1&usign=tLngDtuj_ih6JsLuwOyZmA
+新沂新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxzxy1&usign=tLngDtuj_ih6JsLuwOyZmA
 新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
 新疆新闻广播 FM96.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1902.m3u8
@@ -2390,7 +2407,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 新闻79,http://cdntv.online/high/ynemik5cl9/1786.mpeg
 新闻广播,http://180.213.170.24:8188/rtp/239.5.0.115:5000
 新闻频道,http://jycb.f3322.net:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=0be9ef4b6238a8a460c8330b4a72a4d3&wsTime=1793365467
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=930f043c886bd9b027a527e59b6323cc&wsTime=1793451845
 无为新闻频道,http://124.112.189.183:4022/rtp/238.1.78.188:7376
 无线83新闻台,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
@@ -2426,10 +2443,12 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 无线新闻,https://jackcdn6.946985.qzz.io/live/wxxw/stream.m3u8
 无线新闻,https://migu.188766.xyz/?migutoken=84847c68967ca997eb67ad5a788a1a83&id=hk_wxxw&type=dy
+无线新闻,https://pia.cx/live/qtTNEdtW/vpwLyzfw/14930.ts
+无线新闻,https://pia.cx/live/qtTNEdtW/vpwLyzfw/67944.ts
 无线新闻,https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
 无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-无线新闻,https://tv123.cc.cd/live.php?ch=2340&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=21d6a5ec10c6e4373a74e50076fba2fb4fa420797f4bf49b3bdc97d05d8eeed0
-无线新闻,https://tv123.cc.cd/live.php?ch=2358&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=5afdea8afa3713b9cddf39097346614211ad0f098377099729f3aeb31c6b8b19
+无线新闻,https://tv123.cc.cd/live.php?ch=2359&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=0d7875bc35f5981924d6583638df51d65614c4209904d20d697fb49254c7c0c3
+无线新闻,https://tv123.cc.cd/live.php?ch=2377&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=31c8b63f07132f0f04b680d53ce8a8ac0db96c7ea6ee25490d9a6ea1e2febb0a
 无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 无线新闻台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
@@ -2446,7 +2465,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 无线新闻台,https://cdn6.cc.cd/163189/wxxw
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 无线新闻台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
-无线新闻台,https://tv123.cc.cd/live.php?ch=309&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=b2f346c7c8e68a69cce84c81bbc6924f23118588cccbc00cd20d0b936a1050db
+无线新闻台,https://tv123.cc.cd/live.php?ch=329&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=2f5c6e4eabf7d681a2d14a3065707ae8f914b3845af5ad044057fdf94263231a
 无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 无线新闻台(北美),http://cdn6.123.rr.kg/163189/wxxwt
@@ -2476,7 +2495,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 无锡新闻,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 无锡新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/2777.m3u8
 无锡资讯,http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
-无锡都市资讯,http://121.199.48.54/live1/jswxtv.m3u8?id=jswxtv3&usign=i6C9UEdDPOiyDe-1w4fIwQ
+无锡都市资讯,http://121.199.48.54/live1/jswxtv.m3u8?id=jswxtv3&usign=tLngDtuj_ih6JsLuwOyZmA
 无锡都市资讯,http://aa3.kkwk111.top/wx.php?id=4
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8$无锡广电
@@ -2485,24 +2504,24 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd$无锡广电
 无锡都市资讯频道,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
-日テレNEWS,https://tv123.cc.cd/live.php?ch=1064&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=d6550ebd34d38dcae01a697a4cdb70a1ad152a82c1d80e000e7c3a7805fb905e
-日テレNEWS,https://tv123.cc.cd/live.php?ch=222&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=f9eabeb018aa0eacb9f5c29e98d9df7d66cc586adb4f3a96cad96235d1683ff2
-日テレNEWS,https://tv123.cc.cd/live.php?ch=998&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=3304275638755a6db75a1b0044b49736e6d021f0ba1df29d4c7a668a542b3058
+日テレNEWS,https://tv123.cc.cd/live.php?ch=1017&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=93baff08a6834a2f7b706121a4c70fdfa1c4730c32fb5e466b490eb47fbd0234
+日テレNEWS,https://tv123.cc.cd/live.php?ch=1083&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=374ddd2cb34cf6b2c5378d6f08448864a1036883f363089e74e4f82f61124ec8
+日テレNEWS,https://tv123.cc.cd/live.php?ch=242&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=939f05d9210502a4d675280ccc8a3f3e480b59c3d1e2aa1412886a7596e614d1
 日テレNEWS (ニュース／報道),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-日テレNEWSセレクト,https://tv123.cc.cd/live.php?ch=1001&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=0e64ec28b90b426bf714815f4585ff567ec82ca4d86accf8ace8ae990d225bbe
-日テレNEWSセレクト,https://tv123.cc.cd/live.php?ch=225&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=69e9d99650ce7359ad3215f22a22cfd0aed492df842731b37e05ea3da71e8ec7
+日テレNEWSセレクト,https://tv123.cc.cd/live.php?ch=1020&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=9468c3156d1138517304357658ff676dbbf625978040b1547b8e5642c797de41
+日テレNEWSセレクト,https://tv123.cc.cd/live.php?ch=245&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=cb030f14212292f5ee216b6193c406e6b4e3e6d6337cb64ec1cf68b182eba8d8
 日テレNEWSセレクト グルメや生活情報、ニュース解説満載！ (ニュース／報道),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
 日本最新资讯速递,http://footyun.top:35455/douyu/296836
-日照新闻,http://144.255.16.190:6688/udp/239.21.1.79:5002
+日照新闻,http://144.255.31.42:6688/udp/239.21.1.79:5002
 日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 昆明资讯频率[0*0],http://ls.qingting.fm/live/1937.m3u8
 晋中新闻,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8?zshanxd
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
-晋中新闻频道,http://121.199.48.54/live1/sxtv.m3u8?id=sxjztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@User-Agent=Mozilla/5.0@@
+晋中新闻频道,http://121.199.48.54/live1/sxtv.m3u8?id=sxjztv1&usign=tLngDtuj_ih6JsLuwOyZmA@@User-Agent=Mozilla/5.0@@
 晋中新闻频道,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
 晋中新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%99%8B%E4%B8%AD%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-晋城新闻,http://121.199.48.54/live1/sxtv.m3u8?id=sxjctv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@User-Agent=Mozilla/5.0@@
+晋城新闻,http://121.199.48.54/live1/sxtv.m3u8?id=sxjctv1&usign=tLngDtuj_ih6JsLuwOyZmA@@User-Agent=Mozilla/5.0@@
 晋城新闻,http://live.jinnews.com.cn/xwzh/playlist.m3u8
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
@@ -2511,7 +2530,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 普陀新闻,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed?
 景德镇新闻,http://play-sh.quklive.com/live/1724916607073321.flv
 曲阜新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=jiqfxw
-曲阜新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiqf1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+曲阜新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiqf1&usign=tLngDtuj_ih6JsLuwOyZmA
 曲阜新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%9B%B2%E9%98%9C%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 有线78资讯台,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻,http://2022.stream-link.org/playlist/cable_news.ts
@@ -2540,7 +2559,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 来宾新闻荟萃,http://zb.lbnews.com.cn:1935/live/xwhc.stream/playlist.m3u8
 来宾新闻荟萃[1920*1080],http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
-東森新聞 ETTV News,https://tv123.cc.cd/live.php?ch=2173&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=742b3fd92f68fc1ce3476cdefd99358a46f0a83dc04c0886495b9ac7ff250944
+東森新聞 ETTV News,https://tv123.cc.cd/live.php?ch=2192&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=a1270f6dbd204689dfb483d906f84d79de65ae9599e9a27fe046735275f5a01b
 松新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 极目新闻,http://cfss.cc/cdn/dy/ctdsbdy.flv
@@ -2550,7 +2569,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 柳州新闻,http://116.9.3.106:4000/udp/239.81.0.134:4056
 栖霞区新闻频道,http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
 栖霞区新闻频道,http://pili-live-rtmp.140.i2863.com/i2863-140/live_140_236499.m3u8
-栖霞市新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdytqx1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+栖霞市新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdytqx1&usign=tLngDtuj_ih6JsLuwOyZmA
 栖霞市新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%A0%96%E9%9C%9E%E5%B8%82%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 栾川新闻频道,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
 桂林新闻,http://116.9.3.106:4000/udp/239.81.0.135:4056
@@ -2559,7 +2578,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 桐乡新闻|枫斗直播,http://nas.dous.cc:4023/udp/233.50.201.169:5140
 桐乡新闻|枫斗直播,http://xjdd.top:8500/udp/233.50.201.169:5140
 桐乡新闻|枫斗直播,http://xnnas.com:4023/udp/233.50.201.169:5140
-桓台新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbht1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+桓台新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbht1&usign=tLngDtuj_ih6JsLuwOyZmA
 桓台新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%A1%93%E5%8F%B0%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 桦川新闻,https://rmplive.hljtv.com/live/huachuan.m3u8
 梁汉文-新闻女郎,http://em.21dtv.com/songs/60050960.mkv
@@ -2578,11 +2597,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻|枫斗直播,http://zhangkx717.cn:9999/rtp/239.254.96.228:9448
 武汉新闻|枫斗直播,http://zhangkx717.cn:9999/rtp/239.69.1.145:10506
-武进新闻,http://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8
 每日经济新闻,http://cfss.cc/cdn/dy/nbdnews.flv
-民視新聞台 FTV News,https://tv123.cc.cd/live.php?ch=2178&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=847a49e0120fa08f8da7eba2c92f19e54d30542fd0dc0462d82f033bf7850de0
+民視新聞台 FTV News,https://tv123.cc.cd/live.php?ch=2197&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=98951bcddad4cddb4dadfb3c83ded2ebacfb64633ac2b928c942470ffc9395f7
 民视新闻,http://123.51.149.68:18663/0.m3u8
 民视新闻,http://154.3.38.29/lyzx/live.php?id=13
 民视新闻,http://2023.stream-link.org/playlist/ftv_news.flv
@@ -2598,7 +2616,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 民视新闻,http://rihou.cc:555/tv/民视新闻
 民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-民视新闻,https://tv123.cc.cd/live.php?ch=1944&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=31acf558ad051c49567a388e78c1f220028567c7791410bab5b98dafd9e13623
+民视新闻,https://tv123.cc.cd/live.php?ch=1963&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=44f0ae093c53f9f4df857bfbe6be7cfd1764af27f71a7695c13f828487002054
 民视新闻[1920x1080],http://123.51.230.108:18663/.m3u8
 民视新闻[1920x1080],http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻[1920x1080],http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -2628,10 +2646,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 江宁新闻,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江永新闻频道,http://118.248.156.76:8889/udp/239.76.248.35:1234
 江永新闻频道,http://118.248.156.76:8889/udp/239.76.255.35:9000
-江永新闻频道,http://118.251.18.87:8188/udp/239.76.248.35:1234
-江永新闻频道,http://118.251.18.87:8188/udp/239.76.255.35:9000
-江永新闻频道,http://58.46.31.185:8188/udp/239.76.248.35:1234
-江永新闻频道,http://58.46.31.185:8188/udp/239.76.255.35:9000
+江永新闻频道,http://118.251.19.31:8188/udp/239.76.248.35:1234
+江永新闻频道,http://118.251.19.31:8188/udp/239.76.255.35:9000
+江永新闻频道,http://58.46.31.215:8188/udp/239.76.248.35:1234
+江永新闻频道,http://58.46.31.215:8188/udp/239.76.255.35:9000
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 江苏|南京新闻,http://api2.52tb.xyz/info?id=466&token=20230218htjgzi
 江苏|南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
@@ -2641,13 +2659,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 江苏|苏州生活资讯,http://api2.52tb.xyz/info?id=465&token=20230218htjgzi
 江苏公共新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
 江苏公共新闻频道,http://45.192.97.170:8880/play/42.m3u8
-江苏新闻,http://121.199.48.54/live1/jstv1.m3u8?id=jsgg&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-江苏新闻,http://121.199.48.54/live1/jstv2.m3u8?id=jsgg&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
+江苏新闻,http://121.199.48.54/live1/jstv1.m3u8?id=jsgg&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+江苏新闻,http://121.199.48.54/live1/jstv2.m3u8?id=jsgg&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
 江苏新闻,http://180.103.42.133:8800/rtp/239.49.8.120:8000$江苏电信
 江苏新闻,http://20240504.shunyue1809.com:6321/udp/239.49.8.120:8000
-江苏新闻,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsgg&usign=i6C9UEdDPOiyDe-1w4fIwQ
-江苏新闻,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsgg&usign=i6C9UEdDPOiyDe-1w4fIwQ
-江苏新闻,http://38.75.136.137:82/live2/jstv.m3u8?id=jsgg&usign=i6C9UEdDPOiyDe-1w4fIwQ
+江苏新闻,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsgg&usign=tLngDtuj_ih6JsLuwOyZmA
+江苏新闻,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsgg&usign=tLngDtuj_ih6JsLuwOyZmA
+江苏新闻,http://38.75.136.137:82/live2/jstv.m3u8?id=jsgg&usign=tLngDtuj_ih6JsLuwOyZmA
 江苏新闻,http://8.138.7.223/tv/jstv.php?id=jsxw
 江苏新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8?icpid=3&RTS=1669268990&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 江苏新闻,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58646.ts
@@ -2681,21 +2699,21 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 江西新闻,rtsp://118.212.169.134/PLTV/88888888/224/3221226945/10000100000000060000000000527282_0.smil$江西联通
 江西新闻,rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil$江西联通
 江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
-江西新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
-江西新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv7a&usign=i6C9UEdDPOiyDe-1w4fIwQ
-江西新闻频道,http://121.199.48.54/live1/jsbv2b.m3u8?id=jxtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
+江西新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv7&usign=tLngDtuj_ih6JsLuwOyZmA
+江西新闻频道,http://121.199.48.54/live1/jsbv1.m3u8?id=jxtv7a&usign=tLngDtuj_ih6JsLuwOyZmA
+江西新闻频道,http://121.199.48.54/live1/jsbv2b.m3u8?id=jxtv7&usign=tLngDtuj_ih6JsLuwOyZmA
 江西新闻频道,http://192.151.150.154/live/jxtv7.m3u8
 江西新闻频道,http://198.204.228.26/live/jxtv7.m3u8
 江西新闻频道,http://220.176.218.17:9000/udp/239.252.220.100:5140
-江西新闻频道,http://38.75.136.137:82/live2/jxtv.m3u8?id=jxtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
+江西新闻频道,http://38.75.136.137:82/live2/jxtv.m3u8?id=jxtv7&usign=tLngDtuj_ih6JsLuwOyZmA
 江西新闻频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls
 江西新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
 江西新闻高清,http://113.195.172.192:808/hls/96/index.m3u8
 池州东至新闻,http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-汶上新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiws1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+汶上新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiws1&usign=tLngDtuj_ih6JsLuwOyZmA
 汶上新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B1%B6%E4%B8%8A%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-沂源新闻,http://144.255.16.190:6688/udp/239.21.1.114:5002
-沈阳新闻,http://121.199.48.54/live1/lnsytv.m3u8?id=lnsyxw&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://sjvue.yunshengjing.com/@@
+沂源新闻,http://144.255.31.42:6688/udp/239.21.1.114:5002
+沈阳新闻,http://121.199.48.54/live1/lnsytv.m3u8?id=lnsyxw&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://sjvue.yunshengjing.com/@@
 沈阳新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
 沈阳新闻|枫斗直播,http://sh.lnott.top:880/dx28.m3u8
 沈阳新闻广播 FM104.5[0*0],http://ls.qingting.fm/live/23891.m3u8
@@ -2732,8 +2750,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 河南|鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 河南新闻,http://1.197.249.110:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://1.197.250.194:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-河南新闻,http://121.199.48.54/live1/hatv.m3u8?id=hatv6&usign=i6C9UEdDPOiyDe-1w4fIwQ
-河南新闻,http://182.114.48.166:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://121.199.48.54/live1/hatv.m3u8?id=hatv6&usign=tLngDtuj_ih6JsLuwOyZmA
 河南新闻,http://39.164.164.132:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0#CCTV1-综合,http://zzssw01.55555.io:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://v4d.xiepeiru.top:1123/iptv/hm/HeNanXinWen
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
@@ -2764,9 +2781,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 泗阳资讯,http://711285539.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=B68AAKK9Hjrw9cgX&secondToken=secondToken%3AIAfs4Dn9UNR5w9UDmqnFmOCSOfM&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzx&v3=1&zjiangsd=
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 泗阳资讯频道,http://siyang-tv-replay.cm.jstv.com/siyang-tv/siyangzx.m3u8
-泰兴新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jstztx1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-泰兴新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jstztx1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-泰兴新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jstztx1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+泰兴新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jstztx1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+泰兴新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jstztx1&usign=tLngDtuj_ih6JsLuwOyZmA
+泰兴新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jstztx1&usign=tLngDtuj_ih6JsLuwOyZmA
 泰兴新闻频道,http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
 泰兴新闻频道,rtmp://sj.smarttaixing.com:1935/live/txzb
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
@@ -2780,13 +2797,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 津市新闻频道,https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8@@Referer=https://xhncloud.voc.com.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 洪江新闻频道,http://118.248.156.76:8889/udp/239.76.248.37:1234
 洪江新闻频道,http://118.248.156.76:8889/udp/239.76.255.37:9000
-洪江新闻频道,http://118.251.18.87:8188/udp/239.76.248.37:1234
-洪江新闻频道,http://118.251.18.87:8188/udp/239.76.255.37:9000
-洪江新闻频道,http://58.46.31.185:8188/udp/239.76.248.37:1234
-洪江新闻频道,http://58.46.31.185:8188/udp/239.76.255.37:9000
+洪江新闻频道,http://118.251.19.31:8188/udp/239.76.248.37:1234
+洪江新闻频道,http://118.251.19.31:8188/udp/239.76.255.37:9000
+洪江新闻频道,http://58.46.31.215:8188/udp/239.76.248.37:1234
+洪江新闻频道,http://58.46.31.215:8188/udp/239.76.255.37:9000
 洪湖新闻频道,https://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
-济南新闻,http://121.199.48.54/live1/sdjntv.m3u8?fmt=flv&id=sdjnxw&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=txqc.com@@
-济南新闻,http://121.199.48.54/live1/sdjntv.m3u8?id=sdjnxw&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=txqc.com@@
+济南新闻,http://121.199.48.54/live1/sdjntv.m3u8?fmt=flv&id=sdjnxw&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=txqc.com@@
+济南新闻,http://121.199.48.54/live1/sdjntv.m3u8?id=sdjnxw&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=txqc.com@@
 济南新闻|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B5%8E%E5%8D%97%E6%96%B0%E9%97%BB&auth=666858
 济宁新闻,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 浙江|公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -2801,15 +2818,15 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 浙江公共新闻|枫斗直播,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,http://101.66.194.176:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.194.29:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://101.66.195.232:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.184:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.198.18:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.234:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.84:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 浙江新闻,http://120.55.49.231:3095/rtp/233.50.201.137:5140
-浙江新闻,http://121.199.48.54/live1/zjtv.m3u8?id=zjtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
-浙江新闻,http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
-浙江新闻,http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv7&usign=i6C9UEdDPOiyDe-1w4fIwQ
+浙江新闻,http://121.199.48.54/live1/zjtv.m3u8?id=zjtv7&usign=tLngDtuj_ih6JsLuwOyZmA
+浙江新闻,http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv7&usign=tLngDtuj_ih6JsLuwOyZmA
+浙江新闻,http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv7&usign=tLngDtuj_ih6JsLuwOyZmA
 浙江新闻,http://124.90.45.52:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江新闻,http://183.129.255.66:8480/hls/25/index.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$浙江广电
@@ -2818,10 +2835,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8$LR•4•IPV4『线路2』
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8$订阅源
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$LR•4•IPV4『线路1』
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$LR•4•IPV4『线路3』
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$订阅源
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$LR•4•IPV4『线路3』
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$LR•4•IPV4『线路4』
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$订阅源
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8$订阅源
@@ -2837,7 +2854,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$浙江官方
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$LR•4•IPV4『线路4』
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$LR•4•IPV4『线路1』
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$订阅源
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
@@ -2867,9 +2884,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 海南广播电视总台新闻频道,http://113.98.11.46:3000/962067517
 海南广播电视总台新闻频道,http://119.233.255.62:1234/962067517
 海南广播电视总台新闻频道,http://8.137.121.66:20241/962067517
-海南广播电视总台新闻频道,http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/51/20251225/index.m3u8?msisdn=239df2e4be674f0dfc857b6d0375dd33&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261030174851&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=39.103.182.111&SecurityKey=20261030174851&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6a100d1296adfc6c3f0b6131dafe2266&ddCalcu=666av21a20ze0afda1d219361a6dbf0cf63c&sv=10004&ct=android
-海南广播电视总台新闻频道,http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/51/20251225/index.m3u8?msisdn=7917bd66cb12aac25f54f2d7603c991e&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261030174827&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=39.103.182.111&SecurityKey=20261030174827&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0ef3b1d434796a4e6eb0d8e022288b2e&ddCalcu=e02evbfa83z8ba212d2403e487d906bae46e&sv=10004&ct=android
-海南广播电视总台新闻频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261030160256ba6a77f84fdb468bab7064a30d7d8b11&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261030160256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261030160256&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=06904275a7480bd1456b0b2564ceca23
+海南广播电视总台新闻频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=202610311403052336aa9b350f4ee28ed29ccfdfab4de4&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261031140305&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261031140305&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e0551d9f06d2dc726f390cfc3c59e87
 海南广播电视总台新闻频道,http://mg.cttv.vip/962067517
 海南广播电视总台新闻频道,http://my1nas.dpdns.org:1234/962067517
 海南广播电视总台新闻频道,http://njdm.i234.me:1234/962067517
@@ -2878,9 +2893,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 海南广播电视总台新闻频道,http://xch819.cn:7788/962067517
 海南广播电视总台新闻频道,https://migu.249051.xyz/962067517
 海南广播电视总台新闻频道,https://tv.zhuhongxuan.cn/962067517
-海南广播电视总台新闻频道,https://tv123.cc.cd/live.php?ch=2536&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=9af97bc6f050f9283b8f7de2d02cc4149a4fd94be95b3c385a6ab375ad3d7b41
+海南广播电视总台新闻频道,https://tv123.cc.cd/live.php?ch=2544&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=bd6572c84069dfd751d914430edafb8394ca1ea5ab1125c18ff5b7c50b297d16
 海南新闻,http://113.58.133.109:8188/rtp/239.254.96.190:8174
-海南新闻,http://121.199.48.54/live1/hitv.m3u8?id=hixw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+海南新闻,http://121.199.48.54/live1/hitv.m3u8?id=hixw&usign=tLngDtuj_ih6JsLuwOyZmA
 海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
 海南新闻,http://lu1.cc/c/tv/sjtv/hin/hnxl.php?id=hnxw
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
@@ -2904,18 +2919,18 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 海盐新闻频道,http://lived.dmqhyadmin.com/ds/sd/live.m3u8?zzhed
 涞水新闻频道,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
 涞水新闻频道,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f@@
-涿州新闻,http://121.19.134.6:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+涿州新闻,http://121.19.134.33:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8
 涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8?zhebd
-淄川新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbzcxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiemN4d3wxNzkzNDQwNzA3fDcyYjQzZjk0NzQ1ZmM0YjkwOGFhOTY3YjUzMWQ4MzAzODYxODNmNzU1ZmEzMzM2MTQ3ODgwNmU3ZTM2Yjg3M2U
+淄川新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=zbzcxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPXpiemN4d3wxNzkzNTI1ODEzfGM5ZTZkNDlmNDYyODJlMjUxNmFiYWY4MDdlNWFmZDdiMDM2YzcxMDRhN2FmYmUyNDRkOWQ0YzhjNTJhYTY3NTQ
 淄川新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=zbzcxw
 淄川新闻|枫斗直播,http://43.138.196.212/q0l.php?id=zbzcxw
 淄川新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=zbzcxw
-淄川新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbzc1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+淄川新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdzbzc1&usign=tLngDtuj_ih6JsLuwOyZmA
 淄川新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B7%84%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 淮北新闻|枫斗直播,https://live.hbnews.net/video/xwzh/index.m3u8
-淮北新闻频道,http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahhbtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-淮北新闻频道,http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahhbtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+淮北新闻频道,http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahhbtv1&usign=tLngDtuj_ih6JsLuwOyZmA
+淮北新闻频道,http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahhbtv1&usign=tLngDtuj_ih6JsLuwOyZmA
 淮北新闻频道,https://vms-x.hbnews.net/video/xwzh/index.m3u8
 淮安新闻|枫斗直播,https://3.69mini.com/mg.php?token=1350b5c7cee45443e1cadc02a2a143
 深圳新闻网,http://cfss.cc/cdn/dy/1057124186.flv
@@ -2923,10 +2938,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 深圳财经,http://14.157.24.38:2345/rtp/239.77.1.242:5146
 深圳财经,http://183.30.201.168:10002/rtp/239.77.1.242:5146
 深圳财经生活,http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳财经生活,http://121.10.7.16:4000/udp/239.77.1.242:5146
 深圳财经生活,http://183.236.43.98:4013/udp/239.77.1.242:5146
 深圳财经生活,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
 深圳财经生活,http://61.145.188.90:50055/udp/239.77.1.242:5146
+深圳财经生活,http://61.145.188.90:60033/udp/239.77.1.242:5146
 深圳财经生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8853&tk=a0c4f6cfaba3
 深圳财经生活,http://nn.7x9d.cn/深圳最新.php?id=szcjsh
 深圳财经生活,https://jackcdn3.946985.qzz.io/live/szcjsh/stream.m3u8
@@ -2965,10 +2980,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8
 滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
 滦平新闻频道,rtmp://live.lpxrmtzx.com/live/wh?zhebd
-滨州新闻,http://144.255.16.190:6688/udp/239.21.1.118:5002
+滨州新闻,http://144.255.31.42:6688/udp/239.21.1.118:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
-潍坊寿光新闻,http://144.255.16.190:6688/udp/239.21.1.180:5002
+潍坊寿光新闻,http://144.255.31.42:6688/udp/239.21.1.180:5002
 潍坊滨海新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=wfbhxw
 澳洲ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
@@ -2993,7 +3008,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 点掌财经[1280*720],https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 烟台新闻,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
 熊猫新闻高清,http://171.213.132.228:4000/udp/239.93.1.112:5140
-牟平新闻,http://144.255.16.190:6688/udp/239.21.2.10:5002
+牟平新闻,http://144.255.31.42:6688/udp/239.21.2.10:5002
 牟平新闻|枫斗直播,http://43.138.196.212/q0l.php?id=ytmpxw
 牡丹新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzmdxw
 特区新闻广场,http://cfss.cc/cdn/dy/tqxwgc.flv
@@ -3005,7 +3020,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 环球新闻,http://222.92.94.26:9889/rtp/239.49.1.9:6000
 环球资讯,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 珙县新闻,http://103.236.69.25:2380/scgd/scgd/gxzh_2000.m3u8?E=&U=&A=&K=&P=&S=
-珠海新闻,http://121.199.48.54/live1/cutv2.m3u8?id=gdzhtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+珠海新闻,http://121.199.48.54/live1/cutv2.m3u8?id=gdzhtv1&usign=tLngDtuj_ih6JsLuwOyZmA
 珠海新闻,http://nn.7x9d.cn/91tv1.php?e=gdzhtv1&line=0
 珠海新闻,http://nn.7x9d.cn/91tv1.php?e=gdzhtv1&line=1
 珠海新闻,http://nn.7x9d.cn/91tv1.php?e=gdzhtv1&line=2
@@ -3018,10 +3033,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 白冰冰-现金寄治股市,http://em.21dtv.com/songs/60048499.mkv
 益阳南县新闻,http://nas.jqcykj.com:88/gdy?id=yiyangnx
 盐城新闻|枫斗直播,https://3.69mini.com/mg.php?token=1db371c0078a4d2ac13a5f79f521e3
-盱眙新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jshaxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-盱眙新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jshaxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-盱眙新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jshaxy1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-看看新闻Knews,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15034256418_strL_GameAvcFhdL3.flv?txSecret=bd1ac83b21d861482898544126985037&txTime=6ae5bba8&stat=%2FhhA8REfH5P8MKuEZQuJXnEoVKtJaGMCd1yXxXJ2IhmCX82hGW1s1hyZr6fP2OVo&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=gXGvu_lGOtw&ss=s23&tfc_buyer=0
+盱眙新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jshaxy1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+盱眙新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jshaxy1&usign=tLngDtuj_ih6JsLuwOyZmA
+盱眙新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jshaxy1&usign=tLngDtuj_ih6JsLuwOyZmA
 睢县新闻频道,http://live.dxhmt.cn:9081/tv/11422-1.m3u8
 睢县新闻频道,http://tvpull.dxhmt.cn:9081/tv/11422-1.m3u8
 睢宁资讯,http://221.229.243.45:9001/hls/live/live4/stream.m3u8
@@ -3035,7 +3049,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 睢宁资讯频道,http://tv.jrsncn.com:9001/hls/live/live4/stream.m3u8
 石阡新闻,http://111.123.209.13:9000/hls/main/playlist.m3u8
 石阡新闻,http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
-礼泉新闻频道,http://121.199.48.54/live1/snxylq.m3u8?id=snxylq1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+礼泉新闻频道,http://121.199.48.54/live1/snxylq.m3u8?id=snxylq1&usign=tLngDtuj_ih6JsLuwOyZmA
 福州新闻,http://112.109.206.161:9999/rtp/239.255.40.170:8208
 福建.新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
 福建.新闻,http://live2.fjtv.net/xwpd/hd/live.m3u8?_upt=3b9100f81732214591
@@ -3044,9 +3058,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 福建|福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建新闻,http://103.236.69.25:2380/fujtv/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
 福建新闻,http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$福建电信
-福建新闻,http://121.199.48.54/live1/fjtv.m3u8?id=fjxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-福建新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=fjxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-福建新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=fjxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+福建新闻,http://121.199.48.54/live1/fjtv.m3u8?id=fjxw&usign=tLngDtuj_ih6JsLuwOyZmA
+福建新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=fjxw&usign=tLngDtuj_ih6JsLuwOyZmA
+福建新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=fjxw&usign=tLngDtuj_ih6JsLuwOyZmA
 福建新闻,http://218.104.239.114:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$福建联通
 福建新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fjxw
 福建新闻,http://8.138.7.223/tv/fjtv1.php?id=fjxw
@@ -3062,12 +3076,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 秦岛新闻|枫斗直播,http://www.160606.xyz:10010/rtp/239.254.200.39:6000
 第一财经,http://110.154.192.81:7788/608780988
 第一财经,http://111.228.4.117:6789/migu720p.php?id=608780988
+第一财经,http://112.103.141.123:1234/608780988
 第一财经,http://113.120.243.10:7788/608780988
 第一财经,http://116.232.1.47:6000/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 第一财经,http://116.236.204.18:1234/608780988
 第一财经,http://116.52.173.151:1234/608780988
-第一财经,http://121.199.48.54/live1/yicai.m3u8?id=dycj&usign=i6C9UEdDPOiyDe-1w4fIwQ
-第一财经,http://121.199.48.54/live1/yicai.m3u8?id=dycja&usign=i6C9UEdDPOiyDe-1w4fIwQ
+第一财经,http://121.199.48.54/live1/yicai.m3u8?id=dycj&usign=tLngDtuj_ih6JsLuwOyZmA
+第一财经,http://121.199.48.54/live1/yicai.m3u8?id=dycja&usign=tLngDtuj_ih6JsLuwOyZmA
 第一财经,http://139.196.151.191:2051/rtp/239.45.3.211:5140
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,http://222.134.19.49:8090/608780988
@@ -3084,9 +3099,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 第一财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8
 第一财经,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261030104204f101545a638d439b9011ee27d72d6c6c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261030104204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=2409:8a00:6030:db21:bf4e:bd1e:bdb0:f33&SecurityKey=20261030104204&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7cf84573f530053f6a112685c029241f&ddCalcu=f71ce4f32889402507c35f8563201015a36f
-第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202610300603017e30af2852784bf5a4f1163e612f1f73&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261030060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261030060301&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b690d62a2b9e53f7e67bf5e9271bd437
-第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261030100300f984f83acf9d4cc788f0a4d3dff4322d&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261030100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261030100300&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=783395e4480d4f69b286664b2a2c8c28
+第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202610311042059ca1a9bb67ef489c956c326a6474f12a&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261031104205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=2409:8a00:6030:db21:2fa2:b147:96a1:506a&SecurityKey=20261031104205&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=adda49407894af66a4753a5978b6e67b&ddCalcu=ba7de6d3ea8640b984709758a9345a7f46a6
+第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202610310603006c755851b0b14638b934e434982e4085&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261031060300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261031060300&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aab3b9362ef55fa5ba0fc6418ca6520a
+第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2026103110030018b139e6cce9449b9bbe059920c52c1e&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261031100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261031100300&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9500df7dc12b80e34cdafbdb95541acf
 第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0771&tk=a0c4f6cfaba3
 第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0917&tk=2aca1ad9a849
 第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4640&tk=e503191f8e20
@@ -3124,25 +3139,23 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-8.m3u8
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=94882e783c75b9369ca6a018f97fe3a3c0018f9da123958e316bb810ef22e907f0672a7d63496e5cb5041eb125b1f1ee6996ac856b0c0c9828348878b8a4101384b9a851fb1dea60a7fafeea35
-第一财经,https://ysp.lml1971.ccwu.cc/sh_diyicaijing/playlist.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8$LR•2•IPV4『线路2』
 第一财经HD,http://116.233.67.80:8899/rtp/233.18.204.59:5140
 第一财经HD,http://116.233.67.80:8899/rtp/233.18.204.65:5140
-第一财经HD,http://121.199.48.54/live1/jsbv1.m3u8?id=dycjhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-第一财经HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=dycjhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-第一财经HD,http://121.199.48.54/live1/yicai.m3u8?id=dycjhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
-第一财经HD,http://121.199.48.54/live1/yicai.m3u8?id=dycjhda&usign=i6C9UEdDPOiyDe-1w4fIwQ
+第一财经HD,http://121.199.48.54/live1/jsbv1.m3u8?id=dycjhd&usign=tLngDtuj_ih6JsLuwOyZmA
+第一财经HD,http://121.199.48.54/live1/jsbv2b.m3u8?id=dycjhd&usign=tLngDtuj_ih6JsLuwOyZmA
+第一财经HD,http://121.199.48.54/live1/yicai.m3u8?id=dycjhd&usign=tLngDtuj_ih6JsLuwOyZmA
+第一财经HD,http://121.199.48.54/live1/yicai.m3u8?id=dycjhda&usign=tLngDtuj_ih6JsLuwOyZmA
 第一财经HD,http://222.92.158.110:9889/rtp/239.49.8.37:8000
 第一财经HD,http://222.92.94.26:9889/rtp/239.49.8.37:8000
-第一财经HD,http://38.75.136.137:82/live2/shkk.m3u8?id=dycjhd&usign=i6C9UEdDPOiyDe-1w4fIwQ
+第一财经HD,http://38.75.136.137:82/live2/shkk.m3u8?id=dycjhd&usign=tLngDtuj_ih6JsLuwOyZmA
 第一财经HD,http://38.75.136.137:98/gslb/dsdqpub/dycjhd.m3u8?auth=testpub
 第一财经HD,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dycjhd
 第一财经HD|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8FHD&auth=666858
 第一财经SD,http://116.233.67.80:8899/rtp/233.18.204.5:5140
 第一财经|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&auth=666858
 第一财经|枫斗直播,https://3.69mini.com/mg.php?token=7dce3cac1f5824779da3ee2dcee970
-红星新闻,https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15033749058_strL_GameAvcHdL0.flv?hwTime=6ae5bbab&hwSecret=7966e7aa525113ba8179925a4173476d&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=PKP6OAQkD0Y&ss=s23&tfc_buyer=0
 纳溪新闻,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8?zsicd
 纳溪新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E7%BA%B3%E6%BA%AA%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed?
@@ -3165,11 +3178,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 耀才财经全网,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 联通烟台新闻|枫斗直播,http://xiaole51.3322.org:7000/rtp/239.253.248.254:8000
 育见新闻,http://cfss.cc/cdn/dy/CETVxinwen.flv
-胶州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdqdjz1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+胶州新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdqdjz1&usign=tLngDtuj_ih6JsLuwOyZmA
 胶州新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E8%83%B6%E5%B7%9E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
-苍南新闻,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 苍南新闻,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed?
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻|枫斗直播,https://3.69mini.com/mg.php?token=c46a7d9cccc30dd64f4111054678ce
@@ -3180,7 +3192,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 苏州生活资讯,rtmp://csztv.2500sz.com/live/c04
 苏州生活资讯频道[1280*720],https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 英国BBC新闻 美国版,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-荆州新闻,http://38.75.136.137:82/live2/hbtv.m3u8?id=hbjztv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://m.hbtv.com.cn/@@
+荆州新闻,http://38.75.136.137:82/live2/hbtv.m3u8?id=hbjztv1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://m.hbtv.com.cn/@@
 荆州新闻,http://61.184.30.36:9090/live/jztv1h.m3u8
 荆州新闻,http://61.184.46.85:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 荆州新闻,https://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-50a898eaef51ac67469ff9a58da20831@@Referer=https://wap.cjyunjianghanfeng.cn/@@
@@ -3194,7 +3206,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 蒙城新闻频道,https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
 蒙城新闻频道,https://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
 蓬莱新闻|枫斗直播,http://43.138.196.212/q0l.php?id=ytplxw
-蓬莱新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdytpl1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+蓬莱新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdytpl1&usign=tLngDtuj_ih6JsLuwOyZmA
 蓬莱新闻频道,http://sdpl.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 蓬莱新闻频道,http://sdpl.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 蓬莱新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E8%93%AC%E8%8E%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
@@ -3226,7 +3238,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 西青新闻,http://221.238.209.44:81/hls/live1.m3u8
 触电_广东新闻,http://124.222.238.146:3328/SMBD/smtv.php?id=gdxw
 证券服务,rtsp://118.212.169.134/PLTV/88888888/224/3221227286/10000100000000060000000001646447_0.smil$江西联通
-诸城新闻,http://144.255.16.190:6688/udp/239.21.1.217:5002
+诸城新闻,http://144.255.31.42:6688/udp/239.21.1.217:5002
 诸暨新闻,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 象山新闻,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed?
 贺州新闻,http://116.9.3.106:4000/udp/239.81.0.137:4056
@@ -3234,9 +3246,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 贾汪新闻,http://222.92.94.26:9889/rtp/239.49.0.248:8000
 贾汪新闻,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
 贾汪新闻,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3676988403_-40659425/ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8?icpid=3&RTS=1663229762&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-贾汪新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzjw1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-贾汪新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxzjw1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-贾汪新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxzjw1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+贾汪新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzjw1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+贾汪新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxzjw1&usign=tLngDtuj_ih6JsLuwOyZmA
+贾汪新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxzjw1&usign=tLngDtuj_ih6JsLuwOyZmA
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8@@Referer=http://jiawang.cm.jstv.com/@@
@@ -3260,7 +3272,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 邵武新闻频道,http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
 郎溪新闻频道,http://124.112.189.183:4022/rtp/238.1.78.214:7584
 郑州新闻广播 FM98.6[0*0],http://ls.qingting.fm/live/1220.m3u8
-郓城新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzycxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6eWN4d3wxNzkzNDQwNzA3fGM4ZjA3ODVkNzlmZTg2NjJkMjExMmFhODliNTRhMGMwZmY5NjNhMTc4MGUxMTYxZDMxYjQ3N2RkNDYzMjEyYzU
+郓城新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=hzycxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWh6eWN4d3wxNzkzNTI1ODEzfGZkZWUxZTQ5ZTNlYmI0ZmEyNGIwOTgzNzdhYjI1NDgyYjVkZmM5NDUzMmU3NjkzZmZiNDhjOTQ5ODExYzA1YTU
 郓城新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=hzycxw
 郓城新闻|枫斗直播,http://43.138.196.212/q0l.php?id=hzycxw
 郓城新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=hzycxw
@@ -3268,8 +3280,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 重庆.重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
 重庆|重庆新闻,http://api2.52tb.xyz/info?id=611&token=20230218htjgzi
 重庆|重庆新闻,http://stream3.xiancity.cn/5/sd/live.m3u8
-重庆新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=cqxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-重庆新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=cqxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
+重庆新闻,http://121.199.48.54/live1/jsbv1.m3u8?id=cqxw&usign=tLngDtuj_ih6JsLuwOyZmA
+重庆新闻,http://121.199.48.54/live1/jsbv2b.m3u8?id=cqxw&usign=tLngDtuj_ih6JsLuwOyZmA
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重庆新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqxw
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/1yk9j0.m3u8
@@ -3280,10 +3292,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 重庆新闻|枫斗直播,http://8.138.7.223/tv/cbg.php?id=3#http://8.138.7.223/tv/cbg2.php
 重庆新闻广播 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
 重庆新闻广播 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
-重庆新闻频道,http://113.251.74.243:8012/rtp/235.254.196.199:7980
+重庆新闻频道,http://113.251.74.221:8012/rtp/235.254.196.199:7980
 重庆新闻频道,http://211.158.165.212:8888/udp/225.0.4.188:7980
 重庆新闻频道,http://222.86.13.51:9999/rtp/235.254.196.199:7980
-金乡新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiji1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+金乡新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sdjiji1&usign=tLngDtuj_ih6JsLuwOyZmA
 金乡新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E4%B9%A1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 金华新闻,http://115.211.1.213:8001/udp/233.50.201.161:5140
 金华新闻|枫斗直播,http://nas.dous.cc:4023/udp/233.50.201.161:5140
@@ -3292,9 +3304,9 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 金华新闻|枫斗直播,http://xnnas.com:4023/udp/233.50.201.161:5140
 金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 金川新闻,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-镇江新闻时政,http://121.199.48.54/live1/jstv1.m3u8?id=jszjtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://live.jstv.com/@@
-镇江新闻时政,http://38.75.136.137:82/live2/jsqx.m3u8?id=jszjtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-镇江新闻时政,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jszjtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+镇江新闻时政,http://121.199.48.54/live1/jstv1.m3u8?id=jszjtv1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://live.jstv.com/@@
+镇江新闻时政,http://38.75.136.137:82/live2/jsqx.m3u8?id=jszjtv1&usign=tLngDtuj_ih6JsLuwOyZmA
+镇江新闻时政,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jszjtv1&usign=tLngDtuj_ih6JsLuwOyZmA
 镇江新闻时政,http://cm.wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻时政,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇海新闻频道,https://netlive.zhxwzx.com/live/ZHTV-2.m3u8
@@ -3314,18 +3326,17 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 镜电视新闻台,http://api.mytv666.top/api/hk.php?id=6463663666393262636638326639623730393065356532633436656361353232267469643d77696e74763132332669643d3535
 镜电视新闻台,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
 镜电视新闻台[1280x720],http://awei.beimua.com/iptv.php?id=52
-长江云新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15032214706_strL_GameAvcHdL0.flv?txSecret=c61a7a30e20fe08ce400f6e902758ecb&txTime=6ae5bba8&stat=%2FhhA8REfH5P8MKuEZQuJXnEoVKtJaGMCd1yXxXJ2IhmCX82hGW1s1hyZr6fP2OVo&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=8hzMwJvZQoE&ss=s23&tfc_buyer=0
-长江新闻号,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15032950790_strL_GameAvcHdL0.flv?txSecret=d1747dfe49f72dd6d2a71c7eb7bbf63d&txTime=6ae5bba8&stat=%2FhhA8REfH5P8MKuEZQuJXnEoVKtJaGMCd1yXxXJ2IhmCX82hGW1s1hyZr6fP2OVo&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=svVjsX4FVsM&ss=s23&tfc_buyer=0
+长江新闻号,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15035008093_strL_GameAvcHdL0.flv?txSecret=d4ce3b2c9f6fbac5e617b96f7c21c5f1&txTime=6ae70820&stat=zgR1OPq7I7Cbfu5Zne7u5aOhBUEmeZWEepH2wHqXU%2Fu%2FgftrUSnMlbLiwa92vu%2Br&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=pBDA_92rZ7Y&ss=s23&tfc_buyer=0
 长沙新闻,http://220.169.100.41:10087/udp/239.76.246.121:1234$湖南电信
 长沙新闻|枫斗直播,http://8.138.7.223/tv/mgtv.php?id=269
 长沙新闻广播 FM105.0[0*0],http://ls.qingting.fm/live/4877.m3u8
 长沙新闻频道,http://118.248.156.76:8889/udp/239.76.246.121:1234
-长沙新闻频道,http://118.251.18.87:8188/udp/239.76.246.121:1234
-长沙新闻频道,http://121.199.48.54/live1/hntv.m3u8?id=hncsxw&usign=i6C9UEdDPOiyDe-1w4fIwQ
-长沙新闻频道,http://58.46.31.185:8188/udp/239.76.246.121:1234
-长清新闻,http://144.255.16.190:6688/udp/239.21.1.107:5002
+长沙新闻频道,http://118.251.19.31:8188/udp/239.76.246.121:1234
+长沙新闻频道,http://121.199.48.54/live1/hntv.m3u8?id=hncsxw&usign=tLngDtuj_ih6JsLuwOyZmA
+长沙新闻频道,http://58.46.31.215:8188/udp/239.76.246.121:1234
+长清新闻,http://144.255.31.42:6688/udp/239.21.1.107:5002
 长清新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=jncqxw
-长清新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jncqxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWpuY3F4d3wxNzkzNDQwNzA3fDhhMjBlYWE1YzlkYmZlZjA3MjdiMzg1ZmQ5NDgxODcyNzg1YzQ0ZjhlNjI3MzA2NjczOTk2NzE0MjM4NTdjMDk
+长清新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jncqxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWpuY3F4d3wxNzkzNTI1ODEzfGNkOThkNjVhYWQyMzlmYjViMGY5NDQwZDRjYTQxNzJkNjU0MjBmZDExMmFkMDc4MzRlMzViOTVkMDk4YWE4ODM
 长清新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=jncqxw
 长清新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=jncqxw
 长清新闻|枫斗直播,http://play-a11.quklive.com/live/1689126294179076.m3u8
@@ -3341,8 +3352,8 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 陕西新闻|枫斗直播,https://3.69mini.com/mg.php?token=559a87e8a2dcd238503ebeddc7fe68
 陕西新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
 陕西新闻资讯,http://113.200.148.203:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西新闻资讯,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-陕西新闻资讯,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+陕西新闻资讯,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv1&usign=tLngDtuj_ih6JsLuwOyZmA
+陕西新闻资讯,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv1&usign=tLngDtuj_ih6JsLuwOyZmA
 陕西新闻资讯,http://124.114.103.202:6789/rtp/239.111.205.28:5140
 陕西新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
@@ -3365,9 +3376,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 陕西新闻资讯频道,http://45.192.97.170:8880/play/51.m3u8
 陕西新闻资讯频道,http://8.137.121.66:20241/956909289
 陕西新闻资讯频道,http://A/ku9/js/咪咕超简版.js?id=956909289
-陕西新闻资讯频道,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=16db7dce6312117785044d7b2f3f0e23&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261030174823&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=39.103.188.159&SecurityKey=20261030174823&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=eb6eed8e15d1afdf15cc2bf4ddf45032&ddCalcu=2e3bv06a5ea4eafdd8de41f5bd21cacf5d1f&sv=10004&ct=android
-陕西新闻资讯频道,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=dea0dce87919f13b604255b030632785&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261030174851&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=39.103.182.111&SecurityKey=20261030174851&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=44742c26b63d3a6c76bbe6e1452df358&ddCalcu=8454v37af4ad2a2c52461be663edb3ba667c&sv=10004&ct=android
-陕西新闻资讯频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=20261030160256101bc8b5421445a9bbe77e48ece637aa&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261030160256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20261030160256&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=defab1ebb4d90d8459db825310c60595
+陕西新闻资讯频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=202610311403048daa40a8e1c84db5ae6f37f94bad837b&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261031140304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20261031140304&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=84a1238b036d77328d03b0ef468aea35
 陕西新闻资讯频道,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=A1fKEc&tk=IaRTZBNZkJti
 陕西新闻资讯频道,http://mg.cttv.vip/956909289
 陕西新闻资讯频道,http://my1nas.dpdns.org:1234/956909289
@@ -3379,12 +3388,13 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 陕西新闻资讯频道,https://migu.188766.xyz/?migutoken=2b53d5626e00613409dc91d9aadd863e&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
 陕西新闻资讯频道,https://migu.249051.xyz/956909289
 陕西新闻资讯频道,https://tv.zhuhongxuan.cn/956909289
-陕西新闻资讯频道,https://tv123.cc.cd/live.php?ch=2533&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=60f4e7e4b855d2dc812b43f19aa82926d0391595afb2cbc6fd952064937d8d2b
+陕西新闻资讯频道,https://tv123.cc.cd/live.php?ch=2541&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=71f989a1f5ca94f452a7837d52826c296660430b6d2a32582c04be4f4e29a3c0
 陕西新闻资讯频道[720*407],http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市广播-陕广新闻 FM101.8[0*0],http://ls.qingting.fm/live/1609.m3u8
-陵城新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzlc1&usign=i6C9UEdDPOiyDe-1w4fIwQ
+陕视新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15036279925_strL_GameAvcFhdL3.flv?txSecret=93e3bae96dea0ecf700b38fc0e5041e0&txTime=6ae70821&stat=zgR1OPq7I7Cbfu5Zne7u5aOhBUEmeZWEepH2wHqXU%2Fu%2FgftrUSnMlbLiwa92vu%2Br&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=fI81RwSzNlU&ss=s23&tfc_buyer=0
+陵城新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzlc1&usign=tLngDtuj_ih6JsLuwOyZmA
 陵城新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%99%B5%E5%9F%8E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
-雁江新闻频道,http://121.199.48.54/live1/tianma.m3u8?ip=https://appmgr.zyrb.com.cn&id=4&usign=i6C9UEdDPOiyDe-1w4fIwQ
+雁江新闻频道,http://121.199.48.54/live1/tianma.m3u8?ip=https://appmgr.zyrb.com.cn&id=4&usign=tLngDtuj_ih6JsLuwOyZmA
 雁江新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%9B%81%E6%B1%9F%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 雅安新闻|枫斗直播,https://play.yunxya.com/channellive/xinwen.m3u8
 霸州新闻频道,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
@@ -3434,7 +3444,7 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 魏县综合新闻,http://106.116.241.206:9999/rtp/239.254.201.148:6211
 魏县综合新闻,http://60.4.28.229:8077/rtp/239.253.93.185:6353
 鱼台新闻,http://23.247.129.70:2026/live5/shandong/difang.php?id=jiytxw
-鱼台新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jiytxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWppeXR4d3wxNzkzNDQwNzA3fGI5NmQ4M2Y3NTQ0YjI4YjJiNmIzNDVkMTM4ZTk3ZmNkZDQ0Y2UyYmRhMjUwMjhhZGZhMGYyYTk0ZDViODE3NDg
+鱼台新闻,http://www.52top.com.cn:678/play/山东地方/sdql.php?id=jiytxw&token=L3BsYXkv5bGx5Lic5Zyw5pa5L3NkcWwucGhwP2lkPWppeXR4d3wxNzkzNTI1ODEzfDQ1OTk5YjQ4ZDZmNTYwNTRjYjJkNTAxZjRkNzI2YTRhNzg5MjY3M2I4ZGU3ZjAwNjMzMDNhNTcxODQxYzNiYjA
 鱼台新闻|枫斗直播,http://1.94.31.214/php/qilu.php?id=jiytxw
 鱼台新闻|枫斗直播,http://43.138.196.212/q0l.php?id=jiytxw
 鱼台新闻|枫斗直播,http://47.109.155.164/爱齐鲁.php?id=jiytxw
@@ -3445,10 +3455,10 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 鹿邑新闻频道,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
 鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend//live.dxhmt.cn:9080/live/yshnpre.m3u8
 黄冈新闻,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
-黄冈新闻频道,http://38.75.136.137:82/live2/hbtv.m3u8?id=hbhgtv1&usign=i6C9UEdDPOiyDe-1w4fIwQ@@Referer=https://m.hbtv.com.cn/@@
+黄冈新闻频道,http://38.75.136.137:82/live2/hbtv.m3u8?id=hbhgtv1&usign=tLngDtuj_ih6JsLuwOyZmA@@Referer=https://m.hbtv.com.cn/@@
 黄冈新闻频道,https://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄山新闻|枫斗直播,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-黄岛生活财经,http://121.199.48.54/live1/iqilu.m3u8?id=sdqdhd2&usign=i6C9UEdDPOiyDe-1w4fIwQ
+黄岛生活财经,http://121.199.48.54/live1/iqilu.m3u8?id=sdqdhd2&usign=tLngDtuj_ih6JsLuwOyZmA
 黄岛生活财经|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%BB%84%E5%B2%9B%E7%94%9F%E6%B4%BB%E8%B4%A2%E7%BB%8F&auth=666858
 黄陂新闻|枫斗直播,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 黑河新闻|枫斗直播,https://rmplive.hljtv.com/live/heihe.m3u8
@@ -3484,13 +3494,12 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 黑龙江新闻法治HD,http://39.134.65.175/PLTV/88888888/224/3221225868/1.m3u8
 黑龙江新闻法治|枫斗直播,http://shuangyashan.coccc.online:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江新闻法治频道[1280*720],https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-齐河新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzqh1&usign=i6C9UEdDPOiyDe-1w4fIwQ
-齐河新闻频道,http://144.255.16.190:6688/udp/239.21.1.230:5002
+齐河新闻频道,http://121.199.48.54/live1/iqilu.m3u8?id=sddzqh1&usign=tLngDtuj_ih6JsLuwOyZmA
+齐河新闻频道,http://144.255.31.42:6688/udp/239.21.1.230:5002
 齐河新闻频道|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E9%BD%90%E6%B2%B3%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 齐齐哈尔新闻|枫斗直播,https://rmplive.hljtv.com/live/qiqihaer.m3u8
 龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
 龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
-龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?
 龙游新闻|枫斗直播,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 🇨🇦加拿大Global News,http://iptv.zkbhj.com/tv/url/go?id=188da1cd42026cce4e3c6fd900520b5bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
@@ -3507,5 +3516,5 @@ Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 💚黑龙江新闻,http://112.99.193.34:9901/tsfile/live/1024_1.m3u8$黑龙江电信
 💚黑龙江新闻,http://218.8.87.96:4000/udp/229.58.190.16:5000$黑龙江联通
 💚黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8$内置解码线路
-🔴 ESPN News FHD US,https://tv123.cc.cd/live.php?ch=63&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=e8da529ea9afbcd748e8f7984ddcc6f713b425eb04ac9160766f130553387e99
-🔴 FOX NEWS UHD US,https://tv123.cc.cd/live.php?ch=56&sid=b602944c4942d41253758ec268e23b94&exp=1793397499&sig=fb2209e9f50e7b47017445554426a9a8c3674e0bff2b88d5518663e2b4f26cb9
+🔴 ESPN News FHD US,https://tv123.cc.cd/live.php?ch=75&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=ccec331e964be4db9b6f3c2cb4d3bb6a2d987bf703a1a64a76053d35413c1ebf
+🔴 FOX NEWS UHD US,https://tv123.cc.cd/live.php?ch=66&sid=8ea882ba0ac28e15777de1f414d371ea&exp=1793482607&sig=2e9bc943b8f26178f1869f007875052ddbd9064f837c4aedbaf6c309faaa0308

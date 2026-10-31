@@ -377,8 +377,6 @@ http://jfn.mitetech.cn:280/migu/play/629942228.m3u8
 http://jfn.mitetech.cn:280/migu/play/614952364.m3u8
 #EXTINF:-1 group-title="少儿-咪咕",经典动画大集合
 http://jfn.mitetech.cn:280/migu/play/629942219.m3u8
-#EXTINF:-1 group-title="纪实-咪咕",中华特产
-http://jfn.mitetech.cn:280/migu/play/959986618.m3u8
 #EXTINF:-1 group-title="纪实-咪咕",新动力量创一流
 http://jfn.mitetech.cn:280/migu/play/713589837.m3u8
 #EXTINF:-1 group-title="纪实-咪咕",梨园频道
@@ -15424,10 +15422,6 @@ http://47.99.202.156:8012/daili/zjqzly2.m3u8?v=l1l1vvw&line=1
 #EXTINF:-1 group-title="浙江频道-佳视",龙游生活娱乐
 http://47.99.202.156:8012/daili/zjqzly2.m3u8?v=l1l1vvw&line=2
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-1综合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=7b3713cd3065a411936085850c999b11&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261030113408&Channel_ID=0116_2600034600-99000-201600010035467&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.122.36.183&SecurityKey=20261030113408&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=e1c951ce7440794e9ea7026016f9d38c&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=86d72a5c21a547b5dacb4b5f5170d4fd$L$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-1综合
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=96ce70e05b911c32c99886146cc4da5b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261030115531&Channel_ID=0116_2600034600-99000-201600010084210&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.173.178.213&SecurityKey=20261030115531&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ae6c437ff847fa81cd770fa5beb0ff30&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8199260d88d41f9001a21a1583cba69d$Y$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -15436,17 +15430,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-2财经
 http://pull-hls-f11.douyincdn.com/media/stream-120222380172772012.m3u8?expire=1793935312&sign=f89d3d212907bc50963a6244429a5ec0&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20261030112152D848FC8E5155D0D58B8B-kLkZhk
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-2财经
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20261030112115&Channel_ID=0116_2600034600-99000-201600010083830&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=115.238.236.83&SecurityKey=20261030112115&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ddf53737ea35b6f687186af043c1e49b&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6bab009a90a58d4fa23698d0d88a1230
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-2财经
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
-http://pull-hls-f11.douyincdn.com/media/stream-120345282277016236.m3u8?expire=1793919262&sign=4276ed6df6f2cb310c39e20cf7fc6180&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-2026103006542298CCB429898B6EABCA61-NNLTdz
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=abfd198cf627786bf8cebddf81403de1&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20261030113308&Channel_ID=0116_2600034600-99000-201600010030164&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=125.122.36.182&SecurityKey=20261030113308&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5b573cb6b43bc0a6f6f3001c2c1e8ef9&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9aad220e446d0fd48083f7a010e49be7$L$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=c757f74bbbe742597d96e96b759b0838&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20261030115319&Channel_ID=0116_2600034600-99000-201600010017888&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=39.173.178.207&SecurityKey=20261030115319&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5135d46ae11089d5efd9985cc0a10c59&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=452ac6ff1b0178109db358c5fa4afbf6
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
@@ -15454,17 +15440,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-3综艺
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227333/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=e86dadc4725fe587b1ebb983e90cdbd8&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20261030113208&Channel_ID=0116_2600034600-99000-201600010025764&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=125.122.36.186&SecurityKey=20261030113208&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=10a3a34ba67e0bd2d0e0df63877db77f&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0d8b28669d79ee9891d2d81759028912$L$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-4中文国际
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=87b3e1b10617c01a787e8f0722899b43&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20261030115217&Channel_ID=0116_2600034600-99000-201600010044029&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=39.173.178.205&SecurityKey=20261030115217&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=4c846a58b8a7cacaf831062c26c1df7f&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=67900ff229b6c08c05e6e1d8762c6977$Y$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-4中文国际
 http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-4中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-4中文国际
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-5体育
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=5c356c02574e27d830bbf64ac47af208&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261030114604&Channel_ID=0116_2600034600-99000-201600010080254&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=39.173.178.196&SecurityKey=20261030114604&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2f5ea575f62ce283fd0d18ed1861be91&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a34e655dd5ded791366d9dde6a624cb4$i6
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5体育
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5体育
@@ -15472,31 +15452,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5体育
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5+体育赛事
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=f8837f3e7eb319095208cbf9fdb2e8a2&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261030114508&Channel_ID=0116_2600034600-99000-201600010034021&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.173.178.193&SecurityKey=20261030114508&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5d196a166197d73d90f90a7085f2d143&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4df4e7325a8c94e7628e3467738e8a0e
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-5+体育赛事
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5+体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-5+体育赛事
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-6电影
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20261030112813&Channel_ID=0116_2600034600-99000-201600010095365&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=122.246.1.153&SecurityKey=20261030112813&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f3a5fa53771f7a29f24815c3611ac1bc&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e8c2b089f5d577f0358a9ceefb8f9783$L$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-6电影
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8?msisdn=74257e4b7cf3493c28bf7c8b13c21613&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20261030114318&Channel_ID=0116_2600034600-99000-201600010034450&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=183.249.96.78&SecurityKey=20261030114318&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3a54cfc0a6ac1af640342f01fed13e91&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=17abe3cb4cccccebb6d06cf7151e13cc
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-6电影
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-6电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-7国防军事
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/01.m3u8?msisdn=21f9f33bd1013a66402e9bd80c41708b&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20261030114142&Channel_ID=0116_2600034600-99000-201600010008096&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=183.249.96.74&SecurityKey=20261030114142&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=9741885b704a0255872ee494235b5575&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=be6a84395c8815bc5a51a94214cd0a82
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-7国防军事
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-7国防军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-8电视剧
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261030112638&Channel_ID=0116_2600034600-99000-201600010026190&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=122.246.1.149&SecurityKey=20261030112638&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bcb740a7457d977097e173c2031745db&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a6419284000cc6f113eaf8ad85d6171a$L$i6
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-8电视剧
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=21f9f33bd1013a66402e9bd80c41708b&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261030114213&Channel_ID=0116_2600034600-99000-201600010002990&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=183.249.96.75&SecurityKey=20261030114213&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5926a614007602c80df2095b6c3db3a8&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4d1515c265720cdebd785bff6de8a3e6
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-8电视剧
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-8电视剧
@@ -15504,27 +15472,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-8电视剧
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227327/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-9纪录
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=21f9f33bd1013a66402e9bd80c41708b&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20261030114112&Channel_ID=0116_2600034600-99000-201600010036669&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=183.249.96.73&SecurityKey=20261030114112&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=09185846276920f06ee96b7e35c58f33&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8b1020a76cc8cfe4c76fedccf509371
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-9纪录
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-9纪录
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-9纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-10科教
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=21f9f33bd1013a66402e9bd80c41708b&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20261030114041&Channel_ID=0116_2600034600-99000-201600010017631&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=183.249.96.72&SecurityKey=20261030114041&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=23f9b4973d3ff1499306d80c4f167d94&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3eadadf0d18050dd8c39693134a7629
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-10科教
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-10科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-11戏曲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20261030112426&Channel_ID=0116_2600034600-99000-201600010045841&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=115.231.231.73&SecurityKey=20261030112426&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=37b1e46b310a1f49ba7c4aa5cab88788&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ca32eb3d0cbc5a34e4660632ba697b79
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-11戏曲
 http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-11戏曲
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-12社会与法
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/01.m3u8?msisdn=241fe4f2970b40901036fcddf815681d&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261030140750&Channel_ID=0116_2600034600-99000-201600010047525&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=39.173.178.217&SecurityKey=20261030140750&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=146c89e798975cab464a2fcd5205e323&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ded3ea541106ecf3961618d8bcebd2e6
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-12社会与法
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-12社会与法
@@ -15534,19 +15494,13 @@ http://pull-hls-f11.douyinliving.com/media/stream-408549944117429074.m3u8?expire
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-13新闻
 http://pull-hls-f11.douyinliving.com/media/stream-696809102791410514.m3u8?expire=1793935438&sign=95632d8c1ee1621604e541b72b76f43a&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20261030112358D44A05311EE1EEA03748-UfLez0
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-13新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261030112221&Channel_ID=0116_2600034600-99000-201600010011100&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=61.164.252.209&SecurityKey=20261030112221&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=cbd147a260797e14ca1c5c6328fbad45&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dae36951acdf60b52f5543dfbf6bf10d
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-13新闻
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-13新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-14少儿
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20261030112325&Channel_ID=0116_2600034600-99000-201600010013514&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=122.226.189.252&SecurityKey=20261030112325&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=67579cb06007ae417937d9607f322914&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5e65ac17314257597c1468950e441c10
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-14少儿
 http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-14少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-15音乐
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261030112255&Channel_ID=0116_2600034600-99000-201600010075809&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=115.238.236.85&SecurityKey=20261030112255&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=08780d812dee784a82ed4dfdb3f6ca93&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3758a3a28e7d4316a6f70ff6dd53062d
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-15音乐
 http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-15音乐
@@ -15567,10 +15521,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-16奥林匹克
 rtsp://124.152.128.50/PLTV/88888910/224/3221225605/10000100000000060000000000566169_0.smil
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-17农业农村
-https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15033010364_strL_GameAvcFhdL0.flv?txSecret=8c3ab5c346cea615d612801566298532&txTime=6ae53e40&stat=7SF8BZp3z6%2FI0s40yNw8xSZuhVSyR4AcnMLJUc2mu0ww%2BKdGdvfy%2BoVkzClFr0As&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=RcNBinxwwpo&ss=s20&tfc_buyer=0
-#EXTINF:-1 group-title="央视频道-丰彩",CCTV-17农业农村
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20261030112150&Channel_ID=0116_2600034600-99000-201600010016229&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=115.231.231.71&SecurityKey=20261030112150&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=99c6ad431d6ddd07ed4505dfa6401199&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3b7a1a81352e0d33a2ea05ad09ca7464
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-17农业农村
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",CCTV-17农业农村
@@ -15630,8 +15580,6 @@ http://live.zhengzhouyunmei.com/playlist/830.m3u8
 #EXTINF:-1 group-title="央视频道-丰彩",欢乐生活
 http://live.zhengzhouyunmei.com/playlist/874.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",北京卫视
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=eb61c1f3d91dde59cbb22be6cf2afcd4&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261030113658&Channel_ID=0116_2600034600-99000-201600010094906&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=183.249.96.92&SecurityKey=20261030113658&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c90270d7832b0d5511bb9b7b004576ce&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=464af0c0a12ba46c808a28b518ffae35
-#EXTINF:-1 group-title="卫视频道-丰彩",北京卫视
 http://wstvcpudtxy.liveplay.myqcloud.com/wstvcpud/udrmbtv1_1_hd.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",北京卫视
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
@@ -15650,8 +15598,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",内蒙古卫视
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225870/1.m3u8?fmt=ts2hls$D
 #EXTINF:-1 group-title="卫视频道-丰彩",辽宁卫视
-http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=6d70d6a83787c2c53c7bd38ec40188f1&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20261030110411&Channel_ID=0116_2600034600-99000-201600010022152&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=61.240.29.29&SecurityKey=20261030110411&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=c844c6dff57524e186271442d3621a62&encrypt=d8c4f5719c2a305510a4d24537268485
-#EXTINF:-1 group-title="卫视频道-丰彩",辽宁卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 group-title="卫视频道-丰彩",辽宁卫视
 http://39.134.67.108/PLTV/88888888/224/3221225944/1.m3u8
@@ -15661,8 +15607,6 @@ https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubT
 rtsp://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil$L
 #EXTINF:-1 group-title="卫视频道-丰彩",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="卫视频道-丰彩",黑龙江卫视
-http://mgsp-zhy-bk.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/01.m3u8?msisdn=6d70d6a83787c2c53c7bd38ec40188f1&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20261030110504&Channel_ID=0116_2600034600-99000-201600010012589&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=61.240.29.162&SecurityKey=20261030110504&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=3407e52404c965dc2efada085c02ea83&encrypt=c4fe1349b4d157875dd9e7b10d85d3aa
 #EXTINF:-1 group-title="卫视频道-丰彩",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",黑龙江卫视
@@ -15674,17 +15618,11 @@ http://39.134.67.108/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",东方卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=eb61c1f3d91dde59cbb22be6cf2afcd4&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20261030113729&Channel_ID=0116_2600034600-99000-201600010025497&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=183.249.96.93&SecurityKey=20261030113729&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c1aba58436178ab2c661e311de22023d&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=adc1849bb8dac22a7c56815158b65291
-#EXTINF:-1 group-title="卫视频道-丰彩",东方卫视
 http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",东方卫视
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="卫视频道-丰彩",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=2924b69acb90ba613ff084c92873c01e&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20261030111613&Channel_ID=0116_2600034600-99000-201600010066144&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=116.178.100.34&SecurityKey=20261030111613&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=545804c7430701005781e23061cf1ef3&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=263ed0a9b21542d8369c3cf794f66f01$L$i6
-#EXTINF:-1 group-title="卫视频道-丰彩",江苏卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=2fd3f9c9305b5c91e56465a742cdd225&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20261030113753&Channel_ID=0116_2600034600-99000-201600010065756&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=183.249.96.94&SecurityKey=20261030113753&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=345787dfd1dfbdd41e7e98a473a253f1&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7aff02afc2cd8238ccb8b81aa719f361
 #EXTINF:-1 group-title="卫视频道-丰彩",江苏卫视
 https://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",江苏卫视
@@ -15718,8 +15656,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",东南卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=f49fe56e2b171efb236cd644085bd0fa&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20261030120109&Channel_ID=0116_2600034600-99000-201600010094009&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=122.228.64.30&SecurityKey=20261030120109&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=324591bf82d1eff4e9db03325b8776df&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7cb8ac640df1f8edb7055a786835bc4b
-#EXTINF:-1 group-title="卫视频道-丰彩",东南卫视
 rtsp://112.111.36.140/PLTV/88888909/224/3221225774/10000100000000060000000001423288_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EL4dCrxX0kObW9IvBbekoOA1651f1550fb3b33d5705b34e0be41378%7EK5htgoe84g7T8OZem7TbEJZekwJKcbDucLaZF1gVRz9hBzgnu9I0ItXHdBmYO3cv272PGXCH0sD_HPMW7HgMFnry3bhe7VcAV-_gHbfHLM448af63856f583bbff529cf9c2625679c%7EExtInfogGrI6ORmt0nE8dlyZNriywf13d7fcac6767a759e40936f6a91c0e6%3A20260311225515%2C312115%2C175.42.248.124%2C20260311225515%2CBESTV002000000050000000000004989%2C312115%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001423288_0%2CEND$L
 #EXTINF:-1 group-title="卫视频道-丰彩",东南卫视
 http://27.148.240.185/PLTV/88888888/224/3221226835/1.m3u8$D
@@ -15741,8 +15677,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221226744/1.m3u8$D
 #EXTINF:-1 group-title="卫视频道-丰彩",厦门卫视
 rtsp://112.111.36.140/PLTV/88888909/224/3221225706/10000100000000060000000000391859_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EBD8PlN1QzI1z95u2BPKE7Q305fd1a2aea98853b60bca0ce509a284%7EK5htgoe84g7T8OZem7TbEJZekwJKcbDucLaZF1gVRz9hBzgnu9I0ItXHdBmYO3cv272PGXCH0sD_HPMW7HgMFnry3bhe7VcAV-_gHbfHLM448af63856f583bbff529cf9c2625679c%7EExtInfogGrI6ORmt0nE8dlyZNriywf13d7fcac6767a759e40936f6a91c0e6%3A20260311225515%2C312115%2C175.42.248.124%2C20260311225515%2C00005000000000000000000000000244%2C312115%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000391859_0%2CEND$L
-#EXTINF:-1 group-title="卫视频道-丰彩",江西卫视
-http://mgsp-zhy-bk.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=8ef71db0b56cb5cba9c86e0ad20ba88d&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20261030110812&Channel_ID=0116_2600034600-99000-201600010057021&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=61.240.29.204&SecurityKey=20261030110812&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=dc84f03a7ce12e9c1ed5cdf69b266848&encrypt=5199bb0ea341f887192f4476b3216e46
 #EXTINF:-1 group-title="卫视频道-丰彩",江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道-丰彩",江西卫视
@@ -15782,8 +15716,6 @@ http://222.85.69.6/PLTV/88888888/224/3221227056/index.m3u8?icpid=88888888&servic
 #EXTINF:-1 group-title="卫视频道-丰彩",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",湖北卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=eb61c1f3d91dde59cbb22be6cf2afcd4&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20261030113627&Channel_ID=0116_2600034600-99000-201600010041387&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=183.249.96.91&SecurityKey=20261030113627&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1a79ead1d2c45109b1b2570ede36ca6e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0798f6437bc610692fe6bf53569f9e76
-#EXTINF:-1 group-title="卫视频道-丰彩",湖北卫视
 http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",湖北卫视
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
@@ -15811,10 +15743,6 @@ http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009115/1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",湖南卫视
 rtsp://124.152.128.50/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
-#EXTINF:-1 group-title="卫视频道-丰彩",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/01.m3u8?msisdn=13fe0a031681e0a8043e5bf364cf0cc1&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20261030112001&Channel_ID=0116_2600034600-99000-201600010023947&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=122.226.189.244&SecurityKey=20261030112001&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=0b83d0bc649e580c62c6fb55d96c27b4&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c6305fd3ee201eef7e7fcd953942e20$L$i6
-#EXTINF:-1 group-title="卫视频道-丰彩",广东卫视
-http://hlszymgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/01.m3u8?msisdn=264b0669c719f8ae87a44c09264ae458&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20261030113939&Channel_ID=0116_2600034600-99000-201600010023103&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=183.249.96.71&SecurityKey=20261030113939&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=eedbbc0b54ee046c49b9d19c5fbb9577&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=113a76173da0cc378849169f9ed06871
 #EXTINF:-1 group-title="卫视频道-丰彩",广东卫视
 http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
 #EXTINF:-1 group-title="卫视频道-丰彩",广东卫视
@@ -19369,8 +19297,6 @@ http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1735660799-0
 http://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1704038399-0-0-b07aa5a0a6f1c83a3c61bb86c94a8fee
 #EXTINF:-1 group-title="湖北地区-丰彩",洪湖综合
 http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
-#EXTINF:-1 group-title="湖北地区-丰彩",湖北综合
-http://59.173.183.242:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="湖北地区-丰彩",石首影视
 http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 #EXTINF:-1 group-title="湖北地区-丰彩",石首综合
@@ -20430,10 +20356,6 @@ http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 #EXTINF:-1 group-title="青海地区-丰彩",门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-1超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=6625da8b1ba39b880f5dbf1fdf326a04&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261030113436&Channel_ID=0116_2600034600-99000-201600010074902&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=115.231.231.58&SecurityKey=20261030113436&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=8c4e88afd58222ff249ccdb5ef5176be&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91bfb4974c06b769b50811e07e4f0901$L$i6
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-1超清
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=596e788a84a8c9751c09182c72019d53&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261030115518&Channel_ID=0116_2600034600-99000-201600010098492&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.173.178.212&SecurityKey=20261030115518&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=7fca70b243797d96c8490343ae0cde35&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ca171ca162a15a55884f044fc8c5cbfc
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-1超清
 http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-1超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -20442,15 +20364,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-2超清
 http://pull-hls-f11.douyincdn.com/media/stream-120222380172772012.m3u8?expire=1793935312&sign=f89d3d212907bc50963a6244429a5ec0&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20261030112152D848FC8E5155D0D58B8B-kLkZhk
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-2超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20261030112115&Channel_ID=0116_2600034600-99000-201600010083830&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=115.238.236.83&SecurityKey=20261030112115&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ddf53737ea35b6f687186af043c1e49b&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6bab009a90a58d4fa23698d0d88a1230
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-2超清
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-2超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-3超清
-http://pull-hls-f11.douyincdn.com/media/stream-120345282277016236.m3u8?expire=1793919262&sign=4276ed6df6f2cb310c39e20cf7fc6180&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-2026103006542298CCB429898B6EABCA61-NNLTdz
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-3超清
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=6c41b2b1ad601daead13729565ef7503&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20261030115308&Channel_ID=0116_2600034600-99000-201600010033251&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=39.173.178.206&SecurityKey=20261030115308&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=854c7c50ad04568c10afecbd66fc033a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fbe396943574e9f95deec03f2aee1646
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-3超清
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-3超清
@@ -20458,15 +20374,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-3超清
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227333/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-4超清
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=81ae456c5714509eca017a3a046fbbcc&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20261030114944&Channel_ID=0116_2600034600-99000-201600010068720&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=39.173.178.201&SecurityKey=20261030114944&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f985fe84e7e7876a30fcce89b27df23d&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=373c6713607b85f599474b7ca85751b4
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-4超清
 http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-4超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-4超清
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-5超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=9cea0e0ae71cd3db8b263d3dac1bffb8&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261030113145&Channel_ID=0116_2600034600-99000-201600010078820&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=125.122.39.226&SecurityKey=20261030113145&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=657088b0cc2c81aea3d501f92868f279&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=17fe8b3024a5938a08ac9bfd2b645177
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5超清
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5超清
@@ -20474,27 +20386,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5超清
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5+超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=9cea0e0ae71cd3db8b263d3dac1bffb8&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261030113114&Channel_ID=0116_2600034600-99000-201600010065975&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=125.122.36.254&SecurityKey=20261030113114&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=68c8eeea9217325566e75ef026bb543b&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=276a208c1d926b3ebb235857ab940be3
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-5+超清
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5+超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-5+超清
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-6超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20261030112742&Channel_ID=0116_2600034600-99000-201600010027491&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=122.246.1.148&SecurityKey=20261030112742&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=6d8c82a2d2520d6fe2ccab0f73973659&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=28ae95031c01136e48ca60d1738afba0
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-6超清
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-6超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-7超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20261030112605&Channel_ID=0116_2600034600-99000-201600010024372&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=124.248.64.28&SecurityKey=20261030112605&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ac3e5bfb358d4e821df623e3db5df048&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e2b18fda4191d71bb27dabae3d36b6e8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-7超清
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-7超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-8超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=8fb711fe504ff60fbf536384f28359da&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261030112947&Channel_ID=0116_2600034600-99000-201600010050299&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=115.238.146.29&SecurityKey=20261030112947&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f0eaf6cf4eb39c8c2b73e2d7a45169ca&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=568a11d680bdc055ac0cf1805145956d
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-8超清
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-8超清
@@ -20502,25 +20406,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-8超清
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227327/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-9超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20261030112531&Channel_ID=0116_2600034600-99000-201600010097779&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=124.248.64.36&SecurityKey=20261030112531&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c759c53e7f7d886840f122f58360e5e4&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fbc9bd58e353e4dae73358741b10048a
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-9超清
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-9超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-10超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20261030112500&Channel_ID=0116_2600034600-99000-201600010076359&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=124.248.64.35&SecurityKey=20261030112500&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=588fc8157452b2e201e91d3e8cfcc9da&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1346416dd37c81216dc1d003791fbee1
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-10超清
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-10超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-11超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20261030112426&Channel_ID=0116_2600034600-99000-201600010045841&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=115.231.231.73&SecurityKey=20261030112426&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=37b1e46b310a1f49ba7c4aa5cab88788&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ca32eb3d0cbc5a34e4660632ba697b79
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-11超清
 http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-11超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-12超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/01.m3u8?msisdn=5b13ced8ed834b191c03d24db54c2deb&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261030140626&Channel_ID=0116_2600034600-99000-201600010082025&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=122.228.64.31&SecurityKey=20261030140626&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=37fc21ea12eb3aae630bf3dbed5d5b66&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e162441526c9cf5671a6da8d1efad66e
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-12超清
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-12超清
@@ -20530,19 +20426,13 @@ http://pull-hls-f11.douyinliving.com/media/stream-408549944117429074.m3u8?expire
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-13超清
 http://pull-hls-f11.douyinliving.com/media/stream-696809102791410514.m3u8?expire=1793935438&sign=95632d8c1ee1621604e541b72b76f43a&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20261030112358D44A05311EE1EEA03748-UfLez0
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-13超清
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261030112221&Channel_ID=0116_2600034600-99000-201600010011100&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=61.164.252.209&SecurityKey=20261030112221&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=cbd147a260797e14ca1c5c6328fbad45&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dae36951acdf60b52f5543dfbf6bf10d
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-13超清
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-13超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-14超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20261030112325&Channel_ID=0116_2600034600-99000-201600010013514&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=122.226.189.252&SecurityKey=20261030112325&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=67579cb06007ae417937d9607f322914&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5e65ac17314257597c1468950e441c10
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-14超清
 http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-14超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-15超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261030112255&Channel_ID=0116_2600034600-99000-201600010075809&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=115.238.236.85&SecurityKey=20261030112255&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=08780d812dee784a82ed4dfdb3f6ca93&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3758a3a28e7d4316a6f70ff6dd53062d
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-15超清
 http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-15超清
@@ -20560,15 +20450,9 @@ http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-16超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-17超清
-https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_15033010364_strL_GameAvcFhdL0.flv?txSecret=8c3ab5c346cea615d612801566298532&txTime=6ae53e40&stat=7SF8BZp3z6%2FI0s40yNw8xSZuhVSyR4AcnMLJUc2mu0ww%2BKdGdvfy%2BoVkzClFr0As&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=RcNBinxwwpo&ss=s20&tfc_buyer=0
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-17超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=43a71da5dd8c8188f3a83a7454a6d2cb&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20261030112150&Channel_ID=0116_2600034600-99000-201600010016229&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=115.231.231.71&SecurityKey=20261030112150&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=99c6ad431d6ddd07ed4505dfa6401199&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3b7a1a81352e0d33a2ea05ad09ca7464
-#EXTINF:-1 group-title="超清频道-丰彩",CCTV-17超清
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",CCTV-17超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",东南卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=f49fe56e2b171efb236cd644085bd0fa&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20261030120109&Channel_ID=0116_2600034600-99000-201600010094009&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=122.228.64.30&SecurityKey=20261030120109&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=324591bf82d1eff4e9db03325b8776df&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7cb8ac640df1f8edb7055a786835bc4b
 #EXTINF:-1 group-title="超清频道-丰彩",东南卫视超清
 rtsp://112.111.36.140/PLTV/88888909/224/3221225774/10000100000000060000000001423288_0.smil?rrsip=220.200.30.136,rrsip=112.111.36.140,rrsip=220.200.30.136&zoneoffset=480&icpid=113&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EL4dCrxX0kObW9IvBbekoOA1651f1550fb3b33d5705b34e0be41378%7EK5htgoe84g7T8OZem7TbEJZekwJKcbDucLaZF1gVRz9hBzgnu9I0ItXHdBmYO3cv272PGXCH0sD_HPMW7HgMFnry3bhe7VcAV-_gHbfHLM448af63856f583bbff529cf9c2625679c%7EExtInfogGrI6ORmt0nE8dlyZNriywf13d7fcac6767a759e40936f6a91c0e6%3A20260311225515%2C312115%2C175.42.248.124%2C20260311225515%2CBESTV002000000050000000000004989%2C312115%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001423288_0%2CEND$L
 #EXTINF:-1 group-title="超清频道-丰彩",东南卫视超清
@@ -20588,15 +20472,11 @@ http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",东南卫视超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",东方卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=96c32d975ee25e26d9ef31b8a1bdd286&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20261030111400&Channel_ID=0116_2600034600-99000-201600010007706&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=116.172.130.95&SecurityKey=20261030111400&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=985dae88db2f3b74c407209e97d24e9d&encrypt=f0a070855d1a44df9c98122358d9b528
-#EXTINF:-1 group-title="超清频道-丰彩",东方卫视超清
 http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",东方卫视超清
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",东方卫视超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",北京卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=0a9274e42e161bd927c54e1aa51049e1&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261030111052&Channel_ID=0116_2600034600-99000-201600010051793&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=61.240.29.244&SecurityKey=20261030111052&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=1c58dd4d1f08a03be0cbec3423574996&encrypt=7f75d8db6885110cbd0a07cde1eb2a63
 #EXTINF:-1 group-title="超清频道-丰彩",北京卫视超清
 http://wstvcpudtxy.liveplay.myqcloud.com/wstvcpud/udrmbtv1_1_hd.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",北京卫视超清
@@ -20648,8 +20528,6 @@ rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.
 #EXTINF:-1 group-title="超清频道-丰彩",山西卫视超清
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="超清频道-丰彩",广东卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/01.m3u8?msisdn=ec282c3d598b842a7f0c574898735682&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20261030111904&Channel_ID=0116_2600034600-99000-201600010069157&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=14.204.129.169&SecurityKey=20261030111904&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ca9b7553ecc55178505fce2672226c1e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=20d84a6f75ca1e58440cb79571208930
-#EXTINF:-1 group-title="超清频道-丰彩",广东卫视超清
 http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",广东卫视超清
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
@@ -20666,8 +20544,6 @@ http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",欢乐生活
 http://live.zhengzhouyunmei.com/playlist/874.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",江苏卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=6c1515d439cd54395ce014b65786b15e&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20261030111545&Channel_ID=0116_2600034600-99000-201600010010762&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=116.178.100.3&SecurityKey=20261030111545&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=676daf943d2476268f262a7196e2a69f&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e9e7763c1f2cd42b19f9c17a074bb648
-#EXTINF:-1 group-title="超清频道-丰彩",江苏卫视超清
 https://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",江苏卫视超清
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
@@ -20681,8 +20557,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",江苏卫视超清
 http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIANGSU-HD-265-5M/G_JIANGSU-HD-265-5M
-#EXTINF:-1 group-title="超清频道-丰彩",江西卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=8ef71db0b56cb5cba9c86e0ad20ba88d&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20261030110812&Channel_ID=0116_2600034600-99000-201600010057021&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=61.240.29.204&SecurityKey=20261030110812&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=dc84f03a7ce12e9c1ed5cdf69b266848&encrypt=5199bb0ea341f887192f4476b3216e46
 #EXTINF:-1 group-title="超清频道-丰彩",江西卫视超清
 rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil$D
 #EXTINF:-1 group-title="超清频道-丰彩",江西卫视超清
@@ -20746,8 +20620,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",深圳卫视超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",湖北卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=6d70d6a83787c2c53c7bd38ec40188f1&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20261030110649&Channel_ID=0116_2600034600-99000-201600010004224&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=61.240.29.53&SecurityKey=20261030110649&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=7153ccec8bc34d41b28dc981fd4128ba&encrypt=c2396558448bc53cde6d8dee0de7de0c
-#EXTINF:-1 group-title="超清频道-丰彩",湖北卫视超清
 http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",湖北卫视超清
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
@@ -20784,8 +20656,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",贵州卫视超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",辽宁卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=6d70d6a83787c2c53c7bd38ec40188f1&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20261030110411&Channel_ID=0116_2600034600-99000-201600010022152&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=61.240.29.29&SecurityKey=20261030110411&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=c844c6dff57524e186271442d3621a62&encrypt=d8c4f5719c2a305510a4d24537268485
-#EXTINF:-1 group-title="超清频道-丰彩",辽宁卫视超清
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 group-title="超清频道-丰彩",重庆卫视超清
 https://cqonsitecdn.cbgcloud.com/qf6jl2/m5a04n.m3u8
@@ -20801,8 +20671,6 @@ http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",重庆卫视超清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="超清频道-丰彩",黑龙江卫视超清
-http://mgsp-zhy-bk.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/01.m3u8?msisdn=6d70d6a83787c2c53c7bd38ec40188f1&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20261030110504&Channel_ID=0116_2600034600-99000-201600010012589&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=61.240.29.162&SecurityKey=20261030110504&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=3407e52404c965dc2efada085c02ea83&encrypt=c4fe1349b4d157875dd9e7b10d85d3aa
 #EXTINF:-1 group-title="超清频道-丰彩",黑龙江卫视超清
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="超清频道-丰彩",黑龙江卫视超清
