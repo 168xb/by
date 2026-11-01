@@ -1,82 +1,20 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/08/31/a1e1f168a2a59d5786c5518dd82397f5.jpg;md5;9add56c3f166a7a98c3a8ace49937798",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/10/31/272e922132480799981a031067b6d722.jpg;md5;8605fb93b9d2ba66e702fdbfcc496159",
   "wallpaper": "https://jikefuye.cn/wp-content/uploads/2026/01/-复古墙面-scaled-e1768639866191.jpg",
   "logo": "https://zyz.jikefuye.cn/wp-content/uploads/2026/08/wxsync-2026-08-24002bee29c7fea007b749919a3b4426.png",
   "lives": [
     {
-      "name": "极客IPTV直播",
+      "name": "Kimentanm",
       "type": 0,
-      "url": "https://jikefuye.cn/iptv.m3u"
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
     },
     {
-      "name": "极客体育直播",
+      "name": "综合直播",
       "type": 0,
-      "url": "https://jikefuye.cn/tiyuzhibo.m3u"
-    },
-    {
-      "name": "极客抖音直播",
-      "type": 0,
-      "url": "https://stymei2.pages.dev/live.m3u"
-    },
-    {
-      "name": "极客快手直播",
-      "type": 0,
-      "url": "https://kuaishou.445569.xyz/list.m3u"
-    },
-    {
-      "name": "极客Twitch直播",
-      "type": 0,
-      "url": "https://twitch.445569.xyz/live.m3u"
-    },
-    {
-      "name": "极客TikTok直播",
-      "type": 0,
-      "url": "https://tiktok.445569.xyz/live.m3u"
-    },
-    {
-      "name": "极客GTA游戏直播",
-      "type": 0,
-      "url": "https://stymei1.pages.dev/live.m3u"
-    },
-    {
-      "name": "极客松果赛事",
-      "type": 0,
-      "url": "https://stymei.pages.dev/live.m3u"
-    },
-    {
-      "name": "🍿虎牙TV直播",
-      "type": 1,
-      "url": "http://nn.7x9d.cn/xz/虎牙.php"
-    },
-    {
-      "name": "🍿斗鱼TV直播",
-      "type": 1,
-      "url": "http://nn.7x9d.cn/xz/斗鱼.php"
-    },
-    {
-      "name": "🍿歪歪TV直播",
-      "type": 1,
-      "url": "http://nn.7x9d.cn/xz/yy.php"
-    },
-    {
-      "name": "🍿日后TV直播",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk"
-    },
-    {
-      "name": "🍿台湾4GTV直播",
-      "type": 0,
-      "url": "http://4gtv.cnlive.club/4gtv.m3u"
-    },
-    {
-      "name": "🍿俄罗斯TV直播",
-      "type": 0,
-      "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
-    },
-    {
-      "name": "🍿全球TV直播{翻}",
-      "type": 0,
-      "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
+      "playerType": 2,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
   "sites": [
@@ -116,10 +54,10 @@
       }
     },
     {
-      "key": "二小",
-      "name": "💓‍指南┃4K💓‍",
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
       "type": 3,
-      "api": "csp_AiNewXiaoPanGuard",
+      "api": "csp_AiNewHuaJuanGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -147,24 +85,6 @@
       "name": "💓‍七味┃4K💓‍",
       "type": 3,
       "api": "csp_AiQwMkvGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "NewZhiZhen",
-      "name": "💓至臻┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewZhiZhenGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AiNewPanLian",
-      "name": "💓盘链┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewPanLianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -201,6 +121,33 @@
       "name": "💓多多┃4K💓",
       "type": 3,
       "api": "csp_AiNewDuoDuoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "AiNewKuaiYing",
+      "name": "💓快影┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewKuaiYingGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "AiNewLaBi",
+      "name": "💓蜡笔┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewLaBiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "AiNewShanDian",
+      "name": "💓闪电┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewShanDianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -260,17 +207,6 @@
       "changeable": 0
     },
     {
-      "name": "极客丨AI丨短剧",
-      "key": "💥极客┃Ai短剧",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/0589efa17c35af5babb01f6fcfc83abc.png;md5;065ee07e71679d9c273e18fab401f0c0",
-      "api": "csp_HgdhAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://nos.netease.com/ysf/dac0101040005285380ee886e6e6c660.aowu"
-    },
-    {
       "key": "WexHanXiaoQuan",
       "name": "💥韩剧┃秒播💥",
       "type": 3,
@@ -316,19 +252,10 @@
       "changeable": 0
     },
     {
-      "key": "WexAiV6DaShiXiong",
-      "name": "💥师兄┃秒播💥",
+      "key": "WexFengYe4K",
+      "name": "💥小枫┃秒播💥",
       "type": 3,
-      "api": "csp_WexAiV6DaShiXiongGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiV6TeGou",
-      "name": "💥太狗┃秒播💥",
-      "type": 3,
-      "api": "csp_WexAiV6TeGouGuard",
+      "api": "csp_WexFengYe4KGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -341,6 +268,136 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+    {
+      "key": "AppV7 | 大师兄",
+      "name": "💥师兄┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Dsx",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 粉猪追剧",
+      "name": "💥粉猪┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Fz",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 咸鱼",
+      "name": "💥咸鱼┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xy",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 追剧达人",
+      "name": "💥追剧┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Zjdr",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 小柚子",
+      "name": "💥柚子┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xyz",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 小柠檬",
+      "name": "💥柠檬┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xnm",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 蒙太奇",
+      "name": "💥太奇┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Mtq",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 零零七影视",
+      "name": "💥零七┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Llq",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 小柿子",
+      "name": "💥柿子┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xsz",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "AppV7 | 小黄人",
+      "name": "💥黄人┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xhr",
+        "proxyImg": false
+      },
+      "timeout": 120
     },
     {
       "key": "WexAiYiYs",
@@ -484,6 +541,14 @@
       "changeable": 0
     },
     {
+      "key": "AnimeAiGongHeGuo",
+      "name": "🤡共和┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeAiGongHeGuoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "AnimeXiFan",
       "name": "🤡稀饭┃动漫🤡",
       "type": 3,
@@ -500,26 +565,26 @@
       "changeable": 0
     },
     {
-      "key": "AnimeAiMiaoWu",
-      "name": "🤡喵呜┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiMiaoWuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeAiHuazi",
-      "name": "🤡花海┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiHuaziGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "AnimeAiMoDu",
       "name": "🤡魔都┃动漫🤡",
       "type": 3,
       "api": "csp_AnimeAiMoDuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "BookHongGuo",
+      "name": "🎃‍小红┃听书🎃",
+      "type": 3,
+      "api": "csp_BookHongGuoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "BookHeMa",
+      "name": "🎃‍小马┃听书🎃",
+      "type": 3,
+      "api": "csp_BookHeMaGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -920,14 +985,6 @@
       "changeable": 0
     },
     {
-      "key": "SoAiQuPanShe",
-      "name": "🎠趣搜┃百度🎠",
-      "type": 3,
-      "api": "csp_SoAiQuPanSheGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "SoAiAiPanSo",
       "name": "🎠爱盘┃综合🎠",
       "type": 3,
@@ -936,10 +993,10 @@
       "changeable": 0
     },
     {
-      "key": "SoHaoSo",
-      "name": "🎠好盘┃综合🎠",
+      "key": "SoKaKa",
+      "name": "🎠卡卡┃综合🎠",
       "type": 3,
-      "api": "csp_SoHaoSoGuard",
+      "api": "csp_SoKaKaGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -954,22 +1011,22 @@
   ],
   "parses": [
     {
-      "name": "极",
+      "name": "王",
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
     },
     {
-      "name": "客",
+      "name": "二",
       "type": 1,
       "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
     },
     {
-      "name": "博",
+      "name": "小",
       "type": 1,
       "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
     },
     {
-      "name": "客",
+      "name": "帅",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     }
