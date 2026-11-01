@@ -518,7 +518,7 @@
     },
     {
       "name": "平台直播1线",
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "url": "http://118.89.172.248:8025/jar/zb.php",
       "ua": "",
       "source": "影视仓"
     },
@@ -623,84 +623,6 @@
       "url": "https://cnb.cool/cnlv/tv/-/git/raw/main/IPV4.txt",
       "ua": "okhttp/3.15",
       "source": "平安"
-    },
-    {
-      "name": "极客IPTV直播",
-      "url": "https://jikefuye.cn/iptv.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客体育直播",
-      "url": "https://jikefuye.cn/tiyuzhibo.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客抖音直播",
-      "url": "https://stymei2.pages.dev/live.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客快手直播",
-      "url": "https://kuaishou.445569.xyz/list.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客Twitch直播",
-      "url": "https://twitch.445569.xyz/live.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客TikTok直播",
-      "url": "https://tiktok.445569.xyz/live.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客GTA游戏直播",
-      "url": "https://stymei1.pages.dev/live.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "极客松果赛事",
-      "url": "https://stymei.pages.dev/live.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "🍿虎牙TV直播",
-      "url": "http://nn.7x9d.cn/xz/虎牙.php",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "🍿斗鱼TV直播",
-      "url": "http://nn.7x9d.cn/xz/斗鱼.php",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "🍿歪歪TV直播",
-      "url": "http://nn.7x9d.cn/xz/yy.php",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "🍿台湾4GTV直播",
-      "url": "http://4gtv.cnlive.club/4gtv.m3u",
-      "ua": "",
-      "source": "卡卡"
-    },
-    {
-      "name": "🍿全球TV直播{翻}",
-      "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u",
-      "ua": "",
-      "source": "卡卡"
     },
     {
       "name": "live3线",
@@ -1357,8 +1279,20 @@
       "source": "裤佬"
     },
     {
+      "name": "👖裤佬体育直播[备]",
+      "url": "https://stymei.pages.dev/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
       "name": "👖裤佬抖音直播",
       "url": "https://douyin.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬快手直播",
+      "url": "https://kuaishou.445569.xyz/list.m3u",
       "ua": "",
       "source": "裤佬"
     },
@@ -1395,6 +1329,18 @@
     {
       "name": "👖裤佬YY直播",
       "url": "https://yy.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬Twitch直播",
+      "url": "https://twitch.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬"
+    },
+    {
+      "name": "👖裤佬TikTok直播",
+      "url": "https://tiktok.445569.xyz/live.m3u",
       "ua": "",
       "source": "裤佬"
     },
