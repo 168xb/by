@@ -1,6 +1,6 @@
-TVBox 抓取失败接口报告  20261101_181043
+TVBox 抓取失败接口报告  20261102_183918
 ==============================================================
-失败接口数: 14 / 总数: 102
+失败接口数: 15 / 总数: 102
 ==============================================================
 
 [1] 集多
@@ -60,17 +60,22 @@ TVBox 抓取失败接口报告  20261101_181043
     尝试过的源 (1 个):
       - http://rihou.vip:55/天天开心
 
-[12] 澜露
+[12] 酷喵看了么
+    状态: FAILED
+    尝试过的源 (1 个):
+      - https://wp.kayyw.com/f/9lvgIR/kanlema.txt
+
+[13] 澜露
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitee.com/hulanlu/04/raw/master/lanlu.json
 
-[13] 蜀山
+[14] 蜀山
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/tianjitop/xiaosa/main/sun.json
 
-[14] 兔小贝
+[15] 兔小贝
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b1.json
