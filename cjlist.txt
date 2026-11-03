@@ -1,4 +1,3 @@
-巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 乐乐|🎡️┃乐乐┃影视|type: 1|api: https://leshizyapi.com/api.php/provide/vod/at/json/
 非凡|非凡|type: 1|api: http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?
 官采|🎫官采┃[采集]|type: 1|api: https://cj.jusj.top/api.php/provide/vod/?ac=list
@@ -150,6 +149,7 @@ acfun|A站｜星源|type: 1|api: https://xy.183933.xyz/php/acfun.php/provide/vod
 3|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
 暴風|暴風|type: 1|api: http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?
 aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
+巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 百度|百度|type: 1|api: https://api.apibdzy.com/api.php/provide/vod?ac=list
 360|三六零|type: 1|api: https://360zy.com/api.php/provide/vod
