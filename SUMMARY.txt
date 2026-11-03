@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261102_183918
+TVBox 接口抓取报告  20261103_183137
 ==============================================================
 
 [X4更新专用接口] okhttp/3.15
@@ -36,10 +36,10 @@ TVBox 接口抓取报告  20261102_183918
   文件: tvbox/嗷呜.json
   成功URL: http://www.英格里希嗷呜.top/tv
 
-[肥猫] okhttp/3.15
-  状态: JSON
-  文件: tvbox/肥猫.json
-  成功URL: http://肥猫.net/tv
+[肥猫] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [集多] 
   状态: FAILED
@@ -176,7 +176,7 @@ TVBox 接口抓取报告  20261102_183918
   文件: tvbox/夏夏影视.json
   成功URL: https://11405.kstore.space/xiaye/qk4k.json
 
-[小凯] okhttp/4.9.3
+[小凯] okhttp/3.15
   状态: JSON
   文件: tvbox/小凯.json
   成功URL: https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json
@@ -256,7 +256,7 @@ TVBox 接口抓取报告  20261102_183918
   文件: tvbox/豆半.json
   成功URL: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/fxapi.json
 
-[机缘巧盒] com.github.tvbox
+[机缘巧盒] okhttp/3.15
   状态: JSON
   文件: tvbox/机缘巧盒.json
   成功URL: https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json
