@@ -25,26 +25,14 @@
       "source": "高天流云_XYQ"
     },
     {
-      "name": "📺简单TV(EXO)",
-      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
-      "source": "TVbox精品"
-    },
-    {
-      "name": "央视TV直播",
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-      "ua": "",
-      "source": "TVbox精品"
-    },
-    {
       "name": "咪咕TV直播",
       "url": "http://www.52top.com.cn:678/downloads/migu.txt",
       "ua": "",
       "source": "TVbox精品"
     },
     {
-      "name": "☁️风云直播☁️",
-      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "name": "央视TV直播",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
       "ua": "",
       "source": "TVbox精品"
     },
@@ -267,6 +255,12 @@
     {
       "name": "D佬直播",
       "url": "http://rihou.cc:555/gggg.nzk",
+      "ua": "",
+      "source": "盒子迷"
+    },
+    {
+      "name": "简单TV",
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "ua": "",
       "source": "盒子迷"
     },
@@ -623,6 +617,12 @@
       "url": "https://cnb.cool/cnlv/tv/-/git/raw/main/IPV4.txt",
       "ua": "okhttp/3.15",
       "source": "平安"
+    },
+    {
+      "name": "线路⑤",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "ua": "",
+      "source": "星微Vip"
     },
     {
       "name": "live3线",
