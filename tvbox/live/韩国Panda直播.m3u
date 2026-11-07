@@ -1,133 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="🍿韩国Panda直播",🍿韩国Panda直播
 #EXTM3U
-#EXTINF:-1 tvg-id="umeceo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/3a/3a1fb133-358f-4cc8-925c-38990999ae9a.jpeg" group-title="19+",아효S2｜대전24살 자취녀 E컵녀 실제로..? 하앍
-https://xiongmao.caonizuzong.indevs.in/live/umeceo.m3u8
-#EXTINF:-1 tvg-id="1star1" tvg-logo="https://cdn.pandalive.co.kr/upload/user/7a/7a4676fa-cf19-47ad-846c-23d826bb6fc0.jpeg" group-title="19+",윤세별⭐｜해피선데이)잠이안와
-https://xiongmao.caonizuzong.indevs.in/live/1star1.m3u8
-#EXTINF:-1 tvg-id="seoul2025" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/w60BOR7iprJJ_GEjdm8gsi9CO_10_0.jpg" group-title="Panda直播",펀펀클럽｜경쟁] 펀펀 ㅅㅌ대기중!
-https://xiongmao.caonizuzong.indevs.in/live/seoul2025.m3u8
-#EXTINF:-1 tvg-id="love0098" tvg-logo="https://cdn.pandalive.co.kr/upload/user/87/87b916b6-c0f4-469c-b5ae-a6818619e2b7.jpeg" group-title="19+",ෆ해피ෆ｜(19금섹댄맛집) 언제 ㅂ 슬지모름 ㅋ
-https://xiongmao.caonizuzong.indevs.in/live/love0098.m3u8
-#EXTINF:-1 tvg-id="flowerwar" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/Bz3hNIK3LdgX_NpyrKSWnsQGI_5_59.jpg" group-title="Panda直播",순둥상사｜[SD컴퍼니] 시즌 14 A팀 6화 조기퇴근DAY
+#EXTINF:-1 tvg-id="rgfamily" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/blHpYH2ZbJXE_j77sDohHA2UL_5_51.jpg" group-title="Panda直播",RG_family｜[RG패밀리 엑셀부 시즌4] 5화♥️ 린아x가애x장보리x도도화x가윤x도히x솔이x감예봉x예리x도윤서x한채영x하나x김나미x베리x채짱x신비
+https://xiongmao.caonizuzong.indevs.in/live/rgfamily.m3u8
+#EXTINF:-1 tvg-id="pandaclass" tvg-logo="https://cdn.pandalive.co.kr/upload/user/c8/c8eea15a-4d11-4d69-a818-255bc63ff27b.png" group-title="19+",팬더클래스｜팬더클래스X class2 2화 OT
+https://xiongmao.caonizuzong.indevs.in/live/pandaclass.m3u8
+#EXTINF:-1 tvg-id="flowerwar" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/Bz3hNIK3LdgX_WaHd2It2UNKZ_6_1.jpg" group-title="Panda直播",순둥상사｜[SD컴퍼니] 시즌 14 B팀 6화 조기퇴근DAY
 https://xiongmao.caonizuzong.indevs.in/live/flowerwar.m3u8
-#EXTINF:-1 tvg-id="love62" tvg-logo="https://cdn.pandalive.co.kr/upload/user/00/00a02917-0e9c-4596-a81b-cfa414654748.jpeg" group-title="19+",백유미✨｜진리포시즌) 이쁜데 혼자있어요..
-https://xiongmao.caonizuzong.indevs.in/live/love62.m3u8
-#EXTINF:-1 tvg-id="nana00000" tvg-logo="https://cdn.pandalive.co.kr/upload/user/43/43c45ec7-1b71-4de2-bf52-30b43c258d2e.png" group-title="19+",기수vs이쁜이｜맞방50차)
-https://xiongmao.caonizuzong.indevs.in/live/nana00000.m3u8
-#EXTINF:-1 tvg-id="nobleinc" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/pF2XqoyDYV4t_ySEL592HJLaq_6_3.jpg" group-title="Panda直播",노블컴퍼니｜노블 12기 8회차 최종회 직급전! 윤하담x리브x은비x연아x연서x시은x해진x박루아x김이설x온새미
-https://xiongmao.caonizuzong.indevs.in/live/nobleinc.m3u8
-#EXTINF:-1 tvg-id="noliteo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a4/a4e97d76-9509-46db-8536-a1427198f6ce.png" group-title="19+",놀이터♚｜19ㅂ경쟁)루시아x연희x박양x핑두x파이x청초x세이렌x투데이x대표영숙
+#EXTINF:-1 tvg-id="kanicrew89" tvg-logo="https://cdn.pandalive.co.kr/upload/user/58/588e6226-65cf-4488-900e-6136f14f6aaf.png" group-title="19+",[KC]카니크루｜[KC]가을， 슬기， 유히， 세빈 섹시 경쟁!!!
+https://xiongmao.caonizuzong.indevs.in/live/kanicrew89.m3u8
+#EXTINF:-1 tvg-id="noliteo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a4/a4e97d76-9509-46db-8536-a1427198f6ce.png" group-title="19+",놀이터♚｜19ㅂ경쟁)루시아x연희x핑두x파이x청초x세이렌x대표영숙
 https://xiongmao.caonizuzong.indevs.in/live/noliteo.m3u8
-#EXTINF:-1 tvg-id="secret29" tvg-logo="https://cdn.pandalive.co.kr/upload/user/f3/f3c9f077-ba1e-49f0-95e0-44011977c37d.png" group-title="19+",시크릿29｜19)민아x서연x앵두 섹시경쟁 
-https://xiongmao.caonizuzong.indevs.in/live/secret29.m3u8
-#EXTINF:-1 tvg-id="era133" tvg-logo="https://cdn.pandalive.co.kr/upload/user/4e/4e18c7fa-5e3d-49ac-8d0a-95476961bb9b.png" group-title="19+",차이라❤️｜안뇽하세용
-https://xiongmao.caonizuzong.indevs.in/live/era133.m3u8
-#EXTINF:-1 tvg-id="9oozzipd" tvg-logo="https://cdn.pandalive.co.kr/upload/user/26/260ebdf1-a1ec-4154-a9c0-6c7bb4d6e688.jpeg" group-title="19+",구찌PD｜19)Lv.79 민자시안이!
-https://xiongmao.caonizuzong.indevs.in/live/9oozzipd.m3u8
-#EXTINF:-1 tvg-id="13457457830" tvg-logo="https://cdn.pandalive.co.kr/upload/user/dd/dd04f068-4a51-474b-b99e-ec34a54a46ca.jpeg" group-title="19+",구름♥｜팬더클래스X/구름단구해요 
-https://xiongmao.caonizuzong.indevs.in/live/13457457830.m3u8
 #EXTINF:-1 tvg-id="son6a6y" tvg-logo="https://cdn.pandalive.co.kr/upload/user/d4/d450d685-c32d-4cc4-8df2-8efad7f8b75f.png" group-title="19+",손하ෆ｜아슬아슬
 https://xiongmao.caonizuzong.indevs.in/live/son6a6y.m3u8
-#EXTINF:-1 tvg-id="aru1003" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/bilNTFIXQ8fo_1D9cfwCbD7Oa_9_28.jpg" group-title="Panda直播",아루♡｜내일 백일인 여자...
+#EXTINF:-1 tvg-id="aru1003" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/bilNTFIXQ8fo_7SntmrRZKKej_8_51.jpg" group-title="Panda直播",아루♡｜100일 파티
 https://xiongmao.caonizuzong.indevs.in/live/aru1003.m3u8
-#EXTINF:-1 tvg-id="leqazw" tvg-logo="https://cdn.pandalive.co.kr/upload/user/83/83055cbc-247a-4aef-928c-01d73f5b5629.png" group-title="19+",글램걸즈♥｜미스맥심출신 큐티x섹시x개그 3인방 불타는 멸망전 경쟁방
-https://xiongmao.caonizuzong.indevs.in/live/leqazw.m3u8
-#EXTINF:-1 tvg-id="romi1999" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/MCQTnn7xl9O0_Nhz2JgMzOpfr_9_55.jpg" group-title="Panda直播",✧로미✧｜1일차 늅
-https://xiongmao.caonizuzong.indevs.in/live/romi1999.m3u8
-#EXTINF:-1 tvg-id="oh5yes" tvg-logo="https://cdn.pandalive.co.kr/upload/user/95/95420694-b46d-4a46-a90f-f2999a96c91e.jpeg" group-title="19+",ෆ나나ෆ｜은꼴..인데 ㅂㅂ 보다..
-https://xiongmao.caonizuzong.indevs.in/live/oh5yes.m3u8
-#EXTINF:-1 tvg-id="ccc2889" tvg-logo="https://cdn.pandalive.co.kr/upload/user/77/77b7bfe7-7cd0-4203-ab38-53951a270ca1.png" group-title="19+",태온ෆ｜공석이 많은 뉴비입니다만.
-https://xiongmao.caonizuzong.indevs.in/live/ccc2889.m3u8
-#EXTINF:-1 tvg-id="kimbbem5018" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/3mQKsJn7NsuE_ArWsaXWCI7tg_6_54.jpg" group-title="Panda直播",한채주ღ｜[제니스] 놀러와
-https://xiongmao.caonizuzong.indevs.in/live/kimbbem5018.m3u8
-#EXTINF:-1 tvg-id="lllilyyy" tvg-logo="https://cdn.pandalive.co.kr/upload/user/8b/8badc161-6aae-4001-82a1-4a096ad9bf62.png" group-title="19+",[LIL]릴리ღ｜나 아파요 짧방~~
-https://xiongmao.caonizuzong.indevs.in/live/lllilyyy.m3u8
-#EXTINF:-1 tvg-id="orange282" tvg-logo="https://cdn.pandalive.co.kr/upload/user/73/7331a867-e61d-45a8-8333-6d5ddda4edd8.jpeg" group-title="19+",팬더기생집｜맞방)
-https://xiongmao.caonizuzong.indevs.in/live/orange282.m3u8
-#EXTINF:-1 tvg-id="wopeq12" tvg-logo="https://cdn.pandalive.co.kr/upload/user/4d/4dbc7f55-69c0-4ca2-beb7-45d6c3c922d9.jpeg" group-title="19+",쏘미_♬｜19) 섹녀가 힐링 시켜줄께~❤️
-https://xiongmao.caonizuzong.indevs.in/live/wopeq12.m3u8
-#EXTINF:-1 tvg-id="xkrdlaka1231" tvg-logo="https://cdn.pandalive.co.kr/upload/user/f5/f57c5370-ef20-4460-ad78-86aa9f547263.jpeg" group-title="19+",쓰리니티｜맞방) 딜미션할인가능
-https://xiongmao.caonizuzong.indevs.in/live/xkrdlaka1231.m3u8
-#EXTINF:-1 tvg-id="heenoo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/60/60c8e0ca-87fc-44c2-8cd6-860af37ea2fb.png" group-title="19+",히누❥⁀➷｜19)ㅊ고수위 풀미션 ㅅㅈ
-https://xiongmao.caonizuzong.indevs.in/live/heenoo.m3u8
-#EXTINF:-1 tvg-id="521521" tvg-logo="https://cdn.pandalive.co.kr/upload/user/63/63f1ee12-0ad2-462a-8953-d253c236fd04.jpeg" group-title="19+",온리원❥｜팬더클래스)ㅊㅊ850 엠자❤️
-https://xiongmao.caonizuzong.indevs.in/live/521521.m3u8
-#EXTINF:-1 tvg-id="gpfladl2003" tvg-logo="https://cdn.pandalive.co.kr/upload/user/75/75264277-f579-4f5f-a579-4cc2f139fdad.jpeg" group-title="19+",ღ리링ღ｜방구석) 춥다 추워 살려주이소♥️
-https://xiongmao.caonizuzong.indevs.in/live/gpfladl2003.m3u8
-#EXTINF:-1 tvg-id="hikikomori52" tvg-logo="https://cdn.pandalive.co.kr/upload/user/7f/7fbb52aa-4751-4c53-9471-e62fc17a25ca.jpeg" group-title="19+",히키☾｜19ㅂㅂ) 보기만 해도 ㅆ는 몸매 전신오일 ㅅㄲㅅ가요
-https://xiongmao.caonizuzong.indevs.in/live/hikikomori52.m3u8
-#EXTINF:-1 tvg-id="s2bini" tvg-logo="https://cdn.pandalive.co.kr/upload/user/b2/b2062dd1-5051-4139-97a2-610ad083b5b4.jpeg" group-title="19+",ღ키링ღ｜순둥14기B팀 ) 오뎅끼데스까....
-https://xiongmao.caonizuzong.indevs.in/live/s2bini.m3u8
-#EXTINF:-1 tvg-id="ehwldks0305" tvg-logo="https://cdn.pandalive.co.kr/upload/user/cf/cff9f120-7862-4bb5-b3b1-3714f036b836.png" group-title="19+",도지안｜16일차 지아니 왔떠옹，，，
-https://xiongmao.caonizuzong.indevs.in/live/ehwldks0305.m3u8
-#EXTINF:-1 tvg-id="ari0307" tvg-logo="https://cdn.pandalive.co.kr/upload/user/31/31f6ca1f-579a-4ade-9f94-ce66d8cc7e5a.jpeg" group-title="19+",래서ღ｜래서 다마고치 키우기❤️
-https://xiongmao.caonizuzong.indevs.in/live/ari0307.m3u8
-#EXTINF:-1 tvg-id="4ocari" tvg-logo="https://cdn.pandalive.co.kr/upload/user/f0/f014bbed-b954-4174-b136-6a4e705b964d.jpeg" group-title="19+",FV✨포카리｜19ㅂ)...♥
-https://xiongmao.caonizuzong.indevs.in/live/4ocari.m3u8
-#EXTINF:-1 tvg-id="qkqh9009" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a4/a459da42-e249-46b1-8071-e9308540fd07.png" group-title="19+",구미호♡｜팬더클래스X) 찐늅34일차♥️
-https://xiongmao.caonizuzong.indevs.in/live/qkqh9009.m3u8
-#EXTINF:-1 tvg-id="qssssu" tvg-logo="https://cdn.pandalive.co.kr/upload/user/9f/9f3be5b5-633e-42bf-9a30-faebd31f46e2.jpeg" group-title="19+",지수❤️｜19ㅂ)호빵집 오픈♡
-https://xiongmao.caonizuzong.indevs.in/live/qssssu.m3u8
-#EXTINF:-1 tvg-id="llccee6530" tvg-logo="https://cdn.pandalive.co.kr/upload/user/86/865d08ca-9d0e-4798-8f77-28b23c0df8ba.png" group-title="19+",예원ෆ｜19) 섹시여대생❤️
+#EXTINF:-1 tvg-id="llccee6530" tvg-logo="https://cdn.pandalive.co.kr/upload/user/86/865d08ca-9d0e-4798-8f77-28b23c0df8ba.png" group-title="19+",예원ෆ｜19) 섹시여대생 추천 50 미션❤️
 https://xiongmao.caonizuzong.indevs.in/live/llccee6530.m3u8
-#EXTINF:-1 tvg-id="qnsbqnsb9294" tvg-logo="https://cdn.pandalive.co.kr/upload/user/e7/e73d09b8-b0f8-4479-900b-a222c5fdfcf4.png" group-title="19+",차희주ღ｜떡춤개시
-https://xiongmao.caonizuzong.indevs.in/live/qnsbqnsb9294.m3u8
-#EXTINF:-1 tvg-id="0721004" tvg-logo="https://cdn.pandalive.co.kr/upload/user/c4/c4ba959c-2b29-4b6d-90db-9e510071d89a.jpeg" group-title="19+",영구vs땡칠｜맞방) b컵 쌍둥이남매
-https://xiongmao.caonizuzong.indevs.in/live/0721004.m3u8
-#EXTINF:-1 tvg-id="sicoowwi" tvg-logo="https://cdn.pandalive.co.kr/upload/user/82/82bb29e4-ce9d-4466-b27c-d9abd1d603d6.png" group-title="19+",워니ෆ｜19ㅂ) 오빠들 오늘 제대로 해보자❤️ 엉오일 500
+#EXTINF:-1 tvg-id="anjfo7" tvg-logo="https://cdn.pandalive.co.kr/upload/user/2a/2af07bc8-f46e-4a1c-9a4a-f70b83bfecb8.jpeg" group-title="19+",스뮤쨜이나｜빨간색 티팬❤️(34일차 20살 찐늅)
+https://xiongmao.caonizuzong.indevs.in/live/anjfo7.m3u8
+#EXTINF:-1 tvg-id="sicoowwi" tvg-logo="https://cdn.pandalive.co.kr/upload/user/82/82bb29e4-ce9d-4466-b27c-d9abd1d603d6.png" group-title="19+",워니ෆ｜19ㅂ) 새로운 여자❤️오빠 위에 타도 되나요?
 https://xiongmao.caonizuzong.indevs.in/live/sicoowwi.m3u8
-#EXTINF:-1 tvg-id="spa14020" tvg-logo="https://cdn.pandalive.co.kr/upload/user/60/6053fab8-6e35-4b92-ae76-2ed04e44d6e8.jpeg" group-title="19+",ღ유희동ღ｜ღ팬더클래스X) 추천 222 몸매자랑 ღ
-https://xiongmao.caonizuzong.indevs.in/live/spa14020.m3u8
-#EXTINF:-1 tvg-id="iseo1188" tvg-logo="https://cdn.pandalive.co.kr/upload/noimg/user/noimg_F0.jpg" group-title="19+",ෆ이서ෆ｜팬더클래스X) 3일차 이서입니당. 기습방송 ! 열심히할게요!!
-https://xiongmao.caonizuzong.indevs.in/live/iseo1188.m3u8
-#EXTINF:-1 tvg-id="minago14" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/FbdccZNAaeGF_UP1PE9JOwomg_8_0.jpg" group-title="Panda直播",ෆ다예ෆ｜오랜만이에요♡
-https://xiongmao.caonizuzong.indevs.in/live/minago14.m3u8
-#EXTINF:-1 tvg-id="rla1023" tvg-logo="https://cdn.pandalive.co.kr/upload/user/bd/bdb5c670-4cef-4dc5-90c4-bccd1222bf8a.jpeg" group-title="19+",[SP]하밍｜13일차)아싸 술방
-https://xiongmao.caonizuzong.indevs.in/live/rla1023.m3u8
 #EXTINF:-1 tvg-id="58588253" tvg-logo="https://cdn.pandalive.co.kr/upload/user/3b/3bed820e-724a-4047-9c50-9236ca2d5d80.jpeg" group-title="19+",ෆ햇살｜19ㅂ]  등장
 https://xiongmao.caonizuzong.indevs.in/live/58588253.m3u8
-#EXTINF:-1 tvg-id="100zzi" tvg-logo="https://cdn.pandalive.co.kr/upload/user/9f/9ff5a34d-4a50-416c-9328-3002c8396faf.png" group-title="19+",백지연~*❥｜19) F컵- 126회차
+#EXTINF:-1 tvg-id="disney7777" tvg-logo="https://cdn.pandalive.co.kr/upload/user/d4/d4e62397-5c1c-4ff8-badf-9d4056c847c3.png" group-title="19+",디즈니ღ｜경쟁) 오빠나해도돼? 미녀3대기중
+https://xiongmao.caonizuzong.indevs.in/live/disney7777.m3u8
+#EXTINF:-1 tvg-id="seohyun222" tvg-logo="https://cdn.pandalive.co.kr/upload/user/ad/ad022abd-8f76-4810-b9df-90c6a72ac704.jpeg" group-title="19+",서현e｜38일차신입) 댄스시그 1+1
+https://xiongmao.caonizuzong.indevs.in/live/seohyun222.m3u8
+#EXTINF:-1 tvg-id="gangree2" tvg-logo="https://cdn.pandalive.co.kr/upload/user/cc/cc7e087c-91c0-4cee-bce4-1dfc39a5d733.jpeg" group-title="19+",❤️깡리❤️｜오늘 핵빵디 레전드
+https://xiongmao.caonizuzong.indevs.in/live/gangree2.m3u8
+#EXTINF:-1 tvg-id="dain22" tvg-logo="https://cdn.pandalive.co.kr/upload/user/49/492205a7-2d4b-4707-9f2a-5e554ad8f733.jpeg" group-title="19+",ღ다인ღ｜오늘은 노템...♥
+https://xiongmao.caonizuzong.indevs.in/live/dain22.m3u8
+#EXTINF:-1 tvg-id="llllll10041009" tvg-logo="https://cdn.pandalive.co.kr/upload/user/72/720a0d64-f20e-4b1b-ad7b-f869662cd5bd.jpeg" group-title="19+",❥쭈롱｜맞방음방술방*잘맞는쭈마담등장이요♥
+https://xiongmao.caonizuzong.indevs.in/live/llllll10041009.m3u8
+#EXTINF:-1 tvg-id="ehwldks0305" tvg-logo="https://cdn.pandalive.co.kr/upload/user/cf/cff9f120-7862-4bb5-b3b1-3714f036b836.png" group-title="19+",도지안｜17일차 추미 200개 엉골투
+https://xiongmao.caonizuzong.indevs.in/live/ehwldks0305.m3u8
+#EXTINF:-1 tvg-id="subam2" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/JI9i1NEbdveE_vz8brZItfz7M_22_2.jpg" group-title="Panda直播",수밤이｜헤븐) 공약 24시간 노방종 333을구합니다..
+https://xiongmao.caonizuzong.indevs.in/live/subam2.m3u8
+#EXTINF:-1 tvg-id="goldwater96" tvg-logo="https://cdn.pandalive.co.kr/upload/user/28/28e9ed10-17f5-48e6-8125-477d69975504.jpeg" group-title="19+",금수ღ｜모또 두산릴레이 스찢모또
+https://xiongmao.caonizuzong.indevs.in/live/goldwater96.m3u8
+#EXTINF:-1 tvg-id="nick0930" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/9uqFmEl35m2T_hsAkqwAU3W8n_2_48.jpg" group-title="Panda直播",⚘포레스트⚘｜경쟁)요리보고 저리봐도 세린이 혼자인데 어떡하죠?
+https://xiongmao.caonizuzong.indevs.in/live/nick0930.m3u8
+#EXTINF:-1 tvg-id="100zzi" tvg-logo="https://cdn.pandalive.co.kr/upload/user/9f/9ff5a34d-4a50-416c-9328-3002c8396faf.png" group-title="19+",백지연~*❥｜19) F컵 
 https://xiongmao.caonizuzong.indevs.in/live/100zzi.m3u8
-#EXTINF:-1 tvg-id="dusxksaka" tvg-logo="https://cdn.pandalive.co.kr/upload/user/0a/0a3cec1d-5724-4bde-9639-af9bc2de6184.jpeg" group-title="19+",이브로❤️｜19ㅂ)ㄲ리는몸매
-https://xiongmao.caonizuzong.indevs.in/live/dusxksaka.m3u8
-#EXTINF:-1 tvg-id="hanjiwooo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/26/266c088f-f421-4314-948f-86ddec1542b0.png" group-title="19+",한지우☆｜19ㅂ)추워요 안아줘 ㅊㅁ300 말타기 ㄱㄱ
-https://xiongmao.caonizuzong.indevs.in/live/hanjiwooo.m3u8
-#EXTINF:-1 tvg-id="cococo7707" tvg-logo="https://cdn.pandalive.co.kr/upload/user/d5/d57337fe-6999-472a-b763-a177cf3b5854.jpeg" group-title="19+",코코아S2｜40대지만 괜찮아? 힐링강요방ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-https://xiongmao.caonizuzong.indevs.in/live/cococo7707.m3u8
-#EXTINF:-1 tvg-id="sm5252" tvg-logo="https://cdn.pandalive.co.kr/upload/user/25/25d845bc-7841-4939-a446-2e91342d1cf2.jpeg" group-title="19+",손밍ღ｜3일차
-https://xiongmao.caonizuzong.indevs.in/live/sm5252.m3u8
-#EXTINF:-1 tvg-id="yoony1004" tvg-logo="https://cdn.pandalive.co.kr/upload/user/b8/b8e72bf2-23b7-440a-afd4-30e353c9fe1f.png" group-title="19+",ღ해은ღ｜풀문6 은꼴)야한여자 하는중 (추미130 고양이)
-https://xiongmao.caonizuzong.indevs.in/live/yoony1004.m3u8
-#EXTINF:-1 tvg-id="poerman94" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/B9K2xucHUTtk_zv4i2VvC170l_7_0.jpg" group-title="Panda直播",로망스ღ｜경쟁) 주인 기다리는 초 미녀 3인방 ..NF 리아 서린  설윤
-https://xiongmao.caonizuzong.indevs.in/live/poerman94.m3u8
-#EXTINF:-1 tvg-id="emforhs1919" tvg-logo="https://cdn.pandalive.co.kr/upload/user/ba/ba28b6a9-6c2b-4875-be1d-ad60cb7eb70a.jpeg" group-title="19+",하림❤️｜섹시모두~❤️
-https://xiongmao.caonizuzong.indevs.in/live/emforhs1919.m3u8
-#EXTINF:-1 tvg-id="mmingz1" tvg-logo="https://cdn.pandalive.co.kr/upload/user/cf/cf52a3e8-4f5b-49a2-b241-0a89d483a4ee.jpeg" group-title="19+",이랑❤️｜찐 늅36일차 감기로 짧방..언능들어와
-https://xiongmao.caonizuzong.indevs.in/live/mmingz1.m3u8
-#EXTINF:-1 tvg-id="naras2" tvg-logo="https://cdn.pandalive.co.kr/upload/user/56/56fac6ab-2007-4b03-9cd3-b5de6a8ae208.png" group-title="19+",이태리ෆ｜[녹] [진리컴퍼니] 이태리
-https://xiongmao.caonizuzong.indevs.in/live/naras2.m3u8
-#EXTINF:-1 tvg-id="qordjr1004" tvg-logo="https://cdn.pandalive.co.kr/upload/user/68/6840cda0-f77e-4ff2-85c7-908a0870ee94.jpeg" group-title="19+",빡쎄라｜맞방) ♥ 1살된 초심1일차  ♥음방 ，은꼴，소통，술방♥
-https://xiongmao.caonizuzong.indevs.in/live/qordjr1004.m3u8
-#EXTINF:-1 tvg-id="zoel829" tvg-logo="https://cdn.pandalive.co.kr/upload/user/45/45baddf5-7b81-4c61-8e9a-067a28df965e.jpeg" group-title="19+",윰윰❤️｜팬더클래스X) 모든 보여줄께   추미 70 ㄱㄱ
-https://xiongmao.caonizuzong.indevs.in/live/zoel829.m3u8
-#EXTINF:-1 tvg-id="redholic377" tvg-logo="https://cdn.pandalive.co.kr/upload/user/43/432ea115-b127-46db-b11d-8dc5b0999df7.jpeg" group-title="19+",장희빈★｜19)3일차.알려주세요.몰라요♡
-https://xiongmao.caonizuzong.indevs.in/live/redholic377.m3u8
-#EXTINF:-1 tvg-id="0308030" tvg-logo="https://cdn.pandalive.co.kr/upload/user/56/56b5b2fe-d271-4e82-8337-62707bd4ae4f.jpeg" group-title="19+",[N_HA]엔하｜[녹] [진리컴퍼니] 엔하 다시보기
-https://xiongmao.caonizuzong.indevs.in/live/0308030.m3u8
-#EXTINF:-1 tvg-id="anjfo7" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/zk0w7rr3bjJN_Iv9PXL0NiI3W_5_28.jpg" group-title="Panda直播",스뮤쨜이나｜뒷태 맛집 팬갑 리액션 맛집(34일차 20살 찐늅)
-https://xiongmao.caonizuzong.indevs.in/live/anjfo7.m3u8
-#EXTINF:-1 tvg-id="naririn" tvg-logo="https://cdn.pandalive.co.kr/upload/user/69/69b3127c-7b34-4ab1-a01b-719d1ef7a424.jpeg" group-title="19+",나린나린ෆ｜[19회차] 나린 배고파린
-https://xiongmao.caonizuzong.indevs.in/live/naririn.m3u8
-#EXTINF:-1 tvg-id="very112" tvg-logo="https://cdn.pandalive.co.kr/upload/noimg/user/noimg_F1.jpg" group-title="19+",지현쨔응｜^~^ ☆//
-https://xiongmao.caonizuzong.indevs.in/live/very112.m3u8
 #EXTINF:-1 tvg-id="sasa10046" tvg-logo="https://cdn.pandalive.co.kr/upload/user/71/7130229a-75cb-4c3a-ba28-0b90e64000a8.png" group-title="19+",다겸⭐｜NO.1 고품격 추억 음악 다방⭐조용한 쉼터
 https://xiongmao.caonizuzong.indevs.in/live/sasa10046.m3u8
-#EXTINF:-1 tvg-id="s2yous2" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/t8ow1N4rpskf_7vEDYZfCwFcb_9_10.jpg" group-title="Panda直播",BJ깡지✿｜벽딸 실어요 놀아줄 귀인 어디 없나
-https://xiongmao.caonizuzong.indevs.in/live/s2yous2.m3u8
-#EXTINF:-1 tvg-id="rsrs030323" tvg-logo="https://cdn.pandalive.co.kr/upload/user/31/314d4617-7e6f-4f22-be2c-b41a8a8275c3.jpeg" group-title="19+",ෆ련사팔ෆ｜[녹] 갓씅이 ♥
-https://xiongmao.caonizuzong.indevs.in/live/rsrs030323.m3u8
-#EXTINF:-1 tvg-id="rhdwn150" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a2/a20d93d9-a1ec-4716-8050-63bc45ba231e.jpeg" group-title="19+",토끼◡ෆ｜배그，롤)케이틀린장인
+#EXTINF:-1 tvg-id="dbsdkdus1" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/MIf1903yYvAC_UvZwH8IIMdjo_5_0.jpg" group-title="Panda直播",ღ윤아연ღ｜찐늅60일차! 오빠...❤️
+https://xiongmao.caonizuzong.indevs.in/live/dbsdkdus1.m3u8
+#EXTINF:-1 tvg-id="888eum" tvg-logo="https://cdn.pandalive.co.kr/upload/noimg/user/noimg_F0.jpg" group-title="19+",개정음｜19 맞방운동) 힝힝힝힝힝힝힝힝힝힝힝힝힝힝힝힝힝힝
+https://xiongmao.caonizuzong.indevs.in/live/888eum.m3u8
+#EXTINF:-1 tvg-id="bbaruuxx" tvg-logo="https://cdn.pandalive.co.kr/upload/user/3b/3be0aaa3-928c-40eb-a5fb-a60bb7e692c1.png" group-title="19+",빠루⭐｜240시간 노방종벌칙 10일차
+https://xiongmao.caonizuzong.indevs.in/live/bbaruuxx.m3u8
+#EXTINF:-1 tvg-id="black081700" tvg-logo="https://cdn.pandalive.co.kr/upload/user/33/33795ff5-3a8b-48ce-b2c7-0e3c800f78b6.png" group-title="19+",발렌티나✧｜경쟁) 주말도 발렌티나와 함께 흐흐
+https://xiongmao.caonizuzong.indevs.in/live/black081700.m3u8
+#EXTINF:-1 tvg-id="gpfladl2003" tvg-logo="https://cdn.pandalive.co.kr/upload/user/75/75264277-f579-4f5f-a579-4cc2f139fdad.jpeg" group-title="19+",ღ리링ღ｜방구석)  나만봐♥️
+https://xiongmao.caonizuzong.indevs.in/live/gpfladl2003.m3u8
+#EXTINF:-1 tvg-id="romi1999" tvg-logo="https://cdn.pandalive.co.kr/upload/user/90/90afcbe0-56ef-4a65-a0e5-68ff900e5968.jpeg" group-title="19+",✧로미✧｜2일차 늅
+https://xiongmao.caonizuzong.indevs.in/live/romi1999.m3u8
+#EXTINF:-1 tvg-id="yuju21" tvg-logo="https://cdn.pandalive.co.kr/upload/user/87/873da095-900d-4774-917f-ff89f18d666b.jpeg" group-title="19+",채현ღ｜귀인이든 귀신이든 그냥 누구든 와주기만해주세요
+https://xiongmao.caonizuzong.indevs.in/live/yuju21.m3u8
+#EXTINF:-1 tvg-id="gkak3658" tvg-logo="https://cdn.pandalive.co.kr/upload/user/ba/bad17747-9479-4320-97c3-60c8418a3d56.jpeg" group-title="19+",ෆ노랭이ෆ｜그래서 뭐 얼마나 괴롭힐수있는데? 쫄리면 뒈지시던가
+https://xiongmao.caonizuzong.indevs.in/live/gkak3658.m3u8
+#EXTINF:-1 tvg-id="hikikomori52" tvg-logo="https://cdn.pandalive.co.kr/upload/user/7f/7fbb52aa-4751-4c53-9471-e62fc17a25ca.jpeg" group-title="19+",히키☾｜19ㅂㅂ) 오늘 잡아먹힐 준비하고 들어와
+https://xiongmao.caonizuzong.indevs.in/live/hikikomori52.m3u8
+#EXTINF:-1 tvg-id="emforhs1919" tvg-logo="https://cdn.pandalive.co.kr/upload/user/ba/ba28b6a9-6c2b-4875-be1d-ad60cb7eb70a.jpeg" group-title="19+",하림❤️｜섹시모두~❤️
+https://xiongmao.caonizuzong.indevs.in/live/emforhs1919.m3u8
+#EXTINF:-1 tvg-id="cyok2n1u" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/kaYB1ChhI8WY_49nfINXuQd45_7_9.jpg" group-title="Panda直播",oh❥르미♬｜라이브노래 잘해요! 댄스잘해요! 말잘해요!
+https://xiongmao.caonizuzong.indevs.in/live/cyok2n1u.m3u8
+#EXTINF:-1 tvg-id="era133" tvg-logo="https://cdn.pandalive.co.kr/upload/user/4e/4e18c7fa-5e3d-49ac-8d0a-95476961bb9b.png" group-title="19+",차이라❤️｜포카리 비키니
+https://xiongmao.caonizuzong.indevs.in/live/era133.m3u8
+#EXTINF:-1 tvg-id="100042" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a9/a994a214-89e7-46c7-9e79-23f47172453c.jpeg" group-title="19+",재은ෆ｜폰방)병원 2인실
+https://xiongmao.caonizuzong.indevs.in/live/100042.m3u8
+#EXTINF:-1 tvg-id="rhdwn150" tvg-logo="https://cdn.pandalive.co.kr/upload/user/a2/a20d93d9-a1ec-4716-8050-63bc45ba231e.jpeg" group-title="19+",토끼◡ෆ｜맞방)귀엽고 잘맞고 다잘함
 https://xiongmao.caonizuzong.indevs.in/live/rhdwn150.m3u8
-#EXTINF:-1 tvg-id="cappellini61" tvg-logo="https://cdn.pandalive.co.kr/upload/user/74/748ea3fc-f48a-4f42-8da9-5564368ad48c.jpeg" group-title="19+",⭐술꾼아인⭐｜[녹] [OC]원스) 일요일 원스 출근 귀인 구해요
-https://xiongmao.caonizuzong.indevs.in/live/cappellini61.m3u8
+#EXTINF:-1 tvg-id="heenoo" tvg-logo="https://cdn.pandalive.co.kr/upload/user/60/60c8e0ca-87fc-44c2-8cd6-860af37ea2fb.png" group-title="19+",히누❥⁀➷｜[녹] 19)ㅊ고수위 풀미션
+https://xiongmao.caonizuzong.indevs.in/live/heenoo.m3u8
+#EXTINF:-1 tvg-id="holiday2001" tvg-logo="https://cdn.pandalive.co.kr/upload/user/6a/6a40e5fe-aaad-4f8a-bda1-ece1077340e5.jpeg" group-title="19+",유화린*♔⁀♔*｜찐늅 9일차 ) 11/8일 원스 게스트로 화린이 출연
+https://xiongmao.caonizuzong.indevs.in/live/holiday2001.m3u8
+#EXTINF:-1 tvg-id="kirby226" tvg-logo="https://cdn.pandalive.co.kr/upload/user/58/58034889-90fb-47bc-b021-89b894e55717.jpeg" group-title="19+",ღ살구ღ｜[녹] 살구네오빵이들단톡방
+https://xiongmao.caonizuzong.indevs.in/live/kirby226.m3u8
+#EXTINF:-1 tvg-id="9oozzipd" tvg-logo="https://cdn.pandalive.co.kr/upload/user/26/260ebdf1-a1ec-4154-a9c0-6c7bb4d6e688.jpeg" group-title="19+",구찌PD｜19)뉴페 겨울이 등장!
+https://xiongmao.caonizuzong.indevs.in/live/9oozzipd.m3u8
+#EXTINF:-1 tvg-id="gpfladl2003" tvg-logo="https://cdn.pandalive.co.kr/upload/user/75/75264277-f579-4f5f-a579-4cc2f139fdad.jpeg" group-title="19+",ღ리링ღ｜방구석)  나만봐♥️
+https://xiongmao.caonizuzong.indevs.in/live/gpfladl2003.m3u8
+#EXTINF:-1 tvg-id="bnbn50121" tvg-logo="https://cdn.pandalive.co.kr/upload/noimg/user/noimg_F1.jpg" group-title="19+",bnbn50121｜혼술 외롭네 
+https://xiongmao.caonizuzong.indevs.in/live/bnbn50121.m3u8
+#EXTINF:-1 tvg-id="rlatmdcjf77" tvg-logo="https://cdn.pandalive.co.kr/upload/user/55/555bab32-35dd-423a-87e1-3189797cab98.jpeg" group-title="19+",[KLB]서울구승철｜맞방) 탈모형님 메뚜기간식 감사합니다
+https://xiongmao.caonizuzong.indevs.in/live/rlatmdcjf77.m3u8
+#EXTINF:-1 tvg-id="holiday2001" tvg-logo="https://cdn.pandalive.co.kr/upload/user/6a/6a40e5fe-aaad-4f8a-bda1-ece1077340e5.jpeg" group-title="19+",유화린*♔⁀♔*｜찐늅 9일차 ) 11/8일 원스 게스트로 화린이 출연
+https://xiongmao.caonizuzong.indevs.in/live/holiday2001.m3u8
+#EXTINF:-1 tvg-id="jangcy28" tvg-logo="https://cdn.pandalive.co.kr/upload/user/37/372ffd35-0bb4-4b11-b427-2ac296d4972a.jpeg" group-title="19+",혜량이❤️｜신입/술방/토요일이다누나랑놀래?
+https://xiongmao.caonizuzong.indevs.in/live/jangcy28.m3u8
+#EXTINF:-1 tvg-id="space666" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/7/N6J8Pds2Jw2w_Ual6UVO3reqS_2_2.jpg" group-title="Panda直播",[SP]스페이스｜❤️[경쟁]"106회"또 니네냐...진짜 집에좀 가라..언제가냐??하...자동시그Day!!❤️미소vs유설vs시아vs만덕❤️
+https://xiongmao.caonizuzong.indevs.in/live/space666.m3u8
+#EXTINF:-1 tvg-id="3ww1ww3" tvg-logo="https://cdn.pandalive.co.kr/upload/user/1d/1d6d4387-9f52-4e8e-8225-ab5dc844cec1.png" group-title="19+",♥핫리샤｜[녹]  ♥핫리샤 
+https://xiongmao.caonizuzong.indevs.in/live/3ww1ww3.m3u8
+#EXTINF:-1 tvg-id="jesusjinjin" tvg-logo="https://cdn.pandalive.co.kr/upload/user/16/1675cdaf-c822-42ae-b395-b1f1e32ed139.png" group-title="19+",밤가네♚｜[홍보] 밤가네)와꾸탑 4인의 경쟁전
+https://xiongmao.caonizuzong.indevs.in/live/jesusjinjin.m3u8
+#EXTINF:-1 tvg-id="dbfk1025" tvg-logo="https://cdn.pandalive.co.kr/upload/user/12/129dde90-c4c4-443e-b3c5-703d3172be8d.jpeg" group-title="19+",ღ킹유라ღ｜[녹] 유라 노블에 있을게요 논누와요
+https://xiongmao.caonizuzong.indevs.in/live/dbfk1025.m3u8
+#EXTINF:-1 tvg-id="mscrew33" tvg-logo="https://cdn.pandalive.co.kr/thumbnails/2026/11/6/x62tFHE50Sm8_mEQU6QwTNmnw_10_11.jpg" group-title="Panda直播",풀문☾｜[홍보] 은꼴&19ㅂ 풀문 7기 모집중♥
+https://xiongmao.caonizuzong.indevs.in/live/mscrew33.m3u8
