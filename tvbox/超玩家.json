@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/e05f19091b8106dd81c34becbae3ad1c.jpg;md5;b55978c4fe6d12e2fea9075f17c8a67a",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
   "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
     {
       "key": "点我切源",
-      "name": "超玩家影视⛅10月25🍁秋来风渐暖🌾愿你平安喜乐万事皆顺",
+      "name": "超玩家影视⛅11月06🍁秋来风渐暖🌾愿你平安喜乐万事皆顺",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -262,6 +262,30 @@
       "ext": "https://y2s52n7.com"
     },
     {
+      "key": "AppDramaPingguo",
+      "name": "🍎苹果┃1080P",
+      "type": 3,
+      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iQrKM46ga5ah&pwd=bggt",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "commonKey": "ed5fdsgucxumegqa",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "1",
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
+    },
+    {
       "key": "先生",
       "name": "👨🏿先生┃影视",
       "type": 3,
@@ -401,6 +425,7 @@
       "filterable": 0,
       "categories": [
         "国产剧",
+        "AI漫剧",
         "国产动漫",
         "泰国剧",
         "韩国剧",
@@ -438,6 +463,7 @@
       "changeable": 1,
       "categories": [
         "动作片",
+        "漫剧",
         "喜剧片",
         "爱情片",
         "科幻片",
@@ -462,6 +488,7 @@
         "日韩动漫",
         "欧美动漫",
         "港台动漫",
+        "擦边短剧",
         "海外动漫"
       ]
     },
@@ -507,6 +534,7 @@
       "categories": [
         "短剧",
         "短片",
+        "AI漫剧",
         "国产剧",
         "欧美剧",
         "香港剧",
@@ -540,6 +568,7 @@
         "大陆综艺",
         "港台综艺",
         "韩国综艺",
+        "擦边短剧",
         "欧美综艺"
       ]
     },
@@ -598,6 +627,7 @@
       "changeable": 1,
       "categories": [
         "动作片",
+        "爽文短剧",
         "战争片",
         "喜剧片",
         "恐怖片",
@@ -630,6 +660,18 @@
         "女频恋爱",
         "成长逆袭",
         "反转爽剧"
+      ]
+    },
+    {
+      "key": "测试",
+      "name": "🕸️测试┃秒播",
+      "type": 1,
+      "api": "http://122.228.193.211:18008/api/v3/drama/getCategory?orderBy=type_id",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "短剧",
+        "直播"
       ]
     },
     {
@@ -696,7 +738,11 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": {
+        "v2": "1",
+        "deviceId": "6fd6416460897d6b"
+      }
     },
     {
       "key": "立播",
@@ -859,17 +905,6 @@
       "changeable": 0
     },
     {
-      "key": "咕咕",
-      "name": "🦉咕咕┃动漫",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
-    },
-    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -956,7 +991,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
