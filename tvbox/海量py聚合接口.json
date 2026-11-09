@@ -347,9 +347,9 @@
     },
     {
       "key": "星芽短剧",
-      "name": "😄星芽｜[短剧]",
+      "name": "星芽｜短剧",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/星芽短剧.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2735,6 +2735,15 @@
       "name": "红果",
       "type": 3,
       "api": "https://meow.668yun.top/api/s/75EKQrnPG4inVvDlqfph3ygaFWsZdMv5/红果.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蝴蝶影视4k PY",
+      "name": "👌蝴蝶影视4k丨[4k影视]",
+      "type": 3,
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/energy65/yl-zy/main/枫叶影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
