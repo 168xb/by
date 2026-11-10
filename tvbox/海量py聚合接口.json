@@ -2747,6 +2747,69 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "UC盘",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/qL9DBFJVAetJWLVTRCl5oLYzuInsydmL/网盘搜索.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_Asyouwish",
+      "name": "如意[py]",
+      "type": 3,
+      "api": "https://clun.top/py/ruyishipin.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_pufferfish",
+      "name": "河豚[py]",
+      "type": 3,
+      "api": "https://clun.top/py/pufferfish.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "洛雪TV",
+      "name": "👌洛雪TV |[1080P]",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/energy65/yl-zy/main/洛雪TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红果短剧修复版.py",
+      "name": "👌红果短剧线路一丨[短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/energy65/yl-zy/main/红果短剧修复版.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红果(显季优化版).py",
+      "name": "👌红果短剧线路二丨[短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/energy65/yl-zy/main/红果(显季优化版).py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红果_酒亓3.py",
+      "name": "👌红果短剧线路三丨[短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/energy65/yl-zy/main/红果_酒亓3.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
