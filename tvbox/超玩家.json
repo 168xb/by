@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/937f5abf1c7c4ff2f170d835c5c46c21.jpg;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
   "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
     {
       "key": "点我切源",
-      "name": "超玩家影视⛅11月06🍁秋来风渐暖🌾愿你平安喜乐万事皆顺",
+      "name": "超玩家影视⛅11月11🍁秋来风渐暖🌾愿你平安喜乐万事皆顺",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -97,9 +97,9 @@
       "name": "🍡葫芦┃影视",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0814/00/dbbc170134a9266dc1b16589f1ece57a.jpg",
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
       "ext": {
-        "host": "https://cdn.akaere.online/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "host": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
         "key": "8R33VQSxzmCaHpEX",
         "init": "V122",
         "api": 2,
@@ -663,18 +663,6 @@
       ]
     },
     {
-      "key": "测试",
-      "name": "🕸️测试┃秒播",
-      "type": 1,
-      "api": "http://122.228.193.211:18008/api/v3/drama/getCategory?orderBy=type_id",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "短剧",
-        "直播"
-      ]
-    },
-    {
       "key": "YGP",
       "name": "🚀荐影┃预告片",
       "type": 3,
@@ -738,11 +726,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "v2": "1",
-        "deviceId": "6fd6416460897d6b"
-      }
+      "changeable": 1
     },
     {
       "key": "立播",
@@ -764,7 +748,6 @@
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -816,7 +799,6 @@
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -863,7 +845,6 @@
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -891,7 +872,7 @@
     },
     {
       "key": "AiDj",
-      "name": "❤️AI┃短漫剧",
+      "name": "❤️AI剧┃弹幕",
       "type": 3,
       "api": "csp_AiDjGuard",
       "ext": {
@@ -986,12 +967,12 @@
       "key": "有声小说",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "csp_Tingshu275Guard",
+      "api": "csp_YueTingGuard",
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -1012,8 +993,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1028,8 +1009,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1156,8 +1137,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1265,7 +1246,7 @@
     {
       "name": "☁V4线路☁",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 1
     },
     {
@@ -1290,7 +1271,7 @@
     {
       "name": "☁易发TV☁",
       "type": 0,
-      "url": "https://cdn.akaere.online/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "playerType": 1
     },
     {
