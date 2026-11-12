@@ -117,7 +117,7 @@ csp_xml_ikun|❤ikun资源|type: 1|api: https://ikunzyapi.com/api.php/provide/vo
 糖豆广场舞|🎶糖豆丨广场舞|type: 1|api: https://kk.666888.club/vod/cibn_api.php/provide/vod/
 HH|☕🦊茶杯狐┃秒播|type: 1|api: http://www.haohuazy.com/api.php/provide/vod
 FF|🥗非凡┃秒播|type: 1|api: http://api.ffzyapi.com/api.php/provide/vod
-测试|🕸️测试┃秒播|type: 1|api: http://122.228.193.211:18008/api/v3/drama/getCategory?orderBy=type_id
+taiee96|极速┃零一|type: 1|api: https://ww96.taiee.xyz/api.php/provide/vod/
 pt|移动｜星源|type: 1|api: https://xy.183933.xyz/php/pt.php/provide/vod/
 kuwo|酷我｜音乐|type: 1|api: https://xy.183933.xyz/php/kuwo.php/provide/vod
 mgyy|咪咕｜音乐|type: 1|api: https://xy.183933.xyz/php/miguyy.php/provide/vod
@@ -127,6 +127,7 @@ acfun|A站｜星源|type: 1|api: https://xy.183933.xyz/php/acfun.php/provide/vod
 3|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
 暴風|暴風|type: 1|api: http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?
 aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
+测试|🕸️测试┃秒播|type: 1|api: http://122.228.193.211:18008/api/v3/drama/getCategory?orderBy=type_id
 fy|飞鱼|type: 1|api: http://111.170.58.66:2526/api.php/provide/vod/?key=64af2add095411af303c3dc0b146dc3a&ac=list
 猫眼资源|猫眼资源(🔥)|type: 1|api: https://api.maoyanapi.top/api.php/provide/vod
 鸭鸭资源|鸭鸭资源(🔥)|type: 0|api: https://yayazy2.com/api.php/provide/vod/at/xml

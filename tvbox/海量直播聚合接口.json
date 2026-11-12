@@ -175,12 +175,6 @@
       "source": "饭太硬"
     },
     {
-      "name": "YY轮播2线",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "饭太硬"
-    },
-    {
       "name": "Kimentanm1线",
       "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
@@ -201,6 +195,12 @@
     {
       "name": "📡咪咕直播3",
       "url": "http://117.72.81.53:3000",
+      "ua": "",
+      "source": "集多"
+    },
+    {
+      "name": "📡YY",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "ua": "",
       "source": "集多"
     },

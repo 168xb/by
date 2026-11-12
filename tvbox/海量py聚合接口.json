@@ -2810,6 +2810,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "电影侠4k PY",
+      "name": "👌电影侠4k丨[4k影视]",
+      "type": 3,
+      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/energy65/yl-zy/main/电影侠.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
