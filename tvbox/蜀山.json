@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/xiaosa11.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/xiaosa11.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/ky4kbgq7b273.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/ky4kbgq7b273.json"
     },
     {
       "key": "一起影视",
@@ -158,7 +158,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app_dyttandroid.txt",
+        "site": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       }
@@ -178,7 +178,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app.txt",
+        "site": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app.txt",
         "version": "3.0.7.0",
         "decrypt": "1"
       }
@@ -218,7 +218,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
         "host": "",
-        "site": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app_xpg_android.txt",
+        "site": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
       }
@@ -246,7 +246,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/lyjszx.txt",
+        "site": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/lyjszx.txt",
         "dataKey": "oW5UxZ5kWVr1DI69",
         "dataIv": "oW5UxZ5kWVr1DI69",
         "init": "initV122",
@@ -274,7 +274,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/9.txt",
+        "site": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       }
@@ -616,7 +616,7 @@
       "key": "红果短剧",
       "name": "红果 • 短剧",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/红果短剧.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/红果短剧.py",
       "genre": "shortdrama"
     },
     {
@@ -1109,7 +1109,7 @@
       "key": "世界听书",
       "name": "世界 • 听书",
       "type": 3,
-      "api": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/世界听书.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/世界听书.py",
       "style": {
         "type": "list"
       }
@@ -1284,7 +1284,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/SEJY.json",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/SEJY.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1301,7 +1301,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/XXKT.json",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/XXKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1318,7 +1318,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/CZKT.json",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/CZKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1335,7 +1335,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/GZKT.json",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/GZKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
