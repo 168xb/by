@@ -23,9 +23,9 @@
     },
     {
       "key": "山木",
-      "name": "♨️山木｜4K线路",
+      "name": "山木",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
+      "api": "https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -59,9 +59,9 @@
     },
     {
       "key": "剧下饭",
-      "name": "♨️下饭｜4K线路",
+      "name": "🍚下饭｜平安™",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py",
+      "api": "https://13826.kstore.vip/AppV2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -149,18 +149,18 @@
     },
     {
       "key": "Acfun",
-      "name": "A站┃平台",
+      "name": "Acfun",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py",
+      "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "布布",
-      "name": "酷喵🐱布布4K（备）",
+      "name": "🐷布布",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/ca1d0aee761c0cf8d47d1fddcddb9a30.py",
+      "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -194,9 +194,9 @@
     },
     {
       "key": "华数",
-      "name": "华数｜影视",
+      "name": "星星🌟┃华数视频",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/华数.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -320,9 +320,9 @@
     },
     {
       "key": "哔哩直播",
-      "name": "哔哩｜直播",
+      "name": "📺哔哩┃直播",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/哔哩直播.py",
+      "api": "https://0.12yue.de5.net/5/lib/哔哩直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -430,25 +430,25 @@
       "key": "七星短剧",
       "name": "🎬七星丨短剧",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
+      "api": "https://0.12yue.de5.net/5/lib/qxdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "爱听音乐",
-      "name": "爱听｜音乐",
+      "name": "📻爱听┃音乐",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py",
+      "api": "https://0.12yue.de5.net/5/lib/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "网络直播",
-      "name": "🌇｜网络｜直播",
+      "name": "📺网络┃直播",
       "type": 3,
-      "api": "https://chigua.eu.org/py/网络直播.py",
+      "api": "https://0.12yue.de5.net/5/lib/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -509,9 +509,9 @@
     },
     {
       "key": "央视PY",
-      "name": "央视丨栏目",
+      "name": "七星·央视影库",
       "type": 3,
-      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py",
+      "api": "https://15487.kstore.space/py/cctv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -878,9 +878,9 @@
     },
     {
       "key": "瓜子影视",
-      "name": "酷喵🐱瓜子",
+      "name": "聚合三方🥇瓜子🥇影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1310,7 +1310,7 @@
     },
     {
       "key": "网易歌曲下载.py",
-      "name": "星星🌟｜网易音乐",
+      "name": "🎤闪电┃网易音乐",
       "type": 3,
       "api": "https://15487.kstore.space/%E7%BD%91%E6%98%93%E6%AD%8C%E6%9B%B2%E4%B8%8B%E8%BD%BD.py",
       "searchable": 1,
@@ -1319,7 +1319,7 @@
     },
     {
       "key": "枫叶音乐",
-      "name": "星星🌟｜枫叶音乐",
+      "name": "🎤闪电┃枫叶",
       "type": 3,
       "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
       "searchable": 1,
@@ -1436,9 +1436,9 @@
     },
     {
       "key": "py_咖啡直播",
-      "name": "⚽咖啡🔹球赛",
+      "name": "星星⚽｜咖啡体育",
       "type": 3,
-      "api": "https://7337.kstore.vip/xw/py/咖啡直播.py",
+      "api": "https://15487.kstore.space/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

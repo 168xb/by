@@ -167,9 +167,9 @@
     },
     {
       "key": "极速资源",
-      "name": "极速影院",
+      "name": "影视 | 极速[直连]",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -194,7 +194,7 @@
     },
     {
       "key": "feifan",
-      "name": "🍀非凡资源",
+      "name": "🍀┃非凡┃资源",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -536,16 +536,16 @@
     },
     {
       "key": "说明",
-      "name": "⚠️说明",
+      "name": "⚠️使用说明",
       "type": 1,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/使用说明.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "haiwaikan",
-      "name": "🌊 海外看┃此接口须有魔法上网",
+      "name": "海外看",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
@@ -581,9 +581,9 @@
     },
     {
       "key": "索尼",
-      "name": "索尼",
-      "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
+      "name": "影视 | 索尼[直连]",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -608,9 +608,9 @@
     },
     {
       "key": "暴風",
-      "name": "暴風",
+      "name": "影视 | 暴風[直连]",
       "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -680,9 +680,9 @@
     },
     {
       "key": "aidan",
-      "name": "爱蛋资源",
+      "name": "酷喵🐱艾旦",
       "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod",
+      "api": "https://lovedan.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -707,9 +707,9 @@
     },
     {
       "key": "牛牛资源",
-      "name": "牛牛｜资源",
-      "type": 0,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+      "name": "🥬牛牛资源",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -743,7 +743,7 @@
     },
     {
       "key": "360资源",
-      "name": "⏱┃三六┃资源",
+      "name": "🍀｜360｜采集",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
       "searchable": 1,
@@ -914,9 +914,9 @@
     },
     {
       "key": "索尼资源",
-      "name": "✅索尼┃影视",
+      "name": "🎮索尼┃采集",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1769,7 +1769,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "❤卧龙资源",
+      "name": "🐉卧龙┃影视",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,

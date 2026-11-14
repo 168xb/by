@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="📺三线TV直播",📺三线TV直播
+#EXTINF:-1 tvg-name="🐉三线TV直播",🐉三线TV直播
 #EXTM3U
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="央视频道" response-time="24ms",CETV1
 http://121.19.134.149:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
