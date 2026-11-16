@@ -121,6 +121,13 @@ moduzy|魔都影视|type: 1|api: https://www.moduzy.com/api.php/provide/vod
 yilingba2|1080JSON|type: 1|api: https://api.1080zyku.com/inc/apijson.php
 糖豆广场舞|🎶糖豆丨广场舞|type: 1|api: https://kk.666888.club/vod/cibn_api.php/provide/vod/
 taiee96|极速┃零一|type: 1|api: https://ww96.taiee.xyz/api.php/provide/vod/
+cms_subo|速播┃资源|type: 1|api: https://subocj.com/api.php/provide/vod/
+cms_diyi|第一┃资源|type: 1|api: https://caiji.diyizy.net/api.php/provide/vod/
+cms_maoyan|猫眼┃资源|type: 1|api: https://api.maoyanapi.top/api.php/provide/vod
+cms_bfzy2|暴风┃资源|type: 1|api: https://bfzy2.tv/api.php/provide/vod/
+cms_okzyw|ok┃资源|type: 1|api: https://okzyw.cc/api.php/provide/vod/
+cms_gqc4|共共┃青春|type: 1|api: https://gqc4.top/api.php/provide/vod/
+cms_qlys|麒麟┃影音|type: 1|api: https://www.qlys.cc/api.php/provide/vod/
 豆瓣采集资源|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
 csp_xml_非凡资源|❤非凡资源|type: 1|api: http://cj.ffzyapi.com/api.php/provide/vod/
 csp_xml_红牛|❤红牛资源|type: 1|api: https://www.hongniuzy2.com/api.php/provide/vod/

@@ -159,6 +159,10 @@ https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 
 ### Canais TV Aberta
 
+#EXTINF:-1 group-title="TV Aberta" tvg-id="523315" tvg-name="Band" tvg-logo="https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg", Band
+#EXTGRP:TV Aberta
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+
 #EXTINF:-1 group-title="TV Aberta" tvg-id="Local.gazeta.br" tvg-name="Gazeta" tvg-logo="https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg", Gazeta
 #EXTGRP:TV Aberta
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8
@@ -216,6 +220,10 @@ https://video05.logicahost.com.br/canal05/canal05/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png", Canal do Boi
 #EXTGRP:Variedades
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="Local.canaldousuario.br" tvg-name="Canal do Usuário" tvg-logo="https://i.postimg.cc/q7jx015D/cana-do-usuario.jpg", Canal do Usuário
+#EXTGRP:Variedades
+https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="CanalFDR.br" tvg-name="Canal FDR" tvg-logo="https://i.imgur.com/7SE4CkE.png", Canal FDR
 #EXTGRP:Variedades
@@ -357,6 +365,10 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTGRP:Variedades
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades" tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://i.imgur.com/ZWFxlU1.png", RBATV
+#EXTGRP:Variedades
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades" tvg-id="Local.record.br" tvg-name="Record" tvg-logo="https://i.imgur.com/sz9gTTr.png", Record
 #EXTGRP:Variedades
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -400,6 +412,10 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" tvg-logo="https://i.imgur.com/D8R0Af4.png", RedeTV! Parana
 #EXTGRP:Variedades
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://i.imgur.com/IkZfa4j.png", SBT Interior
+#EXTGRP:Variedades
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="SBTNacional.br" tvg-name="SBT Nacional" tvg-logo="https://i.imgur.com/tc1ALuu.png", SBT Nacional
 #EXTGRP:Variedades
@@ -456,6 +472,10 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="Local.tvbrasilangola.br" tvg-name="TV Brasil Angola" tvg-logo="https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg", TV Brasil Angola
 #EXTGRP:Variedades
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="TVBrasilOeste.br" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png", TV Brasil Oeste
+#EXTGRP:Variedades
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="Local.tvbrasilsinop.br" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg", TV Brasil Sinop
 #EXTGRP:Variedades
@@ -568,6 +588,10 @@ https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamo
 #EXTINF:-1 group-title="Variedades" tvg-id="TVSonata.br" tvg-name="TV Sonata" tvg-logo="https://i.postimg.cc/bNK96RZH/tvsonata.png", TV Sonata
 #EXTGRP:Variedades
 https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-id="Local.tvsaogabriel.br" tvg-name="TV São Gabriel" tvg-logo="https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg", TV São Gabriel
+#EXTGRP:Variedades
+https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVVilaReal.br" tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png", TV Vila Real
 #EXTGRP:Variedades
@@ -731,6 +755,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTGRP:Notícia
 http://170.83.16.50/BAND_NEWS/index.m3u8
 
+#EXTINF:-1 group-title="Notícia" tvg-id="666c9c60a7efd40008f552f0" tvg-name="BM&C News" tvg-logo="https://i.imgur.com/pOUY2Uz.png", BM&C News
+#EXTGRP:Notícia
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+
 #EXTINF:-1 group-title="Notícia" tvg-id="Canal38.br" tvg-name="Canal 38" tvg-logo="https://i.imgur.com/co7TCWC.png", Canal 38
 #EXTGRP:Notícia
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
@@ -810,6 +838,10 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimento" tvg-id="ElementalChannel.br" tvg-name="Elemental Channel" tvg-logo="https://i.imgur.com/8upyApg.png", Elemental Channel
 #EXTGRP:Entretenimento
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="ElyTV.br" tvg-name="ElyTV" tvg-logo="https://i.imgur.com/1eHNe91.png", ElyTV
+#EXTGRP:Entretenimento
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
 #EXTINF:-1 group-title="Entretenimento" tvg-id="Local.loading.br" tvg-name="Loading" tvg-logo="https://i.imgur.com/R0aflu1.png", Loading
 #EXTGRP:Entretenimento
@@ -1048,6 +1080,10 @@ https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_
 #EXTINF:-1 group-title="Internacional" tvg-id="Local.tvmana2.br" tvg-name="TV Maná 2" tvg-logo="https://i.postimg.cc/VNBgtmS5/tv_mana_2.jpg", TV Maná 2
 #EXTGRP:Internacional
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-id="Local.tvmanaargentina.br" tvg-name="TV Maná Argentina" tvg-logo="https://i.postimg.cc/7LyXbfLz/mana_argentina.jpg", TV Maná Argentina
+#EXTGRP:Internacional
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Internacional" tvg-id="Local.tvmanabrasil.br" tvg-name="TV Maná Brasil" tvg-logo="https://i.postimg.cc/2yH2B4bJ/tv_mana_brasil.jpg", TV Maná Brasil
 #EXTGRP:Internacional
