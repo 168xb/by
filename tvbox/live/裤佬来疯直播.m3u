@@ -1,77 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="👖裤佬来疯直播",👖裤佬来疯直播
 #EXTM3U
-#EXTINF:-1 tvg-id="9418861" tvg-name="冰冰." tvg-logo="https://yimage.laifeng.com/image/75CB21DD7A2E4BA694B1E5080187183C?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",冰冰.
-https://laifeng.445569.xyz/live/9418861
-#EXTINF:-1 tvg-id="8162225" tvg-name="可爱的小废物吖" tvg-logo="https://yimage.laifeng.com/image/206C460264FD4148ABFDA96548669BF0?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="舞蹈",可爱的小废物吖 - 么么哒
-https://laifeng.445569.xyz/live/8162225
+#EXTINF:-1 tvg-id="9418848" tvg-name="小九今天生日吖" tvg-logo="https://yimage.laifeng.com/image/EE68408D81A64408BD83A2DFEF4DFEB7?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",小九今天生日吖
+https://laifeng.445569.xyz/live/9418848
+#EXTINF:-1 tvg-id="9418874" tvg-name="米倪" tvg-logo="https://yimage.laifeng.com/image/700D7C82D2D744A7BBB426825B7822BA?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",米倪 - 新主播
+https://laifeng.445569.xyz/live/9418874
 #EXTINF:-1 tvg-id="8141391" tvg-name="卑微旎旎" tvg-logo="https://image.laifeng.com/image/DBC2292D88234E10A90330EA091ED650?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="舞蹈",卑微旎旎
 https://laifeng.445569.xyz/live/8141391
-#EXTINF:-1 tvg-id="8173883" tvg-name="小灰蝶" tvg-logo="https://yimage.laifeng.com/image/13887CEB9EAD4345ABF3A68DB6C9A07F?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",小灰蝶 - 管管孩子吧
-https://laifeng.445569.xyz/live/8173883
-#EXTINF:-1 tvg-id="8139066" tvg-name="怶怶" tvg-logo="https://yimage.laifeng.com/image/F7863A65BBE64A82A3CA4A4914323E8E?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",怶怶 - 新年好
-https://laifeng.445569.xyz/live/8139066
-#EXTINF:-1 tvg-id="671071" tvg-name="是安心吖~" tvg-logo="https://yimage.laifeng.com/image/AC4B731D77F24985AB327B41D8628F0E?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",是安心吖~ - 原来我就是你一直寻找
-https://laifeng.445569.xyz/live/671071
-#EXTINF:-1 tvg-id="92919" tvg-name="尤米谢谢大家" tvg-logo="https://yimage.laifeng.com/image/AAF4E2ED777243DC928BF69D71CCEF17?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",尤米谢谢大家
-https://laifeng.445569.xyz/live/92919
-#EXTINF:-1 tvg-id="8179592" tvg-name="瑶贺荷伈哥42" tvg-logo="https://yimage.laifeng.com/image/1AFD99CC129947F6B2361DBF4FD0E9FE?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",瑶贺荷伈哥42
-https://laifeng.445569.xyz/live/8179592
-#EXTINF:-1 tvg-id="8070292" tvg-name="迪丽@唱情歌" tvg-logo="https://yimage.laifeng.com/image/2ABC3574A4764C5DA8D1D39F856A82A4?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",迪丽@唱情歌 - 一个爱唱歌的
-https://laifeng.445569.xyz/live/8070292
-#EXTINF:-1 tvg-id="8177366" tvg-name="方圆♬♪♩♫" tvg-logo="https://yimage.laifeng.com/image/21CECBE98BED46198446CA641029D849?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",方圆♬♪♩♫ - 带你飞
-https://laifeng.445569.xyz/live/8177366
-#EXTINF:-1 tvg-id="8179880" tvg-name="妍妍加油鸭" tvg-logo="https://yimage.laifeng.com/image/019BFE07820A4A6D964D265FA7DACD13?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",妍妍加油鸭
-https://laifeng.445569.xyz/live/8179880
+#EXTINF:-1 tvg-id="8144826" tvg-name="草莓莓莓~" tvg-logo="https://yimage.laifeng.com/image/1393E5AA26C5437989BABA78754F050E?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",草莓莓莓~ - 吃饭聊聊天哇
+https://laifeng.445569.xyz/live/8144826
+#EXTINF:-1 tvg-id="8118290" tvg-name="芷恬" tvg-logo="https://yimage.laifeng.com/image/467903CA1F9744C1A249CAFDB75EAF07?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",芷恬
+https://laifeng.445569.xyz/live/8118290
 #EXTINF:-1 tvg-id="648946" tvg-name="没错我是大湿" tvg-logo="https://yimage.laifeng.com/image/5612D8AB6AB1443E92A1196CD4332BF3?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",没错我是大湿 - 在外面整会
 https://laifeng.445569.xyz/live/648946
-#EXTINF:-1 tvg-id="47788" tvg-name="来自于性感进进" tvg-logo="https://yimage.laifeng.com/image/7F942601F36D49B3850B4D51568EAFBF?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",来自于性感进进
-https://laifeng.445569.xyz/live/47788
-#EXTINF:-1 tvg-id="9418810" tvg-name="小喵贺宝哥71级" tvg-logo="https://yimage.laifeng.com/image/E6C86593BB144456848F6DF6D2772C06?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",小喵贺宝哥71级 - 播一会
-https://laifeng.445569.xyz/live/9418810
-#EXTINF:-1 tvg-id="8181687" tvg-name="布丁✔" tvg-logo="https://yimage.laifeng.com/image/C90A2B621C28489589B74F6CF2FCCDCB?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",布丁✔
-https://laifeng.445569.xyz/live/8181687
+#EXTINF:-1 tvg-id="8070292" tvg-name="迪唱歌等一束光" tvg-logo="https://yimage.laifeng.com/image/2ABC3574A4764C5DA8D1D39F856A82A4?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",迪唱歌等一束光 - 一个爱唱歌的
+https://laifeng.445569.xyz/live/8070292
+#EXTINF:-1 tvg-id="729566" tvg-name="你好呀 初初" tvg-logo="https://yimage.laifeng.com/image/B550CAF69234447A84F1ECFF36D7748E.jpg?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",你好呀 初初
+https://laifeng.445569.xyz/live/729566
+#EXTINF:-1 tvg-id="8173883" tvg-name="小灰蝶" tvg-logo="https://yimage.laifeng.com/image/13887CEB9EAD4345ABF3A68DB6C9A07F?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",小灰蝶 - 管管孩子吧
+https://laifeng.445569.xyz/live/8173883
+#EXTINF:-1 tvg-id="8178365" tvg-name="玖月贺宝哥71级" tvg-logo="https://yimage.laifeng.com/image/1913EAB44B564D9F9AE7CBC62E4E5A06?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",玖月贺宝哥71级 - 心诚自然久
+https://laifeng.445569.xyz/live/8178365
+#EXTINF:-1 tvg-id="8183505" tvg-name="丽吖" tvg-logo="https://yimage.laifeng.com/image/EF0A9DC8EE2A41FF97C355B175400C84?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",丽吖 - 茫茫人海中  缘来是你
+https://laifeng.445569.xyz/live/8183505
 #EXTINF:-1 tvg-id="9418820" tvg-name="来财." tvg-logo="https://yimage.laifeng.com/image/F33683DA1EA6491BA1B9737F36EEA26C?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",来财.
 https://laifeng.445569.xyz/live/9418820
-#EXTINF:-1 tvg-id="8175393" tvg-name="星黛鹿" tvg-logo="https://yimage.laifeng.com/image/07C32CB418104B5F8E38F20E2F8E4113?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",星黛鹿
-https://laifeng.445569.xyz/live/8175393
+#EXTINF:-1 tvg-id="9418810" tvg-name="小喵贺宝哥71级" tvg-logo="https://yimage.laifeng.com/image/E6C86593BB144456848F6DF6D2772C06?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",小喵贺宝哥71级 - 播一会
+https://laifeng.445569.xyz/live/9418810
 #EXTINF:-1 tvg-id="8177513" tvg-name="佳祎贺宝71级" tvg-logo="https://image.laifeng.com/image/F971FD437C9E4ED488E03436C5932F98?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",佳祎贺宝71级 - 新主播第一天
 https://laifeng.445569.xyz/live/8177513
-#EXTINF:-1 tvg-id="8173424" tvg-name="乐莹only" tvg-logo="https://yimage.laifeng.com/image/0A137D747A2540C28D7795F1EE6659EC?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",乐莹only - 来了宝贝
-https://laifeng.445569.xyz/live/8173424
-#EXTINF:-1 tvg-id="8181389" tvg-name="椰汁贺宝哥71级" tvg-logo="https://yimage.laifeng.com/image/B5A19AB8E7DA43F89A58353581C689C3?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",椰汁贺宝哥71级
-https://laifeng.445569.xyz/live/8181389
 #EXTINF:-1 tvg-id="9413864" tvg-name="土豆贺宝哥71" tvg-logo="https://yimage.laifeng.com/image/C8627F6A747140A0BC25C43C4258E161?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",土豆贺宝哥71
 https://laifeng.445569.xyz/live/9413864
-#EXTINF:-1 tvg-id="8030202" tvg-name="可乐·有毒" tvg-logo="https://yimage.laifeng.com/image/2181B903692041DAA9DED06A47FA4B51?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",可乐·有毒 - Come on萨计划
-https://laifeng.445569.xyz/live/8030202
-#EXTINF:-1 tvg-id="8158796" tvg-name="无情狠毒继母" tvg-logo="https://yimage.laifeng.com/image/DC1874D33E30466CB56A2C8C4BFF0B95?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",无情狠毒继母
-https://laifeng.445569.xyz/live/8158796
-#EXTINF:-1 tvg-id="8156603" tvg-name="捡一只月亮唱歌" tvg-logo="https://yimage.laifeng.com/image/9E61FA9968C84779AB97D3EC144976FD?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",捡一只月亮唱歌
-https://laifeng.445569.xyz/live/8156603
-#EXTINF:-1 tvg-id="9417026" tvg-name="小娘子¹³¹⁴" tvg-logo="https://yimage.laifeng.com/image/8628AE99F1794D13AF769CA4752D208A?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",小娘子¹³¹⁴
-https://laifeng.445569.xyz/live/9417026
+#EXTINF:-1 tvg-id="8161903" tvg-name="Cc，" tvg-logo="https://yimage.laifeng.com/image/3284D6FB59C142EFA622DA608028CF43?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",Cc， - 来都来了
+https://laifeng.445569.xyz/live/8161903
+#EXTINF:-1 tvg-id="8098851" tvg-name="以沐" tvg-logo="https://yimage.laifeng.com/image/D6C1BFAE8DE64AF5B074D823E219944C?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",以沐
+https://laifeng.445569.xyz/live/8098851
 #EXTINF:-1 tvg-id="9415629" tvg-name="笑笑⁵²⁰" tvg-logo="https://yimage.laifeng.com/image/811F827DA1C545DE9BFAF81802E9D1F2?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",笑笑⁵²⁰
 https://laifeng.445569.xyz/live/9415629
+#EXTINF:-1 tvg-id="9417026" tvg-name="小娘子¹³¹⁴" tvg-logo="https://yimage.laifeng.com/image/8628AE99F1794D13AF769CA4752D208A?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",小娘子¹³¹⁴
+https://laifeng.445569.xyz/live/9417026
 #EXTINF:-1 tvg-id="9414435" tvg-name="薯条妹妹" tvg-logo="https://yimage.laifeng.com/image/41441144F9694287956CFE58063D1FB1?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",薯条妹妹
 https://laifeng.445569.xyz/live/9414435
 #EXTINF:-1 tvg-id="8183511" tvg-name="小u." tvg-logo="https://yimage.laifeng.com/image/9F8A6162B8044E3395BC9628F709EFA1?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",小u.
 https://laifeng.445569.xyz/live/8183511
-#EXTINF:-1 tvg-id="621896" tvg-name="有逼格是我呀" tvg-logo="https://yimage.laifeng.com/image/F3EF556F2D88472398DF851355969C0A?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",有逼格是我呀 - 大哥们都好
-https://laifeng.445569.xyz/live/621896
-#EXTINF:-1 tvg-id="8122883" tvg-name="潼潼~" tvg-logo="https://yimage.laifeng.com/image/03F888A4A928469093FA4AA7406397C1?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",潼潼~ - 别在外面看了，还不进
-https://laifeng.445569.xyz/live/8122883
-#EXTINF:-1 tvg-id="8149461" tvg-name="花果山再逃母猴" tvg-logo="https://yimage.laifeng.com/image/6853C52C066A40D2BF145E7AEA975ACE?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",花果山再逃母猴 - 一米
-https://laifeng.445569.xyz/live/8149461
-#EXTINF:-1 tvg-id="618502" tvg-name="脸脸" tvg-logo="https://yimage.laifeng.com/image/B97E3DA5AF464FAFB2051276B57498C4?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",脸脸 - 一6
-https://laifeng.445569.xyz/live/618502
-#EXTINF:-1 tvg-id="46278" tvg-name="果酱大王" tvg-logo="https://yimage.laifeng.com/image/73FC6D188C5C4C50BCFB98CC156C1B55?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",果酱大王 - 欢迎👏
-https://laifeng.445569.xyz/live/46278
 #EXTINF:-1 tvg-id="8102804" tvg-name="灵✨垚" tvg-logo="https://yimage.laifeng.com/image/2FE0D236B98749F39FA3A6343710D160?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",灵✨垚 - 求好心的哥哥们占个榜
 https://laifeng.445569.xyz/live/8102804
 #EXTINF:-1 tvg-id="9414697" tvg-name="鹿小七" tvg-logo="https://yimage.laifeng.com/image/7C5B6F833FA8467B82C476AB63A1871C?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",鹿小七
 https://laifeng.445569.xyz/live/9414697
 #EXTINF:-1 tvg-id="9414303" tvg-name="尊师富婆：陌離" tvg-logo="https://yimage.laifeng.com/image/4B0AB32D7D5C41EA8F1615D2125845FE?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",尊师富婆：陌離
 https://laifeng.445569.xyz/live/9414303
-#EXTINF:-1 tvg-id="9418609" tvg-name="尊师九洲 琪琪" tvg-logo="https://yimage.laifeng.com/image/67A0754C595C43EBA6BD7AAAFC7CD4AF?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="游戏",尊师九洲 琪琪
-https://laifeng.445569.xyz/live/9418609
