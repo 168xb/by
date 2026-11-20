@@ -1,6 +1,6 @@
-TVBox 抓取失败接口报告  20261119_191423
+TVBox 抓取失败接口报告  20261120_185936
 ==============================================================
-失败接口数: 21 / 总数: 102
+失败接口数: 18 / 总数: 102
 ==============================================================
 
 [1] X4更新专用接口
@@ -13,101 +13,86 @@ TVBox 抓取失败接口报告  20261119_191423
     尝试过的源 (1 个):
       - https://0.12yue.de5.net/5/x4pro.json
 
-[3] X4菠菜园
-    状态: FAILED
-    尝试过的源 (1 个):
-      - https://0.12yue.de5.net/5/x4.json
-
-[4] X4少儿频道
-    状态: FAILED
-    尝试过的源 (1 个):
-      - https://0.12yue.de5.net/5/tv少儿.json
-
-[5] 肥猫
+[3] 肥猫
     状态: FAILED
     尝试过的源 (3 个):
       - http://肥猫.net/tv
       - http://jk.catvod.site
       - https://jk.catvod.site
 
-[6] 集多
+[4] 集多
     状态: FAILED
     尝试过的源 (3 个):
       - http://rihou.cc:88/demo.php
       - http://jiduo.3116598.xyz
       - http://rihou.cc:88/demoabc.json
 
-[7] 讴歌
+[5] 讴歌
     状态: FAILED
     尝试过的源 (1 个):
       - https://xn--biib-rp5imh.v.nxog.top/apitv.php
 
-[8] 香雅情
+[6] 香雅情
     状态: FAILED
     尝试过的源 (1 个):
       - https://play.iptv365.org/香雅情/api.json
 
-[9] 道长
+[7] 道长
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 
-[10] 小苹果
+[8] 小苹果
     状态: FAILED
     尝试过的源 (1 个):
       - https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 
-[11] 短剧
+[9] 短剧
     状态: FAILED
     尝试过的源 (1 个):
       - https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json
 
-[12] 巧计线路
+[10] 巧计线路
     状态: FAILED
     尝试过的源 (1 个):
       - http://pandown.pro/tvbox/tvbox.json
 
-[13] 欧歌4K
+[11] 欧歌4K
     状态: FAILED
     尝试过的源 (1 个):
       - http://tv.nxog.top/m
 
-[14] 影探线路
+[12] 影探线路
     状态: FAILED
     尝试过的源 (1 个):
       - http://www.lyyytv.cn/yt/yt.json
 
-[15] 无意线路
+[13] 无意线路
     状态: FAILED
     尝试过的源 (1 个):
       - https://www.wya6.cn/tv/yc.json
 
-[16] 凯弟2线
+[14] 凯弟2线
     状态: FAILED
     尝试过的源 (1 个):
       - http://rihou.vip:55/天天开心
 
-[17] 小虎斑
-    状态: FAILED
-    尝试过的源 (1 个):
-      - http://hb.小虎斑.site:25252/仅供测试
-
-[18] 酷喵看了么
+[15] 酷喵看了么
     状态: FAILED
     尝试过的源 (1 个):
       - https://wp.kayyw.com/f/9lvgIR/kanlema.txt
 
-[19] 澜露
+[16] 澜露
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitee.com/hulanlu/04/raw/master/lanlu.json
 
-[20] 蜀山
+[17] 蜀山
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/tianjitop/xiaosa/main/sun.json
 
-[21] 兔小贝
+[18] 兔小贝
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b1.json

@@ -1,737 +1,400 @@
-{
-  "spider": "http://118.89.172.248:8025/jar/tan.php",
-  "wallpaper": "https://动态壁纸.饭.eu.org/",
-  "lives": [
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://118.89.172.248:8025/jar/zb.php",
-      "playerType": 1
-    },
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
-    }
-  ],
-  "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "💥最新软件接口❤Link3.cc/uuccc❤💥",
-      "type": 3,
-      "api": "csp_Douban",
-      "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json"
-    },
-    {
-      "key": "JianSou",
-      "name": "💖┃简搜┃4K💖",
-      "type": 3,
-      "api": "csp_JianSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://118.89.172.248:8000",
-        "type": 0,
-        "name": " 简搜"
-      }
-    },
-    {
-      "key": "ZhiZhenPanCms",
-      "name": "💖┃至臻┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
-    },
-    {
-      "key": "MuouPanCms",
-      "name": "💖┃木偶┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"https://www.muoua.top\",\"https://666.666291.xyz\",\"https://333.333291.xyz\",\"https://www.muou.asia\"],\"name\":\"网盘CMS\"}"
-    },
-    {
-      "key": "DuoPanCms",
-      "name": "💖┃多多┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"https://tv.yydsys.top\",\"https://tv.yydsys.cc\",\"https://tv.214521.xyz\"],\"name\":\"网盘CMS\"}"
-    },
-    {
-      "key": "KuaiYPanCms",
-      "name": "💖┃快映┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"http://38.76.197.172:12521\"],\"name\":\"网盘CMS\"}"
-    },
-    {
-      "key": "HuBanYPanCms",
-      "name": "💖┃虎斑┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"http://38.76.197.172:16969\"],\"name\":\"网盘CMS\"}"
-    },
-    {
-      "key": "Star2",
-      "name": "💖┃剧透┃4K💖",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"site\":[\"https://1.star2.cn\"],\"name\":\"剧透社\"}"
-    },
-    {
-      "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "AppDramaPingguo",
-      "name": "🍂┃苹果┃1080P",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "commonKey": "ed5fdsgucxumegqa",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "1",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      }
-    },
-    {
-      "key": "AppRJ",
-      "name": "🍂┃热播┃高清",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "http://v.rbotv.cn",
-        "block": [
-          "线路二(点击切换)",
-          "CO4K"
-        ]
-      }
-    },
-    {
-      "key": "Jianpian",
-      "name": "🍂┃荐片┃1080P",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": {
-        "site": "https://api.ztcgi.com"
-      }
-    },
-    {
-      "key": "YunDuo",
-      "name": "🍂┃大鹅┃1080P",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "block": [
-          "PO蓝光",
-          "CO4K",
-          "ZJ4k",
-          "NB蓝光"
-        ]
-      }
-    },
-    {
-      "key": "DongPian",
-      "name": "🍂┃懂片┃秒播",
-      "type": 3,
-      "api": "csp_DongPian",
-      "searchable": 1,
-      "filterable": 0
-    },
-    {
-      "key": "DyXia",
-      "name": "🍂┃影侠┃影视",
-      "type": 3,
-      "api": "csp_DyXia",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"blockedFroms\":[\"4K\"]}"
-    },
-    {
-      "key": "JinPai",
-      "name": "🍂┃金牌┃秒播",
-      "type": 3,
-      "api": "csp_JinPai",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Dubk",
-      "name": "🍂┃杜北┃秒播",
-      "type": 3,
-      "api": "csp_Dubk",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "橘子",
-      "name": "🍂┃橘子┃影视",
-      "type": 3,
-      "api": "csp_AppDramaV5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "commonKey": "ed5fdsgucxumegqa",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.asjdhjhd.mgd.p3",
-        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
-        "version": "3.0.7.0",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "AppV7_Dsx",
-      "name": "🍂┃师兄┃影视",
-      "type": 3,
-      "api": "csp_DaShiXiong",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "Gulu",
-      "name": "🍂┃咕噜┃影视",
-      "type": 3,
-      "api": "csp_Gulu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "feifan",
-      "name": "🍀┃非凡┃资源",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1
-    },
-    {
-      "key": "KuKuMusic",
-      "name": "🎵┃库库┃音乐",
-      "type": 3,
-      "api": "csp_KuKuMusic",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "oval",
-        "ratio": 1
-      }
-    },
-    {
-      "key": "AppTd",
-      "name": "💃┃糖豆┃舞蹈",
-      "type": 3,
-      "api": "csp_AppTd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "戏 曲",
-      "name": "🎈┃国粹┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Blixq.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🏮┃相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Blixs.json"
-    },
-    {
-      "key": "演唱会",
-      "name": "🎸┃演唱会┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/演唱会.json"
-    },
-    {
-      "key": "MTV",
-      "name": "🎧┃明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/MTV.json"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "🅱┃️哔哩┃大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Bili.json"
-    },
-    {
-      "key": "csp_Bili短剧",
-      "name": "🅱️┃哔哩┃短剧",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json"
-    },
-    {
-      "key": "影视解说",
-      "name": "🎬┃影视┃解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/影视解说.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "资源加载更新....",
-      "type": 3,
-      "filterable": 0,
-      "changeable": 0,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    }
-  ],
-  "parses": [
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "-咸鱼-",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
-        }
-      }
-    },
-    {
-      "name": "-虾米-",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "-咸鱼-",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "ext": {
-          "header": {
-            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-            "referer": "https://jx.xyflv.cc/"
-          }
-        }
-      }
-    },
-    {
-      "name": "-淘片-",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "-冰豆-",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "-77解析-",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "-zui-",
-      "type": 0,
-      "url": "https://jx.zui.cm/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "-盘古-",
-      "type": 0,
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "-夜幕-",
-      "type": 0,
-      "url": "https://yemu.xyz/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    }
-  ],
-  "rules": [
-    {
-      "host": "www.iesdouyin.com",
-      "rule": [
-        "playwm/?video_id="
-      ]
-    },
-    {
-      "host": "www.ysgc.vip",
-      "rule": [
-        "getm3u8?url=http"
-      ]
-    },
-    {
-      "host": "v.douyin.com",
-      "rule": [
-        "playwm/?video_id="
-      ]
-    },
-    {
-      "host": "dyxs20.com",
-      "rule": [
-        ".m3u8"
-      ]
-    },
-    {
-      "host": "www.agemys.cc",
-      "rule": [
-        "cdn-tos",
-        "obj/tos-cn"
-      ]
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "http.*?/play.{0,3}\\?[^url]{2,8}=.*",
-        "qianpailive.com",
-        "vid="
-      ]
-    },
-    {
-      "name": "暴风",
-      "hosts": [
-        "bfzy",
-        "bfbfvip",
-        "bfengbf"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        ".cdnlz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?08646.*?\\.ts",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?6\\.667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?48234.*?\\.ts",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?7\\.067,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "17.19",
-        "19.63"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "super.ffzy",
-        "cachem3u8.2s0"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-        "17.99",
-        "14.45"
-      ]
-    },
-    {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
-    },
-    {
-      "name": "快看",
-      "hosts": [
-        "kuaikan"
-      ],
-      "regex": [
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "leshiyun",
-      "hosts": [
-        "leshiyuncdn"
-      ],
-      "regex": [
-        "15.92"
-      ]
-    },
-    {
-      "name": "看影网",
-      "hosts": [
-        "fentvoss"
-      ],
-      "regex": [
-        "38.68",
-        "38.12",
-        "38.80",
-        "30.08",
-        "44.00",
-        "36.80",
-        "40.68",
-        "29.08",
-        "29.28",
-        "24.88"
-      ]
-    },
-    {
-      "name": "1080zyk",
-      "hosts": [
-        "high24-playback",
-        "high20-playback",
-        "yzzy.play",
-        "yzzy-dy"
-      ],
-      "regex": [
-        "16.63",
-        "17.66"
-      ]
-    },
-    {
-      "name": "ikun",
-      "hosts": [
-        "bfikuncdn"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts",
-        "#EXTINF.*?\\s+.*?p5XQill8.*?\\.ts"
-      ]
-    },
-    {
-      "name": "黑木耳hmr",
-      "hosts": [
-        "hmrvideo"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "ryplay",
-      "hosts": [
-        "cdn.ryplay"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8\\.333333,[\\s\\S].*?\\.ts",
-        "#EXTINF:2\\.933333,[\\s\\S].*?\\.ts"
-      ]
-    },
-    {
-      "name": "555DM",
-      "hosts": [
-        "cqxfjz"
-      ],
-      "regex": [
-        "10.56"
-      ]
-    },
-    {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
-      ]
-    },
-    {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "社 區",
-        "x u u",
-        "最 新",
-        "更 新",
-        "社 区",
-        "有趣",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
-    },
-    {
-      "name": "通用-广告片段过滤",
-      "hosts": [
-        "*"
-      ],
-      "regex": [
-        "#EXTINF:\\s*([0-4]\\.\\d+|5\\.0),.*?(ad|promo|preroll|midroll|postroll)",
-        "#EXT-X-DISCONTINUITY[^#]*#EXTINF[^#]*adjump",
-        ".*popads\\.net.*",
-        ".*doubleclick\\.net.*"
-      ]
-    },
-    {
-      "name": "通用-广告域名拦截",
-      "hosts": [
-        "*"
-      ],
-      "regex": [
-        ".*googlesyndication\\.com.*",
-        ".*propellerads\\.com.*",
-        ".*adnxs\\.com.*",
-        ".*ae01\\.alicdn\\.com.*"
-      ]
-    }
-  ]
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>影视仓 & OK影视 - 官方配置分发</title>
+    <!-- HarmonyOS Sans SC 字体（本地） -->
+    <link rel="stylesheet" href="static/fonts/HarmonyOS_Sans_SC/index-core.css?v=3">
+    <!-- 字体异步加载：首屏只需 Regular/Medium（index-core.css），Semibold/Bold 延后加载 -->
+    <link rel="preload" as="style" href="static/fonts/HarmonyOS_Sans_SC/index-extra.css?v=3" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="static/fonts/HarmonyOS_Sans_SC/index-extra.css?v=3"></noscript>
+    <!-- HarmonyOS Symbol 图标字体（本地 HMSymbol.ttf） -->
+    <link rel="stylesheet" href="static/css/hmsymbol-icons.css">
+    <link rel="stylesheet" href="static/css/harmony.css">
+  <link rel="stylesheet" href="static/css/theme-dark.css">
+<style>
+.lp-summary {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 40px;
 }
+.lp-summary-item {
+  background: rgba(255,255,255,.04);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--hmo-border);
+  border-radius: var(--hmo-radius-lg);
+  padding: 24px 20px;
+  text-align: center;
+  transition: all .25s;
+}
+.lp-summary-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--hmo-shadow-md);
+}
+.lp-summary-icon {
+  font-size: 1.6rem;
+  color: var(--hmo-primary);
+  margin-bottom: 8px;
+}
+.lp-summary-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--hmo-text);
+  line-height: 1.2;
+}
+.lp-summary-label {
+  font-size: .82rem;
+  color: var(--hmo-text-secondary);
+  margin-top: 4px;
+}
+@media (max-width: 768px) {
+  .lp-summary { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 480px) {
+  .lp-summary { grid-template-columns: 1fr; }
+}
+.lp-faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.lp-faq-item {
+  background: rgba(255,255,255,.04);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--hmo-border);
+  border-radius: var(--hmo-radius);
+  padding: 16px 20px;
+  transition: all .2s;
+  cursor: pointer;
+}
+.lp-faq-item:hover {
+  box-shadow: var(--hmo-shadow-sm);
+  border-color: var(--hmo-primary-light);
+}
+.lp-faq-q {
+  font-weight: 600;
+  font-size: .92rem;
+  color: var(--hmo-text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.lp-faq-q .hms {
+  color: var(--hmo-primary);
+  font-size: 14px;
+}
+.lp-faq-a {
+  font-size: .85rem;
+  color: var(--hmo-text-secondary);
+  margin-top: 8px;
+  line-height: 1.6;
+  display: none;
+}
+.lp-faq-item.open .lp-faq-a {
+  display: block;
+}
+</style>
+</head>
+<body>
+<main class="main-content main-content--landing">
+<!-- ====== Top Navigation Bar ====== -->
+<nav class="lp-topnav">
+  <div class="lp-topnav-inner">
+    <a href="index.html" class="lp-topnav-brand">
+      <img src="img/icon-ysc.svg" alt="影视仓" class="brand-logo"><img src="img/icon-ok.svg" alt="OK影视" class="brand-logo">
+      <span>影视仓&amp;OK影视</span>
+    </a>
+    <button type="button" class="lp-topnav-toggle" id="lpNavToggle" aria-label="切换菜单">
+      <i class="hms hms-menu"></i>
+    </button>
+    <div class="lp-topnav-links" id="lpNavLinks">
+      <a href="index.html" class="active"><i class="hms hms-house"></i> 主页</a>
+      <a href="download.html"><i class="hms hms-download"></i> 下载</a>
+      <a href="tutorial.html"><i class="hms hms-book_closed_checkmark"></i> 教程</a>
+      <a href="faq.html"><i class="hms hms-questionmark_circle"></i> FAQ</a>
+      <span class="lp-topnav-spacer"></span>
+    </div>
+  </div>
+</nav>
+<!-- ====== Main content container ====== -->
+<div class="lp-page">
+  <!-- ====== Hero Section ====== -->
+  <section class="lp-hero">
+    <div class="lp-hero-bg">
+      <div class="lp-hero-circle lp-hero-circle-1"></div>
+      <div class="lp-hero-circle lp-hero-circle-2"></div>
+      <div class="lp-hero-circle lp-hero-circle-3"></div>
+    </div>
+    <div class="lp-hero-inner">
+      <span class="lp-hero-tag"><i class="hms hms-TV_tv_fill"></i> 影视仓 &amp; OK影视 配置分发</span>
+      <h1>影视仓 &amp; OK影视 配置分发</h1>
+      <p class="lp-hero-sub">纯净、安全、持续更新的配置服务，一键填入 APP 即可畅享海量影视资源。无需复杂操作，即开即用。</p>
+      <div class="lp-hero-config">
+        <span class="lp-hero-config-label"><i class="hms hms-link"></i> 配置地址（复制后在 APP 中填入）</span>
+        <div class="cfg-list">
+          <div class="lp-hero-config-box">
+            <span class="cfg-badge">1</span>
+            <code id="configUrlDisplay">http:
+            <button type="button" class="lp-hero-config-copy" onclick="copyConfigUrl(this)">
+              <i class="hms hms-doc_text"></i> 复制
+            </button>
+          </div>
+          <div class="lp-hero-config-box">
+            <span class="cfg-badge">2</span>
+            <code>http:
+            <button type="button" class="lp-hero-config-copy" onclick="copyConfigUrl(this)">
+              <i class="hms hms-doc_text"></i> 复制
+            </button>
+          </div>
+          <div class="lp-hero-config-box">
+            <span class="cfg-badge">3</span>
+            <code>http:
+            <button type="button" class="lp-hero-config-copy" onclick="copyConfigUrl(this)">
+              <i class="hms hms-doc_text"></i> 复制
+            </button>
+          </div>
+          <div class="lp-hero-config-box">
+            <span class="cfg-badge">防封</span>
+            <code>https:
+            <button type="button" class="lp-hero-config-copy" onclick="copyConfigUrl(this)">
+              <i class="hms hms-doc_text"></i> 复制
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="lp-hero-actions">
+        <a href="tutorial.html" class="lp-btn lp-btn-outline"><i class="hms hms-book_closed"></i> 查看教程</a>
+        <a href="download.html" class="lp-btn lp-btn-outline"><i class="hms hms-download"></i> 下载 APP</a>
+      </div>
+    </div>
+  </section>
+  <!-- ====== Features Section ====== -->
+  <section class="lp-section">
+    <div class="lp-section-header">
+      <h2>为什么选择我们</h2>
+      <p>稳定可靠 · 持续更新 · 简单易用</p>
+    </div>
+    <div class="lp-features-grid">
+      <div class="lp-feature-card">
+        <div class="lp-feature-icon" style="background:var(--hmo-primary-bg);color:var(--hmo-primary);">
+          <i class="hms hms-arrow_2_circlepath"></i>
+        </div>
+        <h3>持续自动更新</h3>
+        <p>配置每日自动同步上游，确保资源地址始终有效，无需手动维护。</p>
+      </div>
+      <div class="lp-feature-card">
+        <div class="lp-feature-icon" style="background:var(--hmo-success-bg);color:var(--hmo-success);">
+          <i class="hms hms-shield_checkered"></i>
+        </div>
+        <h3>安全可靠</h3>
+        <p>多重安全防护机制，IP 风险检测与自动封禁，保障服务稳定运行。</p>
+      </div>
+      <div class="lp-feature-card">
+        <div class="lp-feature-icon" style="background:var(--hmo-warning-bg);color:#B87600;">
+          <i class="hms hms-link"></i>
+        </div>
+        <h3>一键配置</h3>
+        <p>复制配置地址，打开影视仓 APP 填入即可，无需任何复杂设置。</p>
+      </div>
+      <div class="lp-feature-card">
+        <div class="lp-feature-icon" style="background:#F0F0FF;color:#6C5CE7;">
+          <i class="hms hms-book_closed"></i>
+        </div>
+        <h3>教程支持</h3>
+        <p>提供详细图文教程，从安装到配置分步引导，新手也能快速上手。</p>
+      </div>
+    </div>
+  </section>
+  <!-- ====== How It Works ====== -->
+  <section class="lp-section lp-section-alt">
+    <div class="lp-section-header">
+      <h2>三步开始使用</h2>
+      <p>简单三步，畅享海量影视资源</p>
+    </div>
+    <div class="lp-steps">
+      <div class="lp-step">
+        <div class="lp-step-number">1</div>
+        <div class="lp-step-icon"><i class="hms hms-download"></i></div>
+        <h3>下载影视仓 APP</h3>
+        <p>在官网下载页获取最新版影视仓 APP，安装到您的设备上。</p>
+      </div>
+      <div class="lp-step-connector"></div>
+      <div class="lp-step">
+        <div class="lp-step-number">2</div>
+        <div class="lp-step-icon"><i class="hms hms-doc_text"></i></div>
+        <h3>复制配置地址</h3>
+        <p>点击上方复制按钮，将配置地址保存到剪贴板中。</p>
+      </div>
+      <div class="lp-step-connector"></div>
+      <div class="lp-step">
+        <div class="lp-step-number">3</div>
+        <div class="lp-step-icon"><i class="hms hms-TV_tv_fill"></i></div>
+        <h3>填入 APP 畅享</h3>
+        <p>打开影视仓 APP，在设置中粘贴配置地址，即可开始使用。</p>
+      </div>
+    </div>
+  </section>
+  <!-- ====== Editable content (if any) ====== -->
+  <!-- ====== FAQ Preview ====== -->
+  <section class="lp-section">
+    <div class="lp-section-header">
+      <h2>常见问题</h2>
+      <p>快速了解影视仓配置服务</p>
+    </div>
+    <div class="lp-faq-list">
+      <div class="lp-faq-item" onclick="this.classList.toggle('open')">
+        <div class="lp-faq-q"><i class="hms hms-questionmark_circle"></i> 什么是配置地址？</div>
+        <div class="lp-faq-a">配置地址是影视仓 APP 获取影视资源列表的入口链接。填入配置地址后，APP 会自动加载我们维护的影视资源，无需手动添加任何源。</div>
+      </div>
+      <div class="lp-faq-item" onclick="this.classList.toggle('open')">
+        <div class="lp-faq-q"><i class="hms hms-questionmark_circle"></i> 配置地址会失效吗？</div>
+        <div class="lp-faq-a">我们会持续维护并自动更新配置，确保资源地址长期有效。如果遇到问题，请重新复制配置地址并在 APP 中更新。</div>
+      </div>
+      <div class="lp-faq-item" onclick="this.classList.toggle('open')">
+        <div class="lp-faq-q"><i class="hms hms-questionmark_circle"></i> 需要付费使用吗？</div>
+        <div class="lp-faq-a">基础配置服务完全免费。如需更多高级功能或专属配置，可以通过注册用户中心获取验证码解锁更多服务。</div>
+      </div>
+      <div class="lp-faq-item" onclick="this.classList.toggle('open')">
+        <div class="lp-faq-q"><i class="hms hms-questionmark_circle"></i> 如何获取帮助？</div>
+        <div class="lp-faq-a">访问我们的<a href="tutorial.html" style="color:var(--hmo-primary);">教程页面</a>查看详细图文指导，或在<a href="faq.html" style="color:var(--hmo-primary);">FAQ 页面</a>查看更多常见问题解答。</div>
+      </div>
+    </div>
+  </section>
+  <!-- ====== CTA Section ====== -->
+  <section class="lp-cta">
+    <div class="lp-cta-bg"></div>
+    <div class="lp-cta-inner">
+      <h2>立即开始使用</h2>
+      <p>复制配置地址，打开影视仓 APP，一步到位畅享精彩影视内容。</p>
+      <div class="lp-hero-actions" style="justify-content:center;">
+        <button type="button" class="lp-btn lp-btn-primary" onclick="copyConfigUrl(this)">
+          <i class="hms hms-doc_text"></i> 复制配置地址
+        </button>
+        <a href="tutorial.html" class="lp-btn lp-btn-outline"><i class="hms hms-book_closed"></i> 查看教程</a>
+      </div>
+    </div>
+  </section>
+</div><!-- /.lp-page -->
+    </main>
+    <footer class="app-footer app-footer--landing">
+        <small>影视仓 &amp; OK影视@2026 <a href="admin.html" class="footer-admin">管理入口</a></small>
+    </footer>
+    <!-- Custom dialog replacements (native confirm/alert crash Trae preview) -->
+    <dialog id="_confirmDialog">
+        <article style="min-width:320px;max-width:420px;">
+            <header><strong id="_confirmTitle">确认</strong></header>
+            <p id="_confirmText" style="margin:var(--hmo-space-sm) 0;"></p>
+            <footer style="margin-top:var(--hmo-space-md);display:flex;justify-content:flex-end;gap:var(--hmo-space-sm);">
+                <button id="_confirmCancel" class="outline">取消</button>
+                <button id="_confirmOk" class="contrast">确定</button>
+            </footer>
+        </article>
+    </dialog>
+    <dialog id="_alertDialog">
+        <article style="min-width:320px;max-width:420px;">
+            <header><strong>提示</strong></header>
+            <p id="_alertText" style="margin:var(--hmo-space-sm) 0;"></p>
+            <footer style="margin-top:var(--hmo-space-md);display:flex;justify-content:flex-end;">
+                <button id="_alertOk" class="contrast">确定</button>
+            </footer>
+        </article>
+    </dialog>
+    <!-- Admin Notification Dialog -->
+    <dialog id="adminNotifyDialog">
+        <article style="min-width:380px;max-width:520px;width:90vw;">
+            <header>
+                <strong><i class="hms hms-info_circle_fill"></i> 通知</strong>
+            </header>
+            <div style="margin:var(--hmo-space-sm) 0;">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:var(--hmo-space-sm);">
+                    <span style="font-size:13px;color:var(--hmo-text-tertiary);">点击通知可标记为已读</span>
+                    <a href="#" id="readAllBtn" style="color:var(--hmo-primary,#409eff);font-size:13px;">全部标为已读</a>
+                </div>
+                <ul id="notifyList" class="notify-list" style="list-style:none;padding:0;margin:0;max-height:420px;overflow-y:auto;">
+                    <li style="padding:var(--hmo-space-sm);text-align:center;color:var(--hmo-text-tertiary);">加载中…</li>
+                </ul>
+            </div>
+            <footer style="margin-top:var(--hmo-space-md);display:flex;justify-content:flex-end;">
+                <button id="notifyDialogClose" class="outline" onclick="document.getElementById('adminNotifyDialog').close()">关闭</button>
+            </footer>
+        </article>
+    </dialog>
+    <script>
+(function(){
+  var t=document.getElementById('sidebarToggle');
+  var s=document.querySelector('.sidebar');
+  var o=document.getElementById('sidebarOverlay');
+  if(!t||!s)return;
+  function c(){s.classList.remove('open');if(o)o.classList.remove('open');}
+  t.addEventListener('click',function(){s.classList.toggle('open');if(o)o.classList.toggle('open');});
+  if(o)o.addEventListener('click',c);
+  s.querySelectorAll('.sidebar-nav a').forEach(function(a){a.addEventListener('click',c);});
+})();
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var logoutLink = document.querySelector('.lp-topnav-logout');
+  if (logoutLink) {
+    logoutLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      fetch('/api/v1/user/logout', { method: 'POST' })
+        .catch(function() {})
+        .finally(function() { window.location.href = '/'; });
+    });
+  }
+  var toggle = document.getElementById('lpNavToggle');
+  var links = document.getElementById('lpNavLinks');
+  if (toggle && links) {
+    toggle.addEventListener('click', function() {
+      links.classList.toggle('open');
+    });
+  }
+});
+function copyConfigUrl(btn) {
+  var code = null;
+  if (btn && btn.closest) { var box = btn.closest('.lp-hero-config-box'); if (box) code = box.querySelector('code'); }
+  if (!code) code = document.getElementById('configUrlDisplay');
+  if (!code) return;
+  var text = code.textContent;
+  var ok = false;
+  try { ok = fallbackCopy(text); } catch(e) {}
+  if (!ok && navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).catch(function() { fallbackCopy(text); });
+  }
+  showCopied(btn);
+}
+function fallbackCopy(text) {
+  var ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed'; ta.style.opacity = '0';
+  document.body.appendChild(ta);
+  ta.select();
+  var ok = false;
+  try { ok = document.execCommand('copy'); } catch(e) {}
+  document.body.removeChild(ta);
+  return ok;
+}
+function showCopied(btn) {
+  var btns = btn ? [btn] : document.querySelectorAll('.lp-hero-config-copy, .lp-btn-primary[onclick*="copyConfigUrl"]');
+  btns.forEach(function(btn) {
+    if (btn.classList.contains('lp-hero-config-copy')) {
+      btn.innerHTML = '<i class="hms hms-checkmark"></i> 已复制';
+      btn.style.background = 'rgba(0,181,120,.25)';
+      setTimeout(function() {
+        btn.innerHTML = '<i class="hms hms-doc_text"></i> 复制';
+        btn.style.background = '';
+      }, 2000);
+    } else {
+      var orig = btn.innerHTML;
+      btn.innerHTML = '<i class="hms hms-checkmark"></i> 已复制';
+      setTimeout(function() { btn.innerHTML = orig; }, 2000);
+    }
+  });
+}
+</script>
+</body>
+</html>
