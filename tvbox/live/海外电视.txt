@@ -1,39 +1,25 @@
 更新时间,#genre#
-20261120 12:14:41,https://gitee.com/kabigo/tv/raw/master/assets/Vip.mp4
+20261121 12:14:47,https://gitee.com/kabigo/tv/raw/master/assets/Vip.mp4
 关于本源,https://gitlab.com/p2v5/wangtv/-/raw/main/Vip.mp4
 
 
 💓待整理,#genre#
+新西兰HGTV,https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 RT Balkan,https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 波斯|中文电视台,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 印度|WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 乌克兰|24小时新闻,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Vibee音乐频道,http://de1se01.v2beat.live/chunks.m3u8
-法国Djing E-Music HD,http://www.djing.com/tv/04.m3u8
 德国音乐MVzx,http://de1se01.v2beat.live/playlist.m3u8
-意大利telePAVIA,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 意大利Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-意大利教育电视频道UniNettuno University TV,http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 NewsMax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 泰国|PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 泰国|新闻,http://news1.live14.com/stream/news1_hi.m3u8
-WildEarth,https://stream1.freetv.fun/national-geographic-8.m3u8
-HITS,https://stream1.freetv.fun/hits-9.m3u8
-Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-MTV,https://stream1.freetv.fun/mtv-6.m3u8
-AMC Thrillers,https://stream1.freetv.fun/amc-thriller-1.m3u8
-CINEMAX THRILLERMAX,https://stream1.freetv.fun/cinemax-thrillermax-1.ctv
-fish tv,https://stream1.freetv.fun/fish-tv-2.m3u8
 越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-RUTV,http://92.50.128.180/utv/1358/index.m3u8
-ShansonTV(Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 Stingray Classica (1080p),https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
 Stingray DJAZZ (1080p),https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
@@ -41,20 +27,8 @@ Stingray Naturescape (1080p),https://lotus.stingray.com/manifest/naturescape-a00
 Movie Music by Stingray (1080p),https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
 Global Fashion Channel (1080p),https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
-MTV 80s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
-MTV 90s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
-MTV 00s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
-MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
-MTV Classic,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
-MTV Hits,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
-Club MTV,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
-MTV Music,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
-MTV India,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
 N1 SRB,https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-N1 SRB (2),https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 N1 BiH,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-N1 HR,https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-Nova RS,https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 Kurir TV,https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 TV Hram,https://vod1.laki.eu/live/hram/index.m3u8
 Canal Once MX(墨西哥),https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
