@@ -1103,7 +1103,7 @@
     },
     {
       "key": "官采",
-      "name": "☀官原🔹采集",
+      "name": "🎫官采┃[采集]",
       "type": 1,
       "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
       "searchable": 1,

@@ -77,7 +77,7 @@ shandian|🍀閃電资源|type: 1|api: https://sdzyapi.com/api.php/provide/vod
 piaoling|🍀飘零资源|type: 1|api: https://p2100.net/api.php/provide/vod
 hongniu3|🍀红牛资源3|type: 1|api: https://www.hongniuzy3.com/api.php/provide/vod
 suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/vod
-说明|⚠️说明|type: 1|api: https://cdn.akaere.online/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
+说明|⚠️说明|type: 1|api: https://gh.198962.xyz/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
 wsycj|采集|type: 1|api: https://api.wsyzy.net/api.php/provide/vod
 cj_旺旺采集|🧞旺旺|短剧|type: 1|api: https://api.wwzy.tv/api.php/provide/vod/
 虎牙|🌼虎牙┃采集🌼|type: 1|api: https://www.huyaapi.com/api.php/provide/vod/from/hym3u8
@@ -114,7 +114,6 @@ yilingba2|1080JSON|type: 1|api: https://api.1080zyku.com/inc/apijson.php
 艾旦|艾旦 | 采集|type: 1|api: https://www.lovedan.net/api.php/provide/vod/
 四个圈|四圈 | 采集|type: 1|api: https://pg.fenwe078.cf/api.php/provide/vod/
 茅台|茅台 | 采集|type: 1|api: https://mtzy.me/api.php/provide/vod/
-官采|☀官原🔹采集|type: 1|api: https://cj.jusj.top/api.php/provide/vod/?ac=list
 360资源|360资源-采集|type: 1|api: https://360zy.com/api.php/seaxml/vod/
 豆瓣采集资源|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
 猫咪资源|猫咪影院|type: 1|api: http://zy.xmm.hk/api.php/provide/vod/?ac=list
@@ -125,6 +124,7 @@ yilingba2|1080JSON|type: 1|api: https://api.1080zyku.com/inc/apijson.php
 haiwaikan|🌊 海外看┃此接口须有魔法上网|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 旺旺短剧|旺旺短剧|type: 1|api: https://zhangqun1818.serv00.net/ww.php
 CNTV低分辨|CNTV低分辨|type: 1|api: https://zhangqun1818.serv00.net/cctv.php
+官采|🎫官采┃[采集]|type: 1|api: https://cj.jusj.top/api.php/provide/vod/?ac=list
 快帆|快帆|type: 1|api: https://api.kuaifan.tv/api.php/provide/vod
 新浪影视|酷喵🐱新浪|type: 0|api: https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml
 快龙资源|酷喵🐱快龙|type: 0|api: https://lz.118318.xyz/api.php/provide/vod/at/xml

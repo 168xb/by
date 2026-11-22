@@ -1165,7 +1165,7 @@
       "source": "采集"
     },
     {
-      "name": "线路③",
+      "name": "线路3",
       "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
       "source": "星微Vip"
