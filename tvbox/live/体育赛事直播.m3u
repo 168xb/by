@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="📺体育赛事直播",📺体育赛事直播
+#EXTM3U
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
+#EXTINF:-1 tvg-name="乌克超 敖德萨黑海人 vs 杜纳伊夫齐" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="足球",乌克超 敖德萨黑海人 vs 杜纳伊夫齐
+http://47.100.99.38:28989/football/8414112
+#EXTINF:-1 tvg-name="乌克超 LNZ切尔卡瑟 vs 普莱西亚" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="足球",乌克超 LNZ切尔卡瑟 vs 普莱西亚
+http://47.100.99.38:28989/football/8414118
+#EXTINF:-1 tvg-name="非洲篮联 爱国者队 vs 穆纳尔太阳" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/df0b24272af4c92408e85d810a852df0.png" group-title="篮球",非洲篮联 爱国者队 vs 穆纳尔太阳
+http://47.100.99.38:28989/basketball/8554506
+#EXTINF:-1 tvg-name="WCBA 山东赤水河酒女篮 vs 四川远达美乐女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e81a1f1ea712803cd465de7a3cca09f6.png" group-title="篮球",WCBA 山东赤水河酒女篮 vs 四川远达美乐女篮
+http://47.100.99.38:28989/basketball/8545956
+#EXTINF:-1 tvg-name="WCBA 上海浦发银行女篮 vs 江苏南钢女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e81a1f1ea712803cd465de7a3cca09f6.png" group-title="篮球",WCBA 上海浦发银行女篮 vs 江苏南钢女篮
+http://47.100.99.38:28989/basketball/8545957
+#EXTINF:-1 tvg-name="罗女篮 克卢日大学女篮 vs 亚历山德列女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/1d8831738b97033ac309de86f8a384d4.png" group-title="篮球",罗女篮 克卢日大学女篮 vs 亚历山德列女篮
+http://47.100.99.38:28989/basketball/8507200
+#EXTINF:-1 tvg-name="WCBA 新疆天山女篮 vs 石家庄英励女篮" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/e81a1f1ea712803cd465de7a3cca09f6.png" group-title="篮球",WCBA 新疆天山女篮 vs 石家庄英励女篮
+http://47.100.99.38:28989/basketball/8545955
+#EXTINF:-1 tvg-name="NODWIN关键时刻 Phantom vs Betclic Apogee" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FklUcAc7xa-qm0sMbw6z_n1QdTrs" group-title="电竞",NODWIN关键时刻 Phantom vs Betclic Apogee
+http://47.100.99.38:28989/esport/28415
+#EXTINF:-1 tvg-name="欧洲职业联赛 Synapse vs InterActive" tvg-logo="https://esports-cdn.namitiyu.com/dota/tournament/Fvaw7gQVHoKO8ZYuau0LVCpWuqSW" group-title="电竞",欧洲职业联赛 Synapse vs InterActive
+http://47.100.99.38:28989/esport/27942
+#EXTINF:-1 tvg-name="老乡杯 老表加油赣 vs 辣椒炒肉拌面" tvg-logo="https://esports-cdn.namitiyu.com/kog/tournament/FoqKM2buXude9WicgZePrETLXZZC" group-title="电竞",老乡杯 老表加油赣 vs 辣椒炒肉拌面
+http://47.100.99.38:28989/esport/28389
