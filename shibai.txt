@@ -1,6 +1,6 @@
-TVBox 抓取失败接口报告  20261124_212159
+TVBox 抓取失败接口报告  20261125_201521
 ==============================================================
-失败接口数: 17 / 总数: 102
+失败接口数: 18 / 总数: 102
 ==============================================================
 
 [1] X4更新专用接口
@@ -75,17 +75,22 @@ TVBox 抓取失败接口报告  20261124_212159
     尝试过的源 (1 个):
       - https://wp.kayyw.com/f/9lvgIR/kanlema.txt
 
-[15] 澜露
+[15] 聚合
+    状态: FAILED
+    尝试过的源 (1 个):
+      - http://tvjuhe.mitetech.cn:5622
+
+[16] 澜露
     状态: FAILED
     尝试过的源 (1 个):
       - https://gitee.com/hulanlu/04/raw/master/lanlu.json
 
-[16] 蜀山
+[17] 蜀山
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/tianjitop/xiaosa/main/sun.json
 
-[17] 兔小贝
+[18] 兔小贝
     状态: FAILED
     尝试过的源 (1 个):
       - https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b1.json
