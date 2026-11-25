@@ -8,10 +8,11 @@ BRTV纪实科教,http://tsl.9kds.com:7088/rtp/239.253.93.190:6358
 BTV+纪实,http://111.225.95.13:8800/hls/70/index.m3u8
 BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 CCTV世界地理,http://106.116.241.206:9999/rtp/239.254.201.226:7254
+CCTV世界地理,http://106.59.2.209:55555/rtp/239.200.200.130:8012
 CCTV世界地理,http://106.59.2.53:55555/rtp/239.200.200.130:8012
-CCTV世界地理,http://110.178.145.130:8188/udp/239.1.1.99:8099
+CCTV世界地理,http://110.178.145.65:8188/udp/239.1.1.99:8099
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-CCTV世界地理,http://116.2.174.65:4010/rtp/232.0.0.63:1234
+CCTV世界地理,http://116.2.175.158:4010/rtp/232.0.0.63:1234
 CCTV世界地理,http://117.12.151.30:4022/rtp/225.1.2.171:5002
 CCTV世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
 CCTV世界地理,http://180.213.170.24:8188/rtp/239.5.1.124:5000
@@ -26,6 +27,7 @@ CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
 CCTV世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+CCTV世界地理,http://rihou.cc:555/tv/CCTV世界地理
 CCTV世界地理,http://tsl.9kds.com:7088/rtp/239.253.92.131:6113
 CCTV世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CCTV世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
@@ -46,51 +48,51 @@ Discovery,http://mytv.cdn.com.mp/live/d/stream.m3u8
 Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 Discovery,http://t.061899.xyz/tl/js/js.php?id=discovery
-Discovery,https://tv123.cc.cd/live.php?ch=2044&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=e1b14083642629f8c155f304210a00f92c918a3b5dc21bcb25562d62957331ca
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+Discovery,https://tv123.cc.cd/live.php?ch=1990&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=0b4bc7f24eb75f3f3a5aeac16b9d17cb424a195c407b5a307a3246fc15f55f54
 DISCOVERY_FAMILY_CHANNEL,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
-Discovery Asia,https://tv123.cc.cd/live.php?ch=1652&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=4b274060d864de17bd5aaebfc823d2aa4a87b83edde3178b884ef3004e62c8d6
-Discovery Asia,https://tv123.cc.cd/live.php?ch=2636&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=712479cf2f370dcc63e68e1a153d0ab2e7a8ff7a85a9742668d4c3d9d264658e
+Discovery Asia,https://tv123.cc.cd/live.php?ch=1598&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=f6249d3814ca5b16a798c5ccf2e00dc0f1c998e3d97491f68903d53f127fac6a
+Discovery Asia,https://tv123.cc.cd/live.php?ch=2582&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=5e8362e24abf699b8e725ad26fa78940d1a5cafe6e0df711e26e43251ce4e307
 Discovery Asia,https://tv543.cc/Smart.php?id=discoverytwn_twn
 Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.222:30120
 Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.223:30120
 DISCOVERY CHANEL,http://31.43.191.125:8080/restream/restream/34586
 Discovery Channel,http://42.117.12.25:1111/udp/225.1.1.238:30120
-Discovery Channel,https://tv123.cc.cd/live.php?ch=1478&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=fb5b5a60bc62d2bcd5de0b9db6837357470b0b237d1d98e639a8f8f92cd53dee
-Discovery Family Channel,https://tv123.cc.cd/live.php?ch=2140&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=558d9812d7fcd327ba0f9b77f78bb65b26d0eb6f653a45e3a7ccc991cdbf801b
+Discovery Channel,https://tv123.cc.cd/live.php?ch=1424&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=f452f0ebd5791c1e28fb09dee96f46864356a7a09950bd066ab07084d9c3dcfa
+Discovery Family Channel,https://tv123.cc.cd/live.php?ch=2086&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=fedc99b99105642f9bb0b21a8c9e99aa63a36a5f92c2e5a359b3c14f085783b9
 Discovery HD,https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
-Discovery Life,https://tv123.cc.cd/live.php?ch=1740&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=25af439eec524fa30aed53550acb25efcd9756a32c1c95b22cce45ef04b42fd4
+Discovery Life,https://tv123.cc.cd/live.php?ch=1686&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=46cfb3ea7b047b1fbfb46947bc1902741c5196623d2e8a981a7792635a67e5c3
 DISCOVERY SCIENCE,http://31.43.191.125:8080/restream/restream/34587
 Discovery Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
-Discovery Turbo,https://tv123.cc.cd/live.php?ch=1735&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=988bc4ae337920cb44777da7666b5f21c2a7de0f93ec7c62afadeb8c58f74b54
-Discovery Turbo TV,https://tv123.cc.cd/live.php?ch=2073&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=5169fba063420570e531aefd0eadefaac7184e0f2c914875d9a713584e3c69c0
+Discovery Turbo,https://tv123.cc.cd/live.php?ch=1681&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=cb393e2b1231672c41de011c090080ca293560bd8473180361427006f6697957
+Discovery Turbo TV,https://tv123.cc.cd/live.php?ch=2019&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=309245ec46a9e304c67b905a46b4944ab0b9fa3aae7a054f7ba0b9833a3ba42c
 Discovery World Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
-Discovery World Tamil,https://tv123.cc.cd/live.php?ch=2815&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=7597e10b88215fba7523d59e2a2e98a1491aa1e20be714ab4e951cbace8820b4
+Discovery World Tamil,https://tv123.cc.cd/live.php?ch=2761&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=44dfc770baa9aa99c8b81b7dce5bfcd23f68cb2f6feadffa302902e61a1f2d75
 Discovery 探索,http://66.187.76.101:9321/live/discovery.m3u8?h=49493e442cc0b4db11e17546eb8ab47e&e=1796111788
-Documentary+,https://tv123.cc.cd/live.php?ch=2021&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=112483fe731e2dc01aa0a6fedbd5bbfebc0be12f55dfec31e54b2365fca7de46
+Documentary+,https://tv123.cc.cd/live.php?ch=1967&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=d3471a46a9bb86e639fcbdc05043e3e36363d036a305df3f0d7ee9206eebe317
 Focus探索新知台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii82
-fun探索娛樂台,https://tv123.cc.cd/live.php?ch=824&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=4c0d3f45229979a3a732dc611dfd0640391be3b4f2bbbc7821364e84fa1bd059
+fun探索娛樂台,https://tv123.cc.cd/live.php?ch=770&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=e1a358a9d7d58842d1b53f768219cf811610b490399689649efc19d4fe687897
 GRTN纪录片,http://nn.7x9d.cn/91tv1.php?e=gdjl&line=0
 GRTN纪录片,http://nn.7x9d.cn/91tv1.php?e=gdjl&line=1
 GRTN纪录片,http://nn.7x9d.cn/91tv1.php?e=gdjl&line=2
 GRTN纪录片,https://tplaylive.grtn.cn/live/jilupian.m3u8
 INVESTIGATION_DISCOVERY,https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-Investigation Discovery,https://tv123.cc.cd/live.php?ch=1750&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=235e0d30f4ac4b1f9e8f9af48e649bde63d269143890c45dacfa3be8f85fea17
+Investigation Discovery,https://tv123.cc.cd/live.php?ch=1696&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=881bd6e8495164cf330ed54510676dbdc571a13edbe54546a20a0651c298a2c7
 IPTV地理,http://111.193.227.77:23234/rtp/239.3.1.71:4120
 IPTV地理,http://111.196.135.80:20000/rtp/239.3.1.71:4120
 IPTV地理,http://113.251.74.107:8012/rtp/235.254.198.78:1588
-IPTV地理,http://114.254.33.182:8888/rtp/239.3.1.71:4120
-IPTV地理,http://114.254.36.150:8888/rtp/239.3.1.71:4120
+IPTV地理,http://114.254.35.120:8888/rtp/239.3.1.71:4120
 IPTV地理,http://114.254.86.171:4022/rtp/239.3.1.71:4120
 IPTV地理,http://115.171.216.85:4000/rtp/225.1.8.231:4120
 IPTV地理,http://115.171.216.96:4000/rtp/225.1.8.231:4120
-IPTV地理,http://116.2.174.65:4010/rtp/232.0.0.197:1234
+IPTV地理,http://116.2.175.158:4010/rtp/232.0.0.197:1234
 IPTV地理,http://123.117.173.7:8118/rtp/239.3.1.71:4120
-IPTV地理,http://123.118.48.78:8686/rtp/239.3.1.71:4120
+IPTV地理,http://123.118.62.214:8686/rtp/239.3.1.71:4120
 IPTV地理,http://211.158.64.39:8888/udp/225.0.4.149:7980
 IPTV地理,http://219.156.87.232:4022/rtp/225.1.4.183:1232
 IPTV地理,http://220.176.218.17:9000/rtp/239.252.220.207:5140
-IPTV地理,http://221.220.133.69:8012/rtp/239.3.1.71:4120
+IPTV地理,http://221.220.133.111:8012/rtp/239.3.1.71:4120
 IPTV地理,http://222.86.13.51:9999/rtp/235.254.198.78:1588
 IPTV地理,http://223.198.241.63:4000/rtp/239.253.64.219:5140
 JDYP009.KK.纪实司机啪嫩模,https://t33.cdn2020.com/video/m3u8/2022/06/17/e31152e6/index.m3u8
@@ -105,13 +107,13 @@ NewTV精品纪录[1920*1080],http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/
 RT DOCUMENTARY,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 丁俊晖赛事专场+丁俊晖2022世锦赛全纪录+主任近...,http://111.62.156.15/tx.flv.huya.com/src/1447756352-1447756352-6218066184416264192-2895636160-10057-A-0-1.flv?wsSecret=9b8aed56aefb1abfb8ab2cddc8a3940f&wsTime=6283a887&u=0&seqid=16527091274093530&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500，，，&t=102
-上海乐游纪实,http://1.192.243.163:8188/rtp/239.16.20.111:11110
-上海乐游纪实,http://110.178.145.130:8188/udp/239.1.1.84:8084
+上海乐游纪实,http://110.178.145.65:8188/udp/239.1.1.84:8084
 上海乐游纪实,http://115.211.1.213:8001/udp/233.50.201.185:5140
-上海乐游纪实,http://124.165.232.26:8082/rtp/226.0.2.77:8528
-上海乐游纪实,http://124.165.232.26:8084/rtp/226.0.2.77:8528
+上海乐游纪实,http://124.165.232.26:8083/rtp/226.0.2.77:8528
+上海乐游纪实,http://124.165.232.26:8085/rtp/226.0.2.77:8528
 上海乐游纪实,http://171.119.204.225:6000/rtp/226.0.2.77:8528
 上海乐游纪实,http://171.119.204.232:6000/rtp/226.0.2.77:8528
+上海乐游纪实,http://171.8.138.124:8800/rtp/239.16.20.111:11110
 上海乐游纪实,http://183.164.236.213:8888/rtp/238.1.78.151:7080
 上海新纪实,http://110.42.52.180:6688/live/live.php?token=D4Ny3ZeP&id=shxjs&zy.m3u8@0@1@@token@user_agent@上海新纪实
 上海新纪实,http://110.42.52.180:6688/live/live.php?token=yyabU8vdlG67&id=shxjs&zy.m3u8@0@1@@token@user_agent@上海新纪实
@@ -131,17 +133,18 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
 上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
 上海纪实-HD,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-上海纪实人文,http://1.192.243.163:8188/rtp/239.16.20.124:11240
 上海纪实人文,http://106.45.2.15:4000/rtp/239.121.4.164:8968
-上海纪实人文,http://124.165.232.26:8082/rtp/226.0.2.193:9456
-上海纪实人文,http://124.165.232.26:8084/rtp/226.0.2.193:9456
+上海纪实人文,http://124.165.232.26:8083/rtp/226.0.2.193:9456
+上海纪实人文,http://124.165.232.26:8085/rtp/226.0.2.193:9456
 上海纪实人文,http://144.255.31.42:6688/udp/239.21.1.171:5002
 上海纪实人文,http://171.119.204.225:6000/rtp/226.0.2.193:9456
 上海纪实人文,http://171.119.204.232:6000/rtp/226.0.2.193:9456
-上海纪实人文,http://171.213.155.255:8188/udp/239.93.1.137:5140
+上海纪实人文,http://171.213.147.174:8188/udp/239.93.1.137:5140
+上海纪实人文,http://171.213.150.50:8188/udp/239.93.1.137:5140
 上海纪实人文,http://171.213.222.40:4022/udp/239.93.1.137:5140
 上海纪实人文,http://171.213.236.209:8188/udp/239.93.1.137:5140
 上海纪实人文,http://171.213.236.81:8188/udp/239.93.1.137:5140
+上海纪实人文,http://171.8.138.124:8800/rtp/239.16.20.124:11240
 上海纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
 上海纪实人文,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 上海纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
@@ -189,25 +192,25 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 东方纪实|飞扬直播,http://m.061899.xyz/mg/xjs
 中国味道 第4季-美食纪录片,https://goodiptv.club/yy/1382736845
 中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
+中国味道 第4季-美食纪录片,https://mursor.ottiptv.cc/yy/1382736845
 中國旅遊大探索,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii247
 中國美食大探索,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii246
 主播大飞纪实 - 斯里兰卡纪实日行一善,https://baheyi.pages.dev/douyu/11799200
 主播大飞纪实-斯里兰卡纪实日行一善,https://douyu.445569.xyz/live/11799200
 之江纪录,http://103.236.69.25:2380/zj.chinamobile.com/PLTV/88888888/224/3221228989/1/index.m3u8?fmt=ts2hls
 之江纪录,http://120.55.49.231:3095/rtp/233.50.202.25:5140
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•3•IPV4『线路2』
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•3•IPV4『线路3』
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$浙江广电
 之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•3•IPV4『线路1』
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•3•IPV4『线路2』
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$浙江官方
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•3•IPV4『线路3』
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•3•IPV4『线路1』
 之江纪录,https://ysp.lml1971.ccwu.cc/zj_zhijiangjilu/playlist.m3u8
 之江纪录|枫斗直播,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 乐游纪实,http://223.167.230.155:4022/rtp/239.45.3.135:5140
-五月天诺亚方舟 :中国大陆/2013/剧情 纪录片 音乐/114分钟 主演-陈信宏、刘冠佑、言承旭、林依晨、林晖闵 导演-塞夫  "快手放映季,https://alimov2.a.kwimgs.com/upic/2020/09/09/15/BMjAyMDA5MDkxNTQxNThfNDAzMDAxOTlfMzU3NDgzNTY4MTNfMF8z_b_B9dc3894e214810afd5f58c843569baa1.mp4
 全纪实,http://139.196.151.191:2051/rtp/239.45.3.135:5140
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 全纪实,http://61.173.157.114:5000/udp/239.45.3.135:5140$上海电信
@@ -217,6 +220,7 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 全纪实|枫斗直播,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 冬奥纪实,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
 冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+冷绯Anni-7.2来啦 开图探索搞起,https://douyu.445569.xyz/live/11609502
 北京地理,http://tnvcn.com:8012/rtp/239.3.1.71:4120$北京联通
 北京科教纪实,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227543/1.m3u8?HlsProfileId=
 北京科教纪实,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227569/1.m3u8?HlsProfileId=
@@ -238,34 +242,34 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 北京纪实,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjjs
 北京纪实,rtsp://118.212.169.134/PLTV/88888888/224/3221227367/499934339.smil$江西联通
 北京纪实8K,http://101.35.240.114:88/brtv8k.php
+北京纪实8K,http://120.76.248.139/live/bfgd/4200000113.m3u8
 北京纪实8K,http://qqdwtypm.f3322.org:64022/rtp/239.3.1.115:8000
 北京纪实|枫斗直播,http://47.108.20.161:8866/beijing/beijing.php?id=bjjs
 北京纪实|枫斗直播,http://m.061899.xyz/mg/bjjs
 北京纪实科教,http://103.236.69.25:2380/hunanchinamobile/180000001002/32024021915401878655075619734783/main.m3u8?channel-id=ystenlive&Contentid=1915401878655075619734783&livemode=1&stbId=4
 北京纪实科教,http://106.116.241.206:9999/rtp/239.254.200.188:6311
+北京纪实科教,http://106.59.2.209:55555/rtp/239.200.200.147:8728
 北京纪实科教,http://106.59.2.53:55555/rtp/239.200.200.147:8728
 北京纪实科教,http://107.150.60.122/live/btv3.m3u8
 北京纪实科教,http://111.193.227.77:23234/rtp/239.3.1.115:8000
 北京纪实科教,http://111.196.135.80:20000/rtp/239.3.1.115:8000
 北京纪实科教,http://111.29.9.33:6610/000000001000/1000000001000028380/index.m3u8?channel-id=bestzb&Contentid=1000000001000028380&livemode=1&stbId=3
 北京纪实科教,http://112.109.206.161:9999/rtp/239.255.40.205:8208
-北京纪实科教,http://112.192.72.162:8484/rtp/239.0.0.77:5140
-北京纪实科教,http://112.192.73.43:8484/rtp/239.0.0.77:5140
+北京纪实科教,http://112.192.72.118:8484/rtp/239.0.0.77:5140
+北京纪实科教,http://112.192.73.146:8484/rtp/239.0.0.77:5140
 北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
-北京纪实科教,http://114.254.33.182:8888/rtp/239.3.1.115:8000
-北京纪实科教,http://114.254.36.150:8888/rtp/239.3.1.115:8000
+北京纪实科教,http://114.254.35.120:8888/rtp/239.3.1.115:8000
 北京纪实科教,http://114.254.86.171:4022/rtp/239.3.1.115:8000
 北京纪实科教,http://115.171.216.85:4000/udp/225.1.8.105:8002
 北京纪实科教,http://115.171.216.96:4000/udp/225.1.8.105:8002
-北京纪实科教,http://116.2.174.65:4010/rtp/232.0.0.162:1234
+北京纪实科教,http://116.2.175.158:4010/rtp/232.0.0.162:1234
 北京纪实科教,http://118.248.156.76:8889/udp/239.76.254.65:9000
 北京纪实科教,http://118.251.19.58:8188/udp/239.76.254.65:9000
-北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
-北京纪实科教,http://121.199.48.54/live1/jsbv1.m3u8?id=btv3&usign=9DCUtW1IIziSdH56ijVsZQ
-北京纪实科教,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv3&usign=9DCUtW1IIziSdH56ijVsZQ
+北京纪实科教,http://121.199.48.54/live1/jsbv1.m3u8?id=btv3&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+北京纪实科教,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv3&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 北京纪实科教,http://123.112.208.143:4022/rtp/239.3.1.115:8000
 北京纪实科教,http://123.117.173.7:8118/rtp/239.3.1.115:8000
-北京纪实科教,http://123.118.48.78:8686/rtp/239.3.1.115:8000
+北京纪实科教,http://123.118.62.214:8686/rtp/239.3.1.115:8000
 北京纪实科教,http://123.179.60.99:4022/rtp/239.29.0.110:5000
 北京纪实科教,http://182.135.66.163:1888/rtp/239.94.2.215:5140
 北京纪实科教,http://182.135.66.163:18888/rtp/239.94.2.215:5140
@@ -273,14 +277,14 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 北京纪实科教,http://198.204.228.26/live/btv3.m3u8
 北京纪实科教,http://202.107.163.231:5555/udp/238.125.5.70:5140
 北京纪实科教,http://218.86.185.240:8188/rtp/238.255.2.107:5999
-北京纪实科教,http://221.220.133.69:8012/rtp/239.3.1.115:8000
+北京纪实科教,http://221.220.133.111:8012/rtp/239.3.1.115:8000
 北京纪实科教,http://223.106.228.24/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
 北京纪实科教,http://223.167.230.155:4022/rtp/239.45.1.14:5140
 北京纪实科教,http://36.49.50.4:8800/rtp/239.37.0.101:5540
-北京纪实科教,http://38.75.136.137:82/live2/btv.m3u8?id=btv3&usign=9DCUtW1IIziSdH56ijVsZQ
+北京纪实科教,http://38.75.136.137:82/live2/btv.m3u8?id=btv3&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 北京纪实科教,http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
-北京纪实科教,http://58.46.30.109:8188/udp/239.76.254.65:9000
+北京纪实科教,http://58.46.28.184:8188/udp/239.76.254.65:9000
 北京纪实科教,http://60.4.28.14:8077/rtp/239.253.93.190:6358
 北京纪实科教,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv3
 北京纪实科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
@@ -310,9 +314,8 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-史诗级纪录,https://isus.cc/php/huya.php?id=26355851
+史诗级纪录,http://103.236.77.86:35455/huya/26355851
 史诗级纪录,https://yahu.445569.xyz/live/26355851
-喵喵Miura-深渊探索任务活动~~,https://douyu.445569.xyz/live/2537605
 国家地理,http://122.224.58.42:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 国家地理,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 国家地理,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34877
@@ -325,10 +328,10 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 大自然纪录片,https://douyu.445569.xyz/live/4837387
 大自然纪录片,https://www.goodiptv.club/douyu/4837387
+天昊《探索中国》,https://hw-origin.pull.yximgs.com/gifshow/Ky7XcLc2rwE_ma1500-AuditAvcOriginL3.flv?hwTime=6b0826e6&hwSecret=85681d55308cdc09423788d31f86c56f&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=Ky7XcLc2rwE&ss=s23&tfc_buyer=1
 宇宁《千里江山（大型纪录片《紫禁城》主题歌HD,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
 宇宙探索飞船,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=HFqV8H&tk=IaRTZBNZkJti
 宇宙探索飞船,http://live.nctv.top/douyu1.php?id=9456028
-宇宙探索飞船,https://douyuu.pages.dev/douyu/9456028
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 宇宙探索飞船,https://mursor.ottiptv.cc/douyu/9456028
 峰爆优酷独家纪录片,https://hd.ijycnd.com/play/PdRyp0bG/index.m3u8
@@ -338,24 +341,26 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 探索世界科普,https://mursor.ottiptv.cc/huya/20985813
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 探索发现,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-探索纪录,http://121.199.48.54/live1/jsbv1.m3u8?id=hstsjl&usign=9DCUtW1IIziSdH56ijVsZQ
-探索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=hstsjl&usign=9DCUtW1IIziSdH56ijVsZQ
+探索纪录,http://121.199.48.54/live1/jsbv1.m3u8?id=hstsjl&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+探索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=hstsjl&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 探索频道,http://122.224.58.42:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 探索频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-探索频道,https://tv123.cc.cd/live.php?ch=2788&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=4e1d2f4b7bed6d7d7a42c1dd1ecca9c9f867dbadc26c8258a55bf29d8a008e01
+探索频道,https://tv123.cc.cd/live.php?ch=2734&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=0c9389950ccf5fd7d634590902b3cf29400b60e9145b6504a845d8a05d35a7a0
 文旅纪录,http://106.111.244.12:58099/rtp/239.49.0.38:8000
-新纪实,http://38.75.136.137:82/live2/shkk.m3u8?id=xjspd&usign=9DCUtW1IIziSdH56ijVsZQ
+文旅纪录,http://222.92.158.109:9889/rtp/239.49.0.38:8000
+新纪实,http://38.75.136.137:82/live2/shkk.m3u8?id=xjspd&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 新纪实|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%BA%AA%E5%AE%9E&auth=666858
 最后的狮子-探险纪录片,http://8.155.43.98:35455/yy/1382735577
 杭州导视纪录|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E5%AF%BC%E8%A7%86%E7%BA%AA%E5%BD%95&auth=666858
+果冻传媒GDCM-051大V密探之探索女生们的性爱秘事,https://t21.cdn2020.com/video/m3u8/2023/04/09/d4881826/index.m3u8
 正经纪录片,https://goodiptv.club/huya/23860049
 正经纪录片,https://mursor.ottiptv.cc/huya/23860049
 求索地理,http://137.175.111.185/bfgd/?id=286
 求索地理,http://cfss.cc/ds/bfgd.php?id=286&Cf.m3u8
 求索纪录,http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-求索纪录,http://121.199.48.54/live1/jsbv1.m3u8?id=qsjl&usign=9DCUtW1IIziSdH56ijVsZQ
-求索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=qsjl&usign=9DCUtW1IIziSdH56ijVsZQ
+求索纪录,http://121.199.48.54/live1/jsbv1.m3u8?id=qsjl&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+求索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=qsjl&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 求索纪录,http://202.107.163.231:5555/udp/238.125.5.108:5140
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/main.m3u8$江西移动V6
 求索纪录,http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052$江西移动V6
@@ -364,34 +369,36 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 求索纪录HD,http://39.134.13.34:6610/000000001000/2000000004000000010/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000010
 求索纪录HD,http://39.134.13.34:6610/000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
 求索纪录HD|飞扬直播,http://yp.qqqtv.top/1/api.php?id=%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95HD&auth=666858
-泰莽环游纪实、928户外-户外应该怎么播？,https://douyu.445569.xyz/live/12841229
 浙江之江纪录,http://115.211.1.213:8001/udp/233.50.202.25:5140
-浙江之江纪录,http://121.199.48.54/live1/zjtv.m3u8?id=zjsmsd&usign=9DCUtW1IIziSdH56ijVsZQ
-浙江之江纪录,http://121.199.48.54/live1/zjtv1.m3u8?id=zjsmsd&usign=9DCUtW1IIziSdH56ijVsZQ
-浙江之江纪录,http://121.199.48.54/live1/zjtv2.m3u8?id=zjsmsd&usign=9DCUtW1IIziSdH56ijVsZQ
+浙江之江纪录,http://121.199.48.54/live1/zjtv.m3u8?id=zjsmsd&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+浙江之江纪录,http://121.199.48.54/live1/zjtv1.m3u8?id=zjsmsd&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+浙江之江纪录,http://121.199.48.54/live1/zjtv2.m3u8?id=zjsmsd&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江之江纪录[1920*1080],https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
 浙江之江纪录|枫斗直播,http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E4%B9%8B%E6%B1%9F%E7%BA%AA%E5%BD%95&auth=666858
 湖南.金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316
 湖南金鹰纪实,http://1.192.243.163:8188/rtp/239.16.20.153:11530
 湖南金鹰纪实,http://106.45.2.15:4000/rtp/239.121.4.167:8986
-湖南金鹰纪实,http://110.178.145.130:8188/udp/239.1.1.63:8063
+湖南金鹰纪实,http://110.178.145.65:8188/udp/239.1.1.63:8063
 湖南金鹰纪实,http://111.193.227.77:23234/rtp/239.3.1.58:8156
 湖南金鹰纪实,http://111.196.135.80:20000/rtp/239.3.1.58:8156
-湖南金鹰纪实,http://114.254.33.182:8888/rtp/239.3.1.58:8156
-湖南金鹰纪实,http://114.254.36.150:8888/rtp/239.3.1.58:8156
+湖南金鹰纪实,http://114.254.35.120:8888/rtp/239.3.1.58:8156
 湖南金鹰纪实,http://114.254.86.171:4022/rtp/239.3.1.58:8156
+湖南金鹰纪实,http://115.29.208.41:29995/180000001001/00000001000000000016000000007228/1.m3u8
+湖南金鹰纪实,http://115.29.208.41:29995/180000001002/00000001000000000016000000007228/1.m3u8
 湖南金鹰纪实,http://123.117.173.7:8118/rtp/239.3.1.58:8156
-湖南金鹰纪实,http://123.118.48.78:8686/rtp/239.3.1.58:8156
-湖南金鹰纪实,http://123.118.53.50:8686/rtp/239.3.1.58:8156
-湖南金鹰纪实,http://124.165.232.26:8082/rtp/226.0.2.194:9464
-湖南金鹰纪实,http://124.165.232.26:8084/rtp/226.0.2.194:9464
+湖南金鹰纪实,http://123.118.62.214:8686/rtp/239.3.1.58:8156
+湖南金鹰纪实,http://124.165.232.26:8083/rtp/226.0.2.194:9464
+湖南金鹰纪实,http://124.165.232.26:8085/rtp/226.0.2.194:9464
 湖南金鹰纪实,http://144.255.31.42:6688/udp/239.21.1.170:5002
 湖南金鹰纪实,http://171.119.204.225:6000/rtp/226.0.2.194:9464
 湖南金鹰纪实,http://171.119.204.232:6000/rtp/226.0.2.194:9464
-湖南金鹰纪实,http://221.220.133.69:8012/rtp/239.3.1.58:8156
+湖南金鹰纪实,http://171.8.138.124:8800/rtp/239.16.20.153:11530
+湖南金鹰纪实,http://183.164.236.213:8888/rtp/238.1.79.9:4184
+湖南金鹰纪实,http://221.220.133.111:8012/rtp/239.3.1.58:8156
+湖南金鹰纪实,http://39.77.158.179:4002/rtp/239.253.254.103:8000
+湖南金鹰纪实,http://39.77.94.101:4002/rtp/239.253.254.103:8000
 湖南金鹰纪实,http://59.174.161.2:4022/rtp/239.69.1.109:10292
-湖南金鹰纪实,http://60.4.28.14:8077/rtp/239.253.92.103:6054
 湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 湖南金鹰纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6268&tk=23a9aca1f79f
 湖南金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
@@ -479,22 +486,26 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 老广的味道 第3季-美食纪录片,http://8.155.43.98:35455/yy/1382735565
 老广的味道 第3季-美食纪录片,https://goodiptv.club/yy/1382735565
 老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
+老广的味道 第3季-美食纪录片,https://mursor.ottiptv.cc/yy/1382735565
+西南69 - 《西南69》11/25《明日方舟：終末地》1.7新版本體驗！小刻前來報到 探索舊水壩與全新工業玩法 (3717 viewers),https://twitch.445569.xyz/kr1stw.m3u8
+边哥BeenGor-GTA6开启4K60帧DLSS旅游探索向,https://douyu.445569.xyz/live/3952247
 金鹰纪实,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
 金鹰纪实,http://103.236.69.25:2380/gxi.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8?servicetype=1
 金鹰纪实,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls
 金鹰纪实,http://103.236.69.25:2380/scgd/scgd/jyjsHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 金鹰纪实,http://106.116.241.206:9999/rtp/239.254.200.189:6293
+金鹰纪实,http://106.59.2.209:55555/rtp/239.200.201.126:8840
 金鹰纪实,http://106.59.2.53:55555/rtp/239.200.201.126:8840
 金鹰纪实,http://111.225.95.13:8800/hls/100/index.m3u8
 金鹰纪实,http://111.29.9.33:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 金鹰纪实,http://112.109.206.161:9999/rtp/239.255.40.57:8208
-金鹰纪实,http://112.192.72.162:8484/rtp/239.0.0.69:5140
-金鹰纪实,http://112.192.73.43:8484/rtp/239.0.0.69:5140
+金鹰纪实,http://112.192.72.118:8484/rtp/239.0.0.69:5140
+金鹰纪实,http://112.192.73.146:8484/rtp/239.0.0.69:5140
 金鹰纪实,http://113.58.133.109:8188/rtp/239.254.96.154:7156
 金鹰纪实,http://115.171.216.85:4000/rtp/225.1.8.31:8156
 金鹰纪实,http://115.171.216.96:4000/rtp/225.1.8.31:8156
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://116.2.174.65:4010/rtp/232.0.0.163:1234
+金鹰纪实,http://116.2.175.158:4010/rtp/232.0.0.163:1234
 金鹰纪实,http://117.12.151.30:4022/rtp/225.1.1.124:5002
 金鹰纪实,http://117.169.120.98:8080/PLTV/88888888/224/3221225595/10000100000000060000000000158053_0.smil/index.m3u8?fmt=ts2hls$江西易视腾
 金鹰纪实,http://118.248.156.76:8889/udp/239.76.246.110:1234
@@ -505,14 +516,15 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 金鹰纪实,http://120.198.84.146:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://120.238.94.10:9901/tsfile/live/1059_1.m3u8
 金鹰纪实,http://120.87.19.109:80/PLTV/88888973/224/3221225755/10000100000000060000000000334608_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xnexx4YzC7VFwkIC+H59tnAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-金鹰纪实,http://121.19.134.149:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://121.19.134.200:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://121.19.134.222:808/tsfile/live/1037_1.m3u8
-金鹰纪实,http://121.199.48.54/live1/hntv.m3u8?id=hnjyjs&usign=9DCUtW1IIziSdH56ijVsZQ
-金鹰纪实,http://121.199.48.54/live1/jsbv1.m3u8?id=hnjyjs&usign=9DCUtW1IIziSdH56ijVsZQ
-金鹰纪实,http://121.199.48.54/live1/jsbv1.m3u8?id=hnjyjsa&usign=9DCUtW1IIziSdH56ijVsZQ
-金鹰纪实,http://121.199.48.54/live1/jsbv2b.m3u8?id=hnjyjs&usign=9DCUtW1IIziSdH56ijVsZQ
-金鹰纪实,http://121.199.48.54/live1/jsbv2b.m3u8?id=hnjyjsa&usign=9DCUtW1IIziSdH56ijVsZQ
+金鹰纪实,http://121.19.134.48:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://121.19.134.70:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://121.199.48.54/live1/hntv.m3u8?id=hnjyjs&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+金鹰纪实,http://121.199.48.54/live1/jsbv1.m3u8?id=hnjyjs&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+金鹰纪实,http://121.199.48.54/live1/jsbv1.m3u8?id=hnjyjsa&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+金鹰纪实,http://121.199.48.54/live1/jsbv2b.m3u8?id=hnjyjs&usign=CsgDLEqP6B8GKs4q2Ng8pQ
+金鹰纪实,http://121.199.48.54/live1/jsbv2b.m3u8?id=hnjyjsa&usign=CsgDLEqP6B8GKs4q2Ng8pQ
 金鹰纪实,http://122.189.103.197:8888/rtp/228.0.0.145:7145
 金鹰纪实,http://123.112.208.143:4022/rtp/239.3.1.58:8156
 金鹰纪实,http://123.179.60.99:4022/rtp/239.29.0.92:5000
@@ -528,7 +540,6 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 金鹰纪实,http://182.135.66.163:1888/rtp/239.94.2.223:5140
 金鹰纪实,http://182.135.66.163:18888/rtp/239.94.2.223:5140
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
-金鹰纪实,http://183.164.236.213:8888/rtp/238.1.79.9:4184
 金鹰纪实,http://183.30.201.64:10002/rtp/239.77.0.160:5146
 金鹰纪实,http://183.30.201.64:10002/rtp/239.77.1.217:5146
 金鹰纪实,http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8
@@ -545,20 +556,19 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 金鹰纪实,http://36.105.100.208:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 金鹰纪实,http://36.49.50.4:8800/rtp/239.37.0.161:5540
 金鹰纪实,http://39.135.140.104:6610/PLTV/88888888/224/3221225595/1/index.m3u8?fmt=ts2hls$江西移动
-金鹰纪实,http://39.77.158.179:4002/rtp/239.253.254.103:8000
-金鹰纪实,http://39.77.160.233:4002/rtp/239.253.254.103:8000
+金鹰纪实,http://39.77.159.120:4002/rtp/239.253.254.103:8000
 金鹰纪实,http://39.77.24.223:4002/rtp/239.253.254.103:8000
-金鹰纪实,http://39.77.94.101:4002/rtp/239.253.254.103:8000
 金鹰纪实,http://42.92.117.151:8231/udp/239.255.29.39:8231
 金鹰纪实,http://49.234.31.101:7033/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://58.253.171.52:8188/udp/239.0.1.92:5094
-金鹰纪实,http://58.46.30.109:8188/udp/239.76.246.110:1234
-金鹰纪实,http://58.46.30.109:8188/udp/239.76.253.110:9000
+金鹰纪实,http://58.46.28.184:8188/udp/239.76.246.110:1234
+金鹰纪实,http://58.46.28.184:8188/udp/239.76.253.110:9000
 金鹰纪实,http://58.57.40.22:9901/tsfile/live/1070_1.m3u8
 金鹰纪实,http://60.10.139.113:8801/hls/33/index.m3u8
 金鹰纪实,http://60.2.190.206:4000/udp/239.253.92.103:6054
 金鹰纪实,http://60.30.67.44:8834/rtp/225.1.1.124:5002
 金鹰纪实,http://60.30.67.45:8834/rtp/225.1.1.124:5002
+金鹰纪实,http://60.4.28.14:8077/rtp/239.253.92.103:6054
 金鹰纪实,http://60.7.56.33:4000/udp/239.253.92.103:6054
 金鹰纪实,http://61.184.46.85:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
@@ -661,12 +671,13 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 金鹰纪实FHD,http://118.248.156.76:8889/udp/239.76.252.122:9000
 金鹰纪实FHD,http://118.251.19.58:8188/udp/239.76.245.122:1234
 金鹰纪实FHD,http://118.251.19.58:8188/udp/239.76.252.122:9000
-金鹰纪实FHD,http://58.46.30.109:8188/udp/239.76.245.122:1234
-金鹰纪实FHD,http://58.46.30.109:8188/udp/239.76.252.122:9000
+金鹰纪实FHD,http://58.46.28.184:8188/udp/239.76.245.122:1234
+金鹰纪实FHD,http://58.46.28.184:8188/udp/239.76.252.122:9000
 金鹰纪实HD,http://106.111.244.12:58099/rtp/239.49.8.79:8000
 金鹰纪实HD,http://116.233.67.80:8899/rtp/233.18.204.104:5140
 金鹰纪实HD,http://182.135.66.163:1888/rtp/239.94.1.1:5140
 金鹰纪实HD,http://182.135.66.163:18888/rtp/239.94.1.1:5140
+金鹰纪实HD,http://222.92.158.109:9889/rtp/239.49.8.79:8000
 金鹰纪实HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
 金鹰纪实HD,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰纪实|枫斗直播,http://8.138.7.223/tv/mgtv.php?id=316
@@ -674,4 +685,4 @@ RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 金鹰纪实高清,http://171.213.132.228:4000/udp/239.93.0.130:5140
 金鹰纪实高清,http://tv.zhangzp.top:4022/udp/239.125.2.106:4134
 非凡大探索,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii234
-🔴 Discovery Channel FHD UK,https://tv123.cc.cd/live.php?ch=83&sid=55fbafa7150587ca71112b8ccf2c1e8c&exp=1795570762&sig=a67435091ed62a05ea57b1a0a6415793a5349ec4d65c93856de4f620ebb5d1a0
+🔴 Discovery Channel FHD UK,https://tv123.cc.cd/live.php?ch=81&sid=1c5b1b3a155a5119c92ffeb0b5176dd8&exp=1795653186&sig=7745939c2ed65e8fe2fabaaa0dc44e02deec85b8ab4a81ce9a16307370117e83
