@@ -149,9 +149,9 @@
     },
     {
       "key": "Acfun",
-      "name": "Acfun",
+      "name": "A站┃平台",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -160,7 +160,7 @@
       "key": "布布",
       "name": "🐷布布",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
+      "api": "https://meow.668yun.top/api/s/v0Xfu7h1qtUVcXDSvxUvp3gh5BW8E5co/这是布布.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -194,9 +194,9 @@
     },
     {
       "key": "华数",
-      "name": "星星🌟┃华数视频",
+      "name": "华数｜影视",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/华数.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -214,7 +214,7 @@
       "key": "文才影视",
       "name": "🌾文才快看",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
+      "api": "https://meow.668yun.top/api/s/lW1oFDA8h9m2NMRhhV6995rPkqZQzpuu/文才影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -275,7 +275,7 @@
     },
     {
       "key": "界影PY",
-      "name": "👖裤佬丨界影丨PY",
+      "name": "界影",
       "type": 3,
       "api": "https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
       "searchable": 1,
@@ -320,9 +320,9 @@
     },
     {
       "key": "哔哩直播",
-      "name": "📺哔哩┃直播",
+      "name": "哔哩｜直播",
       "type": 3,
-      "api": "https://0.12yue.de5.net/5/lib/哔哩直播.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/哔哩直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -338,18 +338,18 @@
     },
     {
       "key": "皮皮虾",
-      "name": "♨️皮虾｜4K",
+      "name": "♨️皮虾｜皮皮",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+      "api": "https://meow.668yun.top/api/s/WtfG3iyseH54PSWdnTGr5ZdzERawjEDO/皮皮虾.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "酷喵🐱星芽短剧",
+      "name": "🌟丨星芽丨短剧",
       "type": 3,
-      "api": "https://8815.kstore.vip/tvbox/py/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
+      "api": "https://chigua.eu.org/py/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -437,18 +437,18 @@
     },
     {
       "key": "爱听音乐",
-      "name": "📻爱听┃音乐",
+      "name": "爱听｜音乐",
       "type": 3,
-      "api": "https://0.12yue.de5.net/5/lib/爱听音乐.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "网络直播",
-      "name": "📺网络┃直播",
+      "name": "🌇｜网络｜直播",
       "type": 3,
-      "api": "https://0.12yue.de5.net/5/lib/网络直播.py",
+      "api": "https://chigua.eu.org/py/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -491,9 +491,9 @@
     },
     {
       "key": "猎手PY",
-      "name": "七星·猎手影视",
+      "name": "👌猎手丨[1080P]",
       "type": 3,
-      "api": "https://15487.kstore.space/py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
+      "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -509,9 +509,9 @@
     },
     {
       "key": "央视PY",
-      "name": "七星·央视影库",
+      "name": "央视丨栏目",
       "type": 3,
-      "api": "https://15487.kstore.space/py/cctv.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -572,9 +572,9 @@
     },
     {
       "key": "爱看剧",
-      "name": "酷喵🐱爱剧",
+      "name": "爱看丨视频",
       "type": 3,
-      "api": "https://gitee.com/rgzyyuncang/vip/raw/master/js/apiv1281ApptoV5%E6%94%B9.py",
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -592,7 +592,7 @@
       "key": "红果短剧",
       "name": "红果 • 短剧",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/红果短剧.py",
+      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -815,9 +815,9 @@
     },
     {
       "key": "SZ",
-      "name": "📺[4K]山楂影视",
+      "name": "山楂影视",
       "type": 3,
-      "api": "http://xn--oev29b.top/files/py/山楂影视.py",
+      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -878,9 +878,9 @@
     },
     {
       "key": "瓜子影视",
-      "name": "聚合三方🥇瓜子🥇影视",
+      "name": "💥｜瓜子 | 影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
+      "api": "https://chigua.eu.org/py/瓜子影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1310,7 +1310,7 @@
     },
     {
       "key": "网易歌曲下载.py",
-      "name": "🎤闪电┃网易音乐",
+      "name": "星星🌟｜网易音乐",
       "type": 3,
       "api": "https://15487.kstore.space/%E7%BD%91%E6%98%93%E6%AD%8C%E6%9B%B2%E4%B8%8B%E8%BD%BD.py",
       "searchable": 1,
@@ -1319,7 +1319,7 @@
     },
     {
       "key": "枫叶音乐",
-      "name": "🎤闪电┃枫叶",
+      "name": "星星🌟｜枫叶音乐",
       "type": 3,
       "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
       "searchable": 1,
@@ -2491,7 +2491,7 @@
       "key": "世界听书",
       "name": "世界 • 听书",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tianjitop/xiaosa/main/lib/世界听书.py",
+      "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2563,7 +2563,7 @@
       "key": "果果短剧",
       "name": "🍎果果丨短剧爽看",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/tushen6/James/refs/heads/main/py/hgtv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2752,7 +2752,7 @@
       "key": "push_agent",
       "name": "UC盘",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/wwbBcj/%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2.py",
+      "api": "https://meow.668yun.top/api/s/qL9DBFJVAetJWLVTRCl5oLYzuInsydmL/网盘搜索.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
