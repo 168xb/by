@@ -125,6 +125,16 @@
       "filterable": 1
     },
     {
+      "key": "4kcz",
+      "name": "🍂┃厂长┃秒播",
+      "type": 3,
+      "api": "csp_Cz4k",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.4kcz.com,https://www.cz4k.com,https://www.czzy.site"
+    },
+    {
       "key": "AppDramaPingguo",
       "name": "🍂┃苹果┃1080P",
       "type": 3,

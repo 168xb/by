@@ -17,7 +17,7 @@
     {
       "name": "夜空1",
       "type": 0,
-      "url": "https://pan.29o.cn/down.php/aa846bceb7a1b4adb0385b1f61b192e8.txt",
+      "url": "https://pan.vron.cn/down.php/aa846bceb7a1b4adb0385b1f61b192e8.txt",
       "timeout": 10
     },
     {
@@ -122,14 +122,26 @@
       "type": 3,
       "api": "https://fastlink.cokey.xyz/f/wwbBcj/%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2.py",
       "ext": {
-        "mode": "yd"
+        "mode": "uc,quark,fj,lz,yd"
       }
     },
     {
-      "key": "未来赶不上",
-      "name": "赶不上未来",
+      "key": "小鹿",
+      "name": "小鹿",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/efe726ad69c79898714773fc6ab499af.py"
+      "api": "https://mpimg.cn/down.php/2c4900efe3f58cf239fdbbf28f787f59.py"
+    },
+    {
+      "key": "pansoui",
+      "api": "http://so.yinpai.xyz/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+      "name": "盘搜|集合",
+      "type": 4
+    },
+    {
+      "name": "大师兄",
+      "key": "大师兄",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/9f46cd2d278e847a096e1543fb81329b.py"
     },
     {
       "key": "秒看",
@@ -202,7 +214,7 @@
       "key": "腾爱优b站",
       "name": "腾爱优b站",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.js"
+      "api": "https://pan.vron.cn/down.php/35c7a3aab09403c05ff7e008367baa85.js"
     },
     {
       "key": "橘汁",
@@ -214,7 +226,7 @@
       "key": "高清点播",
       "name": "高清点播",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/323eba3848f29250c407a014113c784a.py"
+      "api": "https://pan.vron.cn/down.php/323eba3848f29250c407a014113c784a.py"
     },
     {
       "key": "剧下饭",
@@ -248,7 +260,7 @@
       "key": "云播",
       "name": "云播",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py"
+      "api": "https://pan.vron.cn/down.php/50044f29473ab3d13de5d21fdf224154.py"
     },
     {
       "key": "歪比巴卜",
@@ -329,64 +341,64 @@
       "key": "藤1藤",
       "name": "天神别腾讯",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫1茫",
       "name": "天神别芒果",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "腾讯备",
       "name": "🦐腾讯",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
     },
     {
       "key": "芒果备",
       "name": "🦐芒果",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
     },
     {
       "key": "哔哩",
       "name": "🦐哔哩",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
     },
     {
       "key": "爱奇幕",
       "name": "🦐奇异",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
     },
     {
       "key": "优幕",
       "name": "🦐优酷",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://fastlink.cokey.xyz/f/9Y0jHb/%E4%BC%98%E9%85%B7.js"
     },
     {
       "key": "华数",
       "name": "🦐华数",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
+      "api": "https://pan.vron.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
       "changeable": 1
     },
     {
       "key": "路漫漫",
       "name": "路漫漫",
       "type": 3,
-      "api": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://cdn.akaere.online/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
+      "api": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://github.880824.xyz/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
     },
     {
       "key": "动漫堂",
@@ -570,7 +582,7 @@
       "key": "甜圈短剧",
       "name": "甜圈短剧",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py",
+      "api": "https://pan.vron.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1179,7 +1191,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py",
+      "api": "https://pan.vron.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py",
       "category": "综合",
       "searchable": 1
     },
